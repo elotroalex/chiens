@@ -1,0 +1,62 @@
+# Built with Jekyll 3.2.0
+
+# Setup
+title:               ...... et les chiens se taisaient
+tagline:             "by Aimé Césaire."
+description:         "Edition, translation and exhibit of Aimé Cesaire's \"...Et les chiens se taisaient\" by Alex Gil."
+url:                 'http://cesaire.elotroalex.com'
+baseurl:             '/chiens'
+
+# About/contact
+author:
+  name:              Alex Gil
+  url:               https://twitter.com/elotroalex
+  email:             colibri.alex@gmail.com
+
+# Permalinks
+
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme: 
+
+permalink: pretty
+permalink: /:title/
+exclude: [Gemfile*,Rakefile,vendor,spec,README.md,wax_theme,package.json]
+webrick:
+  headers:
+    'Access-Control-Allow-Origin': '*'
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  fragiles:
+    output: true
+  texts:
+    output: true
+  chiens: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'item' # the layout for the pages to use
+    metadata:
+      source: 'chiens.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/chiens' # path to the directory of images within `_data`
+
+
+# Markdown specs
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Theme
+theme: "ed."
+
+
