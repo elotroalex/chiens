@@ -109,6 +109,8 @@ Other traces suggest working methods. The verso of page 71, for example, is a re
 
 Some traces, alas, remain nothing more than a tease to would-be genetic critics, like the words "*notions de base*" in all caps and underlined, in the back of page 75. 
 
+---
+
 ## stack and shuffle
 
 We are now ready to retreive the last key: pagination. In total, we can count ten different pagination schemes spread throughout the typescript. The pagination schemes are catalogued in [table d]({{site.baseurl}}/fragiles/table-d/). The schemes are differentiated from each other by the writing tool used and their position at the top of the pages, and though they imply an order of composition, this is not always the case. 
