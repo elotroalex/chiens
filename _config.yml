@@ -20,7 +20,7 @@ color-scheme:
 
 permalink: pretty
 permalink: /:title/
-exclude: [.sass-cache,appender.py,ed..gemspec,snippets,Gemfile*,Rakefile.rb,vendor,spec,README.md,wax_theme,package.json]
+exclude: [img,.sass-cache,appender.py,ed..gemspec,snippets,Gemfile*,Rakefile.rb,vendor,spec,README.md,wax_theme,package.json]
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
@@ -76,7 +76,7 @@ scholar:
   source: ./_bibliography
   bibliography: references.bib
   bibliography_template: "{{reference}}"
-  # relative: "/bibliography/"
+  relative: "/chiens/bibliography/"
 
   replace_strings: true
   join_strings:    true

@@ -3,5 +3,5 @@ gemspec
 
 gem 'unicode'
 gem "wax_tasks", "~> 1.0.beta"
-gem 'jekyll-scholar', '~>5.13.0'
+gem 'jekyll-scholar'
 gem "html-proofer"
