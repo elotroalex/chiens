@@ -78,7 +78,7 @@ At times, I have a hard time ignoring Césaire's own condescensions, and I softe
 
 - {:.speaker} The Reciter.
 
-- {:.prose} This country bites: the gaping mouth of a fire throat, fire fangs converging on the rump of America the shitty.
+- {:.prose} This country bites: the gaping mouth of a fire throat, fire fangs converging on the ass of America the shitty.
 
 <!-- - {:.prose} Ce pays mord&nbsp;: bouche ouverte d’une gorge de feu, convergence de crocs de feu sur la croupe de l’Amérique mauvaise. -->
 
@@ -896,10 +896,10 @@ At times, I have a hard time ignoring Césaire's own condescensions, and I softe
 - No, no, I lie. I'm afraid. I'm alone
 - my forests don't have ears, nor my rivers skin
 - unknown caravels roam the night
-- Is it you, Colombus? Slaveship captain? Is it you
+- Is it you, Columbus? Slaveship captain? Is it you
 - old pirate, old corsair?
 - No response. Scree grows the night.
-- Colombus. Colombus.
+- Columbus. Columbus.
 - Answer me, go on, answer me.
 - Beautiful as the shadow lattice of two pythons at noon
 - the archipelago
@@ -910,7 +910,7 @@ At times, I have a hard time ignoring Césaire's own condescensions, and I softe
 - of palms and scolopendra
 - it's me tonight, swearing before the assembled forest
 - in rings of violent cries
-- Colombus. Columbus.
+- Columbus. Columbus.
 
 <!-- - Non, non, je mens, j’ai peur, je suis seul
 - mes forêts sont sans oreille, mes fleuves sans chair
@@ -1234,7 +1234,7 @@ At times, I have a hard time ignoring Césaire's own condescensions, and I softe
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Death to the Whites.
+- {:.indent-2} Kill the Whites.
 
 
 - {:.speaker} Toussaint.
@@ -1248,7 +1248,7 @@ At times, I have a hard time ignoring Césaire's own condescensions, and I softe
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Death to the Whites. Death to the Whites. Death to the Whites.
+- {:.indent-2} Kill the Whites. Kill the Whites. Kill the Whites.
 
 
 - {:.speaker} Toussaint.
@@ -1256,7 +1256,7 @@ At times, I have a hard time ignoring Césaire's own condescensions, and I softe
 - {:.indent-2} ... And in fact, the breathless catacombs of the End and the Beginning
 - Death jumps on them, like a torrent of wild horses, like a
 - flight of mosquitoes...
-- Colombus, Colombus
+- Columbus, Columbus
 - you, so calm
 - when you set your first foot on this island, snapped like a rat-trap,
 - {:.prose} among the new signs, among the gods that your pride did not consent to confess, I know it, I feel it, you did not feel overcome with triumph, but with anguish, with uneasy anxiety, you the impregnable, caught leaking and tied up with the great silent creepers of fear, the great silent creepers of Repentance.
@@ -1272,11 +1272,11 @@ At times, I have a hard time ignoring Césaire's own condescensions, and I softe
 
 - {:.speaker} The Crowd.
 
-- {:.prose .prose-indent} Death to the Whites. Death to the Whites. Long live Toussaint. Long live Toussaint. Death to the Whites...
+- {:.prose .prose-indent} Kill the Whites. Kill the Whites. Long live Toussaint. Long live Toussaint. Kill the Whites...
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Death to the Whites.
+- {:.indent-2} Kill the Whites.
 
 ---
 
@@ -1566,7 +1566,7 @@ At times, I have a hard time ignoring Césaire's own condescensions, and I softe
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Death to the Whites. Death to the Whites.
+- {:.indent-2} Kill the Whites. Kill the Whites.
 
 
 - {:.speaker} Toussaint.
@@ -1986,7 +1986,7 @@ At times, I have a hard time ignoring Césaire's own condescensions, and I softe
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Death to the Whites, Death to the Whites.
+- {:.indent-2} Kill the Whites, Kill the Whites.
 
 
 - {:.speaker} The Speaker *(blowing the severed head.)*
@@ -2016,7 +2016,7 @@ At times, I have a hard time ignoring Césaire's own condescensions, and I softe
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Death to the Whites! Death to the Whites!
+- {:.indent-2} Kill the Whites! Kill the Whites!
 
 *(A collective hysteria. The scent of blood grows. The Speaker dances the bamboula on the dais.)*
 
@@ -2241,7 +2241,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Recitress *(doleful.)*
 
-- {:.prose .prose-indent} 300,000 men, harnesses shattered, rush into the city with piercing howls ... The seaport is covered with Whites reaching for the stranded vessels ... Ah, the boats capsize ...
+- {:.prose .prose-indent} 300,000 men, harnesses shattered, rush into the city with piercing howls ... The seaport swarms with Whites reaching for the stranded vessels ... Oh, the boats capsize ...
 
 <!-- - {:.prose .prose-indent} 300.000 hommes, tribart brisé, se précipitent dans la ville et poussent des hurlements clabauds... Le port est couvert de blancs qui cherchent à gagner les bâtiments en râde... Ah, les chaloupes chavirent... -->
  
@@ -2283,7 +2283,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Chorus.
 
-- {:.indent-2} Death to the Whites. Death to the Whites.
+- {:.indent-2} Kill the Whites. Kill the Whites.
 
 ---
 
@@ -3273,7 +3273,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Aux armes. Aux armes. Death to the Whites.
+- {:.indent-2} Aux armes. Aux armes. Kill the Whites.
 
 
 - {:.speaker} Toussaint.
@@ -3303,7 +3303,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Death to the Whites.
+- {:.indent-2} Kill the Whites.
 
 
 - {:.speaker} Toussaint.
@@ -3400,7 +3400,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Voices.
 
-- {:.indent-2} Death to the Whites. A mort les blancs.
+- {:.indent-2} Kill the Whites. A mort les blancs.
 
 
 - {:.speaker} Voices.

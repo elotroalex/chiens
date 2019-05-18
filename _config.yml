@@ -59,35 +59,6 @@ kramdown:
 # Theme
 theme: "ed."
 
-# Gems
-plugins: ['jekyll/scholar']
-
-# Scholar
-scholar:
-  style: modern-language-association
-  locale: en
-
-  sort_by: author
-  order: ascending
-
-  group_by: none
-  group_order: none
-
-  source: ./_bibliography
-  bibliography: references.bib
-  bibliography_template: "{{reference}}"
-  relative: "/chiens/bibliography/"
-
-  replace_strings: true
-  join_strings:    true
-
-  use_raw_bibtex_entry: false
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
 
 
 
