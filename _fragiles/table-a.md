@@ -12,7 +12,7 @@ This table lists the support materials for the Saint-Dié witness of "...et les 
 
 | Page       | Paper   | Carbon | Residue | Tone   | 
 |------------|---------|--------|---------|--------| 
-| Title      | atemoya | blue   | dirty   | medium | 
+| Title Page | atemoya | blue   | dirty   | medium | 
 | 1          | atemoya | black  | medium  | dark   | 
 | 2          | batata  | blue   | clean   | medium | 
 | 3          | batata  | blue   | clean   | medium | 
@@ -84,39 +84,39 @@ This table lists the support materials for the Saint-Dié witness of "...et les 
 | 70         | durian  | blue   | clean   | medium | 
 | 71         | durian  | blue   | clean   | medium | 
 | 72         | durian  | blue   | clean   | medium | 
-| 73         | atemoya | blue   |         | medium | 
+| 73         | atemoya | blue   | clean+  | medium | 
 | 74         | atemoya | black  | dirty   | medium | 
 | 75         | durian? | black  | dirty   | medium | 
-| 76         | atemoya | orig   |         | light  | 
-| 77         | atemoya | orig   |         | light  | 
+| 76         | atemoya | orig   | clean+  | light  | 
+| 77         | atemoya | orig   | clean+  | light  | 
 | 78         | atemoya | black  | dirty   | medium | 
 | 79         | atemoya | black  | dirty   | medium | 
 | 80         | atemoya | black  | dirty   | medium | 
-| 81         | atemoya | orig   |         | light  | 
-| 82         | atemoya | orig   |         | light  | 
-| 83         | atemoya | orig   |         | light  | 
-| 84         | atemoya | orig   |         | light  | 
+| 81         | atemoya | orig   | clean+  | light  | 
+| 82         | atemoya | orig   | clean+  | light  | 
+| 83         | atemoya | orig   | clean+  | light  | 
+| 84         | atemoya | orig   | clean+  | light  | 
 | 85         | atemoya | black  | dirty   | medium | 
-| 86         | atemoya | orig   |         | dark   | 
-| 87         | atemoya | orig   |         | dark   | 
-| 88         | atemoya | orig   |         | dark   | 
+| 86         | atemoya | orig   | clean+  | dark   | 
+| 87         | atemoya | orig   | clean+  | dark   | 
+| 88         | atemoya | orig   | clean+  | dark   | 
 | 89         | atemoya | blue   | clean   | dark   | 
 | 90         | atemoya | blue   | clean   | dark   | 
 | 91         | atemoya | blue   | clean   | dark   | 
 | 92         | atemoya | blue   | clean   | dark   | 
-| 93         | atemoya | orig   |         | light  | 
-| 94         | atemoya | orig   |         | light  | 
-| 95         | atemoya | orig   |         | light  | 
-| 96         | atemoya | orig   |         | dark   | 
-| 97         | atemoya | orig   |         | dark   | 
-| 98         | atemoya | orig   |         | dark   | 
-| 99         | atemoya | orig   |         | dark   | 
-| 100        | atemoya | orig   |         | dark   | 
-| 101        | atemoya | orig   |         | dark   | 
-| 102        | atemoya | orig   |         | light  | 
-| 103        | atemoya | orig   |         | light  | 
-| 104        | atemoya | orig   |         | light  | 
-| 105        | atemoya | orig   |         | light  | 
-| 106        | atemoya | orig   |         | dark   | 
-| 107        | atemoya | orig   |         | light  | 
+| 93         | atemoya | orig   | clean+  | light  | 
+| 94         | atemoya | orig   | clean+  | light  | 
+| 95         | atemoya | orig   | clean+  | light  | 
+| 96         | atemoya | orig   | clean+  | dark   | 
+| 97         | atemoya | orig   | clean+  | dark   | 
+| 98         | atemoya | orig   | clean+  | dark   | 
+| 99         | atemoya | orig   | clean+  | dark   | 
+| 100        | atemoya | orig   | clean+  | dark   | 
+| 101        | atemoya | orig   | clean+  | dark   | 
+| 102        | atemoya | orig   | clean+  | light  | 
+| 103        | atemoya | orig   | clean+  | light  | 
+| 104        | atemoya | orig   | clean+  | light  | 
+| 105        | atemoya | orig   | clean+  | light  | 
+| 106        | atemoya | orig   | clean+  | dark   | 
+| 107        | atemoya | orig   | clean+  | light  | 
 

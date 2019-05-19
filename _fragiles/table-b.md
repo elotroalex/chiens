@@ -12,7 +12,7 @@ This table lists the traces of handwriting instruments used to revise the Saint-
 
 | Page       | Blue Ink | Dark Ink | Red Ink | Dark Pencil | Light Pencil | Red Pencil | 
 |------------|----------|----------|---------|-------------|--------------|------------| 
-| Title      |          |          |         |             |              |            | 
+| Title Page |          |          |         |             |              |            | 
 | 1          | x        |          |         |             | x            |            | 
 | 2          | x        |          |         |             | x            |            | 
 | 3          |          |          |         | x           |              |            | 

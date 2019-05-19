@@ -5,35 +5,35 @@ author: alex gil
 ---
 
 ## table c: features
-This table lists features that stand out for the Saint-Dié witness of "...et les chiens se taisaient" page by page: text cut short half way through (usually marked with a large in x in the text), maximum usage of the writing surface, and underlined speakers.
+This table lists features that stand out for the Saint-Dié witness of "...... et les chiens se taisaient" page by page: text cut short half way through (usually marked with a large in x in the text), maximum usage of the writing surface, and underlined speakers.
 
 (best viewed on wider screens)
 
 | Page  | Half Pages | Max Use  | Underline   | 
 |-------|------------|----------|-------------| 
 | Title |            |          |             | 
-| 1     | /          |          |             | 
+| 1     | x          |          |             | 
 | 2     |            |          | x           | 
-| 3     | /          |          | x           | 
+| 3     | x          |          | x           | 
 | 4     |            |          | x           | 
 | 5     |            |          | x           | 
 | 6     |            |          | x           | 
 | 7     |            |          | x           | 
 | 8     |            |          | x           | 
-| 9     | /          |          | x           | 
+| 9     | x          |          | x           | 
 | 10    |            |          | x           | 
 | 11    |            |          | x           | 
 | 12    |            |          | x           | 
 | 13    |            |          | x           | 
 | 14    |            |          | x           | 
-| 15    | /          |          | x           | 
+| 15    | x          |          | x           | 
 | 16    |            |          | x           | 
 | 17    |            |          | x           | 
 | 18    |            |          | x           | 
 | 19    |            |          | x           | 
 | 20    |            |          | x           | 
 | 21    |            |          | x           | 
-| 22    | /          |          | x           | 
+| 22    | x          |          | x           | 
 | 23    |            |          |             | 
 | 24    |            |          |             | 
 | 25    |            |          |             | 
@@ -41,7 +41,7 @@ This table lists features that stand out for the Saint-Dié witness of "...et le
 | 27    |            |          |             | 
 | 28    |            |          |             | 
 | 29    |            |          |             | 
-| 30    | /          |          |             | 
+| 30    | x          |          |             | 
 | 31    |            |          |             | 
 | 32    |            |          |             | 
 | 33    |            |          |             | 
@@ -51,7 +51,7 @@ This table lists features that stand out for the Saint-Dié witness of "...et le
 | 37    |            |          |             | 
 | 38    |            |          |             | 
 | 39    |            |          |             | 
-| 40    | /          |          |             | 
+| 40    | x          |          |             | 
 | 41    |            | x        |             | 
 | 42    |            |          |             | 
 | 43    |            | x        |             | 
@@ -67,9 +67,9 @@ This table lists features that stand out for the Saint-Dié witness of "...et le
 | 54    |            |          | x           | 
 | 55    |            |          | x           | 
 | 56    |            |          |             | 
-| 57    | /          |          |             | 
+| 57    | x          |          |             | 
 | 58    |            |          | x           | 
-| 59    | /          |          |             | 
+| 59    | x          |          |             | 
 | 60    |            | x        | x           | 
 | 61    |            | x        | x           | 
 | 62    |            | x        | x           | 
@@ -87,7 +87,7 @@ This table lists features that stand out for the Saint-Dié witness of "...et le
 | 74    |            | x        |             | 
 | 75    |            | x        |             | 
 | 76    |            | x        |             | 
-| 77    | /          |          |             | 
+| 77    | x          |          |             | 
 | 78    |            | x        |             | 
 | 79    |            |          |             | 
 | 80    |            | x        |             | 
@@ -105,7 +105,7 @@ This table lists features that stand out for the Saint-Dié witness of "...et le
 | 92    |            | x        |             | 
 | 93    |            | x        |             | 
 | 94    |            | x        |             | 
-| 95    | /          |          |             | 
+| 95    | x          |          |             | 
 | 96    |            | x        |             | 
 | 97    |            | x        |             | 
 | 98    |            | x        |             | 
@@ -115,6 +115,6 @@ This table lists features that stand out for the Saint-Dié witness of "...et le
 | 102   |            |          |             | 
 | 103   |            | x        |             | 
 | 104   |            | x        |             | 
-| 105   | /          |          |             | 
+| 105   | x          |          |             | 
 | 106   |            |          |             | 
 | 107   |            |          |             | 
