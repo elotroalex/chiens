@@ -1142,6 +1142,12 @@ dd {
     margin-bottom: 0.5rem;
   }
 
+div#figure-p img {
+  opacity: .6;
+}
+
+// PRINT
+
 @media print {
 
   body {
