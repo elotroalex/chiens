@@ -2421,7 +2421,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - Hurrah!
 
-- {:.speaker} The Merchants Provost.
+- {:.speaker} The Provost of the Merchants.
 
 - {:.prose .prose-indent} Eternal recognition to Toussaint Louverture, restorer of order, of finances, of commerce and industry.
 
@@ -2437,53 +2437,72 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 <h2 class="pagetitle"><a href="/chiens/chiens/p043.html" target="_blank">43</a></h2>
 
-- {:.speaker} 
+- {:.speaker} The Grand Master of the University.
+
+- {:.prose} Glory and recognition to Toussaint Louverture, educator of the people! The opposite of a Villaret, happy to close down the schools of our neighbor Martinique, and declare cynically:
+- {:.prose .prose-indent} "Ignorance is a necessary bond for men chained by violence or withered by prejudices." Here, in our free Haiti, thanks to the impetuous genius of Toussaint Louverture, the unholy system that wanted ignorance to be a policy, a police, a dogma, dies on the vine.
 
 
-- {:.speaker} Le grand Maitre de l'Université.
+<!-- - {:.speaker} Le grand Maitre de l'Université. -->
 
-- {:.prose} Gloire et reconnaissance à Toussaint Louverture éducateur du peuple! Libre à un Villaret. Joyeuse de fermer les écoles dans la Martinique voisine et de déclarer cyniquement&nbsp;:
-- {:.prose .prose-indent} «&nbsp;L'ignorance est un lien nécessaire pour des hommes enchainés par la violence ou flétris par les préjugés&nbsp;». Ici, dans notre libre Haïti, agonise, gràce à l'impétueux génie de Toussaint Louverture, le système impie qui voulait que l'ignorance fût une politique, une police, un dogme.
+<!-- - {:.prose} Gloire et reconnaissance à Toussaint Louverture éducateur du peuple! Libre à un Villaret. Joyeuse de fermer les écoles dans la Martinique voisine et de déclarer cyniquement&nbsp;:
+- {:.prose .prose-indent} « L'ignorance est un lien nécessaire pour des hommes enchainés par la violence ou flétris par les préjugés ». Ici, dans notre libre Haïti, agonise, gràce à l'impétueux génie de Toussaint Louverture, le système impie qui voulait que l'ignorance fût une politique, une police, un dogme. -->
 
 
 - {:.speaker} The Crowd.
 
 - Hurrah!
 
+- {:.speaker} The French Representative.
 
-- {:.speaker} Le représentant français.
+- {:.prose .prose-indent} In the name of France, I recognize General Toussaint Louverture with the titles of Governor and  Captain General of the French Colony of Saint-Domingue.
 
-- {:.prose .prose-indent} Au nom de la France, je confirme le général Toussaint Louverture dans ses titres de gouverneur et de capitaine général de la colonie française de Saint-Domingue.
+
+<!-- - {:.speaker} Le représentant français.
+
+- {:.prose .prose-indent} Au nom de la France, je confirme le général Toussaint Louverture dans ses titres de gouverneur et de capitaine général de la colonie française de Saint-Domingue. -->
 
 
 - {:.speaker} The Crowd.
 
-- Vive Toussaint! Vive Toussaint!
+- Long live Toussaint! Long live Toussaint!
 
+- {:.speaker} Delegation of the Clergy: The Cantors.
 
-- {:.speaker} Délégation du clergé&nbsp;: Les chantres.
+<!-- 
+- {:.speaker} Délégation du clergé: Les chantres. -->
 
 - Salvum fac imperatorem.
 
 
-- {:.speaker} L'archevèque.
+- {:.speaker} The Archbishop.
 
-- Dieu nous l'a donné! Dieu nous le conservera. *(Il bénit la foule).*
+- God has given him to us! God will keep him safe for us. *(He blesses the crowd.)*
 
-- {:.speaker} Les chantres  *(braillant.)*
+<!-- - Dieu nous l'a donné! Dieu nous le conservera. *(Il bénit la foule).* -->
+
+- {:.speaker} The Cantors  *(bawling.)*
 
 - Salvum fac gubernatorem.
 
 
 - {:.speaker} Toussaint.
 
-- îles heureuses
+- happy islands
+- Queen's gardens
+- I let myself drift into the night of tornado spices and holy images
+- and the kelp
+- grabs with its small child fingers
+- my future trumpeting
+- of shipwreck!
+
+<!-- - îles heureuses
 - jardins de la reine
 - je me laisse dériver dans la nuit d'épices de tornade et de saintes images
 - et le varech
 - agrippe de ses petits doigts d'enfant
-- mon barissement  futur
-- d'épave!
+- mon barissement futur
+- d'épave! -->
 
 ---
 

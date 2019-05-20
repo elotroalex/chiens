@@ -1763,8 +1763,10 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - {:.speaker} Le grand Maitre de l'Université.
 
-- {:.prose} Gloire et reconnaissance à Toussaint Louverture éducateur du peuple&nbsp;! Libre à un Villaret. Joyeuse de fermer les écoles dans la Martinique voisine et de déclarer cyniquement&nbsp;:
+- {:.prose} Gloire et reconnaissance à Toussaint Louverture éducateur du peuple&nbsp;! Libre à un Villaret.[^ref1] Joyeuse de fermer les écoles dans la Martinique voisine et de déclarer cyniquement&nbsp;:
 - {:.prose .prose-indent} «&nbsp;L'ignorance est un lien nécessaire pour des hommes enchainés par la violence ou flétris par les préjugés&nbsp;». Ici, dans notre libre Haïti, agonise, gràce à l'impétueux génie de Toussaint Louverture, le système impie qui voulait que l'ignorance fût une politique, une police, un dogme.
+
+[^ref1]: The source for this quote is a letter from French admiral Louis Thomas Villaret de Joyeuse, dated 19 brumaire, an II (Nov. 9, 1793), justifying the closing of schools in Martinique. The earliest citation I can find is *L’Abolition de l’esclavage* by Augustin Cochin, 1861. Here is a longer quote from that work: "Une expérience déplorable a prouvé que l'abus des lumières est souvent le principe des révolutions, et que l'ignorance est un lien nécessaire pour les hommes enchaînés par la violence ou flétris par les préjugés. Ce serait donc une imprudence bien dangereuse de tolérer plus longtemps, dans la colonie, des écoles pour les nègres et pour les gens de couleur... Leur intelligence, enorgueillie d'une instruction imparfaite et gros sière, leur représentera sans cesse le régime colonial comme le code de la tyrannie et de l'oppression... Je vous ordonne expres sément de faire fermer toutes (ces) écoles" (Cochin 12). 
 
 
 - {:.speaker} La foule.
