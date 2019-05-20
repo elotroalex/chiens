@@ -92,11 +92,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - tous mes volcans,
 - mes rivières pendent à mon cou comme
 - des serpents et des chaines précieuses.
-
-
-- {:.speaker} 
-
-- {:.prose .prose-indent}   
+  
 
 ---
 
@@ -211,9 +207,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 [ 6 ](/chiens/chiens/p006.html){: target='\_blank'}
 
 
-
-- {:.speaker} 
-
 - J’ai été esclave pendant 50 ans
 - et j’ai coupé des cannes et j’ai ciré des chaussures et
 - le moindre enfant (c’était le petit du maitre)
@@ -292,9 +285,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - le monde sans reconnaissance et sans ingratitude,
 - où la pensée est sans équivoque, une fleur au cœur de papillon.
 - Je veux un monde nu d’univers non timbré.
-
-
-*(Une petite fille du Fouta ronge un os en forme de candélabre.)*
+- Une petite fille du Fouta ronge un os en forme de candélabre.
 
 
 ---
@@ -302,13 +293,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 [ 8 ](/chiens/chiens/p008.html){: target='\_blank'}
 
-
-
-* *
-
-
-
-- {:.speaker} 
 
 - {:.prose .prose-indent} Et je suis jeune, je suis opulent de jeunesse, d’une enfance d’avant les portes et les fenêtres, d’une enfance de libation et d’holocaustes au fil des yeux, au fil des heures. Un lac de sécheresse pend sur ma joue, mais il pleure des yeux aux arbres de Judée baignés de crocus et
 - d’anémones.
@@ -488,7 +472,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 [ 13 ](/chiens/chiens/p013.html){: target='\_blank'}
 
 
-
 - {:.speaker} Toussaint.
 
 - {:.indent-2} Le fleuve sans idiome s’exaspère des manœuvres de la cendre&nbsp;;
@@ -613,7 +596,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 
 
-- {:.speaker} 
 
 - Non, non, je mens, j’ai peur, je suis seul
 - mes forêts sont sans oreille, mes fleuves sans chair
@@ -700,9 +682,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - Au feu.
 - Au feu, Toussaint.
-
-
-* *
 
 
 
@@ -1623,7 +1602,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 - {:.prose .prose-indent} 300.000 hommes, tribart brisé, se précipitent dans la ville et poussent des hurlements clabauds... Le port est couvert de blancs qui cherchent à gagner les bâtiments en râde... Ah, les chaloupes chavirent...
  
 
-**
 
 
 - {:.speaker} Le récitant *(féroce.)*
@@ -1722,9 +1700,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - Île j'aime ce mot frais guetté de Karibs et de requins. J'attends.
 
 
-- {:.speaker} 
 
-- 
 
 ---
 
@@ -1944,7 +1920,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 - mais foutez le camp, espèce de nom de Dieu&nbsp;!
 - est-ce que les bourreaux n'essaient pas leur hache sur le billot ?
 - est-ce que les oiseaux de proie ne violentent pas le cerne de leurs yeux ?
-- 
 
 ---
 
@@ -2042,9 +2017,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 - les choses.
 
 
-- {:.speaker} 
-
-- 
 
 ---
 
@@ -2118,7 +2090,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - {:.indent-2} Quel soufflet pour nous&nbsp;!
 
 
-**
+
 
 
 
@@ -2852,10 +2824,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 - {:.indent-2} Je me souviens du matin des îles.
 - Le matin pétrissait de l'amande et du verre.
 - Les grives riaient dans l'arbre-à-graines.
-- 
-- 
-- 
-
 
 - {:.speaker} Toussaint.
 
@@ -3148,10 +3116,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 - {:.prose} C'est drôle et bien possible nous le connaissons pas. Nous passons notre vie à planter des pierres.
 
 
-- {:.speaker} 
-
-- 
-
 ---
 
 
@@ -3226,7 +3190,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - {:.prose} Tu nous  importunes étranger&nbsp;; nous ne croyons à rien... nous plantons des pierres.
 
 
-**
+
 
 
 ---
@@ -3401,9 +3365,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - Misérable.
 
 
-- {:.speaker} 
 
-- 
 
 ---
 
@@ -3695,9 +3657,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - d'ajouter le vol au crime.
 
 
-- {:.speaker} 
 
-- 
 
 ---
 
@@ -3806,7 +3766,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 
 
-- {:.speaker} 
 
 - toucan
 - vent du désastre
@@ -4101,9 +4060,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - Allons héráut fais ton office.
 
 
-- {:.speaker} 
 
-- 
 
 
 - {:.speaker} Le héraut.
@@ -4189,7 +4146,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - {:.speaker} La récitante.
 
-- 
 
 ---
 
@@ -4773,7 +4729,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - {:.speaker} Le négrophile 
 
-- 
 
 *(Bruit de mousqueterie.)*
 
@@ -4799,7 +4754,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - autrefois
 - les sœurs égales se donneront la&nbsp;main dans les chambres de torture
 - le monde penchera tout doucement pour mourir sa tête biscornue
-- 
+
 - les jours bien rangés comme un orphelinat allant à la messe
 - les jours avec leurs airs d'assassin polis
 - se détrousseront de lait, d'herbes, d'heures

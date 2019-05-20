@@ -7,7 +7,7 @@ author: Alex Gil
 
 ---
 
-The following is adapted from my doctoral thesis, "[Migrant Textuality: On the fields of Aimé Césaire's 'Et les chiens se taisaient'](#)" ("Migrant"). 
+The following is adapted from my doctoral thesis, "[Migrant Textuality: On the fields of Aimé Césaire's 'Et les chiens se taisaient'](https://academiccommons.columbia.edu/doi/10.7916/D8377GXX)" ("Migrant"). 
 
 ---
 

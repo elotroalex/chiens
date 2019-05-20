@@ -7,7 +7,7 @@ author: Alex Gil
 
 ---
 
-The following is adapted from my doctoral thesis, "[Migrant Textuality: On the fields of Aimé Césaire's 'Et les chiens se taisaient'](#)" ("Migrant"). For a thorough account of how I came upon the document see my article, "[Découverte d'un tapuscrit d'*Et les chiens se taisaient*](https://mla.hcommons.org/docs/decouverte-de-lur-texte-de-et-les-chiens-se-taisaient/)." ("Découverte").
+The following is adapted from my doctoral thesis, "[Migrant Textuality: On the fields of Aimé Césaire's 'Et les chiens se taisaient'](https://academiccommons.columbia.edu/doi/10.7916/D8377GXX)" ("Migrant"). For a thorough account of how I came upon the document see my article, "[Découverte d'un tapuscrit d'*Et les chiens se taisaient*](https://mla.hcommons.org/docs/decouverte-de-lur-texte-de-et-les-chiens-se-taisaient/)." ("Découverte").
 
 ---
 
