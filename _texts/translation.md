@@ -10,9 +10,9 @@ editor: Alex Gil
 
 The following is an English translation of my own [reading edition]({{site.baseurl}}/texts/reading/) and interpretation of the final authorial stage of the Saint-Dié witness (\~1943). My approach to translation is naive where it can be: If the original French has a particular effect on me, I bend English to achieve as much, or close. When I can't translate effect, I choose arcane literal over broad legible, and take liberties to make the English pop. 
 
-The drama depends on two tricky binaries: Black/White, and to a lesser extent, Man/Woman. Three temporalities complicate these binaries further: The unfolding drama is based on the Haitian Revolution; it was written for a Martinique audience during the Vichy regime; and, I'm translating for an era of re-ascendant fascism and an American audience knee-deep in our own anti-racist struggle. Césaire's perennial "*négre*"—the rallying cry of Négritude—is at the heart of these difficulties. The n-word in English is inexcusable—not least of which from a historical or philological perspective—and is found in other translations of Césaire mostly to provide a perverse excuse for white Americans to indulge in reading it out loud. I mostly chose variations of "Black" to highlight the manichean core of the drama. I use "negro" when the speaker is clearly designed to be paternalistic and racist. This move is particularly useful during the racial madness and mockery of the Cap-Haïtien scenes. 
+The drama depends on two tricky binaries: Black/White, and to a lesser extent, Man/Woman. Three temporalities complicate these binaries further: The unfolding drama is based on the Haitian Revolution; it was written for a Martinique audience during the Vichy regime; and, I'm translating for an era of re-ascendant fascism and an American audience knee-deep in our own anti-racist struggle. Césaire's perennial "*négre*"—the rallying cry of Négritude—is at the heart of these difficulties. The n-word in English is inexcusable—not least of which from a historical or philological perspective—and is found in other translations of Césaire mostly to provide a perverse excuse for white Americans to indulge in reading it out loud. I mostly chose variations of "Black" to highlight the manichean core of the drama. I use "negro" in other cases when the speaker is paternalistic and racist, or ventriloquizing. This move is particularly useful during the racial madness and mockery of the Cap-Haïtien scenes. 
 
-At times, I have a hard time ignoring Césaire's own condescensions, and I softened the blow a bit where I could—an honest, janus-faced betrayal.
+At times, I have a hard time ignoring Césaire's own condescensions, and I softened, without erasing, certain arrogances where I thought it prudent—an honest, janus-faced betrayal.
 
 ---
 
@@ -2326,53 +2326,56 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Recitress.
 
-- {:.prose} Il fait beau, monstrueusement beau. Déferlez semaines, scrupules des mondes mourants, déferlez filles grosses&nbsp;;  écumez contre mon attente scabreuse.
+- {:.prose} What a great day, monstruously great. Wave forward, weeks, scruples of dying worlds, wave forward, big girls; foam against my scabrous expectation.
+
+<!-- - {:.prose} Il fait beau, monstrueusement beau. Déferlez semaines, scrupules des mondes mourants, déferlez filles grosses&nbsp;;  écumez contre mon attente scabreuse. -->
 
 
 - {:.speaker} The Reciter.
 
-- {:.prose} Me voici, l'homme-marchand aux mains vides, œil nu suscitant le spectacle, gorge brassant vivants les mots éclos contre mes dents. 
+- {:.prose} Here I am, the merchantman with empty hands, naked eye beckoning the spectacle, throat stirring to live the words hatched against my teeth.
+
+<!-- - {:.prose} Me voici, l'homme-marchand aux mains vides, œil nu suscitant le spectacle, gorge brassant vivants les mots éclos contre mes dents.  -->
 
 
 - {:.speaker} The Recitress.
 
-- {:.prose} Me voici, moi, moi : la  femme obsédée des grandes paroles et je  nage parmi les glaieuls et les roses de Jéricho vers l'odeur simple des cadavres&nbsp;?
+- {:.prose} Here I am, me, me: the woman obsessed with grand words, and I swim among the gladioli and roses of Jericho towards the simple smell of corpses.
+
+<!-- - {:.prose} Me voici, moi, moi : la  femme obsédée des grandes paroles et je  nage parmi les glaieuls et les roses de Jéricho vers l'odeur simple des cadavres&nbsp;? -->
 
 
 - {:.speaker} The Reciter.
 
-- {:.prose} Ce n'est pas vrai... Il n'y a plus de combats. Il n'y a plus de meurtresn'est‐ce pas&nbsp;? Plus de crimes flamboyants&nbsp;? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve de vin.
+- {:.prose} Not true ... No more fights. No more killings, is it? No more flaming crimes? The Barbary organ blindly purrs minutes of silence and silence and silence, sawdust of time without dust. Ho. Ho. A smell of corpses ... blood sparkling like a large vat of wine.
+
+<!-- - {:.prose} Ce n'est pas vrai... Il n'y a plus de combats. Il n'y a plus de meurtresn'est‐ce pas&nbsp;? Plus de crimes flamboyants&nbsp;? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve de vin. -->
 
 
 - {:.speaker} The Recitress.
 
-- {:.prose} Il n'est que de cogner à la vitre du soleil. Il n'y a qu'à casser la glace du soleil. Il n'y a qu'à découvrir dans la boite à poudre du soleil la houppe rouge des fourmis venimeuses éclatés à tous vents. Ha, ha, on ne maquille pas le Destin.
+- {:.prose} Nothing left to do but bang on the sun's window, break the sun's ice. Nothing left but discover in the sun's tinderbox the red tassel of venomous ants, blasted to the winds. Ha, ha, you can't put lipstick on Fate.
+
+<!-- - {:.prose} Il n'est que de cogner à la vitre du soleil. Il n'y a qu'à casser la glace du soleil. Il n'y a qu'à découvrir dans la boite à poudre du soleil la houppe rouge des fourmis venimeuses éclatés à tous vents. Ha, ha, on ne maquille pas le Destin. -->
 
 
 - {:.speaker} The Reciter.
 
-- {:.prose} Il fait beau une gerbera plus nue qu'une femme  dans le soleil joue vers le soleil et le soleil crépite dans les  cerveaux fermés diadème miné arbre du voyageur cœur tressé belles eaux souflées haut gelées.
+- {:.prose} What a great day a gerbera uncovered more than a woman in the sun plays towards the sun and the sun crackles in the closed brains mined diadem tree of the traveler heart braided beautiful water blown high frost.
+
+<!-- - {:.prose} Il fait beau une gerbera plus nue qu'une femme  dans le soleil joue vers le soleil et le soleil crépite dans les  cerveaux fermés diadème miné arbre du voyageur cœur tressé belles eaux souflées haut gelées. -->
 
 
 - {:.speaker} The Reciter.
+
+- Island, I love that fresh word, pricked with Caribs and sharks. I wait.
 
 - Île j'aime ce mot frais guetté de Karibs et de requins. J'attends.
-
-
-- {:.speaker} 
-
-- 
 
 ---
 
 
 <h2 class="pagetitle"><a href="/chiens/chiens/p042.html" target="_blank">42</a></h2>
-
-
-
-
-
-- {:.centered} 
 
 
 *(Une ville haïtienne, place publique&nbsp;: troupes, foules, drapeaux Subitement acclamations et fanfares. entrent Toussaint et sa suite. Toussaint s'installe sous un dais&nbsp;: les délégations avancent, successives.)*
@@ -2422,10 +2425,6 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 <h2 class="pagetitle"><a href="/chiens/chiens/p043.html" target="_blank">43</a></h2>
-
-
-
-
 
 
 - {:.speaker} Le grand Maitre de l'Université.
