@@ -1905,7 +1905,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - avant-garde de voceratrices et de fossoyeurs.
 
 
-*(La scène est envahie par des prêtres de tous ordres qui bénissent frénétiquement) *
+*(La scène est envahie par des prêtres de tous ordres qui bénissent frénétiquement)*
 
 
 
