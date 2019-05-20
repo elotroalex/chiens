@@ -17,7 +17,7 @@
 
       {% if n == 0 %}The page has no handwritten edits{% else %}The page was edited with {{ instruments | split: "|" | array_to_sentence_string  }}{% endif %}. Impressions on the page are of a {{ page.tone }} tone{% if page.carbon == "orig" %} on an original, top sheet.{% else %}, and were produced by {{ page.carbon }} carbon paper.{% endif %} The paper {% if page.residue == "clean" or page.residue == "clean+" %}is relatively clean of residue.{% elsif page.residue == "dirty" %}has large amounts of carbon residue.{% else %}has a moderate amount of carbon residue on it.{% endif %}{% if page.note %} {{ page.note }}{% endif %}</dd>
 
-      <dt>Alternative Pagination (& Saint-Dié Numeration)</dt>
+      <dt>Alternative Pagination</dt>
       <dd>
         {% if page.p1 %}<code class="highlighter-rouge">P1.{{page.p1}}</code>&nbsp;&nbsp;{% endif %}
         {% if page.p2 %}<code class="highlighter-rouge">P2.{{page.p2}}</code>&nbsp;&nbsp;{% endif %}
@@ -27,7 +27,7 @@
         {% if page.p6 %}<code class="highlighter-rouge">P6.{{page.p6}}</code>&nbsp;&nbsp;{% endif %}
         {% if page.p7 %}<code class="highlighter-rouge">P7.{{page.p7}}</code>&nbsp;&nbsp;{% endif %}
         {% if page.p8 %}<code class="highlighter-rouge">P8.{{page.p8}}</code>&nbsp;&nbsp;{% endif %}
-        ({{page.p9}})   
+        {% if page.p9 %}<code class="highlighter-rouge">P9.{{page.p9}}</code>&nbsp;&nbsp;{% endif %}   
       </dd>
     {% endif %}
 

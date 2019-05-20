@@ -12,11 +12,13 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 ---
 
+[ Title Page ]({{site.baseurl}}/chiens/p000.html)
+
 - {:.centered} AIMÉ CÉSAIRE.
 
 <br>
 
-- {:.centered} ...ET LES CHIENS SE TAISAIENT.
+- {:.centered} ...... ET LES CHIENS SE TAISAIENT.
 - {:.centered} ( Drame en trois actes )     
 
 

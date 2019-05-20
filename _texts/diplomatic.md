@@ -13,7 +13,7 @@ The following text is a diplomatic interpretation of the final authorial stage o
 <hr>
 
 
-<a target="_blank" href="/data/sdw-data/P000.jpg">Title</a>            
+[ Title Page ]({{site.baseurl}}/chiens/p000.html)            
 
 <p class="centered">AIME CESAIRE.</p>
 <p class="centered">+++++++++++++</p>
