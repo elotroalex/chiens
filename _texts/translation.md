@@ -10,9 +10,11 @@ editor: Alex Gil
 
 The following is an English translation of my own [reading edition]({{site.baseurl}}/texts/reading/) and interpretation of the final authorial stage of the Saint-Dié witness (\~1943). My approach to translation is vulgar where it can be: If the original French has a particular effect on me, I bend English to achieve as much, or close. When I can't translate effect, I choose broad legible over arcane literal, and take liberties to make the English pop. 
 
-The drama depends on two tricky binaries: Black/White, and to a lesser extent, Man/Woman. Three temporalities complicate these binaries further: The unfolding drama is based on the Haitian Revolution; it was written for a Martinique audience during the Vichy regime; and, I'm translating for an era of re-ascendant fascism and an American audience knee-deep in our own anti-racist struggle. Césaire's perennial "*négre*"—the rallying cry of Négritude—is at the heart of these difficulties. The n-word in English is inexcusable—not least of which from a historical or philological perspective—and is found in other translations of Césaire mostly to provide a perverse excuse for white Americans to indulge in reading it out loud. I mostly chose variations of "Black" to highlight the manichean core of the drama. I use "negro" in other cases when the speaker is paternalistic and racist, or ventriloquizing. This move is particularly useful during the scenes at Cap-Haïtien. 
+The drama depends on two tricky binaries: Black/White, and to a lesser extent, Man/Woman. Three temporalities complicate these binaries further: The unfolding drama is based on the Haitian Revolution; it was written for a Martinique audience during the Vichy regime; and, I'm translating for an era of re-ascendant fascism and an American audience knee-deep in our own anti-racist and anti-patriarchal struggle. Césaire's perennial "*négre*"—the rallying cry of Négritude—exemplifies these difficulties. The n-word in English is inexcusable—not least of which for historical or philological reasons—and is often found in translations of Césaire to provide a perverse excuse for white Americans to indulge in reading it out loud. I mostly chose variations of "black" to highlight the manichean core of the drama. I use "negro" in other cases when the speaker is paternalistic and racist, or ventriloquizing. This move is particularly useful during the scenes at Cap-Haïtien. For slightly different reasons, I translate the feminine *La Récitante*, which has no  equivalent in English, to The Narrator.
 
-I have a hard time ignoring Césaire's own condescensions, but I softened, without erasing, certain arrogances where I thought it prudent—an honest, janus-faced betrayal.
+<!-- Césaire's own condescensions are sometimes hard to ignore, but I softened, without erasing, certain arrogances where I thought it prudent—an honest, janus-faced betrayal.  -->
+
+Please note that the following text's subject-matter and imagery explore violence and violent truth in many guises and deserves *a strong warning* for vulnerable readers.
 
 ---
 
@@ -44,7 +46,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 
 <!-- *(La scène est à Saint-Domingue&nbsp;à&nbsp;l’epoque de la Révolution française.)* -->
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - I say this country is an ulcer.
 
@@ -56,7 +58,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 
 <!-- - Je dis que cette terre brûle. -->
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Misfortune befall whoever holds the resin of this country in their hands.
 
@@ -68,7 +70,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 
 <!-- - Je dis que ce pays, monstrueusement, dévore. -->
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - This country is cursed.
 - {:.prose} This country yawns: having spat the hookworm Cuba, a mouth of empty clamor. 
@@ -146,7 +148,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <!-- - {:.prose .prose-indent} Saint-Marc cède... la fière... ses murailles s’écroulent... nos chevaux hument l’air mêlé de poudre et de tambour. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} Toussaint, Toussaint, the day of trials has arrived... He comes... the king's messenger... he glides... his mouth full of promises... the serpent hisses... hisses... He holds Toussaint on the tip of his tongue...
 
@@ -382,7 +384,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <!-- - {:.indent-2} Tu périras. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.indent-2} Alas. You will die.
 
@@ -438,7 +440,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 - Je suis nu dans les pierres.
 - Je veux mourir. -->
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.indent-2} Patience, I see.
 - {:.prose} My polar head engulfs the glimmer of corpses, the broken helmets, the inconsolable debris, the suns oozing the beefy scent of venison.
@@ -456,7 +458,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 - Tu vois encore ?... -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} A terrible, beautiful girl breaks her shell of disasters. Coyote hunters wake up in a happy absynthe hut.
 
@@ -476,7 +478,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.indent-2} Nothing remains but a lost man,
 - {:.prose} tragic like a palm stump in the trite riot and the fields of gunpowder. His dusty eyes dart into a steppe without shade and water—and he chews shade and water—a prayer that he will not sell.
@@ -492,7 +494,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <!-- - {:.prose .prose-indent} Merci, ma sœur... une prière qu’il ne vendra pas... ma prière de cobra... ma prière de murène dans les forêts de la mer... ma prière de lait de cactus dans les halliers du ciel... -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.indent-2} ... I have seen, and the bridges have fallen...
 - The stars have unleashed their scars of sand.
@@ -514,12 +516,12 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 - Ha, ha
 - We are blind
 - Blind by the grace of god and fear.
-- Don't you see anything in the new grass?
+- Do you see nothing in the new grass?
 - Nothing in the ground's churn and the
 - Convulsive heckling of plants?
-- Nothing in the sea, right?
+- Nothing in the sea, really?
 - I see... I hear... I will talk...
-- Oh, the vampire sun sucks my blood once more,
+- Oh, the vampire sun sucks my blood again,
 - Oh, the corsair night assaults my rock
 - and my dawn farts below their faces
 - its crash of midday and gulls
@@ -527,8 +529,8 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 - Trample me. Assassinate me. Too late.
 - The flushed out hours ring on the lulls 
 - and the mooring lanterns;
+- all sniffs
 - the hours ring
-- sniffly
 - and spread out at the touch of my hands,
 - the flames spread out.
 - Me too, I am a flame.
@@ -614,7 +616,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <!-- - Le roi a froid... le roi grelotte... Le roi tousse. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} Alas. Alas. Spider Europe stirs its legs and phalange of ships... Alas. Alas.
 
@@ -648,7 +650,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <!-- - {:.indent-2} Hélas. Hélas. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} I was awakened from my grand dream of violet seas and chocolate earth, and I saw a small man arrive this side of the clove trees. He turned the sky black, his face a peat bog cut with dragonflies.
 
@@ -1292,7 +1294,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} The ash... the dream... black water... famished, famished... two burning hands on the plate of the sun...
 
@@ -1312,13 +1314,13 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 
 
 
-*(In Saint-Domingue, young white girls play in front of a rich mansion, 18th century style. Enter The Chorus, The Reciter and The Recitress.)* 
+*(In Saint-Domingue, young white girls play in front of a rich mansion, 18th century style. Enter The Chorus, The Reciter and The Narrator.)* 
 
-<!-- *(A Saint-Domingue devant une riche maison coloniale style 18e siècle, des jeunes filles blanches en train de jouer. Entrent The Chorus, The Reciter, The Recitress.)* -->
+<!-- *(A Saint-Domingue devant une riche maison coloniale style 18e siècle, des jeunes filles blanches en train de jouer. Entrent The Chorus, The Reciter, The Narrator.)* -->
 
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} Go back inside girls. This is not the time to play, the orbits of death push their dazzling eyes through the pale mica.  
 
@@ -1391,7 +1393,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <h2 class="pagetitle"><a href="/chiens/chiens/p024.html" target="_blank">24</a></h2>
 
 
-*(The Reciter and The Recitress pretend to put down a stretcher; The Chorus to dig a grave. They bury an imaginary corpse on the grave—a scene of homeopathic magic.)*
+*(The Reciter and The Narrator pretend to put down a stretcher; The Chorus to dig a grave. They bury an imaginary corpse on the grave—a scene of homeopathic magic.)*
 
 
 <!-- *(The Reciter et la récitante feignent de poser par terre une civière ; The Chorus de creuser une fosse. Un cadavre imaginaire est déposé au fond de la fosse. C’est une scène de magie imitative.)* -->
@@ -1402,7 +1404,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 - {:.indent-2} Goodbye, Saint-Domingue.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.indent-2} Goodbye, Saint-Domingue.
 
@@ -1461,7 +1463,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 - Les jachères et les semis de cadavres.
  -->
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - The beautiful, blind eyes of the earth sing on their own
 - truant, the joint eyebrows of great plows
@@ -1596,7 +1598,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <!-- - {:.indent-2} Ici commence le baptème du sang. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} Here begins the meal of vengeance. Here we bind our blood solidarity, and here we run the great communion of war.
 
@@ -1667,7 +1669,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <!-- - {:.prose .prose-indent} Un coup de sifflet... Les nègres sortent des broussailles avec une grande clameur. Les coutelas s’abattent et se relèvent et s’abattent dans le moulinet de l’exaspération. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} The machete falls down. What a harvest. Those are not canes that fall. These are not banana trunks. The blood streams and skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
 
@@ -1681,7 +1683,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <!-- - {:.prose .prose-indent} Le morne bourgeonne de cris. Des cadavres roulent jusqu’au pied des arbres à pain. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.indent-2} The ravine bursts with corpses.
 
@@ -1735,7 +1737,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <!-- - {:.indent-2} Au nom de tous les désirs effrités en la mare de vos âmes. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} In the name of all the lazy dreams in your hearts, I sing the steely motion of the matador.
 
@@ -2071,7 +2073,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <!-- - {:.indent-2} Au commencement, il n’y avait rien... -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.indent-2} Excuse me, comrade, in the beginning there was the night.
 
@@ -2084,7 +2086,7 @@ I have a hard time ignoring Césaire's own condescensions, but I softened, witho
 <!-- - {:.indent-2} Camarade, au commencement il y avait la nuit... -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} The night and misery, comrade, misery and animal consent; the rustling night of slave breaths, dilating on the steps of the Christophorus, the great sea of miseries and dividends, the great sea of black blood, the great swell of sugar cane, the great ocean of horrors and desolation.
 - {:.indent-2} In the end, there is, in the end...
@@ -2206,7 +2208,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 <!-- - {:.prose .prose-indent} Saint-Domingue fond comme un noyé dans l’acide des gorges de la Révolution. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.indent-2} Death cries sweetly on the neck of the night...
 
@@ -2239,7 +2241,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 <h2 class="pagetitle"><a href="/chiens/chiens/p039.html" target="_blank">39</a></h2>
 
 
-- {:.speaker} The Recitress *(doleful.)*
+- {:.speaker} The Narrator *(doleful.)*
 
 - {:.prose .prose-indent} 300,000 men, harnesses shattered, rush into the city with piercing howls ... The seaport swarms with Whites reaching for the stranded vessels ... Oh, the boats capsize ...
 
@@ -2252,7 +2254,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 <!-- - {:.indent-2} ... Les têtes roulent comme des cabosses de cacao. -->
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} The djembe gasps; the djembe erupts ... the djembe spits grasshoppers of fire and blood.
 
@@ -2267,7 +2269,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 <!-- - {:.indent-2} Le feu défonce la nuit de ses épis canaques... -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} ... the fire hangs its rapacious top leaves on the captive rooftops...
 
@@ -2301,7 +2303,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.indent-2} Haiti. Haiti.
 
-*(The Reciter and The Recitress approach the front of the stage, fumbling in the dark.)*
+*(The Reciter and The Narrator approach the front of the stage, fumbling in the dark.)*
 
 <!-- *(The Reciter et la récitante se rapprochent à tatons sur le devant de la scène.)* -->
 
@@ -2324,7 +2326,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.centered} ACTE II
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose} What a great day, monstruously great. Wave forward, weeks, scruples of dying worlds, wave forward, big girls; foam against my scabrous expectation.
 
@@ -2338,7 +2340,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 <!-- - {:.prose} Me voici, l'homme-marchand aux mains vides, œil nu suscitant le spectacle, gorge brassant vivants les mots éclos contre mes dents.  -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose} Here I am, me, me: the woman obsessed with grand words, and I swim among the gladioli and roses of Jericho towards the simple smell of corpses.
 
@@ -2352,7 +2354,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 <!-- - {:.prose} Ce n'est pas vrai... Il n'y a plus de combats. Il n'y a plus de meurtresn'est‐ce pas ? Plus de crimes flamboyants ? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve de vin. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose} Nothing left to do but bang on the window of the sun, break the sun's ice. Nothing left but to discover in the sun's tinderbox the red tassel of poisonous ants, blasted to the winds. Ha, ha, you can't put lipstick on Fate.
 
@@ -2606,7 +2608,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - l'armade du destin. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Oh! the bastards rise!
 - an agony on the waters
@@ -2643,7 +2645,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - ... -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - ... a swell of frigate marines
 - vanguard of funeral singers and gravediggers.
@@ -2785,7 +2787,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - la chair vole en copeaux d'Afrique sombre. -->
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose} There will still be eyes like sunflowers or big soybeans in love, blindfolded with birds as beautiful as an alarm of Adam's apple in the flash of brief furies.
 
@@ -3021,7 +3023,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - un nœud coulant!
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Attention!
 - Je crie attention du haut de ma guette.
@@ -3135,7 +3137,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - fouetté de branches.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Eaux surveillées de griffons
 - sommeil au chant des incendies
@@ -3319,7 +3321,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - nous sommes la race sans jour et sans lendemain
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Arpège de guitares sinistres il se lève sous mes paupières
 - une aube saignée à blanc
@@ -3338,7 +3340,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.indent-2} Nous sommes au moment où un volcan se saborde dans la soute à corail.
 
@@ -3645,7 +3647,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - brûlant...
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} des malédictions écrasées sous les pierres palpitent en travers du chemin avec de lourds yeux de crapauds ; un grand bruit démént secoue l'île par le ciel, les os tragiques se déroulent contre nature
 - conques, avalanches, cœur
@@ -3689,7 +3691,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - émigration de colombes brûlées arrosées d'eau vie...
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Saint-Domingue saigne.
 
@@ -3699,7 +3701,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Haïti saigne.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Cul de sac de misères, de solitude, d'herbes puantes.
 
@@ -3901,7 +3903,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Ô j'attends passionnément : je suis cernée...
 
@@ -3911,7 +3913,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Cerné d'yeux, de cauchemars.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Cernée d'enfants et d'yeux et de ruées de  rires.
 
@@ -4143,7 +4145,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Salut Toussaint.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Salut feuille morte.
 
@@ -4185,7 +4187,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.prose .prose-indent} Toussaint, Toussaint, la race du Cham ne secouera pas la malédiction des jours sanglotés.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} Saint-Domingue... Saint-Domingue aux yeux d'antimoine, à la bouche de Kola fraiche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
 
@@ -4403,7 +4405,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.prose .prose-indent} Toussaint, une trompette guerrière a passé dans les airs : elle crachait de la poussière et de la fumée.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.indent-2} Les chauves-souris vampires volaient autour du cou lisse du soleil.
 
@@ -4626,7 +4628,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Le fils arrive.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Le fils arrive...
 
@@ -4677,7 +4679,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.prose} grand vol fou de poule écrasée *(il rit frénétiquement.)*
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Le fils arrive.
 
@@ -4697,7 +4699,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - C'est bien : je demande une torche et mon fils arrive.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Attention : le fils arrive.
 
@@ -5067,7 +5069,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Un gouffre. Ma vue ne saurait le mesurer.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - 
 
@@ -5081,7 +5083,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose} Un gouffre de sanglots&nbsp;un ouragan de rauquements, de vociférations, une forêt d'erreurs, d'interdictions, de rites, de maladresses&nbsp;de mensonges, d'exaspération pas de fruits, pas de fruits, harpies, harpies, buissons d'âmes séchées.
 
@@ -5093,7 +5095,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.prose} un tonnerre bas, un crachat frénétique dans le soleil chimique, un océan aux détresse de goulet étroit de catéchisme d'éternuement.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Des torrents dégorgeant d'innombrables cadavres de dogues, de cauchemars, de lémures tourmentés.
 
@@ -5391,7 +5393,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose} Quelle nuit! quelle neige! C'est comme si la neige et la nuit s'étaient furieusement battues : de grosses masses d'ombre s'écroulent avec tout le panneau du ciel et la cavalerie des flocons se précipite au vol fouetté de ses cent mille burnous.
 
@@ -5523,7 +5525,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} Ô la danse des étoiles sans nom... les savanes s'animent... les pluies fument... des arbres inconnus tombent palmés de foudre.
 
@@ -5560,7 +5562,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.indent-2} Mort, il est mort!
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.indent-2} Mort dans un taillis de clérodendres parfumés.
 
@@ -5570,7 +5572,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.indent-2} Mort en pleine poussée de sisal.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Mort en pleine pulpe de calebassier.
 
@@ -5590,7 +5592,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.prose .prose-indent} Saint-Domingue les secrets enfermés sous un tour de gorge montent dans le clocher du sang. Les femmes possédées dressent leurs mains savonneuses aux 4 coins du marais au cœur rouge ; les soifs nouvelles s'écoulent, lunes cassées à même la miche d'eau, une pierre au front.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} Kohol sans langueur l'atmosphère blasée de porte vide tient du miracle un ricanement de roucou précieux. Une boussole meurt de convulsion dans une lande, jatte de lait à la fin du monde.
 
@@ -5841,7 +5843,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - La grande Révolution de Saint-Domingue continue...
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Quel est cet homme ? un nuage de sang auréole sa tête sauvage.
 
@@ -5870,7 +5872,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Tour des veilles, écroulez vous.
 
@@ -5885,7 +5887,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.prose} Plantes parasites, plantes venéneuses, plantes brûlantes, plantes cannibales, plantes incendiaires, vraies plantes, lianes-feu, lianes-sang, filez vos courbes imprévues à grosses gouttes.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Lumière décomposée en chaque splendeur avare
 - cargaison de poissons d'or, fruits fourbus
@@ -5912,7 +5914,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Je viens à vous.
 
 
-- {:.speaker} The Recitress.
+- {:.speaker} The Narrator.
 
 - Je suis une de vous, îles.
 
