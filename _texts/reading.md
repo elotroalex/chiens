@@ -2987,7 +2987,6 @@ The following text is an interpretation of the final authorial stage of the Sain
 *(Passent des nègres «&nbsp;enfilés par le cou à une longue chaine de fer, comme les grains d'un chapelet, et portant tons des menottes aux bras&nbsp;».)[^tei1]*
 
 
-
 *(Entrent les dieux noirs et rouges paissants sous la houlette de l'archevêque.)*
 
 
