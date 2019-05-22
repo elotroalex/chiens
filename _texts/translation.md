@@ -1135,7 +1135,7 @@ Please note that the following text's subject matter and imagery explore violenc
 - {:.indent-2} Long live vengeance. Long live freedom.
 - {:.prose} The mountains will tremble like a tooth caught between a pair of forceps, the stars will crash on the ground their pregnant-woman forehead.
 
-<!-- - {:.indent-2} Vive la vengeance. Vive la liberté.
+<!-- - {:.indent-2} Vive la vengeance. Long live Freedom.
 - {:.prose} Les montagnes trembleront comme une dent prise au davier, les étoiles écraseront contre terre leur front de femme enceinte ... -->
 
 
@@ -1203,7 +1203,7 @@ Please note that the following text's subject matter and imagery explore violenc
 
 - {:.indent-2} Long live Toussaint.
 
-<!-- - {:.indent-2} Vive Toussaint. -->
+<!-- - {:.indent-2} Long live Toussaint. -->
 
 
 - {:.speaker} Toussaint.
@@ -1874,7 +1874,7 @@ Please note that the following text's subject matter and imagery explore violenc
 
 - {:.prose .prose-indent} I see, gentlemen, that you haven't understood. This is no time for deliberation. I made my decision. The priority now is to stop the Blacks of the West province from communicating with the Nord insurgents. I've set up war camps at Trou, Vallières, Morne, Dondon, la Marmelade and Fort Dauphin. As far you're concerned, Gentlemen, prepare for battle, and long live the French colony of Saint-Domingue.
 
-<!-- - {:.prose .prose-indent} Je vois, Messieurs, que vous ne m’avez guère compris. Il n’est plus temps de délibérer. Ma décision est prise. L’essentiel étant d’empêcher les nègres de la province de l’ouest de communiquer avec les insurgés du Nord, je fais établir des camps au Trou, à Vallières, au Morne, à Dondon, à la Marmelade et à Fort Dauphin. Quant à vous, Messieurs, aux armes, et vive la colonie française de Saint-Domingue. -->
+<!-- - {:.prose .prose-indent} Je vois, Messieurs, que vous ne m’avez guère compris. Il n’est plus temps de délibérer. Ma décision est prise. L’essentiel étant d’empêcher les nègres de la province de l’ouest de communiquer avec les insurgés du Nord, je fais établir des camps au Trou, à Vallières, au Morne, à Dondon, à la Marmelade et à Fort Dauphin. Quant à vous, Messieurs, To arms, et vive la colonie française de Saint-Domingue. -->
 
 *(Prolongued vivats. The deputies exit. Some stragglers continue to argue.)*
 
@@ -2997,14 +2997,15 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {: .prose} Enough happiness! strange beggars with vintage faces who now threaten now salute the dawns
+- {: .prose} Enough happiness! strange beggars with vintage faces 
+- who now threaten, now salute the dawns
 - It's me
 - every night a hunger wakes them up among the madrepore
 - a strong hunger for the sun and very ancient coins.
 - I turn to the unknown wind bursting with persecution
-- I am leaving
-- do not speak, do not laugh
-- Africa sleeps - do not talk, do not laugh. Africa bleeds my mother
+- I'm leaving
+- don't speak, don't laugh
+- Africa sleeps—don't speak, don't laugh. Africa bleeds my mother
 - Africa opens, shattered by the channel of vermin,
 - to the sterile invasion of the spermatozoa of rape!
 
@@ -3024,7 +3025,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {: .prose} What a thread stretched over the forests, rivers, swamps, tongues and big cats!
 - I do not have the gift of theft.
-- I do not have a mother - I do not have a past.
+- I do not have a mother—I do not have a past.
 - I filled up to oblivion, dust and insults, the well
 - my navel's stepmother.
 
@@ -3056,16 +3057,30 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 [53]({{site.baseurl}}/chiens/chiens/p053.html){:.pagetitle}
 
+- Hippos blow their nightmares
+- Rhinos charge in the wind grown too quickly
+- a round of adobe my mature innocence laughs its loud laughter
+- of fresh earth ...
 
-- Les hippopotames soufflent leurs mauvais rêves
+<!-- - Les hippopotames soufflent leurs mauvais rêves
 - les Rhinocéros chargent dans le vent trop vite grandi
 - rond de pisé mûr mon innocence rit son grand rire
-- de terre fraiche ...
+- de terre fraiche ... -->
 
 
 - {:.speaker} The Reciter.
 
--  Attention!
+- Warning!
+- I scream from the top of my watch. Warning!
+- Closer!
+- This way!
+- a soft and slow voice of bad harvest and unexpected rain
+- the black nude
+- draws
+- draws
+- a noose!
+
+<!-- - Attention!
 - Je crie attention du haut de ma guette.
 - Plus près!
 - Par ici!
@@ -3073,12 +3088,22 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - la nue noire
 - dessine
 - dessine 
-- un nœud coulant!
+- un nœud coulant! -->
 
 
 - {:.speaker} The Narrator.
 
-- Attention!
+- Warning!
+- I scream from the top of my watch. Warning!
+- Closer!
+- This way!
+- The canoe of buccaneers loots on a field of azure: to distract themselves.
+- Drunkenness and debauchery. An immense expanse is gilded;
+- in the depths of the washing lake, a red eagle;
+- {: .prose} fields of corn, indigo, sugar cane, a few fathoms deep;
+- clamour in the hollow rush to the hollow and clog the sky ...
+
+<!-- - Attention!
 - Je crie attention du haut de ma guette.
 - Plus près!
 - Par ici!
@@ -3086,69 +3111,83 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Ivresse et débauche. Une immense étendue se dore ;
 - dans les profondeurs du lac lessive un aigle de vermeil ;
 - {:.prose} des champs de maïs, d'indigo, de cannes à sucre, à quelques brasses de profondeur ;
-- des clameurs au creux se ruent au creux et bouchent le ciel ...
+- des clameurs au creux se ruent au creux et bouchent le ciel ... -->
 
 ---
 
 
 [54]({{site.baseurl}}/chiens/chiens/p054.html){:.pagetitle}
 
+*(Panic. People run in all directions.)*
 
-
-*(Vision de panique. Des hommes courent en tous sens.)*
-
-
-
-- {:.speaker} Voices.
-
-- Les blancs débarquent, les blancs débarquent.
+<!-- *(Vision de panique. Des hommes courent en tous sens.)* -->
 
 
 - {:.speaker} Voices.
 
-- Les blancs débarquent ... les blancs débarquent.
+- The Whites are landing, the Whites are landing. 
+
+<!-- - The Whites are landing, The Whites are landing. -->
+
+
+- {:.speaker} Voices.
+
+- The Whites are landing ... the Whites are landing.
+
+<!-- - The Whites are landing ... The Whites are landing. -->
 
 
 - {:.speaker} Voix.
 
-- Les blancs débarquent.
+- The Whites are landing.
 
 
 - {:.speaker} Voix.
 
-- Les blancs débarquent.
+- The Whites are landing.
+
+*(The crowd grows in front of Toussaint's palace. Toussaint comes to the balcony.)*
 
 
-*(La foule grossit devant le palais de Toussaint. Toussaint parait au balcon.)*
+<!-- *(La foule grossit devant le palais de Toussaint. Toussaint parait au balcon.)* -->
 
 
 
-- {:.speaker} Des cris.
+- {:.speaker} Cries.
 
-- Les blancs débarquent, les blancs débarquent.
+- The Whites are landing, The Whites are landing.
 
+*(Cannon shots in the distance, then a silence ... A white flag springs from the ground)*
 
-*(Coups de canon dans le lointain, puis un silence ... Un drapeau blanc jaillit du sol.)*
+<!-- *(Coups de canon dans le lointain, puis un silence ... Un drapeau blanc jaillit du sol.)* -->
 
 
 
 - {:.speaker} A Voice.
 
-- Les blancs envoient des parlementaires.
+- The Whites send their parliamentarians.
+
+<!-- - Les blancs envoient des Parliamentarians. -->
 
 
 - {:.speaker} The Crowd.
 
-- Des parlementaires ? ... Les blancs envoient des parlementaires ?
+- Parliamentarians? ... The Whites send parliamentarians?
+
+<!-- - Des Parliamentarians ? ... Les blancs envoient des Parliamentarians ? -->
+
+*(Enter armed troops accompanied by a white parliamentarian.)*
 
 
-*(Parait une troupe en armes accompagnant un parlementaire blanc.)*
+<!-- *(Parait une troupe en armes accompagnant un Parliamentarian blanc.)* -->
 
 
 
-- {:.speaker} Des cris.
+- {:.speaker} Cries.
 
-- Vive la Liberté! Vive la liberté! Vive Toussaint Louverture!
+- Long live Freedom! Long live freedom! Long live Toussaint Louverture!
+
+<!-- - Long live Freedom! Long live Freedom! Long live Toussaint Louverture! -->
 
 ---
 
@@ -3157,49 +3196,71 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-
-
-
 - {:.speaker} Toussaint.
 
-- Une aube juste battait sourire
+- A just dawn pounded smiles
+- a just dawn pounded hopes
+- a dawn pounded simple words brighter than plowshares ...
+- and for us the season of rains, still
+- and of poisonous beasts
+- and of warcries knocked down
+- and of women who collapse pregnant with waiting ...
+
+<!-- - Une aube juste battait sourire
 - une aube juste battait espoirs
 - une aube battait de simples paroles plus claires que des socs de charrue ...
 - et c'est toujours pour nous la saison des pluies
 - et des bêtes venimeuses
 - et de l'hallali par terre
-- et des femmes qui s'écroulent enceintes d'avoir espéré...
+- et des femmes qui s'écroulent enceintes d'avoir espéré... -->
 
 
-- {:.speaker} Soldat.
+- {:.speaker} Soldier.
 
-- {:.indent-2} Mon général, les blancs envoient des parlementaires.
+- {:.indent-2} My general, the Whites send parliamentarians.
+
+<!-- - {:.indent-2} Mon général, les blancs envoient des Parliamentarians. -->
 
 
 - {:.speaker} The Crowd.
 
-- Les blancs envoient des parlementaires!
+- The Whites send parliamentarians!
+
+<!-- - Les blancs envoient des Parliamentarians! -->
 
 
 - {:.speaker} The Reciter.
 
--  Au seuil de la nuit
+- At the threshold of the night
+- for the 50th time
+- in the big castle and the bush
+- the 14 daggers go up the shady stairs
+- whipped with branches.
+
+<!-- - Au seuil de la nuit
 - pour la 50e fois
 - dans le grand chateau et le maquis
 - les 14 dagues montent  l'escalier ombrageux
-- fouetté de branches.
+- fouetté de branches. -->
 
 
 - {:.speaker} The Narrator.
 
-- Eaux surveillées de griffons
+- Waters supervised by Griffins
+- sleep on the edge of the fires
+- eclipse of sands, magnificat
+- suspended garden and turbulence
+- bronze age
+- stone age
+- low ground.
+
+<!-- - Eaux surveillées de griffons
 - sommeil au chant des incendies
 - occultation des sables, magnificat
-- jardin suspendu et turbulences
-- {:.prose}  
+- jardin suspendu et turbulences 
 - âge de bronze
 - âge de la pierre
-- à ras de terre.
+- à ras de terre. -->
 
 ---
 
@@ -3207,50 +3268,67 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 [56]({{site.baseurl}}/chiens/chiens/p056.html){:.pagetitle}
 
 
+- {:.speaker} Parliamentarian.
 
+- {:.prose} General, there's still time. The Republic offers you a choice: war or peace.
 
-
-
-- {:.speaker} Parlementaire.
-
-- {:.prose} Général, il est encore temps : la République vous donne à choisir entre la paix et la guerre.
-
-
-- {:.speaker} Toussaint.
-
-- Est-ce à moi de choisir ? Attaqué, je me défends.
-
-
-- {:.speaker} Parlementaire.
-
-- La République espérait trouver en vous un fils soumis et dévoué.
+<!-- - {:.prose} Général, il est encore temps : la République vous donne à choisir entre la paix et la guerre. -->
 
 
 - {:.speaker} Toussaint.
 
-- Alors, pourquoi cette flotte ? ces troupes ? ces canons ?
+- Is it for me to choose? Attack, I will defend myself.
+
+<!-- - Est-ce à moi de choisir ? Attaqué, je me défends. -->
 
 
-- {:.speaker} Parlementaire.
+- {:.speaker} Parliamentarian.
 
-- {:.prose} Je serais franc, la République entend faire rentrer sous sa domination la plus belle de ses colonies : Saint-Domingue.
+- The Republic is hoping to find in you a submissive and devoted son. 
+
+<!-- - La République espérait trouver en vous un fils soumis et dévoué. -->
 
 
 - {:.speaker} Toussaint.
 
-- J'ignorais que Saint-Domingue eut proclamé son indépendance.
+- Then why this fleet? These troops? These canons?
+
+<!-- - Alors, pourquoi cette flotte ? ces troupes ? ces canons ? -->
+
+
+- {:.speaker} Parliamentarian.
+
+- {:.prose} I will be frank, the Republic intends to take back control of its most beautiful colony: Saint-Domingue.
+
+<!-- - {:.prose} Je serais franc, la République entend faire rentrer sous sa domination la plus belle de ses colonies : Saint-Domingue. -->
+
+
+- {:.speaker} Toussaint.
+
+- I was not aware that Saint-Domingue had declared its independence.
+
+<!-- - J'ignorais que Saint-Domingue eut proclamé son indépendance. -->
 
 
 - {:.speaker} The Reciter.
 
-- manioc des brûlis
+- burning cassava
+- campfire
+- listen to me
+- I thirst for your incendiary arrows
+- for your pepper-red smothering fumes
+- for your whistles poking the gambrel of dawn
+- for your curare
+- for your genipa.
+
+<!-- - manioc des brûlis
 - feu des campements
 - écoutez-moi
 - j'ai soif de vos flèche incendiaires
 - de vos fumées asphyxiantes rouges de piments
 - de vos coups de sifflet piquant le jarret des aubes
 - de votre curare
-- de votre génipa.
+- de votre génipa. -->
 
 ---
 
@@ -3258,53 +3336,67 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 [57]({{site.baseurl}}/chiens/chiens/p057.html){:.pagetitle}
 
 
+- {:.speaker} Parliamentarian.
 
+- Let's face it, time is running out: what are your intentions, general?
 
-
-
-- {:.speaker} Parlementaire.
-
-- Abrégeons, le temps presse : quelles sont vos intentions, général ?
-
-
-- {:.speaker} Toussaint.
-
-- Je vous l'ai déjà dit ; résister à toute agression.
-
-
-- {:.speaker} Parlementaire.
-
-- C'est votre dernier mot.
+<!-- - Abrégeons, le temps presse : quelles sont vos intentions, général ? -->
 
 
 - {:.speaker} Toussaint.
 
-- Mon dernier mot ...
+- I already told you; resist any aggresion.
+
+<!-- - Je vous l'ai déjà dit ; résister à toute agression. -->
 
 
-- {:.speaker} Parlementaire.
+- {:.speaker} Parliamentarian.
 
-- Eh bien nous débarquerons. Tirez sur nous si vous osez.
+- That's your last word.
 
-
-- {:.speaker} Toussaint.
-
-- Nous oserons. Nous avons pour nous le droit, l'honneur, la liberté.
-
-
-- {:.speaker} Parlementaire.
-
-- C'est la guerre. C'est bien. Adieu général.
+<!-- - C'est votre dernier mot. -->
 
 
 - {:.speaker} Toussaint.
 
-- C'est la guerre, adieu.
+- My last word ...
+
+<!-- - Mon dernier mot ... -->
+
+
+- {:.speaker} Parliamentarian.
+
+- So be it. We will disembark. Fire on us if you dare.
+
+<!-- - Eh bien nous débarquerons. Tirez sur nous si vous osez. -->
+
+
+- {:.speaker} Toussaint.
+
+- We will dare. We have the right, honor and freedom on our side.
+
+<!-- - Nous oserons. Nous avons pour nous le droit, l'honneur, la liberté. -->
+
+
+- {:.speaker} Parliamentarian.
+
+- War it is. Fine. Goodbye, general.
+
+<!-- - C'est la guerre. C'est bien. Adieu général. -->
+
+
+- {:.speaker} Toussaint.
+
+- War it is. Goodbye.
+
+<!-- - C'est la guerre, adieu. -->
 
 
 - {:.speaker} The Reciter.
 
-- {:.prose} Nous sommes au moment où 9 scorpions se frappent formés par la malédic­tion des âmes.
+- {:.prose} We are at the moment when 9 scorpions strike each other guided by the curse on souls.
+
+<!-- - {:.prose} Nous sommes au moment où 9 scorpions se frappent formés par la malédic­tion des âmes. -->
 
 ---
 
@@ -3313,14 +3405,11 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-
-
-
 *(A ce moment des tams-tams éclatent frénétiques, couvrent les voix.)*
 
 
 
-- {:.speaker} Parlementaire.
+- {:.speaker} Parliamentarian.
 
 - {:.indent-2} Qu'est ce que c'est ? ...
 
@@ -3341,7 +3430,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - jusqu'a la démission des siècles et des étoiles
 
 
-- {:.speaker} Parlementaire.
+- {:.speaker} Parliamentarian.
 
 - {:.indent-2} Général, le 1er consul a à se plaindre de votre administration.
 
@@ -3352,7 +3441,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - L'Industrie renait, l'ordre règne, le pays prospère.
 
 
-- {:.speaker} Parlementaire.
+- {:.speaker} Parliamentarian.
 
 - {:.prose} Ce que vous reproche le consul ...
 
@@ -3360,10 +3449,6 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 [59]({{site.baseurl}}/chiens/chiens/p059.html){:.pagetitle}
-
-
-
-
 
 
 - {:.speaker} The Chorus.
@@ -3390,9 +3475,6 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-
-
-
 - {:.speaker} The Narrator.
 
 - {:.indent-2} Nous sommes au moment où un volcan se saborde dans la soute à corail.
@@ -3404,22 +3486,22 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint *(à la foule.)*
 
-- {:.indent-2} Mes amis, cries avec moi : Vive la liberté.
+- {:.indent-2} Mes amis, cries avec moi : Long live Freedom.
 
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Vive la liberté. Vive Toussaint.
+- {:.indent-2} Long live Freedom. Long live Toussaint.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Ils débarquent ... les blancs débarquent ... Ils viennent nous remettre au joug ... Ils viennent rétablir l'esclavage, ici, dans notre libre Haïti.
+- {:.prose .prose-indent} Ils débarquent ... The Whites are landing ... Ils viennent nous remettre au joug ... Ils viennent rétablir l'esclavage, ici, dans notre libre Haïti.
 
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Vive la liberté. Vive la liberté.
+- {:.indent-2} Long live Freedom. Long live Freedom.
 
 
 - {:.speaker} Toussaint.
@@ -3430,27 +3512,23 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Aux armes. Aux armes. Kill the Whites.
+- {:.indent-2} To arms. To arms. Kill the Whites.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} « Aux armes ». Ça a été le cri de vos frères guadeloupéens quand ils ont appris le sort que leur réservaient les tyrans.
-- {:.prose .prose-indent} « Aux armes ». Et le mûlatre Delgrès s'est fait sauter plutôt que de se rendre ...
+- {:.prose .prose-indent} « To arms ». Ça a été le cri de vos frères guadeloupéens quand ils ont appris le sort que leur réservaient les tyrans.
+- {:.prose .prose-indent} « To arms ». Et le mûlatre Delgrès s'est fait sauter plutôt que de se rendre ...
 
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Vive la liberté. Vive Toussaint.
+- {:.indent-2} Long live Freedom. Long live Toussaint.
 
 ---
 
 
 [61]({{site.baseurl}}/chiens/chiens/p061.html){:.pagetitle}
-
-
-
-
 
 
 - {:.speaker} Toussaint.
@@ -3465,23 +3543,23 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal d'une démolition sytématique, implacable. Feu et cendre. Perisse Saint-Domingue plutôt que notre liberté : la liberté ou la mort.
+- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal d'une démolition sytématique, implacable. Feu et cendre. Perisse Saint-Domingue plutôt que notre liberté : Freedom or death.
 
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Vive Haïti. Vive Toussaint.
-- La liberté ou la mort. Vive Toussaint. Vive Toussaint.
+- {:.indent-2} Long live Haiti. Long live Toussaint.
+- Freedom or death. Long live Toussaint. Long live Toussaint.
 
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Aux armes. Aux armes.
+- {:.indent-2} To arms. To arms.
 
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Aux armes. 
+- {:.indent-2} To arms. 
 
 *(La foule se disperse en courant.)*
 
@@ -3490,22 +3568,22 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Voices.
 
-- {:.indent-2} Les blancs débarquent. Les blancs débarquent.
+- {:.indent-2} The Whites are landing. The Whites are landing.
 
 
 - {:.speaker} Voix.
 
-- {:.indent-2} Les blancs débarquent.
+- {:.indent-2} The Whites are landing.
 
 
 - {:.speaker} Voix.
 
-- {:.indent-2} Les blancs débarquent.
+- {:.indent-2} The Whites are landing.
 
 
 - {:.speaker} Des cris frénétiques.
 
-- {:.indent-2} Vive Toussaint Louverture. Vive Toussaint Louverture.
+- {:.indent-2} Long live Toussaint Louverture. Long live Toussaint Louverture.
 
 
 - {:.speaker} Toussaint .
@@ -3519,9 +3597,6 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 [62]({{site.baseurl}}/chiens/chiens/p062.html){:.pagetitle}
-
-
-
 
 - toutes mes idées transformées en brûlots
 - toutes mes pensées en feu grégeois
@@ -3538,31 +3613,29 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 *(3 coups de canon espacés retentissent. Des hommes avec des torches courent des explosions ... de la fumée ... une panique ...)*
 
+- {:.speaker} Voices.
+
+- {:.indent-2} The Whites are landing. The Whites are landing.
 
 
 - {:.speaker} Voices.
 
-- {:.indent-2} Les blancs débarquent. Les blancs débarquent.
+- {:.indent-2} The Whites are landing.
 
 
 - {:.speaker} Voices.
 
-- {:.indent-2} Les blancs débarquent.
+- {:.indent-2} Long live Freedom.
 
 
 - {:.speaker} Voices.
 
-- {:.indent-2} Vive la Liberté.
+- {:.indent-2} Kill the Whites. Kill the Whites.
 
 
 - {:.speaker} Voices.
 
-- {:.indent-2} Kill the Whites. A mort les blancs.
-
-
-- {:.speaker} Voices.
-
-- {:.indent-2} Vive la liberté. Vive Toussaint.
+- {:.indent-2} Long live Freedom. Long live Toussaint.
 
 
 *(Des troupes défilent ... une forêt la nuit ; lueurs d'incendie au loin ... des cavaliers.)*
