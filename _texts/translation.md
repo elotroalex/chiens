@@ -493,9 +493,6 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 [10]({{site.baseurl}}/chiens/chiens/p010.html){:.pagetitle}
 
-
-
-
 - {:.speaker} Toussaint.
 
 - Ha, ha
@@ -518,7 +515,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 - and the mooring lanterns;
 - all sniffs
 - the hours ring
-- and spread out at the touch of my hands,
+- and spread out at the brush of my fingers,
 - the flames spread out.
 - Me too, I am a flame.
 - I spread out. I am the hour.
