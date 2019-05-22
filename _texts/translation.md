@@ -8,13 +8,17 @@ editor: Alex Gil
 
 ---
 
-The following is an English translation of my own [reading edition]({{site.baseurl}}/texts/reading/) and interpretation of the final authorial stage of the Saint-Dié witness (\~1943). My approach to translation is vulgar where it can be: If the original French has a particular effect on me, I bend English to achieve as much, or close. When I can't translate effect, I choose broad legible over arcane literal, and take liberties to make the English pop. 
+The following is an English translation of my own [reading edition]({{site.baseurl}}/texts/reading/) and interpretation of the final authorial stage of the Saint-Dié typescript. My approach to translation is vulgar where it can be: If the original French has a particular effect on me, I bend English to achieve as much, or close. When I can't translate effect, I choose broad legible over arcane literal—except in the case of Caribbean vocabularies—and take liberties to make the English pop.
 
-The drama depends on two tricky binaries: Black/White, and to a lesser extent, Man/Woman. Three temporalities complicate these binaries further: The unfolding drama is based on the Haitian Revolution; it was written for a Martinique audience during the Vichy regime; and, I'm translating for an era of re-ascendant fascism and an American audience knee-deep in our own anti-racist and anti-patriarchal struggle. Césaire's perennial "*négre*"—the rallying cry of Négritude—exemplifies these difficulties. The n-word in English is inexcusable—not least of which for historical or philological reasons—and is often found in translations of Césaire to provide a perverse excuse for white Americans to indulge in reading it out loud. I mostly chose variations of "black" to highlight the manichean core of the drama. I use "negro" in other cases when the speaker is paternalistic and racist, or ventriloquizing. This move is particularly useful during the scenes at Cap-Haïtien. For slightly different reasons, I translate the feminine *La Récitante*, which has no  equivalent in English, to The Narrator.
+The drama depends on two tricky binaries: Black/White, and to a lesser extent, Man/Woman. Three temporalities complicate these binaries further: The unfolding drama is based on the Haitian Revolution; it was written for a Martinique audience during the Vichy regime; and, I'm translating for an era of re-ascendant fascism and an American audience knee-deep in our own anti-racist and anti-patriarchal struggle. Césaire's perennial "*négre*"—the rallying cry of Négritude—exemplifies these difficulties. The n-word in English is inexcusable—not least of which for historical or philological reasons—and is often found in translations of Césaire to provide a perverse excuse for white Americans to indulge in reading it out loud. I mostly chose variations of "black" to highlight the manichean core of the drama. I use "negro" in other cases when the speaker is paternalistic and racist, or ventriloquizing. For slightly different reasons, I translate the feminine "*La Récitante*," which has no  equivalent in English, to "The Narrator." 
+
+<!-- I can do very little else for Césaire's suspicious feminizations and other tropes that may not sit well with contemporary audiences. I'll go half and half with Césaire on those.  -->
 
 <!-- Césaire's own condescensions are sometimes hard to ignore, but I softened, without erasing, certain arrogances where I thought it prudent—an honest, janus-faced betrayal.  -->
 
-Please note that the following text's subject-matter and imagery explore violence and truth in many guises and deserves *a strong warning* for vulnerable readers.
+---
+
+Please note that the following text's subject matter and imagery explore violence in many guises, including sexual violence.
 
 ---
 
@@ -66,7 +70,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Reciter.
 
-- I say this country, monster, devours.
+- I say this country devours, monstrously.
 
 <!-- - Je dis que ce pays, monstrueusement, dévore. -->
 
@@ -1226,7 +1230,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} My friends, I hoisted my flag made of chopped-off hands,
+- {:.indent-2} My friends, I hoisted my flag of lopped-off hands,
 - I shot my yellow-fever flares
 
 <!-- - {:.indent-2} Mes amis, j’ai hissé mon pavillon de mains coupées,
@@ -1244,9 +1248,10 @@ Please note that the following text's subject-matter and imagery explore violenc
 - Death jumps on them, like a torrent of wild horses, like a
 - flight of mosquitoes ...
 - Columbus, Columbus
-- you, so calm
+- you
+- the calm
 - when you set your first foot on this island, snapped like a rat-trap,
-- {:.prose} among the new signs, among the gods that your pride did not consent to confess, I know it, I feel it, you did not feel overcome with triumph, but with anguish, with uneasy anxiety, you the impregnable, caught leaking and tied up with the great silent creepers of fear, the great silent creepers of Repentance.
+- {:.prose} among the new signs, among the gods that your pride refused to confess, I know it, I feel it, you did not feel overcome with triumph, but with anguish, with uneasy anxiety, you the impregnable, caught leaking and tied up with the great silent creepers of fear, the great silent creepers of Repentance.
 
 <!-- - {:.indent-2} ... Et en effet, des catacombes essouflées de la Fin et du Commencement
 - la Mort s’élance vers eux, comme un torrent de chevaux fous, comme un
@@ -2904,7 +2909,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} All the bitterness and all the hope on the backs of my hands, in the palms of my star apple hands, will not console me.
+- {:.prose .prose-indent} All the bitterness and all the hope on the backs of my hands, in the palms of my caimito hands, will not console me.
 
 <!-- - {:.prose .prose-indent} Toutes les mordorures et tout l'espoir au dos des mains, au creux des mains des feuilles de caïmitiers ne me consoleront pas. -->
 
@@ -2916,43 +2921,63 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Chorus.
 
-- {:.prose .prose-indent} Tes palais sont magnifiques, ton peuple libre. L'île est une embarcation de pourpre, d'indigo, de cérat ; une fleur aphrodisiaque aux seins de safran.
+- {:.prose .prose-indent} Your palaces are magnificent, your people free. The island is a ship of purple, indigo, and cerate; an aphrodisiac flower with saffron breasts.
+
+<!-- - {:.prose .prose-indent} Tes palais sont magnifiques, ton peuple libre. L'île est une embarcation de pourpre, d'indigo, de cérat ; une fleur aphrodisiaque aux seins de safran. -->
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Mes palais, je les hais. Mon île-limite, est une prison, et je suis prisonnier.
+- {:.prose .prose-indent} My palaces, I hate them. My limit island is a prison, and I am a prisoner.
+
+<!-- - {:.prose .prose-indent} Mes palais, je les hais. Mon île-limite, est une prison, et je suis prisonnier. -->
 
 
 - {:.speaker} The Chorus.
 
-- {:.indent-2} J'entends de tout un peuple monter vers toi des hymnes.
-- {:.indent-2} Ta gloire chante aux pieds des murailles.
+- {: .indent-2} I hear a whole people sing their hymns to you.
+- {: .indent-2} Your glory sung next to the walls.
+
+<!-- - {:.indent-2} J'entends de tout un peuple monter vers toi des hymnes.
+- {:.indent-2} Ta gloire chante aux pieds des murailles. -->
 
 
 - {:.speaker} Toussaint.
 
-- J'ai capté dans l'espace d'extraordinaires messages ... pleins
-- {:.prose} de poignards, de nuits, de gémissements ; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, de petits jours étranges, l'engourdissement bu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur ...
+- I've caught extraordinary messages in the void ... full
+- {:.prose} of daggers, nights, moans; I hear above the praises a vast improvisation of tornadoes, sunbursts, curses, cooking stones, strange little days, numbness drunk with small sips, the red sex, the yellow sex, devouring, devourer ...
+
+<!-- - J'ai capté dans l'espace d'extraordinaires messages ... pleins
+- {:.prose} de poignards, de nuits, de gémissements ; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, de petits jours étranges, l'engourdissement bu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur ... -->
 
 
 - {:.speaker} The Chorus.
 
-- {:.prose .prose-indent} Saint-Domingue est heureuse : un oiseau sans peur jette son cri de flamme jeune dans le ventre chaud de la nuit.
+- {:.prose .prose-indent} Saint-Domingue is happy: a fearless bird casts its young flame in the warm belly of the night.
+
+<!-- - {:.prose .prose-indent} Saint-Domingue est heureuse : un oiseau sans peur jette son cri de flamme jeune dans le ventre chaud de la nuit. -->
 
 
 - {:.speaker} Toussaint.
 
-- ... un grand brasier de prunelles rouges et de crabes ...
+- ... a grand blaze of red eyes and crabs ...
+- {: .indent-2} seeding to see flies, palaver, bad memories
+- {: .indent-2} tracks, termites, fevers to heal, wrongs to straighten,
+- {: .indent-2} an alligator yawn
+- {: .indent-2} an immense injustice.
+
+<!-- - ... un grand brasier de prunelles rouges et de crabes ...
 - {:.indent-2} un ensemencement pour voir de mouches, de palabres, de mauvais souvenirs
 - {:.indent-2} de pistes, de termites, de fièvres-à-guérir, de torts à redresser,
 - {:.indent-2} un baillement d'alligator
-- {:.indent-2} une immense injustice.
+- {:.indent-2} une immense injustice. -->
 
 
 - {:.speaker} The Chorus.
 
-- Je sens des astres s'attendrir dans ma chair, des laitances, des lunes, des
+- I feel the stars softening in my flesh, roe, moons, the
+
+<!-- - Je sens des astres s'attendrir dans ma chair, des laitances, des lunes, des -->
 
 ---
 
@@ -2960,42 +2985,71 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 [52]({{site.baseurl}}/chiens/chiens/p052.html){:.pagetitle}
 
 
-- nénuphars.
+- water lilies.
+- {: .indent-2} We will muzzle the sea while listening to the farmers toil towards the rump
+- of fabulous mornings, in a sweetness of scandals and scum.
+
+
+<!-- - nénuphars.
 - {:.indent-2} On muselerait la mer en écoutant peiner les maraichers vers la croupe
-- fabuleuse des matins, dans une douceur de scandales et d'écume.
+- fabuleuse des matins, dans une douceur de scandales et d'écume. -->
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Assez de bonheur! les étranges mendiants aux faces de millésimes qui tantôt menacent tantot saluent les aubes
+- {: .prose} Enough happiness! strange beggars with vintage faces who now threaten now salute the dawns
+- It's me
+- every night a hunger wakes them up among the madrepore
+- a strong hunger for the sun and very ancient coins.
+- I turn to the unknown wind bursting with persecution
+- I am leaving
+- do not speak, do not laugh
+- Africa sleeps - do not talk, do not laugh. Africa bleeds my mother
+- Africa opens, shattered by the channel of vermin,
+- to the sterile invasion of the spermatozoa of rape!
+
+<!-- - {:.prose} Assez de bonheur! les étranges mendiants aux faces de millésimes qui tantôt menacent tantot saluent les aubes
 - c'est moi
 - une faim chaque nuit les réveille parmi le madrépore
-- une faim de soleil plus large et de pièces de monnaie très anciennes.
-- Je me tourne à nouveau vers le vent inconnu sailli de poursuites
+- une faim de soleil plus large et de pièces de monnaie très anciennes. -->
+<!-- - Je me tourne à nouveau vers le vent inconnu sailli de poursuites
 - Je m'en vais
 - ne parlez pas, ne riez pas
 - L'Afrique dort — ne parlez pas, ne riez pas. L'Afrique saigne ma mère
 - l'Afrique s'ouvre fracassée à une rigole de vermines,
-- à l'envahissement stérile des spermatozoïdes du viol!
+- à l'envahissement stérile des spermatozoïdes du viol! -->
 
 
 - {:.speaker} The Chorus.
 
-- {:.prose} Quel fil tendu par dessus les forêts, les fleuves, les marais, les langues et les fauves!
+- {: .prose} What a thread stretched over the forests, rivers, swamps, tongues and big cats!
+- I do not have the gift of theft.
+- I do not have a mother - I do not have a past.
+- I filled up to oblivion, dust and insults, the well
+- my navel's stepmother.
+
+<!-- - {:.prose} Quel fil tendu par dessus les forêts, les fleuves, les marais, les langues et les fauves!
 - Je n'ai pas le don du vol.
 - Je n'ai pas de mère — je n'ai pas de passé.
 - J'ai comblé jusqu'à l'oubli, de poussières et d'insultes, le puits
-- marâtre de mon nombril.
+- marâtre de mon nombril. -->
 
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Je ne renoncerai pas ... je ne renoncerai pas à moi-même.
+- {: .indent-2} I will not give up ... I will not give up on myself.
+- Africa, my innocence ...
+- Africa, my nudity ...
+- Make cities fall. Make laws or break them.
+- Kill or adore.
+- I'm out. Innocent, clean hands. I'm out.
+
+<!-- - {:.indent-2} Je ne renoncerai pas ... je ne renoncerai pas à moi-même.
 - Afrique, mon innocence ...
 - Afrique, ma nudité...
 - Faites tomber les villes. Faites des lois ou violez les.
 - Tuez ou adorez.
-- Je suis hors. Innocent, les mains nettes. Je suis hors.
+- Je suis hors. Innocent, les mains nettes. Je suis hors. -->
 
 ---
 
