@@ -14,7 +14,7 @@ The drama depends on two tricky binaries: Black/White, and to a lesser extent, M
 
 <!-- Césaire's own condescensions are sometimes hard to ignore, but I softened, without erasing, certain arrogances where I thought it prudent—an honest, janus-faced betrayal.  -->
 
-Please note that the following text's subject-matter and imagery explore violence and violent truth in many guises and deserves *a strong warning* for vulnerable readers.
+Please note that the following text's subject-matter and imagery explore violence and truth in many guises and deserves *a strong warning* for vulnerable readers.
 
 ---
 
@@ -132,30 +132,30 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Reciter.
 
-- {:.prose .prose-indent} Toussaint stands on the rumbling of the river... from the golden shore, a hundred warriors throw a hundred spears at him... Toussaint's chest is crescent with scars...  
+- {:.prose .prose-indent} Toussaint stands on the rumbling of the river ... from the golden shore, a hundred warriors throw a hundred spears at him ... Toussaint's chest is crescent with scars ...  
 
-<!-- - {:.prose .prose-indent} Toussaint est debout dans le grondement du fleuve... de la rive d’or cent guerriers lui lancent un cent sagaies... La poitrine de Toussaint est lunée de cicatrices... -->
+<!-- - {:.prose .prose-indent} Toussaint est debout dans le grondement du fleuve ... de la rive d’or cent guerriers lui lancent un cent sagaies ... La poitrine de Toussaint est lunée de cicatrices ... -->
 
 
 - {:.speaker} The Chorus.
 
-- {:.prose .prose-indent} Saint-Marc yields... the proud... its walls crumble... our horses sniff the air's blend of gunpowder and drum. 
+- {:.prose .prose-indent} Saint-Marc yields ... the proud ... its walls crumble ... our horses sniff the air's blend of gunpowder and drum. 
 
-<!-- - {:.prose .prose-indent} Saint-Marc cède... la fière... ses murailles s’écroulent... nos chevaux hument l’air mêlé de poudre et de tambour. -->
+<!-- - {:.prose .prose-indent} Saint-Marc cède ... la fière ... ses murailles s’écroulent ... nos chevaux hument l’air mêlé de poudre et de tambour. -->
 
 
 - {:.speaker} The Narrator.
 
-- {:.prose .prose-indent} Toussaint, Toussaint, the day of trials has arrived... He comes... the king's messenger... he glides... his mouth full of promises... the serpent hisses... hisses... He holds Toussaint on the tip of his tongue...
+- {:.prose .prose-indent} Toussaint, Toussaint, the day of trials has arrived ... He comes ... the king's messenger ... he glides ... his mouth full of promises ... the serpent hisses ... hisses ... He holds Toussaint on the tip of his tongue ...
 
-<!-- - {:.prose .prose-indent} Toussaint, Toussaint, c’est le jour de l’épreuve... Il vient... le messager du roi... il glisse... sa bouche pleine de promesses... le serpent siffle... siffle... Il tient Toussaint au bout de sa langue... -->
+<!-- - {:.prose .prose-indent} Toussaint, Toussaint, c’est le jour de l’épreuve ... Il vient ... le messager du roi ... il glisse ... sa bouche pleine de promesses ... le serpent siffle ... siffle ... Il tient Toussaint au bout de sa langue ... -->
 
 
 - {:.speaker} The Chorus.
 
-- {:.prose .prose-indent} Toussaint alone has taken the path of war. Everything was quiet. The canons and muskets were quiet. Toussaint is naked... The shield of braided straw on his left hand... He stops... He crawls... He freezes, a knee on the ground... His torso flips like a wall... The spear is raised...
+- {:.prose .prose-indent} Toussaint alone has taken the path of war. Everything was quiet. The canons and muskets were quiet. Toussaint is naked ... The shield of braided straw on his left hand ... He stops ... He crawls ... He freezes, a knee on the ground ... His torso flips like a wall ... The spear is raised ...
 
-<!-- - {:.prose .prose-indent} Toussaint a pris tout seul le sentier de la guerre. Tout s’est tu. Fusils et canons se sont tus. Toussaint est nu... Le bouclier de paille tressée est à sa main gauche... Il s’arrête... Il rampe... Il s’immobilise un genou en terre... Le torse est renversé comme une muraille... La sagaie est levée... -->
+<!-- - {:.prose .prose-indent} Toussaint a pris tout seul le sentier de la guerre. Tout s’est tu. Fusils et canons se sont tus. Toussaint est nu ... Le bouclier de paille tressée est à sa main gauche ... Il s’arrête ... Il rampe ... Il s’immobilise un genou en terre ... Le torse est renversé comme une muraille ... La sagaie est levée ... -->
 
 *(At this moment an extravagant procession invades the scene: pilgrims, horses, dogs. Scents of musk and benzoin.)*
 
@@ -179,7 +179,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 - of sky muslin, of irresistible desires,
 - my moist voices roll out streams
 - of fearless doves on pebbles
-- of jasper and ecbatana...
+- of jasper and ecbatana ...
 
 <!-- - Ma voix froisse des mots de soie,
 - ma voix souffle en ombelles des panaches,
@@ -190,7 +190,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 - de mousseline de ciel, de désirs sans parade,
 - mes voix humides roulent des ruisseaux
 - de colombes sans effroi sur des galets
-- de jaspe et d’ecbatane... -->
+- de jaspe et d’ecbatane ... -->
 
 
 - {:.speaker} Toussaint.
@@ -209,15 +209,15 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} I say that the Republic has rung the world a new swing by hammering three golden words...
+- {:.prose .prose-indent} I say that the Republic has rung the world a new swing by hammering three golden words ...
 
-<!-- - {:.prose .prose-indent} Je dis que la République a cloché un branle nouveau au monde en heurtant trois mots d’or... -->
+<!-- - {:.prose .prose-indent} Je dis que la République a cloché un branle nouveau au monde en heurtant trois mots d’or ... -->
 
 - {:.speaker} Second Voice of Temptation.
 
-- {:.prose .prose-indent} Ha, ha, ha. Words, nothing but words—not only three; a thousand words, Toussaint... My dear friend, do you want money? Titles? Land? Would you like to be field marshall? Grandee of Spain? King... that's it... you will be King... I swear you will be King.
+- {:.prose .prose-indent} Ha, ha, ha. Words, nothing but words—not only three; a thousand words, Toussaint ... My dear friend, do you want money? Titles? Land? Would you like to be field marshall? Grandee of Spain? King ... that's it ... you will be King ... I swear you will be King.
 
-<!-- - {:.prose .prose-indent} Ha, ha, ha. Des mots, rien que des mots : pas trois ; mille mots Toussaint... O mon ami,  veux-tu de l’argent ? des titres ? de la terre ? Veux-tu être maréchal de camp ? Grand d’Espagne ? Roi... c’est ça... tu seras Roi... je jure que tu seras Roi. -->
+<!-- - {:.prose .prose-indent} Ha, ha, ha. Des mots, rien que des mots : pas trois ; mille mots Toussaint ... O mon ami,  veux-tu de l’argent ? des titres ? de la terre ? Veux-tu être maréchal de camp ? Grand d’Espagne ? Roi ... c’est ça ... tu seras Roi ... je jure que tu seras Roi. -->
 
 ---
 
@@ -241,9 +241,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} Third Voice of Temptation.
 
-- {:.prose .prose-indent} ... A king. What an adventure. And it's true that something in you could never be subjected: a rage, a desire, a sadness, an impatience, a contempt, in a nutshell, a violence... And here your veins carry gold, not mud; pride, not servitude. King, you were once king...
+- {:.prose .prose-indent} ... A king. What an adventure. And it's true that something in you could never be subjected: a rage, a desire, a sadness, an impatience, a contempt, in a nutshell, a violence ... And here your veins carry gold, not mud; pride, not servitude. King, you were once king ...
 
-<!-- - {:.prose .prose-indent} ... Un roi. Quelle aventure. Et c’est vrai qu’il y a quelque chose en toi qui n’a jamais pu se soumettre, une colère, un désir, une tristesse, une impatience, un mépris enfin, une violence... Et voilà tes veines charrient de l’or, non de la boue, de l’orgueil, non de la servitude. Roi, tu as été roi jadis... -->
+<!-- - {:.prose .prose-indent} ... Un roi. Quelle aventure. Et c’est vrai qu’il y a quelque chose en toi qui n’a jamais pu se soumettre, une colère, un désir, une tristesse, une impatience, un mépris enfin, une violence ... Et voilà tes veines charrient de l’or, non de la boue, de l’orgueil, non de la servitude. Roi, tu as été roi jadis ... -->
 
 
 - {:.speaker} Toussaint.
@@ -330,20 +330,17 @@ Please note that the following text's subject-matter and imagery explore violenc
 - all mirages and mountaingems
 - cannot lull to amnesic sleep
 - the fire blast, the spoils of blood, the steel song
-- fraternal abysses of the roses of Jericho... 
+- fraternal abysses of the roses of Jericho ... 
 
 <!-- - Martinique, Jamaïque,
 - tous les mirages et tous les lampornis
 - ne peuvent faire sonner d’oubli dormant
 - le coup de feu, le sang gaché, le chant d’acier
-- abîmes fraternels des roses de Jéricho... -->
+- abîmes fraternels des roses de Jéricho ... -->
 
 ---
 
 [7]({{site.baseurl}}/chiens/chiens/p007.html){:.pagetitle}
-
-
-
 
 - {:.speaker} The Chorus.
 
@@ -421,9 +418,6 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 [8]({{site.baseurl}}/chiens/chiens/p008.html){:.pagetitle}
 
-
-
-
 - {:.prose .prose-indent} And I am young. I am plush with youth, with a childhood prior to doors and windows, with a childhood of libations and offerings over my eyes, over the hours. A dry lake hangs on my cheek, but it weeps for the trees of Judea bathed in crocuses and
 - anemones
 - I am naked.
@@ -448,10 +442,10 @@ Please note that the following text's subject-matter and imagery explore violenc
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} I am not an octopus. I won't spit night and ink on the face of the night.
-- Do you see now?...
+- Do you see now? ...
 
 <!-- - {:.prose .prose-indent} Je ne suis pas un poulpe. Je ne cracherai pas de la nuit et de l’encre au visage de la nuit.
-- Tu vois encore ?... -->
+- Tu vois encore ? ... -->
 
 
 - {:.speaker} The Narrator.
@@ -471,9 +465,6 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 [9]({{site.baseurl}}/chiens/chiens/p009.html){:.pagetitle}
 
-
-
-
 - {:.speaker} The Narrator.
 
 - {:.indent-2} Nothing remains but a lost man,
@@ -485,17 +476,17 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Thank you, my sister... a prayer that he will not sell... my cobra prayer... my eel prayer in the forests of the sea... my cactus milk prayer in the halls of the sky.
+- {:.prose .prose-indent} Thank you, my sister ... a prayer that he will not sell ... my cobra prayer ... my eel prayer in the forests of the sea ... my cactus milk prayer in the halls of the sky.
 
-<!-- - {:.prose .prose-indent} Merci, ma sœur... une prière qu’il ne vendra pas... ma prière de cobra... ma prière de murène dans les forêts de la mer... ma prière de lait de cactus dans les halliers du ciel... -->
+<!-- - {:.prose .prose-indent} Merci, ma sœur ... une prière qu’il ne vendra pas ... ma prière de cobra ... ma prière de murène dans les forêts de la mer ... ma prière de lait de cactus dans les halliers du ciel ... -->
 
 
 - {:.speaker} The Narrator.
 
-- {:.indent-2} ... I did see, and the bridges have fallen...
+- {:.indent-2} ... I did see, and the bridges have fallen ...
 - The stars have unleashed their scars of sand.
 
-<!-- - {:.indent-2} ... J’ai regardé et les ponts sont coupés...
+<!-- - {:.indent-2} ... J’ai regardé et les ponts sont coupés ...
 - Les étoiles ont débridé leurs cicatrices de sable. -->
 
 ---
@@ -516,7 +507,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 - Nothing in the ground's churn and the
 - Convulsive heckling of plants?
 - Nothing in the sea, really?
-- I see... I hear... I will talk...
+- I see ... I hear ... I will talk ...
 - Oh, the vampire sun sucks my blood again,
 - Oh, the corsair night assaults my rock
 - and my dawn farts below their faces
@@ -543,7 +534,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 - Rien parmi le barattement de la terre et le
 - Convulsif chahut végétal ?
 - Rien dans la mer, n’est-ce pas ?
-- Je vois... j’entends... je parlerai...
+- Je vois ... j’entends ... je parlerai ...
 - O succion nouvelle de mon sang par le soleil
 - vampire,
 - O assaut de mon roc par la nuit corsaire
@@ -572,23 +563,23 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Chorus.
 
-- {:.prose .prose-indent} My eye gleams with sovereign visions... Toussaint makes his solemn entry into Santo Domingo... The cabildo hands him the keys to the city.
+- {:.prose .prose-indent} My eye gleams with sovereign visions ... Toussaint makes his solemn entry into Santo Domingo ... The cabildo hands him the keys to the city.
 
-<!-- - {:.prose .prose-indent} Mon œuil se dore de visions souveraines... Toussaint fait son entrée solennelle à Santo Domingo... Le cabido lui remet les clefs de la ville. -->
+<!-- - {:.prose .prose-indent} Mon œuil se dore de visions souveraines ... Toussaint fait son entrée solennelle à Santo Domingo ... Le cabido lui remet les clefs de la ville. -->
 
 
 - {:.speaker} The Reciter.
 
-- It rains...
+- It rains ...
 
-<!-- - Il pleut... -->
+<!-- - Il pleut ... -->
 
 
 - {:.speaker} The Chorus.
 
-- {:.prose .prose-indent} Toussaint's wishes are commands... He orders and legislates.
+- {:.prose .prose-indent} Toussaint's wishes are commands ... He orders and legislates.
 
-<!-- - {:.prose .prose-indent} Les désirs de Toussaint sont des ordres... Il commande et légifère. -->
+<!-- - {:.prose .prose-indent} Les désirs de Toussaint sont des ordres ... Il commande et légifère. -->
 
 
 - {:.speaker} The Reciter.
@@ -600,30 +591,30 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Chorus.
 
-- {:.prose .prose-indent} Toussaint is king... He may not have the title, but he is surely king... a true Lamido... here is his guard... the silver helmets ignite at dusk.
+- {:.prose .prose-indent} Toussaint is king ... He may not have the title, but he is surely king ... a true Lamido ... here is his guard ... the silver helmets ignite at dusk.
 
-<!-- - {:.prose .prose-indent} Toussaint est roi... Il n’en a pas le titre, mais bien sûr qu’il est roi... un vrai lamido... voici sa garde... les casques d’argent s’enflamment au crépuscule. -->
+<!-- - {:.prose .prose-indent} Toussaint est roi ... Il n’en a pas le titre, mais bien sûr qu’il est roi ... un vrai lamido ... voici sa garde ... les casques d’argent s’enflamment au crépuscule. -->
 
 
 - {:.speaker} The Reciter.
 
-- The king is cold... The king shivers... The king coughs.
+- The king is cold ... The king shivers ... The king coughs.
 
-<!-- - Le roi a froid... le roi grelotte... Le roi tousse. -->
+<!-- - Le roi a froid ... le roi grelotte ... Le roi tousse. -->
 
 
 - {:.speaker} The Narrator.
 
-- {:.prose .prose-indent} Alas. Alas. Spider Europe stirs its legs and phalange of ships... Alas. Alas.
+- {:.prose .prose-indent} Alas. Alas. Spider Europe stirs its legs and phalange of ships ... Alas. Alas.
 
-<!-- - {:.prose .prose-indent} Hélas. Hélas. L’Europe arachnéenne bouge ses doigts et ses phalanges de navires... Hélas. Hélas. -->
+<!-- - {:.prose .prose-indent} Hélas. Hélas. L’Europe arachnéenne bouge ses doigts et ses phalanges de navires ... Hélas. Hélas. -->
 
 
 - {:.speaker} The Chorus.
 
-- {:.prose .prose-indent} My memories become delirious with incense and bells... The blue Niger... The golden Congo... The sandy Logone... a gallop of antelopes ... and millet pounders in the cobalt eve.
+- {:.prose .prose-indent} My memories become delirious with incense and bells ... The blue Niger ... The golden Congo ... The sandy Logone ... a gallop of antelopes ... and millet pounders in the cobalt eve.
 
-<!-- - {:.prose .prose-indent} Mes souvenirs délirent d'encens et de cloches... Le Niger bleu... Le Congo d’or... Le Logone sablonneux... un galop de bubales... et les pileuses de millet dans le soir de cobalt. -->
+<!-- - {:.prose .prose-indent} Mes souvenirs délirent d'encens et de cloches ... Le Niger bleu ... Le Congo d’or ... Le Logone sablonneux ... un galop de bubales ... et les pileuses de millet dans le soir de cobalt. -->
 
 ---
 
@@ -634,9 +625,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Reciter.
 
-- {:.prose .prose-indent} My memories bellow the kidnapping... the shackle... the trail in the forest... the barracks... the slave ship...
+- {:.prose .prose-indent} My memories bellow the kidnapping ... the shackle ... the trail in the forest ... the barracks ... the slave ship ...
 
-<!-- - {:.prose .prose-indent} Mes souvenirs brâment le rapt... le carcan... la piste dans la forêt... le barracoun... le négrier... -->
+<!-- - {:.prose .prose-indent} Mes souvenirs brâment le rapt ... le carcan ... la piste dans la forêt ... le barracoun ... le négrier ... -->
 
 
 - {:.speaker} The Chorus.
@@ -650,25 +641,25 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.prose .prose-indent} I was awakened from my grand dream of violet seas and chocolate earth, and I saw a small man arrive this side of the clove trees. He turned the sky black, his face a peat bog cut with dragonflies.
 
-<!-- - {:.prose .prose-indent} J’ai été réveillé de mon grand rêve de mer violette et de terre chocolat et j’ai vu venir du côté des girofliers un homme petit. Il noircissait le ciel d’une face de tourbière coupée de libellules... -->
+<!-- - {:.prose .prose-indent} J’ai été réveillé de mon grand rêve de mer violette et de terre chocolat et j’ai vu venir du côté des girofliers un homme petit. Il noircissait le ciel d’une face de tourbière coupée de libellules ... -->
 
 
 - {:.speaker} The Reciter.
 
-- {:.prose .prose-indent} You have heard... You have heard... Toussaint comes. Toussaint puts his feet on the ground... Toussaint begins his climb up the staircase. Toussaint crosses the first step. He mounts the second. Toussaint is on the perron. Step by step, Toussaint sets foot on the ditch cloaked in slippery smiles...
+- {:.prose .prose-indent} You have heard ... You have heard ... Toussaint comes. Toussaint puts his feet on the ground ... Toussaint begins his climb up the staircase. Toussaint crosses the first step. He mounts the second. Toussaint is on the perron. Step by step, Toussaint sets foot on the ditch cloaked in slippery smiles ...
 
-<!-- - {:.prose .prose-indent} Vous avez entendu... Vous avez entendu... Toussaint arrive. Toussaint met pied à terre... Toussaint monte l’escalier. Toussaint franchit la première marche. Il en est à la 2e. Toussaint est sur le perron. Pas après pas, Toussaint a mis le pied dans la fosse camouflée de sourires glissants... -->
+<!-- - {:.prose .prose-indent} Vous avez entendu ... Vous avez entendu ... Toussaint arrive. Toussaint met pied à terre ... Toussaint monte l’escalier. Toussaint franchit la première marche. Il en est à la 2e. Toussaint est sur le perron. Pas après pas, Toussaint a mis le pied dans la fosse camouflée de sourires glissants ... -->
 
 
 - {:.speaker} Toussaint.
 
 - {:.indent-2} You won't stop me from speaking to my friends without eclipse
-- Fat moon, bad weed, sycamore, sycamore...
+- Fat moon, bad weed, sycamore, sycamore ...
 - These are my loves, here are my hates
 - and my voice a wise child at the edge of your alcove.
 
 <!-- - {:.indent-2} Vous ne m’empècherez pas de parler à mes amis sans éclipse
-- lune grasse, mauvaise herbe, sycomore, sycomore...
+- lune grasse, mauvaise herbe, sycomore, sycomore ...
 - Voici mes amours, voici mes haines
 - et ma voix très sage enfant au bord de votre alcôve. -->
 
@@ -809,14 +800,14 @@ Please note that the following text's subject-matter and imagery explore violenc
 - I'll acquaint this land with its secret demons
 - I'll light up the craters with cymbals and heloderma
 - the symphonies of an unknown hell, splendid
-- infested with haughty nostalgias...
+- infested with haughty nostalgias ...
 
 <!-- - {:.indent-2} j’amenerai ce pays à la connaissance
 - de lui-même,
 - je&nbsp;familiariserai cette terre avec ses démons secrets
 - j’allumerai aux cratères d’hélodermes et de cymbales
 - les symphonies d’un enfer inconnu, splendide
-- parasité de nostalgies hautaines... -->
+- parasité de nostalgies hautaines ... -->
 
 
 - {:.speaker} The Chorus.
@@ -1098,7 +1089,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.prose .prose-indent} Ah. I pity you, lost souls. The world's centuries over your cannibal youth, devoid of hope or despair.
 
-<!-- - {:.prose .prose-indent} Ah. Je vous plains âmes gachées. Toute la vieillesse du monde sur votre jeunesse cannibale, sans espoir ni désespoir... -->
+<!-- - {:.prose .prose-indent} Ah. Je vous plains âmes gachées. Toute la vieillesse du monde sur votre jeunesse cannibale, sans espoir ni désespoir ... -->
 
 
 - {:.speaker} The Crowd.
@@ -1144,21 +1135,21 @@ Please note that the following text's subject-matter and imagery explore violenc
 - {:.prose} The mountains will tremble like a tooth caught between a pair of forceps, the stars will crash on the ground their pregnant-woman forehead.
 
 <!-- - {:.indent-2} Vive la vengeance. Vive la liberté.
-- {:.prose} Les montagnes trembleront comme une dent prise au davier, les étoiles écraseront contre terre leur front de femme enceinte... -->
+- {:.prose} Les montagnes trembleront comme une dent prise au davier, les étoiles écraseront contre terre leur front de femme enceinte ... -->
 
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Listen to him... listen to him...
+- {:.indent-2} Listen to him ... listen to him ...
 
-<!-- - {:.indent-2} Ecoutez-le... Ecoutez-le... -->
+<!-- - {:.indent-2} Ecoutez-le ... Ecoutez-le ... -->
 
 
 - {:.speaker} Toussaint.
 
 - {:.prose} ... come nighttime, the still suns will grow massive, catastrophic coconut trees.
 
-<!-- - {:.prose} ... les soleils arrêtés, feront de nuit, d’immenses cocotiers catastrophiques... -->
+<!-- - {:.prose} ... les soleils arrêtés, feront de nuit, d’immenses cocotiers catastrophiques ... -->
 
 ---
 
@@ -1176,7 +1167,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Ah! You won't quit me so easy, not without first hearing the bite of my tongue on your imbecile souls.
-- You can be certain of it, I follow you like pray...
+- You can be certain of it, I follow you like pray ...
 - and I see you and I uncover you in the middle of your
 - lies and your cowardice;
 - proud minions
@@ -1187,12 +1178,12 @@ Please note that the following text's subject-matter and imagery explore violenc
 - condemned to live head-to-head with rank stupidity
 - with nothing to make your blood boil
 - other than to chug half a glass of your Caribbean
-- rum...
+- rum ...
 - Codfish souls. 
 
 <!-- 
 - {:.prose .prose-indent} Ah! vous ne partirez pas, que vous n’ayez senti la morsure de mes mots sur vos âmes imbéciles.
-- Car sachez-le, je vous épie comme ma proie...
+- Car sachez-le, je vous épie comme ma proie ...
 - et je vous regarde et je vous dévêts au milieu de vos
 - mensonges et de vos lachetés ;
 - larbins fiers
@@ -1203,7 +1194,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 - condamnés à vivre en tête à tête avec la stupidité empuantie
 - sans autre chose qui vous tienne chaud au sang
 - que de regarder glouter jusqu’à mi-verre, votre rhum
-- antillais...
+- antillais ...
 - Âmes de morue. -->
 
 
@@ -1242,7 +1233,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 - I shot my yellow-fever flares
 
 <!-- - {:.indent-2} Mes amis, j’ai hissé mon pavillon de mains coupées,
-- j’ai lancé mes fusées de fièvre jaune... -->
+- j’ai lancé mes fusées de fièvre jaune ... -->
 
 
 - {:.speaker} The Crowd.
@@ -1254,7 +1245,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.indent-2} ... And in fact, the breathless catacombs of the End and the Beginning
 - Death jumps on them, like a torrent of wild horses, like a
-- flight of mosquitoes...
+- flight of mosquitoes ...
 - Columbus, Columbus
 - you, so calm
 - when you set your first foot on this island, snapped like a rat-trap,
@@ -1262,7 +1253,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 <!-- - {:.indent-2} ... Et en effet, des catacombes essouflées de la Fin et du Commencement
 - la Mort s’élance vers eux, comme un torrent de chevaux fous, comme un
-- vol de moustiques...
+- vol de moustiques ...
 - Colomb, Colomb
 - toi si tranquille
 - quand tu fis le premier pas dans cette île close comme une ratière,
@@ -1271,7 +1262,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Crowd.
 
-- {:.prose .prose-indent} Kill the Whites. Kill the Whites. Long live Toussaint. Long live Toussaint. Kill the Whites...
+- {:.prose .prose-indent} Kill the Whites. Kill the Whites. Long live Toussaint. Long live Toussaint. Kill the Whites ...
 
 - {:.speaker} Toussaint.
 
@@ -1293,9 +1284,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Narrator.
 
-- {:.prose .prose-indent} The ash... the dream... black water... famished, famished... two burning hands on the plate of the sun...
+- {:.prose .prose-indent} The ash ... the dream ... black water ... famished, famished ... two burning hands on the plate of the sun ...
 
-<!-- - {:.prose .prose-indent} La cendre... le songe... eau noire... affamés, affamés... deux mains brûlantes dans l’assiette du soleil... -->
+<!-- - {:.prose .prose-indent} La cendre ... le songe ... eau noire ... affamés, affamés ... deux mains brûlantes dans l’assiette du soleil ... -->
 
 - {:.speaker} The Reciter *(very calm.)*
 
@@ -1365,12 +1356,12 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 *(The mother appears at the front door, very pale)*
 
-- {:.prose .prose-indent} Children... come inside... come inside... I'm afraid.
+- {:.prose .prose-indent} Children ... come inside ... come inside ... I'm afraid.
 
 
 <!-- *(La mère parait sur le pas de la porte, très pâle.)*
 
-- {:.prose .prose-indent} Mes enfants... rentrez... rentrez vite... j’ai peur. -->
+- {:.prose .prose-indent} Mes enfants ... rentrez ... rentrez vite ... j’ai peur. -->
 
 
 - {:.speaker} The Reciter.
@@ -1422,7 +1413,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.prose .prose-indent} Our presence alone signals how earnest is our desire to reconcile. We have silenced in our hearts the natural indignation aroused by the memory of so many acts of cruelty. And we have swept under the rug all of our repugnance and repulsion, all of the habits that our philosophical minds call prevention or prejudice, and which are nonetheless binding forces in our colonial societies ...
 
-<!-- - {:.prose .prose-indent} Notre seule présence ici suffit à montrer combien grand est notre désir de conciliation. Nous avons fait taire en nos cœurs la naturelle indignation qu'y suscite le souvenir de tant d’actes de cruauté. Et nous avons fait table rase de toutes nos répugnances et répulsions, de toutes les habitudes que nos esprits philosophes appellent prévention ou préjugés et qui n’en sont pas moins des forces contraignantes dans nos societés coloniales... -->
+<!-- - {:.prose .prose-indent} Notre seule présence ici suffit à montrer combien grand est notre désir de conciliation. Nous avons fait taire en nos cœurs la naturelle indignation qu'y suscite le souvenir de tant d’actes de cruauté. Et nous avons fait table rase de toutes nos répugnances et répulsions, de toutes les habitudes que nos esprits philosophes appellent prévention ou préjugés et qui n’en sont pas moins des forces contraignantes dans nos societés coloniales ... -->
 
 
 ---
@@ -1504,9 +1495,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} 1st Deputy.
 
-- {:.prose .prose-indent} My dear friends... I know that you are tired of this war. Your children are hungry.
+- {:.prose .prose-indent} My dear friends ... I know that you are tired of this war. Your children are hungry.
 
-<!-- - {:.prose .prose-indent} Mes chers amis... Je sais que vous en avez assez de cette guerre, vos enfants ont faim. -->
+<!-- - {:.prose .prose-indent} Mes chers amis ... Je sais que vous en avez assez de cette guerre, vos enfants ont faim. -->
 
 
 - {:.speaker} Voices.
@@ -1544,10 +1535,10 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Crowd.
 
-- {:.indent-2} Listen to the Whites. Don't listen to them. Peace. Peace. Kill them... kill them.
+- {:.indent-2} Listen to the Whites. Don't listen to them. Peace. Peace. Kill them ... kill them.
 - ...
 
-<!-- - {:.indent-2} Ecoutez les blancs. Ne les écoutez pas. Paix. Paix. A mort... à mort.
+<!-- - {:.indent-2} Ecoutez les blancs. Ne les écoutez pas. Paix. Paix. A mort ... à mort.
 - ...
  -->
 ---
@@ -1558,9 +1549,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Comrades, you heard them; with your own ears you heard. They are so gentle and benevolent, they offered your leaders to abandon you; they have come to bribe us... they have come to ask us to betray you. 
+- {:.prose .prose-indent} Comrades, you heard them; with your own ears you heard. They are so gentle and benevolent, they offered your leaders to abandon you; they have come to bribe us ... they have come to ask us to betray you. 
 
-<!-- - {:.prose .prose-indent} Camarades, vous les avez entendus ; de vos propres oreilles, entendus. Comme ils sont bien gentils et bien conciliants, alors ils sont venus proposer à vos chefs de vous lâcher ; ils sont venus proposer à vos chefs de se vendre... Ils sont venus nous demander de vous trahir. -->
+<!-- - {:.prose .prose-indent} Camarades, vous les avez entendus ; de vos propres oreilles, entendus. Comme ils sont bien gentils et bien conciliants, alors ils sont venus proposer à vos chefs de vous lâcher ; ils sont venus proposer à vos chefs de se vendre ... Ils sont venus nous demander de vous trahir. -->
 
 
 - {:.speaker} The Crowd.
@@ -1624,9 +1615,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} We are not done here, comrades... Who will bring to the rest of the Whites our fancy response?... Yes... Deaf and blind, their ambassadors sail through hell. Who then, and with what words will knot coarse fear in viscera?
+- {:.prose .prose-indent} We are not done here, comrades ... Who will bring to the rest of the Whites our fancy response? ... Yes ... Deaf and blind, their ambassadors sail through hell. Who then, and with what words will knot coarse fear in viscera?
 
-<!-- - {:.prose .prose-indent} Tout n’est pas fini camarades... Qui portera aux blancs notre réponse flamboyante ?.. Oui... Aveugles et sourds, leurs ambassadeurs naviguent du côté de l’enfer. Qui ira, et par quelles paroles nouer en d’autres viscères la peur terreuse ? -->
+<!-- - {:.prose .prose-indent} Tout n’est pas fini camarades ... Qui portera aux blancs notre réponse flamboyante ?.. Oui ... Aveugles et sourds, leurs ambassadeurs naviguent du côté de l’enfer. Qui ira, et par quelles paroles nouer en d’autres viscères la peur terreuse ? -->
 
 
 - {:.speaker} Voices.
@@ -1643,9 +1634,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} Toussaint.
 
-- Good, comrades... right away... All of us, onward, and no mercy.
+- Good, comrades ... right away ... All of us, onward, and no mercy.
 
-<!-- - {:.prose .prose-indent} C’est bien camarades... Tout de suite... Nous tous en avant et pas de quartier. -->
+<!-- - {:.prose .prose-indent} C’est bien camarades ... Tout de suite ... Nous tous en avant et pas de quartier. -->
  
 *(The detachments break off with frantic cries)*
 
@@ -1661,9 +1652,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Reciter.
 
-- {:.prose .prose-indent} A whistle... The Blacks come out of the bushes with a great clamor. The machetes fall and rise and fall in the reel of exasperation.
+- {:.prose .prose-indent} A whistle ... The Blacks come out of the bushes with a great clamor. The machetes fall and rise and fall in the reel of exasperation.
 
-<!-- - {:.prose .prose-indent} Un coup de sifflet... Les nègres sortent des broussailles avec une grande clameur. Les coutelas s’abattent et se relèvent et s’abattent dans le moulinet de l’exaspération. -->
+<!-- - {:.prose .prose-indent} Un coup de sifflet ... Les nègres sortent des broussailles avec une grande clameur. Les coutelas s’abattent et se relèvent et s’abattent dans le moulinet de l’exaspération. -->
 
 
 - {:.speaker} The Narrator.
@@ -1703,23 +1694,23 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Chorus.
 
-- {:.prose .prose-indent} And they sold us like beasts, and counted our teeth... and tested our balls, and examined the tear-and-wear of our skins, and pinched us and weighed us and double-checked, and hung the collar of servitude and insult on our necks like tamed beasts.
+- {:.prose .prose-indent} And they sold us like beasts, and counted our teeth ... and tested our balls, and examined the tear-and-wear of our skins, and pinched us and weighed us and double-checked, and hung the collar of servitude and insult on our necks like tamed beasts.
 
-<!-- - {:.prose .prose-indent} Et l’on nous vendait comme des bêtes et l’on nous comptait les dents... et l’on nous tâtait les bourses et l’on examinait le cati ou décati de notre peau et l’on nous palpait et pesait et soupesait et l’on passait à notre cou de bête domptée, le collier de la servitude et du sobriquet. -->
+<!-- - {:.prose .prose-indent} Et l’on nous vendait comme des bêtes et l’on nous comptait les dents ... et l’on nous tâtait les bourses et l’on examinait le cati ou décati de notre peau et l’on nous palpait et pesait et soupesait et l’on passait à notre cou de bête domptée, le collier de la servitude et du sobriquet. -->
 
 
 - {:.speaker} The Reciter.
 
 - {:.prose .prose-indent} The wind has lifted. The savannahs split in the glory of wild plumes ... I hear the children cry ... in the master's house.
 
-<!-- - {:.prose .prose-indent} Le vent s’est levé, les savanes se fendent dans&nbsp;une gloire de panaches folles... J’entends des cris d’enfants...dans la maison du maitre. -->
+<!-- - {:.prose .prose-indent} Le vent s’est levé, les savanes se fendent dans&nbsp;une gloire de panaches folles ... J’entends des cris d’enfants ...dans la maison du maitre. -->
 
 
 - {:.speaker} The Chorus.
 
 - {:.prose .prose-indent} I hear the children cry in the black hut ... and their small stony bellies, punctuated in the center by enormous navels, swollen with famine and black porridge made of earth and tears and snot and urine.
 
-<!-- - {:.prose .prose-indent} J’entends des cris d’enfants dans la case noire... et le petits ventres pierreux pommés en leur mitan du nombril énorme se gonflent de famine et du noir migan de la terre et des larmes et de la morve et de l’urine. -->
+<!-- - {:.prose .prose-indent} J’entends des cris d’enfants dans la case noire ... et le petits ventres pierreux pommés en leur mitan du nombril énorme se gonflent de famine et du noir migan de la terre et des larmes et de la morve et de l’urine. -->
 
 ---
 
@@ -1743,16 +1734,16 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Reciter.
 
-- {:.prose .prose-indent} I sing the salty act of the harpooner, and the whale has blown for the last time...
+- {:.prose .prose-indent} I sing the salty act of the harpooner, and the whale has blown for the last time ...
 
-<!-- - {:.prose .prose-indent} Je chante le geste salé du harponneur et la baleine a soufflé pour la dernière fois... -->
+<!-- - {:.prose .prose-indent} Je chante le geste salé du harponneur et la baleine a soufflé pour la dernière fois ... -->
 
 
 - {:.speaker} The Chorus.
 
-- {:.prose .prose-indent} A bird and its smile ... a ship and its roots... the horizon and its precious gemstones... a girl with a grassy smile shreds to fine larks the wine of days, the stone of nights. 
+- {:.prose .prose-indent} A bird and its smile ... a ship and its roots ... the horizon and its precious gemstones ... a girl with a grassy smile shreds to fine larks the wine of days, the stone of nights. 
 
-<!-- - {:.prose .prose-indent} Un oiseau et son sourire... un navire et ses racines... l’horizon et ses cheveux de pierres précieuses... une jeune fille au sourire d’herbe déchire en fines alouettes le vin des jours, la pierre des nuits... -->
+<!-- - {:.prose .prose-indent} Un oiseau et son sourire ... un navire et ses racines ... l’horizon et ses cheveux de pierres précieuses ... une jeune fille au sourire d’herbe déchire en fines alouettes le vin des jours, la pierre des nuits ... -->
 
 ---
 
@@ -1825,7 +1816,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.prose .prose-indent} Silence, gentlemen. Sadly, this is not all. While the rebellion consumes the Cap, bringing with it fire and screams and Voudou, here in the city, you're ignoring the voice of wisdom. We attack the slaves who have remained faithful. We attack the free men of color. Several of them have already been massacred.
 
-<!-- - {:.prose .prose-indent} Silence, messieurs. Ce n’est pas tout malheureusement. Pendant que la révolte entoure le Cap promenant partout l’incendie et les cris  du Vaudou, ici dans la ville, la voix de la sagesse a peine à se faire entendre. On s’en prend aux esclaves restés fidèles. On s’en prend aux hommes de couleur. Plusieurs d’entre eux ont été massacrés... -->
+<!-- - {:.prose .prose-indent} Silence, messieurs. Ce n’est pas tout malheureusement. Pendant que la révolte entoure le Cap promenant partout l’incendie et les cris  du Vaudou, ici dans la ville, la voix de la sagesse a peine à se faire entendre. On s’en prend aux esclaves restés fidèles. On s’en prend aux hommes de couleur. Plusieurs d’entre eux ont été massacrés ... -->
 
 
 ---
@@ -1900,9 +1891,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} 1st Group: A Voice.
 
-- {:.prose .prose-indent} You are right, my friend, you are right. We are losing these colonies because of bad politics. The battle plans, the combat. Let's stop this nonsense. With the Negroes, there's only one way: terror. On the first day of the insurrection, I, this guy right here, planted 50 heads on both sides of the avenue in front of my plantation, like palm trees, and I guarantee you that the flock has not moved. You see...
+- {:.prose .prose-indent} You are right, my friend, you are right. We are losing these colonies because of bad politics. The battle plans, the combat. Let's stop this nonsense. With the Negroes, there's only one way: terror. On the first day of the insurrection, I, this guy right here, planted 50 heads on both sides of the avenue in front of my plantation, like palm trees, and I guarantee you that the flock has not moved. You see ...
 
-<!-- - {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raison, c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous... -->
+<!-- - {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raison, c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous ... -->
 
 *(The voice fades into the night.)*
 
@@ -1910,19 +1901,19 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} 2nd Group: A Voice.
 
-- {:.prose .prose-indent} Huh? Everything will be fine. I trust this governor; quite a guy that Blanchelande. And also, I know these islands. The Caribbean, you see, very sweet islands, very sweet... real soft... sweet-mulatta islands, you see. So, this Revolution, bye-bye.
+- {:.prose .prose-indent} Huh? Everything will be fine. I trust this governor; quite a guy that Blanchelande. And also, I know these islands. The Caribbean, you see, very sweet islands, very sweet ... real soft ... sweet-mulatta islands, you see. So, this Revolution, bye-bye.
 
-<!-- - {:.prose .prose-indent} Hum! alors tout va rentrer dans l’ordre. Moi, j’ai confiance dans ce gouverneur ; un type ce Blanchelande. Et puis, j’ai l’expérience de ces pays là. Les Antilles, voyez-vous, un pays très doux, très doux... tout doux... des îles à doudoux, vous comprenez. Alors, la Révolution, bonsoir. -->
+<!-- - {:.prose .prose-indent} Hum! alors tout va rentrer dans l’ordre. Moi, j’ai confiance dans ce gouverneur ; un type ce Blanchelande. Et puis, j’ai l’expérience de ces pays là. Les Antilles, voyez-vous, un pays très doux, très doux ... tout doux ... des îles à doudoux, vous comprenez. Alors, la Révolution, bonsoir. -->
  
 *(The voice hums:*
 
 - {:.indent-2} Baby look a here, look a here, look a here
-- {:.indent-2} Coons from ev'ry city...)
+- {:.indent-2} Coons from ev'ry city ...)
 
 <!-- *(La voix fredonne :*
 
 - {:.indent-2} A la Matinique, Matinique, Matinique
-- {:.indent-2} c’est çà qui chic...) -->
+- {:.indent-2} c’est çà qui chic ...) -->
 
 *(After a few seconds, screams break out; a monotone and brutal choir begins, grows, approaches. Hoots. Sneers. A confused trampling. A frenzied Black crowd invades the town hall, slapping and jeering through some white deputies. A grotesque Black man gesticulates on the podium. We will call him The Speaker. The Black crowds sit in indescribable confusion. Thus begins a sinister and clownish session full of vehemence and cruelty.)*
 
@@ -1997,9 +1988,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Flag Bearer *(in a nasal voice.)*
 
-- {:.prose .prose-indent} Alright. Alright. I will speak. You see, Gentlemen, this is not the time to deliberate. I have made my decision. There's only one way with the negroes: terror. Gentlemen, on today's agenda: terror... 
+- {:.prose .prose-indent} Alright. Alright. I will speak. You see, Gentlemen, this is not the time to deliberate. I have made my decision. There's only one way with the negroes: terror. Gentlemen, on today's agenda: terror ... 
 
-<!-- - {:.prose .prose-indent} Parfaitement. Parfaitement. Je parlerai. Voilà, Messieurs, il  n’est plus temps de délibérer. Ma décision est prise. Avec les nègres, je ne connais qu’un moyen, la terreur. La terreur est à l’ordre du jour, Messieurs... -->
+<!-- - {:.prose .prose-indent} Parfaitement. Parfaitement. Je parlerai. Voilà, Messieurs, il  n’est plus temps de délibérer. Ma décision est prise. Avec les nègres, je ne connais qu’un moyen, la terreur. La terreur est à l’ordre du jour, Messieurs ... -->
 
 *(Applause. Laughter.)*
  
@@ -2038,7 +2029,7 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.indent-2} Baby look a here, look a here, look a here
 
-<!-- - {:.indent-2} A la Matinique, Matinique, Matinique... -->
+<!-- - {:.indent-2} A la Matinique, Matinique, Matinique ... -->
 
 *(Silence falls stiff, funereal.)*
 
@@ -2048,9 +2039,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Reciter.
 
-- {:.prose .prose-indent} It rises... From the depths of the earth, it rises... The black surge rises... waves of screams... swamps of animal scent... the storm foaming up bare feet... and it teems with others running down mountain trails, climbing the ravine escarpments, obscene torrents and wild feeders of chaotic rivers, of rotten seas, of convulsive oceans with the smoky laughter of machetes and cheap booze...
+- {:.prose .prose-indent} It rises ... From the depths of the earth, it rises ... The black surge rises ... waves of screams ... swamps of animal scent ... the storm foaming up bare feet ... and it teems with others running down mountain trails, climbing the ravine escarpments, obscene torrents and wild feeders of chaotic rivers, of rotten seas, of convulsive oceans with the smoky laughter of machetes and cheap booze ...
 
-<!-- - {:.prose .prose-indent} Il monte...Il monte des profondeurs de la terre... Le flot noir monte... des vagues de hurlements... des marais de senteurs animales... l’orage écumant des pieds nus... et il en grouille toujours d’autres dévalant les sentiers des mornes, gravissant l’escarpement des ravins, torrents obscènes et sauvages grossisseurs de fleuves chaotiques, de mers pourries, d’océans convulsifs dans le rire charbonneux du coutelas et de l’alcool mauvais... -->
+<!-- - {:.prose .prose-indent} Il monte ...Il monte des profondeurs de la terre ... Le flot noir monte ... des vagues de hurlements ... des marais de senteurs animales ... l’orage écumant des pieds nus ... et il en grouille toujours d’autres dévalant les sentiers des mornes, gravissant l’escarpement des ravins, torrents obscènes et sauvages grossisseurs de fleuves chaotiques, de mers pourries, d’océans convulsifs dans le rire charbonneux du coutelas et de l’alcool mauvais ... -->
 
 
 - {:.speaker} The Chorus.
@@ -2065,9 +2056,9 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Reciter.
 
-- {:.indent-2} In the beginning, there was nothing...
+- {:.indent-2} In the beginning, there was nothing ...
 
-<!-- - {:.indent-2} Au commencement, il n’y avait rien... -->
+<!-- - {:.indent-2} Au commencement, il n’y avait rien ... -->
 
 
 - {:.speaker} The Narrator.
@@ -2078,18 +2069,18 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Reciter *(docile.)*
 
-- {:.indent-2} Comrade, in the beginning there was the night...
+- {:.indent-2} Comrade, in the beginning there was the night ...
 
-<!-- - {:.indent-2} Camarade, au commencement il y avait la nuit... -->
+<!-- - {:.indent-2} Camarade, au commencement il y avait la nuit ... -->
 
 
 - {:.speaker} The Narrator.
 
 - {:.prose .prose-indent} The night and misery, comrade, misery and animal consent; the rustling night of slave breaths, dilating on the steps of the Christophorus, the great sea of miseries and dividends, the great sea of black blood, the great swell of sugar cane, the great ocean of horrors and desolation.
-- {:.indent-2} In the end, there is, in the end...
+- {:.indent-2} In the end, there is, in the end ...
 
 <!-- - {:.prose .prose-indent} La nuit et la misère, camarade, la misère et l’acceptation animales ; la nuit bruissante de souffles d’esclaves dilatant sur les pas du christophore, la grande mer de misères&nbsp;et de dividendes, la grande mer de sang noir, la grande houle de cannes à sucre, le grand océan d’horreurs et de désolations.
-- {:.indent-2} A la fin, il y a, à la fin... -->
+- {:.indent-2} A la fin, il y a, à la fin ... -->
  
 
 
@@ -2097,17 +2088,17 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} The Reciter *(in a scathing voice.)*
 
-- {:.prose .prose-indent} In the end, let me tell you, what I see in the end: in the end... ah yes, at the very end: the fall of Europe, down a sinkhole under this hysterical shit of chomping ghouls, its limping haunted with devils, its insolence crushed by prayers, and, on its wounds, the pepper of my laughter and the salt of my tears.
+- {:.prose .prose-indent} In the end, let me tell you, what I see in the end: in the end ... ah yes, at the very end: the fall of Europe, down a sinkhole under this hysterical shit of chomping ghouls, its limping haunted with devils, its insolence crushed by prayers, and, on its wounds, the pepper of my laughter and the salt of my tears.
 
-<!-- - {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin : à la fin... ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, son insolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs. -->
+<!-- - {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin : à la fin ... ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, son insolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs. -->
 
 ---
 
 [37]({{site.baseurl}}/chiens/chiens/p037.html){:.pagetitle}
 
-*(Enter a mother and her two daughters. Tired, worried. White... They turn their heads from time to time to see if they are being followed... Half reassured, they lay down their bundles.)*
+*(Enter a mother and her two daughters. Tired, worried. White ... They turn their heads from time to time to see if they are being followed ... Half reassured, they lay down their bundles.)*
 
-<!-- *(Entre un groupe de trois femmes ; lasses, inquiètes. Ce sont des blanches... Elles tournent de temps en temps la tête pour regarder si on les suit... A demi rassurées, elles déposent leur baluchon.)* -->
+<!-- *(Entre un groupe de trois femmes ; lasses, inquiètes. Ce sont des blanches ... Elles tournent de temps en temps la tête pour regarder si on les suit ... A demi rassurées, elles déposent leur baluchon.)* -->
 
 
 - {:.speaker} 1st Girl.
@@ -2119,21 +2110,21 @@ Please note that the following text's subject-matter and imagery explore violenc
 
 - {:.speaker} 2nd Girl.
 
-- {:.prose .prose-indent} Sigh. So fatigued... We are soaked... there's fog on the hill... My bones are afraid and cold.
+- {:.prose .prose-indent} Sigh. So fatigued ... We are soaked ... there's fog on the hill ... My bones are afraid and cold.
 
-<!-- - {:.prose .prose-indent} Ah. Quelle fatigue... Nous sommes trempées... Il y a de la brume sur la montagne... Mes os suintent de froid et de peur. -->
+<!-- - {:.prose .prose-indent} Ah. Quelle fatigue ... Nous sommes trempées ... Il y a de la brume sur la montagne ... Mes os suintent de froid et de peur. -->
 
 
 - {:.speaker} The Mother.
 
-Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in the arrowing canes ... then run some more ... Ouch. My legs...
+Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in the arrowing canes ... then run some more ... Ouch. My legs ...
 
 
-<!-- - {:.prose .prose-indent} Courage mes enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore... Aïe. Mes jambes... -->
+<!-- - {:.prose .prose-indent} Courage mes enfants ... Courage ... C’est dur tout de même ... Courir ... courir ... et se cacher dans les cannes en flèches ... et puis courir encore ... Aïe. Mes jambes ... -->
 
 *(The mother and her girls have dissapeared; same decor. A hoe strips the scene. Hoes, then hands ... They are slaves plowing at dusk.)*
 
-<!-- *(Les femmes ont disparu ; même décor. Une houe écorne la scène. Des houes, puis des mains... Ce sont des esclaves qui labourent au crépuscule.)* -->
+<!-- *(Les femmes ont disparu ; même décor. Une houe écorne la scène. Des houes, puis des mains ... Ce sont des esclaves qui labourent au crépuscule.)* -->
 
 
 - {:.speaker} 1st Slave *(singing.)*
@@ -2207,9 +2198,9 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Narrator.
 
-- {:.indent-2} Death cries sweetly on the neck of the night...
+- {:.indent-2} Death cries sweetly on the neck of the night ...
 
-<!-- - {:.indent-2} La mort pleure tout doucement dans le cou de la nuit... -->
+<!-- - {:.indent-2} La mort pleure tout doucement dans le cou de la nuit ... -->
 
 
 - {:.speaker} The Reciter.
@@ -2218,18 +2209,18 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 <!-- - {:.prose .prose-indent} 3000 flamboyants s’effrènent au néant de la nuit, à l’oubli de la nuit. -->
 
-*(Gunfire...)*
+*(Gunfire ...)*
 
-<!-- *(Coups de feu...)* -->
+<!-- *(Coups de feu ...)* -->
 
 
 - {:.speaker} The Reciter *(feverish.)*
 
-- {:.indent-2} Sonthonax opens the prisons... Sonthonax arms the slaves...
-- Sonthonax opens the gates of Le Cap to Pierrot and Macaya...
+- {:.indent-2} Sonthonax opens the prisons ... Sonthonax arms the slaves ...
+- Sonthonax opens the gates of Le Cap to Pierrot and Macaya ...
 
-<!-- - {:.indent-2} Sonthonax ouvre les prisons... Sonthonax arme les esclaves...
-- Sonthonax ouvre les portes du Cap à Pierrot et à Macaya...
+<!-- - {:.indent-2} Sonthonax ouvre les prisons ... Sonthonax arme les esclaves ...
+- Sonthonax ouvre les portes du Cap à Pierrot et à Macaya ...
  -->
 
 ---
@@ -2242,7 +2233,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.prose .prose-indent} 300,000 men, harnesses shattered, rush into the city with piercing howls ... The seaport swarms with Whites reaching for the stranded vessels ... Oh, the boats capsize ...
 
-<!-- - {:.prose .prose-indent} 300.000 hommes, tribart brisé, se précipitent dans la ville et poussent des hurlements clabauds... Le port est couvert de blancs qui cherchent à gagner les bâtiments en râde... Ah, les chaloupes chavirent... -->
+<!-- - {:.prose .prose-indent} 300.000 hommes, tribart brisé, se précipitent dans la ville et poussent des hurlements clabauds ... Le port est couvert de blancs qui cherchent à gagner les bâtiments en râde ... Ah, les chaloupes chavirent ... -->
  
 
 - {:.speaker} The Reciter *(fierce.)*
@@ -2255,7 +2246,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.prose .prose-indent} The djembe gasps; the djembe erupts ... the djembe spits grasshoppers of fire and blood.
 
-<!-- - {:.prose .prose-indent} Le tam-tam halète ; le tam-tam éructe... le tam-tam  crache des sauterelles de feu et de sang. -->
+<!-- - {:.prose .prose-indent} Le tam-tam halète ; le tam-tam éructe ... le tam-tam  crache des sauterelles de feu et de sang. -->
 
 
 - {:.speaker} The Reciter.
@@ -2263,21 +2254,21 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.indent-2} The fire knocks the Kanak cobs out of the night.
 
 
-<!-- - {:.indent-2} Le feu défonce la nuit de ses épis canaques... -->
+<!-- - {:.indent-2} Le feu défonce la nuit de ses épis canaques ... -->
 
 
 - {:.speaker} The Narrator.
 
-- {:.prose .prose-indent} ... the fire hangs its rapacious top leaves on the captive rooftops...
+- {:.prose .prose-indent} ... the fire hangs its rapacious top leaves on the captive rooftops ...
 
-<!-- - {:.prose .prose-indent} ... le feu accroche ses fanes rapaces aux toits fascinés des maisons... -->
+<!-- - {:.prose .prose-indent} ... le feu accroche ses fanes rapaces aux toits fascinés des maisons ... -->
 
 
 - {:.speaker} The Reciter.
 
-- {:.prose .prose-indent} ... The city collapses on its hocks ... In the slow vertigo of rape ... among the tickling of a bed of smoke and screams...
+- {:.prose .prose-indent} ... The city collapses on its hocks ... In the slow vertigo of rape ... among the tickling of a bed of smoke and screams ...
 
-<!-- - {:.prose .prose-indent} ... La ville s’effondre sur ses jarrets... Dans le vertige lent du viol...parmi les chatouilles d’un lit de fumées et de cris... -->
+<!-- - {:.prose .prose-indent} ... La ville s’effondre sur ses jarrets ... Dans le vertige lent du viol ...parmi les chatouilles d’un lit de fumées et de cris ... -->
 
 
 - {:.speaker} The Chorus.
@@ -2292,7 +2283,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 *(Discordant cries ... The silence suddenly falls heavy and wet, the silence of the Caribbean. Abruptly a ship in distress invades the whole field of vision; and in the flesh of the phosphorescent sea, an inscription explodes, bloody, reflected on the reefs.)*
 
 
-<!-- *(Cris discordants... Le silence tombe tout à coup lourd et humide, le silence de la Caraïbe. Subitement un navire envahit tout le  champ de vision, en perdition ; et dans la chair de la mer phosphorescente, une inscription explose, sanglante, reflétée par les écueils.)* -->
+<!-- *(Cris discordants ... Le silence tombe tout à coup lourd et humide, le silence de la Caraïbe. Subitement un navire envahit tout le  champ de vision, en perdition ; et dans la chair de la mer phosphorescente, une inscription explose, sanglante, reflétée par les écueils.)* -->
 
 - : The Republic of Haiti.
 
@@ -2348,7 +2339,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.prose} Not true ... No more fights. No more killings, is it? No more flaming crimes? The Barbary organ blindly purrs minutes of silence and silence and silence, sawdust of time without dust. Ho. Ho. A smell of corpses ... blood sparkling like a large vat of wine.
 
-<!-- - {:.prose} Ce n'est pas vrai... Il n'y a plus de combats. Il n'y a plus de meurtresn'est‐ce pas ? Plus de crimes flamboyants ? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve de vin. -->
+<!-- - {:.prose} Ce n'est pas vrai ... Il n'y a plus de combats. Il n'y a plus de meurtresn'est‐ce pas ? Plus de crimes flamboyants ? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres ... du sang pétillant comme une grande cuve de vin. -->
 
 
 - {:.speaker} The Narrator.
@@ -2411,9 +2402,9 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 <!-- - {:.speaker} 3e délégation : 3e orateur. -->
 
-- {:.prose} Eternal recognition for Toussaint Louverture, peace-maker, restorer...
+- {:.prose} Eternal recognition for Toussaint Louverture, peace-maker, restorer ...
 
-<!-- - {:.prose} Reconnaissance éternelle à Toussaint Louverture, pacificateur, restaurateur... -->
+<!-- - {:.prose} Reconnaissance éternelle à Toussaint Louverture, pacificateur, restaurateur ... -->
 
 
 - {:.speaker} The Crowd.
@@ -2630,7 +2621,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Cantors *(bawling.)*
 
-- Salvum fac...
+- Salvum fac ...
 
 
 - {:.speaker} The Reciter.
@@ -2890,12 +2881,12 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {: .indent-2} Huh! What do you say?
 - {: .indent-2} What a slap in the face!
 
-<!-- - {:.prose} Vous vous égarez mon cher congénère... Vous vous égarez parce que vous vous emportez et l'emportement ne vaut rien en politique. Un nègre capitaine général de Saint-Domingue
+<!-- - {:.prose} Vous vous égarez mon cher congénère ... Vous vous égarez parce que vous vous emportez et l'emportement ne vaut rien en politique. Un nègre capitaine général de Saint-Domingue
 - ridicule, je vous le concède,
 - humiliant, je ne le nie pas,
-- {:.prose} Mais voyez-vous jeune homme... dangereux par dessus tout. Et je m'en vais vous dire pourquoi...
-- {:.prose .prose-indent} Vous connaissez la version blanche (notre version) de l'histoire du négrier : le nègre Cinquez donne le signal de la révolte. La révolte triomphe. Mais voilà le nègre Cinquez ne sait pas conduire un bateau... Ha, ha! Voyez vous cela d'ici... Quelle revanche pour les Blancs!... La mer indocile le grimoire des étoiles... la famine... le désespoir... Mais imaginez ceci un instant, mes amis : le nègre Cinquez sait conduire un bateau! Le nègre Cinquez sait lire dans les étoiles! Le nègre Cinquez met le cap sur une terre qu'il a calculée juste.
-- {:.prose .prose-indent} Et voilà : un beau jour, le nègre Cinquez débarque avec sa bande, son peuple, dirais-je dans un pays magnifique, plein de soleil, de perroquets, de fruits, d'eau douce, d'arbres à pain...
+- {:.prose} Mais voyez-vous jeune homme ... dangereux par dessus tout. Et je m'en vais vous dire pourquoi ...
+- {:.prose .prose-indent} Vous connaissez la version blanche (notre version) de l'histoire du négrier : le nègre Cinquez donne le signal de la révolte. La révolte triomphe. Mais voilà le nègre Cinquez ne sait pas conduire un bateau ... Ha, ha! Voyez vous cela d'ici ... Quelle revanche pour les Blancs!... La mer indocile le grimoire des étoiles ... la famine ... le désespoir ... Mais imaginez ceci un instant, mes amis : le nègre Cinquez sait conduire un bateau! Le nègre Cinquez sait lire dans les étoiles! Le nègre Cinquez met le cap sur une terre qu'il a calculée juste.
+- {:.prose .prose-indent} Et voilà : un beau jour, le nègre Cinquez débarque avec sa bande, son peuple, dirais-je dans un pays magnifique, plein de soleil, de perroquets, de fruits, d'eau douce, d'arbres à pain ...
 - {:.indent-2} Hein! Q'en dites vous ?
 - {:.indent-2} Quel soufflet pour nous! -->
 
@@ -2944,8 +2935,8 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- J'ai capté dans l'espace d'extraordinaires messages... pleins
-- {:.prose} de poignards, de nuits, de gémissements ; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, de petits jours étranges, l'engourdissement bu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur...
+- J'ai capté dans l'espace d'extraordinaires messages ... pleins
+- {:.prose} de poignards, de nuits, de gémissements ; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, de petits jours étranges, l'engourdissement bu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur ...
 
 
 - {:.speaker} The Chorus.
@@ -2955,7 +2946,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- ... un grand brasier de prunelles rouges et de crabes...
+- ... un grand brasier de prunelles rouges et de crabes ...
 - {:.indent-2} un ensemencement pour voir de mouches, de palabres, de mauvais souvenirs
 - {:.indent-2} de pistes, de termites, de fièvres-à-guérir, de torts à redresser,
 - {:.indent-2} un baillement d'alligator
@@ -3002,8 +2993,8 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Je ne renoncerai pas... je ne renoncerai pas à moi-même.
-- Afrique, mon innocence...
+- {:.indent-2} Je ne renoncerai pas ... je ne renoncerai pas à moi-même.
+- Afrique, mon innocence ...
 - Afrique, ma nudité...
 - Faites tomber les villes. Faites des lois ou violez les.
 - Tuez ou adorez.
@@ -3018,7 +3009,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Les hippopotames soufflent leurs mauvais rêves
 - les Rhinocéros chargent dans le vent trop vite grandi
 - rond de pisé mûr mon innocence rit son grand rire
-- de terre fraiche...
+- de terre fraiche ...
 
 
 - {:.speaker} The Reciter.
@@ -3044,7 +3035,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Ivresse et débauche. Une immense étendue se dore ;
 - dans les profondeurs du lac lessive un aigle de vermeil ;
 - {:.prose} des champs de maïs, d'indigo, de cannes à sucre, à quelques brasses de profondeur ;
-- des clameurs au creux se ruent au creux et bouchent le ciel...
+- des clameurs au creux se ruent au creux et bouchent le ciel ...
 
 ---
 
@@ -3064,7 +3055,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Voices.
 
-- Les blancs débarquent... les blancs débarquent.
+- Les blancs débarquent ... les blancs débarquent.
 
 
 - {:.speaker} Voix.
@@ -3086,7 +3077,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Les blancs débarquent, les blancs débarquent.
 
 
-*(Coups de canon dans le lointain, puis un silence... Un drapeau blanc jaillit du sol.)*
+*(Coups de canon dans le lointain, puis un silence ... Un drapeau blanc jaillit du sol.)*
 
 
 
@@ -3122,7 +3113,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - Une aube juste battait sourire
 - une aube juste battait espoirs
-- une aube battait de simples paroles plus claires que des socs de charrue...
+- une aube battait de simples paroles plus claires que des socs de charrue ...
 - et c'est toujours pour nous la saison des pluies
 - et des bêtes venimeuses
 - et de l'hallali par terre
@@ -3237,7 +3228,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- Mon dernier mot...
+- Mon dernier mot ...
 
 
 - {:.speaker} Parlementaire.
@@ -3280,7 +3271,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Parlementaire.
 
-- {:.indent-2} Qu'est ce que c'est ?...
+- {:.indent-2} Qu'est ce que c'est ? ...
 
 - {:.speaker} Toussaint *(extatique.)*
 
@@ -3312,7 +3303,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Parlementaire.
 
-- {:.prose} Ce que vous reproche le consul...
+- {:.prose} Ce que vous reproche le consul ...
 
 ---
 
@@ -3372,7 +3363,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Ils débarquent... les blancs débarquent... Ils viennent nous remettre au joug... Ils viennent rétablir l'esclavage, ici, dans notre libre Haïti.
+- {:.prose .prose-indent} Ils débarquent ... les blancs débarquent ... Ils viennent nous remettre au joug ... Ils viennent rétablir l'esclavage, ici, dans notre libre Haïti.
 
 
 - {:.speaker} The Crowd.
@@ -3394,7 +3385,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} « Aux armes ». Ça a été le cri de vos frères guadeloupéens quand ils ont appris le sort que leur réservaient les tyrans.
-- {:.prose .prose-indent} « Aux armes ». Et le mûlatre Delgrès s'est fait sauter plutôt que de se rendre...
+- {:.prose .prose-indent} « Aux armes ». Et le mûlatre Delgrès s'est fait sauter plutôt que de se rendre ...
 
 
 - {:.speaker} The Crowd.
@@ -3413,7 +3404,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} L'Europe elle-même nous a appris qu'un peuple qui se bat pour sa liberté est invincible...
+- {:.prose .prose-indent} L'Europe elle-même nous a appris qu'un peuple qui se bat pour sa liberté est invincible ...
 
 
 - {:.speaker} The Crowd.
@@ -3491,10 +3482,10 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Ô chère tête de la lumière
 - j'ai combattu dix ans pour un sourire
 - ton sourire mûri de pleine connivence
-- je me reculerais pas...
+- je me reculerais pas ...
 
 
-*(3 coups de canon espacés retentissent. Des hommes avec des torches courent des explosions... de la fumée... une panique...)*
+*(3 coups de canon espacés retentissent. Des hommes avec des torches courent des explosions ... de la fumée ... une panique ...)*
 
 
 
@@ -3523,7 +3514,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.indent-2} Vive la liberté. Vive Toussaint.
 
 
-*(Des troupes défilent... une forêt la nuit ; lueurs d'incendie au loin... des cavaliers.)*
+*(Des troupes défilent ... une forêt la nuit ; lueurs d'incendie au loin ... des cavaliers.)*
 
 
 
@@ -3541,13 +3532,13 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-- mais ils avancent...
+- mais ils avancent ...
 - les yeux crevés ? les mains coupées comme un marron ?
 - esclave ?
 - ils ne m'auront pas.
 - à cheval ma haine et mon espoir.
 - il me reste des ravins
-- il me reste des montagnes...
+- il me reste des montagnes ...
 - au fond d'un trou fermé aux vents, je guetterais encore les marées secrètes
 - les révoltes du limon et des terres noires.
 - en avant mes amis.
@@ -3621,7 +3612,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - l'isthme les angles le diamant le jour
 - je ne désavoue rien
 - sa vaisselle d'argent : Mon rire
-- {:.prose} ses oriflammes de fruits d'eau de mer de coquillage : Ma tristesse, ma jungle, mes malédictions stimulées...
+- {:.prose} ses oriflammes de fruits d'eau de mer de coquillage : Ma tristesse, ma jungle, mes malédictions stimulées ...
 - hélas.
 - Tout s'efface, tout s'écroule.
 - il ne m'importe plus que les ciels mémorés
@@ -3655,7 +3646,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - j'ai plongé toute la saison des perles
 - aux égouts
 - sans rien voir
-- brûlant...
+- brûlant ...
 
 
 - {:.speaker} The Narrator.
@@ -3688,7 +3679,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 - {:.prose} d'un grand troupeau et j'enfonce à mijambes dans les hautes herbes du sang. pauvres dieux faces débonnaires , bras trop longs, chassés d'un paradis de rhum — paumes cendreuses visitées de chauves souris et de meutes somnambules — la décomposition cadévérique allume toutes ses bougies de vers et d'herbes
-- Montez fusées, éclairez le désastre...
+- Montez fusées, éclairez le désastre ...
 - {:.prose} J'ai saigné dans les couloirs secrets — sur le sol grand'ouvert des batailles et,
 - je m'avance, mouche dédorée grand insecte malicorne et vorace
 - {:.prose} attiré par les succulences de mon propre squelette en dents de scie, legs de mon corps assassiné violent à travers les barreaux du soleil.
@@ -3699,7 +3690,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - dépecé éparpillé
 - dans les terrains dans les halliers
 - poème éventré
-- émigration de colombes brûlées arrosées d'eau vie...
+- émigration de colombes brûlées arrosées d'eau vie ...
 
 
 - {:.speaker} The Narrator.
@@ -3823,7 +3814,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.indent-2} Voici ma main. Voici ma main.
 - Ma main fraiche, ma main de jet d'eau de sang
 - ma main de varech et d'iode
-- ma main de lumière et de vengeance...
+- ma main de lumière et de vengeance ...
 - Toussaint Louverture. Toussaint Louverture.
 
 
@@ -3832,7 +3823,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Dieux d'en bas, dieux bons
 - j'emporte dans ma gueule délabrée
 - le bourdonnement d'une chair vivante,
-- me voici...
+- me voici ...
 
 ---
 
@@ -3916,7 +3907,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Narrator.
 
-- Ô j'attends passionnément : je suis cernée...
+- Ô j'attends passionnément : je suis cernée ...
 
 
 - {:.speaker} The Reciter.
@@ -3960,7 +3951,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Le voyageur.
 
-- {:.prose} De bien loin... Dites, j'ai jadis connu  un homme qui s'appelait Tous­saint, et le sobriquet avait curieusement allongé son nom d'une aigrette de mains hardies... Toussaint, Toussaint Louverture.
+- {:.prose} De bien loin ... Dites, j'ai jadis connu  un homme qui s'appelait Tous­saint, et le sobriquet avait curieusement allongé son nom d'une aigrette de mains hardies ... Toussaint, Toussaint Louverture.
 
 
 - {:.speaker} Les bonnes gens.
@@ -3994,7 +3985,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Le voyageur.
 
-- {:.prose} Eh bien, salut planteurs de pierres, et moi je suis un planteur de paroles. Toussaint Louverture, c'était un homme... comment dirais-je ?
+- {:.prose} Eh bien, salut planteurs de pierres, et moi je suis un planteur de paroles. Toussaint Louverture, c'était un homme ... comment dirais-je ?
 
 
 - {:.speaker} Les bonnes gens.
@@ -4014,7 +4005,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Le voyageur.
 
-- {:.prose} Oui toutefois... un homme étonnant... en morsures profondes... Il parcourut le pays à la vitesse rapide de l'éclair et de la liberté, imprimant sur le sol de cadavres détrempés, ses pas fertiles.
+- {:.prose} Oui toutefois ... un homme étonnant ... en morsures profondes ... Il parcourut le pays à la vitesse rapide de l'éclair et de la liberté, imprimant sur le sol de cadavres détrempés, ses pas fertiles.
 
 
 - {:.speaker} Les bonnes gens.
@@ -4024,7 +4015,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Le voyageur.
 
-- {:.prose} Peuple singulier... et ils ne savent pas reconnaitre parmi les jonquilles une face de tempête.
+- {:.prose} Peuple singulier ... et ils ne savent pas reconnaitre parmi les jonquilles une face de tempête.
 
 
 *(Le voyageur enlève son voile.)*
@@ -4056,7 +4047,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Les bonnes gens.
 
-- {:.prose} Tu nous  importunes étranger ; nous ne croyons à rien... nous plantons des pierres.
+- {:.prose} Tu nous  importunes étranger ; nous ne croyons à rien ... nous plantons des pierres.
 
 
 **
@@ -4116,7 +4107,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Terre farineuse, lait de ma mère chaud sur ma nuque, ruisseau riche, demi‐ténèbres, exige, dirige... 
+- {:.prose} Terre farineuse, lait de ma mère chaud sur ma nuque, ruisseau riche, demi‐ténèbres, exige, dirige ... 
 
 *(Il approche l'oreille du sol.)*
 
@@ -4129,7 +4120,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} A la folle enchère, à mes frais, à mes risques et périls... 
+- {:.prose} A la folle enchère, à mes frais, à mes risques et périls ... 
 
 *(Toussaint a disparu.)*
 
@@ -4183,7 +4174,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.speaker} Geôlier *(s'adressant au public.)*
 
 - {:.prose} Regardez-le, caricatural à souhait, la mine déconfite et chafouine, la face blette, les mains  frileuses, chef hypocrite d'un peuple de sauvages, triste conducteur d'une race de démons ; calculateur sournois égaré parmi des frénétiques.
-- {:.prose .prose-indent} Mesdames et Messieurs, suivez-moi bien... En 1793 nous apprenions qu'au nom des droits de l'homme, nous apprenions dis-je que la plus vile de toutes les races allait s'asseoir côte à côte avec nous au banquet d'une risible fra­ternité.
+- {:.prose .prose-indent} Mesdames et Messieurs, suivez-moi bien ... En 1793 nous apprenions qu'au nom des droits de l'homme, nous apprenions dis-je que la plus vile de toutes les races allait s'asseoir côte à côte avec nous au banquet d'une risible fra­ternité.
 - {:.prose .prose-indent} Ah, le résultat ne se fit guère attendre. Il y eut du comique. Il y eut du tragique. Il y eut de l'horrible. On vit des cannibales entrer gonflés d'orgueil dans les villes prises ; on en vit aux Te Deum. On en vit rédiger des constitutions. Voilà ce que l'on vit , bonnes gens qui m'écoutez. Et ce que l'on vit encore, la fumée dans le ciel de midi, le feu dans le ciel de minuit d'innombrables aurores boréales jetant au loin le reflet du crime et de l'absurdité.
 
 ---
@@ -4200,7 +4191,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Narrator.
 
-- {:.prose .prose-indent} Saint-Domingue... Saint-Domingue aux yeux d'antimoine, à la bouche de Kola fraiche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
+- {:.prose .prose-indent} Saint-Domingue ... Saint-Domingue aux yeux d'antimoine, à la bouche de Kola fraiche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
 
 
 - {:.speaker} Toussaint.
@@ -4215,7 +4206,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Attaché comme une enseigne au haut bout de la France, je ne sanglotte pas... j'appelle.
+- {:.prose .prose-indent} Attaché comme une enseigne au haut bout de la France, je ne sanglotte pas ... j'appelle.
 
 
 - {:.speaker} Geôlier.
@@ -4276,10 +4267,10 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Tout comme moi, ton maitre saignera un jour :
 - naufragé
 - prisonnier de mon Afrique comme moi de son Europe.
-- L'Afrique est désormais liée à son destin...
+- L'Afrique est désormais liée à son destin ...
 - L'Afrique a part avec lui
 - Toussaint a part avec lui qu'il le veuille ou non.
-- Je dis que l'Afrique ne le lâchera pas...
+- Je dis que l'Afrique ne le lâchera pas ...
 
 
 *(à ce moment entre à l'autre bout de la scène le Messager.)*
@@ -4451,7 +4442,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.speaker} Toussaint.
 
 - Hé bien, te voilà digne messager de la race supérieure
-- {:.prose} Pleins de flair, ayant humé l'odeur du trésor proche, nos maitres t'ont ici délégué pour ouïr la révélation de nos petits secrets... C'est très bien... La civette n'accourt pas plus vite sur les pas de la gazelle.
+- {:.prose} Pleins de flair, ayant humé l'odeur du trésor proche, nos maitres t'ont ici délégué pour ouïr la révélation de nos petits secrets ... C'est très bien ... La civette n'accourt pas plus vite sur les pas de la gazelle.
 
 
 - {:.speaker} Messager.
@@ -4462,7 +4453,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- ... Considérable... le trésor des anciens flibustiers grossi par ma prévoyance.
+- ... Considérable ... le trésor des anciens flibustiers grossi par ma prévoyance.
 
 
 - {:.speaker} Messager.
@@ -4531,7 +4522,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Merci, ah merci... J'avais encore besoin de cette lâcheté là. Ah, comme votre lâcheté me fait du bien.
+- {:.prose .prose-indent} Merci, ah merci ... J'avais encore besoin de cette lâcheté là. Ah, comme votre lâcheté me fait du bien.
 
 
 - {:.speaker} Messager.
@@ -4544,7 +4535,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Toussaint est vaincu ; l'esprit de Toussaint n'est pas vaincu.
 - Il anime encore des milliers de volontés
 - voyez-vous les mornes gonflés d'une menace d'hommes à la peau rude ?
-- La révolte... mes fils, ce sont mes fils.
+- La révolte ... mes fils, ce sont mes fils.
 
 
 - {:.speaker} Messager.
@@ -4574,7 +4565,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Le vol ? Moi, le vol, mon fils ?
 - Tu mens chien ; hors de ma vue, hors d'ici te dis-je ou je t'étrangle.
 - Dis-tu vrai ? Isaac est entre leurs mains.
-- Non traitre, bourreau... bourreau.
+- Non traitre, bourreau ... bourreau.
 
 - {:.speaker} Le-nègre-à-lunettes  *(sententieux.)*
 
@@ -4641,7 +4632,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Narrator.
 
-- Le fils arrive...
+- Le fils arrive ...
 
 - {:.speaker} Toussaint  *(extatique.)*
 
@@ -4772,7 +4763,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- Ah! le scélérat n'avait pas menti... Et ils lancent le fils suborné aux trousses
+- Ah! le scélérat n'avait pas menti ... Et ils lancent le fils suborné aux trousses
 
 ---
 
@@ -4824,7 +4815,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 - {:.prose}  — et cet homme spéculait sur le berceau de mon fils — un berceau de garde-chiourme — 
-- {:.prose} et je ne dis rien, mais une colère me saisissait et une envie d'étrangler cet homme, et une résolution était prises dans mon cœur...
+- {:.prose} et je ne dis rien, mais une colère me saisissait et une envie d'étrangler cet homme, et une résolution était prises dans mon cœur ...
 
 
 - {:.speaker} Fils.
@@ -4841,12 +4832,12 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Les cannes à sucre nous balafraient le visage de ruisseaux de lames vertes
 - Nous rampâmes coutelas au poing
 - Et subitement des clameurs déchirèrent le silence.
-- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux sabots de patience. Nous courions comme des forcenés. Les coups de feu éclatèrent... Nous frappions... La sueur et le sang nous faisaient une fraîcheur.
+- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux sabots de patience. Nous courions comme des forcenés. Les coups de feu éclatèrent ... Nous frappions ... La sueur et le sang nous faisaient une fraîcheur.
 - {:.prose} Nous frappions parmi les cris et les cris devinrent plus stridents et une grande flamme s'éleva vers l'est : c'étaient les communs qui brulaient et la flamme tremblota douce sur nos joues.
 - Alors ce fut l'assaut donné à la maison du maitre.
 - On tirait des fenètres.
 - Nous forçâmes les portes.
-- {:.prose} La chambre du maitre était grande ouverte. La chambre du maitre était brillamment éclairée, et le maitre était là très calme... et les nôtres s'arrétèrent... C'était le maitre... J'entrai. C'est toi, Toussaint, me dit-il, très calme... C'était moi, c'était bien moi, lui disais-je, le bon Toussaint, le fidèle Toussaint, son esclave Toussaint, Toussaint Toussaint Louverture et soudain ses yeux furent deux ravets apeurés les jours de pluie... je frappai, le sang gicla ; c'est de ce seul baptème que je me souviens aujourd'hui.
+- {:.prose} La chambre du maitre était grande ouverte. La chambre du maitre était brillamment éclairée, et le maitre était là très calme ... et les nôtres s'arrétèrent ... C'était le maitre ... J'entrai. C'est toi, Toussaint, me dit-il, très calme ... C'était moi, c'était bien moi, lui disais-je, le bon Toussaint, le fidèle Toussaint, son esclave Toussaint, Toussaint Toussaint Louverture et soudain ses yeux furent deux ravets apeurés les jours de pluie ... je frappai, le sang gicla ; c'est de ce seul baptème que je me souviens aujourd'hui.
 
 ---
 
@@ -4863,7 +4854,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Je suis libre
 - et je veux oublier comment
 - et le ravin
-- et la broussaille...
+- et la broussaille ...
 
 
 - {:.speaker} Toussaint.
@@ -4889,12 +4880,12 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.prose} Mais pour moi, les cris d'exil de la mouette, et le grand rapt salé et la brume sans soleil, l'exil mon père.
 - Et la pluie de cendres violettes sur ce Paris étranger.
 - Et&nbsp;le froid incisif jusqu'au sang.
-- {:.prose} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des  il avait une mesure, une décence, une retenue en même temps qu'un abandon, le paysage, une amitié enfin... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
+- {:.prose} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des  il avait une mesure, une décence, une retenue en même temps qu'un abandon, le paysage, une amitié enfin ... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} et moi, le paysage m'empoisonne des aconits de son alphabet. Moi aussi je sais lire et le nuage a la tête du vieux nègre que j'ai vu rouer vif sur une place du Cap, il avait giflé un blanc, j'avais 10 ans, le ciel bas est un étouffoir, le vent houle des fardeaux et des sanglots de peau suante, le vent se contamine de fouets et de futailles et les pendus peuplent le ciel d'acéras et il y a des dogues le poil sanglant et des oreilles... des  oreilles... des barques
+- {:.prose} et moi, le paysage m'empoisonne des aconits de son alphabet. Moi aussi je sais lire et le nuage a la tête du vieux nègre que j'ai vu rouer vif sur une place du Cap, il avait giflé un blanc, j'avais 10 ans, le ciel bas est un étouffoir, le vent houle des fardeaux et des sanglots de peau suante, le vent se contamine de fouets et de futailles et les pendus peuplent le ciel d'acéras et il y a des dogues le poil sanglant et des oreilles ... des  oreilles ... des barques
 
 ---
 
@@ -4924,7 +4915,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.prose} J'ai remonté avec mon cœur l'antique silex, le vieil amadou déposé par l'Afrique au fond de moi-même.
 - Je te hais. Je vous hais.
 - Et ma haine ne mourra pas.
-- Aussi longtemps que le soleil obèse chevauchera la vieille rosse de la Terre...
+- Aussi longtemps que le soleil obèse chevauchera la vieille rosse de la Terre ...
 - Et maintenant le passé se feuille vivant
 - le passé se haillonne comme une feuille de bananier.
 - Isaac, Isaac
@@ -4934,7 +4925,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - attend
 - les yeux chavirés de palabres magnétiques.
 - Isaac, Isaac
-- vénéneuses mes paupières s'entrouvent au cœur de cocotiers...
+- vénéneuses mes paupières s'entrouvent au cœur de cocotiers ...
 - fortement attirantes la parade des buissons vivants ;
 - ô végétaux enfants trébuchant sur les pavés inégaux des perturbations
 - Liberté, liberté,
@@ -5012,7 +5003,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Le Grand Prohibiteur.
 
-- {:.prose} Je dis : aux arbres à la savane, à la pluie au soleil... Comme si sur ce continent d'Indiens fuyards, ça n'avait pas été d'abord dans les oreilles stables de  l'arbre et de la savane que s'étaient gravés les accents de la loi.
+- {:.prose} Je dis : aux arbres à la savane, à la pluie au soleil ... Comme si sur ce continent d'Indiens fuyards, ça n'avait pas été d'abord dans les oreilles stables de  l'arbre et de la savane que s'étaient gravés les accents de la loi.
 
 - {:.speaker} Le  héraut  *(émerveillé.)*
 
@@ -5021,7 +5012,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Le Grand Prohibiteur
 
-- {:.prose} Ignorant qui connait le nom de Don Christobal Colon amiral de l'océan et ignore celui de Rodrigo de Escovedo notaire royal.[^tei2] Apprends donc mon ami, que les caravelles qui abordaient ici n'étaient pas seulement enceintes d'armes, de vivres, de chevaux, de cavaliers... Elles avaient et surtout la panse rebondie de lois sonores et répressives.
+- {:.prose} Ignorant qui connait le nom de Don Christobal Colon amiral de l'océan et ignore celui de Rodrigo de Escovedo notaire royal.[^tei2] Apprends donc mon ami, que les caravelles qui abordaient ici n'étaient pas seulement enceintes d'armes, de vivres, de chevaux, de cavaliers ... Elles avaient et surtout la panse rebondie de lois sonores et répressives.
 
 
 - {:.speaker} Le héraut.
@@ -5151,7 +5142,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - au secours! au secours! au meurtre!
 - ils ont tué le soleil! il n'y a plus de soleil! il ne reste plus que les taureaux
-- de Basan une torche est attaché à leur queue furibonde... Les taureaux piétinent
+- de Basan une torche est attaché à leur queue furibonde ... Les taureaux piétinent
 - la savane sans meubles
 - Il y a aussi les cavaliers.
 - Ils ont suspendu le soleil comme un bouclier à la&nbsp;porte du ciel
@@ -5162,7 +5153,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - leurs chevaux sont vite
 - ils entourent le pauvre homme de longs cercles fatals
 - ils resserrent le nœud de leur cercle autour du cou pelé
-- ça y est... ils ont reniflé la viande du négre
+- ça y est ... ils ont reniflé la viande du négre
 - ils s'arrétent
 - ils rient
 - ils se lissent le moustache
@@ -5207,7 +5198,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Allons! bonnes gens... c'est vrai que je vous importune... et vous voudriez m'empécher de parler... Faites moi peur, faites moi bien peur, je suis très lâche vous savez : j'ai tremblé de toutes les peurs depuis la peur première...
+- {:.prose} Allons! bonnes gens ... c'est vrai que je vous importune ... et vous voudriez m'empécher de parler ... Faites moi peur, faites moi bien peur, je suis très lâche vous savez : j'ai tremblé de toutes les peurs depuis la peur première ...
 
 
 - {:.speaker} Geôlier.
@@ -5237,7 +5228,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Marquez moi à l'épaule d'une fleur de lys, d'un verrou de prison, ou de vos initiales tout simplement Jean ou Pierre ou Jeanne ou Louise ou Geneviève... c'est ça ... ou d'un drapeau... ou d'un petit canon... ou d'une croix... ou d'un trèfle. 
+- {:.prose} Marquez moi à l'épaule d'une fleur de lys, d'un verrou de prison, ou de vos initiales tout simplement Jean ou Pierre ou Jeanne ou Louise ou Geneviève ... c'est ça ... ou d'un drapeau ... ou d'un petit canon ... ou d'une croix ... ou d'un trèfle. 
 
 ---
 
@@ -5311,12 +5302,12 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Geôlier.
 
-- ... Ce trésor... où l'as tu caché ce trésor... le fruit de tes rapines ?
+- ... Ce trésor ... où l'as tu caché ce trésor ... le fruit de tes rapines ?
 
 
 - {:.speaker} Geôlière.
 
-- Voleur! Voleur! ... Nous sommes renseignés...
+- Voleur! Voleur! ... Nous sommes renseignés ...
 
 
 - {:.speaker} Toussaint.
@@ -5326,12 +5317,12 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Geôlier.
 
-- A toi de répondre, gredin noir... il n'est plus temps de biaiser.
+- A toi de répondre, gredin noir ... il n'est plus temps de biaiser.
 
 
 - {:.speaker} Geôlière.
 
-- Frappe le, frappe-le... ça fera du bien à sa vilaine peau...
+- Frappe le, frappe-le ... ça fera du bien à sa vilaine peau ...
 
 
 - {:.speaker} Toussaint.
@@ -5352,7 +5343,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Le roi Toussaint... Répétez : "le roi Toussaint." Le roi Toussaint vainquit les Anglais. Le roi Toussaint terrassa les Espagnols...
+- {:.prose .prose-indent} Le roi Toussaint ... Répétez : "le roi Toussaint." Le roi Toussaint vainquit les Anglais. Le roi Toussaint terrassa les Espagnols ...
 
 ---
 
@@ -5366,38 +5357,38 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Geôlier.
 
-- {:.prose .prose-indent} Dis-donc, mais il se fout de nous, le moricaud... Bien sûr qu'il fait le fou... Plus fort... encore plus fort *(il frappe Toussaint)*.
+- {:.prose .prose-indent} Dis-donc, mais il se fout de nous, le moricaud ... Bien sûr qu'il fait le fou ... Plus fort ... encore plus fort *(il frappe Toussaint)*.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Frappe... frappe commandeur... frappe jusqu'au sang... il est né du sillon une race sans gémissement... frappe et lasse toi.
+- {:.prose} Frappe ... frappe commandeur ... frappe jusqu'au sang ... il est né du sillon une race sans gémissement ... frappe et lasse toi.
 
 
 - {:.speaker} Geôlière.
 
-- {:.prose} Bûche! Quelle bûche! C'est une bûche te dis-je... une drôle de race, ces nègres... Crois-tu que nos coups lui fassent mal... en tout cas, ça ne marque pas.
+- {:.prose} Bûche! Quelle bûche! C'est une bûche te dis-je ... une drôle de race, ces nègres ... Crois-tu que nos coups lui fassent mal ... en tout cas, ça ne marque pas.
 - ... *(elle frappe.)* Oh! Oh! Son sang coule!
 
 - {:.speaker} Geôlier  *(riant.)*
 
-- C'est bien connu : battre un nègre  c'est le nourrir...
+- C'est bien connu : battre un nègre  c'est le nourrir ...
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Isaac, Isaac, pourquoi rester sous la pluie... J'avais un fils... j'avais réussi à le préserver des morsures de cette race de scorpions... Isaac, Isaac!
+- {:.prose} Isaac, Isaac, pourquoi rester sous la pluie ... J'avais un fils ... j'avais réussi à le préserver des morsures de cette race de scorpions ... Isaac, Isaac!
 
 
 - {:.speaker} Geôlier.
 
-- {:.prose} Ah! il déraille sérieusement... C'est à mourir de rire... Dis, c'est marrant le sang rouge sur la peau noire. *(Ils délient Toussaint.)*
+- {:.prose} Ah! il déraille sérieusement ... C'est à mourir de rire ... Dis, c'est marrant le sang rouge sur la peau noire. *(Ils délient Toussaint.)*
 
 - {:.speaker} Toussaint  *(sursautant.)*
 
-- des mains coupées... de la cervelle giclante... de la charogne molle... Isaac,
-- Isaac... pourquoi rester sous la pluie des scorpions venimeux ?
-- {:.prose} les tamanoirs égarés dans les époques lapent au pavé des villes des fourmis d'aigue-marine. Les sarigues cherchent entre le joint des équinoxes un arbre roux, un arbre d'argent... une volonté se convulse dans le mastic bourbeux des fatalités et le cache-cache des vers luisants. Isaac! Isaac! 
+- des mains coupées ... de la cervelle giclante ... de la charogne molle ... Isaac,
+- Isaac ... pourquoi rester sous la pluie des scorpions venimeux ?
+- {:.prose} les tamanoirs égarés dans les époques lapent au pavé des villes des fourmis d'aigue-marine. Les sarigues cherchent entre le joint des équinoxes un arbre roux, un arbre d'argent ... une volonté se convulse dans le mastic bourbeux des fatalités et le cache-cache des vers luisants. Isaac! Isaac! 
 
 *(Il s'écroule en gémissant.)*
 
@@ -5458,7 +5449,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Et moi aussi je suis ton fils... regarde... regarde donc... fille de la neige, regarde ce bloc de nuit sculptée, mon visage!
+- {:.prose} Et moi aussi je suis ton fils ... regarde ... regarde donc ... fille de la neige, regarde ce bloc de nuit sculptée, mon visage!
 
 
 - {:.speaker} La sainte vierge.
@@ -5468,12 +5459,12 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je ne suis pas ton fils, mais le fils de la Terre, mais le frère du Soleil, mais le frère de la Nuit avec ses millions d'étoiles, je ne suis pas ton fils... j'ai peur... ma gorge me brûle. Mère! Mère!
+- {:.prose .prose-indent} Je ne suis pas ton fils, mais le fils de la Terre, mais le frère du Soleil, mais le frère de la Nuit avec ses millions d'étoiles, je ne suis pas ton fils ... j'ai peur ... ma gorge me brûle. Mère! Mère!
 
 
 - {:.speaker} La sainte Vierge.
 
-- {:.indent-2} Ta souffrance mon enfant, m'était indispensable...
+- {:.indent-2} Ta souffrance mon enfant, m'était indispensable ...
 
 ---
 
@@ -5487,13 +5478,13 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Ah! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de crachats... et tu m'as choisi... Merci! Ainsi donc il te fallait de la sueur d'homme, du sang d'homme, des gémissements d'homme... des désespoirs d'homme et tu nous as requis! Merci...
-- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi — n'est ce pas ? — à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite, mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait mon oui et alors ils t'ont envoyée... Va t'en marâtre... va t'en car je t'exècre... va t'en les mains vides... ou plutôt prends&nbsp;ce sac de paroles... les paroles de Toussaint, les dernières peut-être, les dernières... sans doute et porte les à ton engeance fienteuse.
+- {:.prose .prose-indent} Ah! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de crachats ... et tu m'as choisi ... Merci! Ainsi donc il te fallait de la sueur d'homme, du sang d'homme, des gémissements d'homme ... des désespoirs d'homme et tu nous as requis! Merci ...
+- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi — n'est ce pas ? — à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite, mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation ... il leur fallait mon oui et alors ils t'ont envoyée ... Va t'en marâtre ... va t'en car je t'exècre ... va t'en les mains vides ... ou plutôt prends&nbsp;ce sac de paroles ... les paroles de Toussaint, les dernières peut-être, les dernières ... sans doute et porte les à ton engeance fienteuse.
 - {:.indent-2} O hommes blancs, mes frères
 - nos spectres tordus viendront hanter vos banquets
 - {:.prose} nous dresserons obscènes et nuls au milieu de vos réjouissances nos faces de scandale,
 - nos cris troubleront vos victoires
-- {:.prose} et les soirs de défaite vous nous verrez debouts à vos carrefours, noirs, terribles, muets... et vous aurez honte... et vous aurez peur... 
+- {:.prose} et les soirs de défaite vous nous verrez debouts à vos carrefours, noirs, terribles, muets ... et vous aurez honte ... et vous aurez peur ... 
 
 
 *(La vision disparait peu à peu.)*
@@ -5501,10 +5492,10 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint  *(hagard)*
 
-- {:.prose} ... Une rumeur de chaine de carcans monte de la mer... un gargouillement de noyés de la panse verte de la mer... un claquement de feu, un claquement de fouet, des cris d'assassinés...
+- {:.prose} ... Une rumeur de chaine de carcans monte de la mer ... un gargouillement de noyés de la panse verte de la mer ... un claquement de feu, un claquement de fouet, des cris d'assassinés ...
 - ... la mer brûle
-- ou c'est l'étoupe de mon sang qui brûle...
-- {:.prose} Oh, le cri... toujours ce cri fusant des mornes... et le rut du feu et du tambour et vainement se gonfle le vent de l'odeur tendre du ravin moisi d'ar-
+- ou c'est l'étoupe de mon sang qui brûle ...
+- {:.prose} Oh, le cri ... toujours ce cri fusant des mornes ... et le rut du feu et du tambour et vainement se gonfle le vent de l'odeur tendre du ravin moisi d'ar-
 
 ---
 
@@ -5514,7 +5505,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-- bres à pain, de sucreries, de bagasse harcelée de moucherons...
+- bres à pain, de sucreries, de bagasse harcelée de moucherons ...
 - Terre ma mère j'ai compris votre langage de cape et d'épée
 - mes frères les marrons le mors au dent
 - mes frères les pieds hors clôture et dans le torrent
@@ -5538,7 +5529,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Narrator.
 
-- {:.prose .prose-indent} Ô la danse des étoiles sans nom... les savanes s'animent... les pluies fument... des arbres inconnus tombent palmés de foudre.
+- {:.prose .prose-indent} Ô la danse des étoiles sans nom ... les savanes s'animent ... les pluies fument ... des arbres inconnus tombent palmés de foudre.
 
 
 - {:.speaker} The Reciter.
@@ -5552,7 +5543,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} les chenilles rampent vers l'auberge des bonnets de coton... La cuve de la Terre s'est éteinte... c'est bon... Mais le ciel mange du bétel... ha ha! le ciel suce des poignards... Roi de Malaisie et de la fièvre pleine d'insectes mâche bien ton kriss et ton bétel... Isaac, Isaac, une balle pourrit entre tes sourires blancs... Aïe! je marche dans des piquants d'étoiles. Je marche... j'assume... j'embrasse...
+- {:.prose .prose-indent} les chenilles rampent vers l'auberge des bonnets de coton ... La cuve de la Terre s'est éteinte ... c'est bon ... Mais le ciel mange du bétel ... ha ha! le ciel suce des poignards ... Roi de Malaisie et de la fièvre pleine d'insectes mâche bien ton kriss et ton bétel ... Isaac, Isaac, une balle pourrit entre tes sourires blancs ... Aïe! je marche dans des piquants d'étoiles. Je marche ... j'assume ... j'embrasse ...
  
 
 *(Toussaint s'affaisse, les bras étendus, poitrine contre terre.)*
@@ -5590,7 +5581,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Reciter.
 
-- {:.indent-2} Mort en plein vol de torches, en pleine fécondation de vanilliers...
+- {:.indent-2} Mort en plein vol de torches, en pleine fécondation de vanilliers ...
 
 
 - {:.speaker} The Chorus.
@@ -5622,7 +5613,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Saint-Domingue! Saint-Domingue!
 
 
-*(La scène a brusquement changé. Nous sommes à Saint-Domingue devant les murs du Cap assiégé par l'armée noire de Dessalines... des coups de canon... des fumées... des pans de murs écroulés... Général noir à cheval entouré d'un nombreux état major... des troupes en armes prêtes à s'ébranler.)*
+*(La scène a brusquement changé. Nous sommes à Saint-Domingue devant les murs du Cap assiégé par l'armée noire de Dessalines ... des coups de canon ... des fumées ... des pans de murs écroulés ... Général noir à cheval entouré d'un nombreux état major ... des troupes en armes prêtes à s'ébranler.)*
 
 
 ---
@@ -5649,12 +5640,12 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Le négrophile  *(haraguant le vide.)*
 
-- {:.prose} Ha! mes amis, mes chers amis! Et l'Evangile a dit que celui qui hait son frère vivra dans l'obscurité. O mes amis qui vivez dans l'obscurité, dans l'obscurité de votre peau, dans l'obscurité de vos cœurs, je veux faire descendre, lait, un rayon de lumière... d'amour. Et je ne cesserai de vous appeler « mes amis » mes amis, mes frères.
+- {:.prose} Ha! mes amis, mes chers amis! Et l'Evangile a dit que celui qui hait son frère vivra dans l'obscurité. O mes amis qui vivez dans l'obscurité, dans l'obscurité de votre peau, dans l'obscurité de vos cœurs, je veux faire descendre, lait, un rayon de lumière ... d'amour. Et je ne cesserai de vous appeler « mes amis » mes amis, mes frères.
 
 
 - {:.speaker} L'écho
 
-- ... mes frères, mes frères...
+- ... mes frères, mes frères ...
 
 - {:.speaker} Le négrophile  *(préchant dans le désert).*
 
@@ -5836,7 +5827,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - En avant Capoix-la-Mort! *(charge de cavalerie.)*
 
 
-*(Des cris au loin : Victoire, victoire...)*
+*(Des cris au loin : Victoire, victoire ...)*
 
 
 
@@ -5847,11 +5838,11 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Reciter.
 
-- {:.indent-2} Qu'y a-t-il ? Qu'est-ce que c'est... Parlez... Je n'y suis plus.
+- {:.indent-2} Qu'y a-t-il ? Qu'est-ce que c'est ... Parlez ... Je n'y suis plus.
 
 - {:.speaker} The Chorus *(allègre.)*
 
-- La grande Révolution de Saint-Domingue continue...
+- La grande Révolution de Saint-Domingue continue ...
 
 
 - {:.speaker} The Narrator.
@@ -5860,7 +5851,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Demi chœur *(allègre.)*
 
-- Dessalines... Dessalines le boucher, Dessalines le vengeur.
+- Dessalines ... Dessalines le boucher, Dessalines le vengeur.
 - Toussaint Toussaint Louverture!
 
 
