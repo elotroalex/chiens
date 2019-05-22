@@ -2543,11 +2543,11 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - Go away
 - go
-- pitiful rats
-- rats that don't notice the ship is rotten
+- rats I pity
+- rats who can't see the ship is rotten
 - go, go in peace
-- and take your pious carcasses with you
-- your painted carcasses.
+- pick up your pious carcasses
+- your painted carcasses, and go.
 
 <!-- - Allez vous-en
 - allez
@@ -2693,7 +2693,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - Ha! ha!
 - they don't like that. Funny.
-- Crawl, crawl all the way to oblivion, river of filth
+- Crawl, crawl all the way back to oblivion, river of filth
 
 
 <!-- - ils n'aiment pas ça. C'est curieux.
@@ -2850,14 +2850,14 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} 1st Passerby.
 
-- {:.prose .prose-indent} You shouldn't worry about it too much, lady! The English and the Spaniards forced us: the necessity, you understand.
+- {:.prose .prose-indent} You shouldn't worry about it too much, madame! The English and the Spaniards forced us: the necessity, you understand.
 
 <!-- - {:.prose .prose-indent} M'est avis qu'on se fout de lui. Dame! Les anglais et les Espagnols nous pressaient : la nécéssité, tu comprends. -->
 
 
 - {:.speaker} 2nd Passerby.
 
-- {:.prose .prose-indent} Still though! The English and the Spaniards forced us, and we get back Master Gilles. Still, it annoys me to say "my general" to that old ass, and to have to stand in front of him at attention.
+- {:.prose .prose-indent} Still though! The English and the Spaniards forced us, and we send back Master Gilles. Still, it annoys me to call that old ass "my general," and to have to stand at attention in front of him.
 
 <!-- - {:.prose .prose-indent} Encore comme ça! Les Anglais et les Espagnols mis à la raison, on renvoie Maître Gilles. N'empêche que ça m'emmerde qu'on dise « mon général » à un vieux cul et qu'on se mette devant lui au garde à vous. -->
 
@@ -2881,35 +2881,49 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} 2nd Passerby.
 
-- {:.prose} Vous vous égarez mon cher congénère... Vous vous égarez parce que vous vous emportez  et l'emportement ne vaut rien en politique. Un nègre capitaine général de Saint-Domingue
+- {:.prose} You're missing the point, my dear cousin ... You're getting carried away, and passion is worthless in politics. A negro Captain General of Saint-Domingue
+- ridiculous, I agree with you,
+- humiliating, I don't deny it,
+- {: .prose} But see here, young man ... dangerous above all else. And I'm going to tell you why ...
+- {: .prose.prose-indent} You know the white version (our version) of the story of the slave: Cinquez the Negro gives the signal to revolt. Revolt triumphs. But here is Cinquez the Negro who can't sail the ship ... Ha, ha! Do you see ... What a revenge for the Whites! ... The untamed sea, the grimoire of stars ... the famine ... the despair ... But imagine this for a moment, my friends: Cinquez the Negro can sail the ship! Cinquez the Negro can read the stars! Cinquez the Negro has calculated right and is headed for land.
+- {: .prose.prose-indent} And here it is: one day, Cinquez the Negro arrives with his crew, his people, I would say in a beautiful country, full of sun, parrots, fruits, fresh water , breadfruit ...
+- {: .indent-2} Huh! What do you say?
+- {: .indent-2} What a slap in the face!
+
+<!-- - {:.prose} Vous vous égarez mon cher congénère... Vous vous égarez parce que vous vous emportez et l'emportement ne vaut rien en politique. Un nègre capitaine général de Saint-Domingue
 - ridicule, je vous le concède,
 - humiliant, je ne le nie pas,
 - {:.prose} Mais voyez-vous jeune homme... dangereux par dessus tout. Et je m'en vais vous dire pourquoi...
 - {:.prose .prose-indent} Vous connaissez la version blanche (notre version) de l'histoire du négrier : le nègre Cinquez donne le signal de la révolte. La révolte triomphe. Mais voilà le nègre Cinquez ne sait pas conduire un bateau... Ha, ha! Voyez vous cela d'ici... Quelle revanche pour les Blancs!... La mer indocile le grimoire des étoiles... la famine... le désespoir... Mais imaginez ceci un instant, mes amis : le nègre Cinquez sait conduire un bateau! Le nègre Cinquez sait lire dans les étoiles! Le nègre Cinquez met le cap sur une terre qu'il a calculée juste.
 - {:.prose .prose-indent} Et voilà : un beau jour, le nègre Cinquez débarque avec sa bande, son peuple, dirais-je dans un pays magnifique, plein de soleil, de perroquets, de fruits, d'eau douce, d'arbres à pain...
 - {:.indent-2} Hein! Q'en dites vous ?
-- {:.indent-2} Quel soufflet pour nous!
+- {:.indent-2} Quel soufflet pour nous! -->
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je ne puis chasser de mes yeux cette image : des mangeuses de terre dans un champ d'argile.
+- {:.prose .prose-indent} I cannot drive this image away from my eyes: earth eaters on a field of clay.
+
+<!-- - {:.prose .prose-indent} Je ne puis chasser de mes yeux cette image : des mangeuses de terre dans un champ d'argile. -->
 
 
 - {:.speaker} The Chorus.
 
-- {:.indent-2} Je ne vois rien qu'un mur de splendeur et de gloire.
+- {:.indent-2} I see nothing but a wall of splendor and glory.
+
+<!-- - {:.indent-2} Je ne vois rien qu'un mur de splendeur et de gloire. -->
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Toutes les mordorures et tout l'espoir au dos des mains, au creux des mains des feuilles de caïmitiers ne me consoleront pas.
+- {:.prose .prose-indent} All the bitterness and all the hope on the backs of my hands, in the palms of my star apple hands, will not console me.
+
+<!-- - {:.prose .prose-indent} Toutes les mordorures et tout l'espoir au dos des mains, au creux des mains des feuilles de caïmitiers ne me consoleront pas. -->
 
 ---
 
 
 [51]({{site.baseurl}}/chiens/chiens/p051.html){:.pagetitle}
-
 
 
 - {:.speaker} The Chorus.
