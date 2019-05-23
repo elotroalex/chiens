@@ -4177,16 +4177,11 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} 
 
-- 
 
 ---
 
 
 [71]({{site.baseurl}}/chiens/chiens/p071.html){:.pagetitle}
-
-
-
-
 
 
 - {:.speaker} Le voyageur.
@@ -4227,7 +4222,6 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 *(Le voyageur enlève son voile.)*
 
 
-
 - {:.speaker} Toussaint.
 
 - Me connaissez-vous maintenant ?
@@ -4239,7 +4233,6 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 *(Toussaint les bat nerveusement.)*
-
 
 
 - {:.speaker} Toussaint.
@@ -4256,16 +4249,11 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.prose} Tu nous  importunes étranger ; nous ne croyons à rien ... nous plantons des pierres.
 
 
-**
-
 
 ---
 
 
 [72]({{site.baseurl}}/chiens/chiens/p072.html){:.pagetitle}
-
-
-
 
 
 
