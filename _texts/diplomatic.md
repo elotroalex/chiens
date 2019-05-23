@@ -2931,7 +2931,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 - {:.indent-2} Toussaint Louverture.
 
 
-- {:.speaker} 2è chuchochement.
+- {:.speaker} 2è chuchotement.
 
 - {:.indent-2} Toussaint Louverture.
 

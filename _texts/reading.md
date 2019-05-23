@@ -2869,7 +2869,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - {:.speaker} Toussaint.
 
 - le caïman ! les torches ! les drapeaux&nbsp;!
-- et l'Amazone degout d'hévéas
+- et l'Amazone debout d'hévéas
 - et les lunes tombées comme des graines ailées dans l'humus tiède du ciel
 - o main de l'étrangleur,
 - mon âme nage en plein cœur  du maelström
@@ -2900,7 +2900,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - {:.indent-2} Toussaint Louverture.
 
 
-- {:.speaker} 2e chuchochement.
+- {:.speaker} 2e chuchotement.
 
 - {:.indent-2} Toussaint Louverture.
 

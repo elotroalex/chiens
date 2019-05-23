@@ -650,7 +650,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.prose .prose-indent} You have heard ... You have heard ... Toussaint comes. Toussaint puts his feet on the ground ... Toussaint begins his climb up the staircase. Toussaint crosses the first step. He mounts the second. Toussaint is on the perron. Step by step, Toussaint sets foot on the ditch cloaked in slippery smiles ...
 
-<!-- - {:.prose .prose-indent} Vous avez entendu ... Vous avez entendu ... Toussaint arrive. Toussaint met pied à terre ... Toussaint monte l’escalier. Toussaint franchit la première marche. Il en est à la 2e. Toussaint est sur le perron. Pas après pas, Toussaint a mis le pied dans la fosse camouflée de sourires glissants ... -->
+<!-- - {:.prose .prose-indent} Vous avez entendu ... Vous avez entendu ... Toussaint arrive. Toussaint met pied à terre ... Toussaint monte l’escalier. Toussaint franchit la première marche. Il en est à la 2nd. Toussaint est sur le perron. Pas après pas, Toussaint a mis le pied dans la fosse camouflée de sourires glissants ... -->
 
 
 - {:.speaker} Toussaint.
@@ -1332,7 +1332,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.indent-2} Ah. It's a story.
 
-<!-- - {:.speaker} 2e jeune fille *(riant.)*
+<!-- - {:.speaker} 2nd jeune fille *(riant.)*
 
 - {:.indent-2} Ah. C’est un conte. -->
 
@@ -2378,7 +2378,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.prose .prose-indent} Glory to Toussaint Louverture: He has purged the colonies from the tyrannical British hordes.
 
-<!-- - {:.speaker} 1re délégation : 1er orateur.
+<!-- - {:.speaker} 1st délégation : 1er orateur.
 
 - {:.prose .prose-indent} Gloire à Toussaint Louverture : il a purgé la colonie des hordes tyranniques des Anglais. -->
 
@@ -2392,7 +2392,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.prose} Glory to Toussaint Louverture, the black spartacus. The black man Raynal predicted would avenge the injuries against his race.
 
 
-<!-- - {:.speaker} 2e délégation : 2e orateur.
+<!-- - {:.speaker} 2nd délégation : 2nd orateur.
 
 - {:.prose} Gloire à Toussaint Louverture, le Spartacus noir, le nègre prédit par Raynal pour venger les injures faites à sa race. -->
 
@@ -3994,29 +3994,29 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 [67]({{site.baseurl}}/chiens/chiens/p067.html){:.pagetitle}
 
+- extreme challenge
+- from the eye fermented with shipwrecks.
+
+<!-- - très haut défi
+- de l'œil fermenté des naufrages. -->
 
 
-
-- très haut défi
-- de l'œil fermenté des naufrages.
-
-
-- {:.speaker} 1re voix suterraine.
-
-- {:.indent-2} Toussaint Louverture.
-
-
-- {:.speaker} 2e voix souterraine.
+- {:.speaker} 1st Underground Voice.
 
 - {:.indent-2} Toussaint Louverture.
 
 
-- {:.speaker} 3e chuchotement.
+- {:.speaker} 2nd Underground Voice.
 
 - {:.indent-2} Toussaint Louverture.
 
 
-- {:.speaker} 2e chuchochement.
+- {:.speaker} 3rd Whisper.
+
+- {:.indent-2} Toussaint Louverture.
+
+
+- {:.speaker} 2nd Whisper.
 
 - {:.indent-2} Toussaint Louverture.
 
@@ -4037,7 +4037,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - les charismes de sa grâce.
 
 
-- {:.speaker} 3e chuchotement.
+- {:.speaker} 3rd Whisper.
 
 - {:.indent-2} Toussaint Louverture.
 
@@ -4054,8 +4054,6 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 [68]({{site.baseurl}}/chiens/chiens/p068.html){:.pagetitle}
 
 
-
-
 - blocs d'injustice monstrueusement agencés
 - villes radieuses
 - je lâcherai sur vous ma meute de vengeance
@@ -4070,17 +4068,17 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - courage.
 
 
-- {:.speaker} 1re voix céleste.
+- {:.speaker} 1st Celestial Voice.
 
 - {:.prose .prose-indent} Que l'on me bâtisse sur des montagnes de charniers durcis, une prison : je vois battre les narines des ombres glissantes et du mauvais temps.
 
 
-- {:.speaker} 2e voix céleste.
+- {:.speaker} 2nd Celestial Voice.
 
 - {:.indent-2} Que l'on m'invente des tortures
 - je vois d'ennuis exploser les roses trémières des longs silences pacifiques.
 
-- {:.speaker} The Chorus *(souterrain.)*
+- {:.speaker} The Chorus *(underground.)*
 
 - {:.indent-2} Voici ma main. Voici ma main.
 - Ma main fraiche, ma main de jet d'eau de sang
@@ -4120,7 +4118,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 
 
-- {:.speaker} 2e  dieu.
+- {:.speaker} 2nd  dieu.
 
 - {:.prose} Une époque étonnante mes frères : la morue terre-neuvienne se jette d'elle-même sur les lignes.
 
@@ -4426,7 +4424,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Les soirs dégringolent comme un enfant dans l'escalier.
 
 
-- {:.speaker} 2e spectre.
+- {:.speaker} 2nd spectre.
 
 - Je danserai autour de ma victime la danse du scalp.
 
@@ -4854,7 +4852,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.prose} Ladre, je te défends, si tu vas par les chemins et si tu rencontres une personne qui te parle de te mettre au dessus du vent avant de répondre.
 
 
-- {:.speaker} 2e prêtre.
+- {:.speaker} 2nd prêtre.
 
 - {:.prose} Ladre, je te défends d'aller dans les ruelles étroites, de peur que quelqu'un ne te rencontre. 
 
