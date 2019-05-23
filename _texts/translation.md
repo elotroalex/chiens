@@ -10,15 +10,18 @@ editor: Alex Gil
 
 The following is an English translation of my own [reading edition]({{site.baseurl}}/texts/reading/) and interpretation of the final authorial stage of the Saint-Dié typescript. My approach to translation is vulgar where it can be: If the original French has a particular effect on me, I bend English to achieve as much, or close. When I can't translate effect, I choose broad legible over arcane literal—except in the case of Caribbean vocabularies—and take liberties to make the English pop.
 
-The drama depends on two tricky binaries: Black/White, and to a lesser extent, Man/Woman. Three temporalities complicate these binaries further: The unfolding drama is based on the Haitian Revolution; it was written for a Martinique audience during the Vichy regime; and, I'm translating for an era of re-ascendant fascism and an American audience knee-deep in our own anti-racist and anti-patriarchal struggle. Césaire's perennial "*négre*"—the rallying cry of Négritude—exemplifies these difficulties. The n-word in English is inexcusable—not least of which for historical or philological reasons—and is often found in translations of Césaire to provide a perverse excuse for white Americans to indulge in reading it out loud. I mostly chose variations of "black" to highlight the manichean core of the drama. I use "negro" in other cases when the speaker is paternalistic and racist, or ventriloquizing. For slightly different reasons, I translate the feminine "*La Récitante*," which has no  equivalent in English, to "The Narrator." 
+The drama depends on two tricky binaries: Black/White, and to a lesser extent, Man/Woman. Three temporalities complicate these binaries further: The unfolding drama is based on the Haitian Revolution; it was written for a Martinique audience during the Vichy regime; and, I'm translating for an era of re-ascendant fascism and an American audience knee-deep in our own anti-racist and anti-patriarchal struggle. Césaire's perennial "*négre*"—the rallying cry of Négritude—exemplifies these difficulties. The n-word in English is inexcusable—not least of which for historical or philological reasons—and is often found in translations of Césaire to provide a perverse excuse for white Americans to indulge in reading it out loud. I mostly chose variations of "black" to highlight the manichean core of the drama. I use "negro" in other cases when the speaker is paternalistic and racist, or ventriloquizing. 
 
-<!-- I can do very little else for Césaire's suspicious feminizations and other tropes that may not sit well with contemporary audiences. I'll go half and half with Césaire on those.  -->
+For slightly different reasons, I translate the feminine "*La Récitante*," which has no equivalent in English, to "The Narrator." I could do very little for some of Césaire's jarring references to women or womanhood, but soften, without erasing, a few distracting infelicities where I thought it prudent.
+
+
+<!-- tropes that may not sit well with contemporary audiences. I'll go half and half with Césaire on those.  -->
 
 <!-- Césaire's own condescensions are sometimes hard to ignore, but I softened, without erasing, certain arrogances where I thought it prudent—an honest, janus-faced betrayal.  -->
 
 ---
 
-Please note that the following text's subject matter and imagery explore violence in many guises, including sexual violence.
+Please note that the following text contains violence in many guises, including sexual violence.
 
 ---
 
@@ -130,8 +133,6 @@ Please note that the following text's subject matter and imagery explore violenc
 ---
 
 [3]({{site.baseurl}}/chiens/chiens/p003.html){:.pagetitle}
-
-
 
 
 - {:.speaker} The Reciter.
@@ -3162,7 +3163,6 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 <!-- *(Coups de canon dans le lointain, puis un silence ... Un drapeau blanc jaillit du sol.)* -->
 
 
-
 - {:.speaker} A Voice.
 
 - The Whites send their parliamentarians.
@@ -3252,7 +3252,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - suspended garden and turbulence
 - bronze age
 - stone age
-- low ground.
+- ground level.
 
 <!-- - Eaux surveillées de griffons
 - sommeil au chant des incendies
@@ -3394,7 +3394,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Reciter.
 
-- {:.prose} We are at the moment when 9 scorpions strike each other guided by the curse on souls.
+- {:.prose} We are at the moment when 9 scorpions strike each other guided by the malediction of souls.
 
 <!-- - {:.prose} Nous sommes au moment où 9 scorpions se frappent formés par la malédic­tion des âmes. -->
 
@@ -3403,19 +3403,34 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 [58]({{site.baseurl}}/chiens/chiens/p058.html){:.pagetitle}
 
+*(At this moment djembe drums begin to beat frenetically, drowning out the voices.)*
 
-
-*(A ce moment des tams-tams éclatent frénétiques, couvrent les voix.)*
-
+<!-- *(A ce moment des tams-tams éclatent frénétiques, couvrent les voix.)* -->
 
 
 - {:.speaker} Parliamentarian.
 
-- {:.indent-2} Qu'est ce que c'est ? ...
+- {:.indent-2} What is that? ...
 
-- {:.speaker} Toussaint *(extatique.)*
+<!-- - {:.indent-2} Qu'est ce que c'est ? ... -->
 
-- Accoudé à la rampe de feu,
+- {:.speaker} Toussaint *(ecstatic.)*
+
+- leaning on the fire ramp,
+- the cries of clouds were not enough for me.
+- bark djembe
+- bark from the top gate, guardian dogs
+- dogs of the void
+- bark of weary war
+- bark, snake heart
+- bark, scandal of furnace and gris-gris
+- bark, fury of lymphs
+- council of old fears
+- bark
+- wrecks without mast
+- until the centuries and the stars resign
+
+<!-- - Accoudé à la rampe de feu,
 - les cris des nuages ne me suffisaient  pas.
 - Aboyez tams-tams
 - aboyez chiens gardiens du haut portail
@@ -3427,23 +3442,30 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - concile des peurs vieilles
 - aboyez
 - épaves dématées
-- jusqu'a la démission des siècles et des étoiles
+- jusqu'a la démission des siècles et des étoiles -->
 
 
 - {:.speaker} Parliamentarian.
 
-- {:.indent-2} Général, le 1er consul a à se plaindre de votre administration.
+- {:.indent-2} General, the 1st consul has reason to complain about your administration.
+
+<!-- - {:.indent-2} Général, le 1er consul a à se plaindre de votre administration. -->
 
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Et moi, j'ai à me plaindre de l'ingratitude de la République.
-- L'Industrie renait, l'ordre règne, le pays prospère.
+- {: .indent-2} And I have reason to complain about the ingratitude of the Republic.
+- Industry is reborn, order reigns, the country is prosperous.
+
+<!-- - {:.indent-2} Et moi, j'ai à me plaindre de l'ingratitude de la République.
+- L'Industrie renait, l'ordre règne, le pays prospère. -->
 
 
 - {:.speaker} Parliamentarian.
 
-- {:.prose} Ce que vous reproche le consul ...
+- {:.prose} What the consul reproaches ...
+
+<!-- - {:.prose} Ce que vous reproche le consul ... -->
 
 ---
 
@@ -3453,20 +3475,32 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Chorus.
 
-- Dites au Vaudou d'éteindre le jaune solaire de ses minuits
+- Tell the Voudou to turn off the solar-yellow of its midnights
+- tell the bothrops that the bets are made
+- we are the fallen race
+- we are the race with no day and no tomorrow
+
+<!-- - Dites au Vaudou d'éteindre le jaune solaire de ses minuits
 - dites aux bothrops que les jeux  sont faits
 - nous sommes la race tombée
-- nous sommes la race sans jour et sans lendemain
+- nous sommes la race sans jour et sans lendemain -->
 
 
 - {:.speaker} The Narrator.
 
-- Arpège de guitares sinistres il se lève sous mes paupières
+- Arpeggio of sinister guitars a dawn bleeding white
+- rises under my eyelids
+- I'm waiting for you, I wait
+- I walk on the eggs of precious moments
+- Oh, the stubborn fragile paths, and certain
+- of my kingdom which is and is not yet.
+
+<!-- - Arpège de guitares sinistres il se lève sous mes paupières
 - une aube saignée à blanc
 - je suis attente toute attente
 - je marche sur les œufs des instants précieux
 - ô les chemins fragiles têtus et certains
-- de mon royaume qui est et qui n'est pas encore.
+- de mon royaume qui est et qui n'est pas encore. -->
 
 ---
 
@@ -3474,19 +3508,22 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 [60]({{site.baseurl}}/chiens/chiens/p060.html){:.pagetitle}
 
 
-
 - {:.speaker} The Narrator.
 
-- {:.indent-2} Nous sommes au moment où un volcan se saborde dans la soute à corail.
+- {:.indent-2} We arrive at the moment when a volcano falls into the coral cargo hold.
+
+<!-- - {:.indent-2} Nous sommes au moment où un volcan se saborde dans la soute à corail. -->
 
 
 - {:.speaker} Récitant
 
-- {:.prose} Nous sommes au moment où l'impératrice décrète dans les grottes de l'empire l'inutilité des caisses de compensation et se tatoue les cuisses d'une pluie de datûras où râle une lance flammée.
+- {:.prose} We arrive at the moment when the Empress decrees in the caves of empire the uselessness of reparations, and tattooes her thighs with a shower of daturas, where a flaming spear rattles.
 
-- {:.speaker} Toussaint *(à la foule.)*
+<!-- - {:.prose} Nous sommes au moment où l'impératrice décrète dans les grottes de l'empire l'inutilité des caisses de compensation et se tatoue les cuisses d'une pluie de datûras où râle une lance flammée. -->
 
-- {:.indent-2} Mes amis, cries avec moi : Long live Freedom.
+- {:.speaker} Toussaint *(to the crowd.)*
+
+- {:.indent-2} My friends, shout it with me : Long live Freedom.
 
 
 - {:.speaker} The Crowd.
@@ -3496,7 +3533,9 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Ils débarquent ... The Whites are landing ... Ils viennent nous remettre au joug ... Ils viennent rétablir l'esclavage, ici, dans notre libre Haïti.
+- {:.prose .prose-indent} They are landing ... The Whites are landing ... They come to put the yoke back on us ... They come to restore slavery here in our free Haiti.
+
+<!-- - {:.prose .prose-indent} Ils débarquent ... The Whites are landing ... Ils viennent nous remettre au joug ... Ils viennent rétablir l'esclavage, ici, dans notre libre Haïti. -->
 
 
 - {:.speaker} The Crowd.
@@ -3506,8 +3545,11 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} S'il est encore parmi vous quelques naïfs gonflés d'illusion, je leur dis que les blancs ne font plus mystère de leur dessein. Mes amis, écoutez bien : Les blancs ont rétabli l'esclavage à la Martinique, à la Guadeloupe. Martinique esclavage, Guadeloupe esclavage : entendez-vous ? Alors je dis qu'il n'y a plus de doute : ce qu'ils nous apportent :
-- {:.prose .prose-indent} c'est la déchéance, c'est la servitude sans espoir, pour nous et nos en­fants.
+- {: .prose.prose-indent} If there are still some naive folks among you under any illusions, I tell you that the Whites are no longer secretive about their plans. My friends, listen well: The Whites have restored slavery to Martinique, to Guadeloupe. Martinique slavery, Guadeloupe slavery: do you understand? So I tell you, there's no longer any doubt. All they bring
+- {: .prose.prose-indent} is decay, it's servitude without hope, for us and our children.
+
+<!-- - {:.prose .prose-indent} S'il est encore parmi vous quelques naïfs gonflés d'illusion, je leur dis que les blancs ne font plus mystère de leur dessein. Mes amis, écoutez bien : Les blancs ont rétabli l'esclavage à la Martinique, à la Guadeloupe. Martinique esclavage, Guadeloupe esclavage : entendez-vous ? Alors je dis qu'il n'y a plus de doute : ce qu'ils nous apportent :
+- {:.prose .prose-indent} c'est la déchéance, c'est la servitude sans espoir, pour nous et nos en­fants. -->
 
 
 - {:.speaker} The Crowd.
@@ -3517,8 +3559,11 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} « To arms ». Ça a été le cri de vos frères guadeloupéens quand ils ont appris le sort que leur réservaient les tyrans.
-- {:.prose .prose-indent} « To arms ». Et le mûlatre Delgrès s'est fait sauter plutôt que de se rendre ...
+- {:.prose .prose-indent} "To arms." That was the cry of your Guadeloupian brothers when they learned what the tyrants had in store for them.
+- {: .prose.prose-indent} "To arms." And Delgrès blew himself up rather than surrender ...
+
+<!-- Ça a été le cri de vos frères guadeloupéens quand ils ont appris le sort que leur réservaient les tyrans.
+- {:.prose .prose-indent} « To arms ». Et le mûlatre Delgrès s'est fait sauter plutôt que de se rendre ... -->
 
 
 - {:.speaker} The Crowd.
@@ -3533,7 +3578,9 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} L'Europe elle-même nous a appris qu'un peuple qui se bat pour sa liberté est invincible ...
+- {:.prose .prose-indent} Europe itself has taught us that a people fighting for their freedom are invincible ...
+
+<!-- - {:.prose .prose-indent} L'Europe elle-même nous a appris qu'un peuple qui se bat pour sa liberté est invincible ... -->
 
 
 - {:.speaker} The Crowd.
@@ -3543,7 +3590,9 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal d'une démolition sytématique, implacable. Feu et cendre. Perisse Saint-Domingue plutôt que notre liberté : Freedom or death.
+- {:.prose .prose-indent} I will communicate my orders to you later. But know now that the Whites should find nothing here but rubble and ruins: three cannon shots will give you the signal for a sytematic, implacable demolition. Fire and ashes. Let Saint-Domingue perish before our freedom: Freedom or death.
+
+<!-- - {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal d'une démolition sytématique, implacable. Feu et cendre. Perisse Saint-Domingue plutôt que notre liberté : Freedom or death. -->
 
 
 - {:.speaker} The Crowd.
@@ -3561,8 +3610,9 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.indent-2} To arms. 
 
-*(La foule se disperse en courant.)*
+*(The crowd disperses running.)*
 
+<!-- *(La foule se disperse en courant.)* -->
 
 
 
@@ -3571,34 +3621,50 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.indent-2} The Whites are landing. The Whites are landing.
 
 
-- {:.speaker} Voix.
+- {:.speaker} Voices.
 
 - {:.indent-2} The Whites are landing.
 
 
-- {:.speaker} Voix.
+- {:.speaker} Voices.
 
 - {:.indent-2} The Whites are landing.
 
 
-- {:.speaker} Des cris frénétiques.
+- {:.speaker} Frantic Cries.
 
 - {:.indent-2} Long live Toussaint Louverture. Long live Toussaint Louverture.
 
+- {:.speaker} Toussaint.
 
-- {:.speaker} Toussaint .
+- Blow up the city;
+- I will kill, I will shred
+- fever,
+- plague
 
-- Faites sauter la ville ;
+<!-- - Faites sauter la ville ;
 - j'assassinerai, je dépècerai
 - fièvre,
-- peste
+- peste -->
 
 ---
 
 
 [62]({{site.baseurl}}/chiens/chiens/p062.html){:.pagetitle}
 
-- toutes mes idées transformées en brûlots
+- all my ideas turned into fire ships
+- all my thoughts into Greek fire
+- my two hymns, hatchets
+- my warm fur, spilled blood
+- my ears, my arteries beat a charge
+- next to which a horny woman's desire
+- seems like the half gesture of a child;
+- O dear light's head
+- I fought ten years for a smile
+- your smile grown to full complicity
+- I will not back down ...
+
+<!-- - toutes mes idées transformées en brûlots
 - toutes mes pensées en feu grégeois
 - hachoirs mes deux cantiques
 - sang répandu ma tiède fourrure
@@ -3608,10 +3674,11 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Ô chère tête de la lumière
 - j'ai combattu dix ans pour un sourire
 - ton sourire mûri de pleine connivence
-- je me reculerais pas ...
+- je me reculerais pas ... -->
 
+*(3 cannon shots blast intermitently. Men with torches run from the explosions ... from the smoke ... a panic ...)*
 
-*(3 coups de canon espacés retentissent. Des hommes avec des torches courent des explosions ... de la fumée ... une panique ...)*
+<!-- *(3 coups de canon espacés retentissent. Des hommes avec des torches courent des explosions ... de la fumée ... une panique ...)* -->
 
 - {:.speaker} Voices.
 
@@ -3637,26 +3704,39 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.indent-2} Long live Freedom. Long live Toussaint.
 
+*(Troops marching ... a forest at night; fire flares in the distance ... horse riders.)*
 
-*(Des troupes défilent ... une forêt la nuit ; lueurs d'incendie au loin ... des cavaliers.)*
+<!-- *(Des troupes défilent ... une forêt la nuit ; lueurs d'incendie au loin ... des cavaliers.)* -->
 
 
 
 - {:.speaker} Toussaint.
 
-- défaite.
+- defeat.
+- they advance
+- {: .prose} the massacres, my massacres, the fumes, my fumes build a road, hardly clear, of water jets launched by the vents of fire
+
+<!-- - défaite.
 - ils avancent
-- {:.prose} les massacres, mes massacres, les fumées, mes fumées font une route peu limpide de jets d'eau lancés par les évents de l'incendie
+- {:.prose} les massacres, mes massacres, les fumées, mes fumées font une route peu limpide de jets d'eau lancés par les évents de l'incendie -->
 
 ---
 
 
 [63]({{site.baseurl}}/chiens/chiens/p063.html){:.pagetitle}
 
+- but they advance ...
+- the tired eyes? hands cut like a marroon?
+- slave?
+- they will not have me.
+- riding my hate and my hope.
+- I still have ravines
+- I still have mountains ...
+- at the bottom of a hole protected from the winds, I would still watch the secret tides
+- the revolts of silt and black earth.
+- onward, my friends.
 
-
-
-- mais ils avancent ...
+<!-- - mais ils avancent ...
 - les yeux crevés ? les mains coupées comme un marron ?
 - esclave ?
 - ils ne m'auront pas.
@@ -3665,53 +3745,55 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - il me reste des montagnes ...
 - au fond d'un trou fermé aux vents, je guetterais encore les marées secrètes
 - les révoltes du limon et des terres noires.
-- en avant mes amis.
+- en avant mes amis. -->
 
 
-- {:.speaker} 1er cavalier.
+- {:.speaker} 1st Horse Rider.
 
-- {:.indent-2} Fougères bègues guidez nous.
-
-
-- {:.speaker} 2e cavalier.
-
-- Paroles séchées des herbes
-- guidez nous.
+- {:.indent-2} Stubby ferns, guide us.
 
 
-- {:.speaker} 3e cavalier.
+- {:.speaker} 2nd Horse Rider.
 
-- Couleuvres endolories
-- guidez nous.
+- Dried words of herbs
+- guide us.
 
 
-- {:.speaker} 4e cavalier.
+- {:.speaker} 3rd Horse Rider.
 
-- Lucioles, cris du silex, guidez nous.
+- Sore snakes
+- guide us.
+
+
+- {:.speaker} 4th Horse Rider.
+
+- Fireflies, cries of flint, guide us.
 
 
 - {:.speaker} Toussaint.
 
-- Guidez nous
-- ô guidez nous
-- aloès aveugle vengeance tonnante armée
-- pour un siècle.
+- Guide us
+- O guide us
+- blind aloe, vengeance, thunderous army
+- for a century.
+
+<!-- - aloès aveugle vengeance tonnante armée
+- pour un siècle. -->
 
 
-*(La troupe s'ébranle).*
-
+*(Exit the troops).*
 
 
 - {:.speaker} The Reciter.
 
-- {:.prose} Vers le soir de grandes îles de crachat s'élargirent en annonces somptuaires — sur le pavé.
+- {:.prose} Towards the dusk of grand islands of spit they expand into sumptuary announcements—on the cobbles.
+
+<!-- Vers le soir de grandes îles de crachat s'élargirent en annonces somptuaires — sur le pavé. -->
 
 ---
 
 
 [64]({{site.baseurl}}/chiens/chiens/p064.html){:.pagetitle}
-
-
 
 
 - et bientôt les jararacas prirent position au haut du paysage
