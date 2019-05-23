@@ -3656,8 +3656,8 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - all my thoughts into Greek fire
 - my two hymns, hatchets
 - my warm fur, spilled blood
-- my ears, my arteries beat a charge
-- next to which a horny woman's desire
+- my ears, my arteries carry a charge
+- next to which the craving of a horny woman
 - seems like the half gesture of a child;
 - O dear light's head
 - I fought ten years for a smile
@@ -3750,12 +3750,12 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} 1st Horse Rider.
 
-- {:.indent-2} Stubby ferns, guide us.
+- {:.indent-2} Prickly ferns, guide us.
 
 
 - {:.speaker} 2nd Horse Rider.
 
-- Dried words of herbs
+- Dried herbal words
 - guide us.
 
 
@@ -3786,7 +3786,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.speaker} The Reciter.
 
-- {:.prose} Towards the dusk of grand islands of spit they expand into sumptuary announcements—on the cobbles.
+- {:.prose} When night fell on the large islands of spit they became sumptuary notices on the footpath.
 
 <!-- Vers le soir de grandes îles de crachat s'élargirent en annonces somptuaires — sur le pavé. -->
 
@@ -3795,30 +3795,56 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 [64]({{site.baseurl}}/chiens/chiens/p064.html){:.pagetitle}
 
+- and soon the jararacas took their post atop the landscape
+- Then the road was surprised by strange disasters
+- the bitten crowds were looking for the way out
+- the bitten crowds bit the concealed blockades on the crossroads
+- and the crowds wavered on the spot.
+- The crowds trampled underfoot
+- and the red eagles made signals mid-flight
+- the signals of death.
 
-- et bientôt les jararacas prirent position au haut du paysage
+<!-- - et bientôt les jararacas prirent position au haut du paysage
 - Alors la route s'étonna d'étranges désastres
 - les foules mordues cherchaient l'issue
 - les foules mordues mordaient les carrefours invisiblement barrés
 - et les foules s'essouflèrent sur place.
 - Les foules piétinaient
 - et les aigles rouges faisaient des signaux à mi ciel
-- les signaux de la mort.
+- les signaux de la mort. -->
 
+*(A desolate heath: The glow of wildfires.)*
 
-*(Une lande désolée : leurs d'incendie.)*
-
-
+<!-- *(Une lande désolée : leurs d'incendie.)* -->
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Encore. Encore
+- {: .indent-2} Again. Again
+- labyrinths of wine and sea
+- the indisputable storm barbecues
+- the isthmus the angles the diamond the day
+- I don't recant a thing
+- his silver dishes: My laughter
+- {: .prose} his oriflammes of shellfish: My sadness, my jungle, my curse flaring up ...
+- alas.
+- Everything disappears, everything falls apart.
+- nothing matters anymore but the skies I remember
+- nothing's left but to go down one staircase, step by step
+- nothing's left but one little stolen cinder rose
+- but one aroma of naked women
+- but one country of fabulous explosions
+- but one burst of pack-ice laughter
+- but one desperate pearl necklace
+- but one outdated calendar
+- but the taste the vertigo the luxury of the intoxicating sacrilege.
+
+<!-- - {:.indent-2} Encore. Encore
 - des labyrinthes du vin et de la mer
 - l'orage incontestable boucane
 - l'isthme les angles le diamant le jour
 - je ne désavoue rien
-- sa vaisselle d'argent : Mon rire
-- {:.prose} ses oriflammes de fruits d'eau de mer de coquillage : Ma tristesse, ma jungle, mes malédictions stimulées ...
+- sa vaisselle d'argent : Mon rire -->
+<!-- - {:.prose} ses oriflammes de fruits d'eau de mer de coquillage : Ma tristesse, ma jungle, mes malédictions stimulées ...
 - hélas.
 - Tout s'efface, tout s'écroule.
 - il ne m'importe plus que les ciels mémorés
@@ -3829,17 +3855,29 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - qu'un éclat de rire de banquise
 - qu'un collier de perles désespérées
 - qu'un calendrier désuet
-- que le goût le vertige le luxe du sacrilège capiteux.
+- que le goût le vertige le luxe du sacrilège capiteux. -->
 
 ---
 
 
 [65]({{site.baseurl}}/chiens/chiens/p065.html){:.pagetitle}
 
+- Three wise men
+- Eyes protected by 3 rows of embossed eyelids
+- floor of gray noons
+- distilling bramble by bramble a thin path
+- a wild track
+- deposit of regrets and expectations
+- ghosts caught in somber circles and crazy rocks of black blood
+- I am thirsty
+- oh, how thirsty
+- in search of peace and green light
+- I dived throughout the season of pearls
+- in the sewers
+- without seeing a thing
+- burning ...
 
-
-
-- Rois mages
+<!-- - Rois mages
 - Yeux protégés par 3 rangs de paupières gauffrées
 - sol des midis gris
 - distillant ronce par ronce un maigre chemin
@@ -3852,29 +3890,36 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - j'ai plongé toute la saison des perles
 - aux égouts
 - sans rien voir
-- brûlant ...
+- brûlant ... -->
 
 
 - {:.speaker} The Narrator.
 
-- {:.prose .prose-indent} des malédictions écrasées sous les pierres palpitent en travers du chemin avec de lourds yeux de crapauds ; un grand bruit démént secoue l'île par le ciel, les os tragiques se déroulent contre nature
+- {: .prose.prose-indent} Curses crushed on the stones throb across the road with heavy toad eyes; a loud insane noise shakes the island by the sky, the tragic bones unfold against nature
+- conches, avalanches, heart
+- a poorly drained and unhealthy night goes around the world.
+
+<!-- - {:.prose .prose-indent} des malédictions écrasées sous les pierres palpitent en travers du chemin avec de lourds yeux de crapauds ; un grand bruit démént secoue l'île par le ciel, les os tragiques se déroulent contre nature
 - conques, avalanches, cœur
-- une nuit mal drainée et malsaine fait le tour du monde.
+- une nuit mal drainée et malsaine fait le tour du monde. -->
 
 
 - {:.speaker} The Chorus.
 
-- {:.indent-2} Je me souviens du matin des îles.
+- {: .indent-2} I remember the islands' morning.
+- The morning kneaded almond and glass.
+- The thrushes would laugh in the breadfruit tree.
+
+<!-- - {:.indent-2} Je me souviens du matin des îles.
 - Le matin pétrissait de l'amande et du verre.
-- Les grives riaient dans l'arbre-à-graines.
-- 
-- 
-- 
+- Les grives riaient dans l'arbre-à-graines. -->
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je cherche les traces de ma puissance comme un dans la brousse les traces perdues
+- {: .prose.prose-indent} I'm looking for traces of my power as one in the bush for lost tracks
+
+<!-- - {:.prose .prose-indent} Je cherche les traces de ma puissance comme un dans la brousse les traces perdues -->
 
 ---
 
@@ -3882,47 +3927,67 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 [66]({{site.baseurl}}/chiens/chiens/p066.html){:.pagetitle}
 
 
+- {: .prose} of a large herd, and I dig, knee-deep, in the high grass of blood. Poor gods, good-natured faces, arms too long, driven out of a rum paradise—ashen palms visited by bats and packs of sleepwalkers—the cadaverous decomposition lights its worm and herb candles
+- Climb, rockets, illuminate the disaster ...
+- {: .prose} I bled in the secret corridors—on the grand open field of battle and,
+- I advance, spalled fly big insect tough-horned and voracious
+- {: .prose} attracted by the succulences of my own sawtooth skeleton, legacy of my murdered body, violent through the bars of the sun.
 
-
-- {:.prose} d'un grand troupeau et j'enfonce à mijambes dans les hautes herbes du sang. pauvres dieux faces débonnaires , bras trop longs, chassés d'un paradis de rhum — paumes cendreuses visitées de chauves souris et de meutes somnambules — la décomposition cadévérique allume toutes ses bougies de vers et d'herbes
+<!-- - {:.prose} d'un grand troupeau et j'enfonce à mijambes dans les hautes herbes du sang. pauvres dieux faces débonnaires , bras trop longs, chassés d'un paradis de rhum — paumes cendreuses visitées de chauves souris et de meutes somnambules — la décomposition cadévérique allume toutes ses bougies de vers et d'herbes
 - Montez fusées, éclairez le désastre ...
 - {:.prose} J'ai saigné dans les couloirs secrets — sur le sol grand'ouvert des batailles et,
 - je m'avance, mouche dédorée grand insecte malicorne et vorace
-- {:.prose} attiré par les succulences de mon propre squelette en dents de scie, legs de mon corps assassiné violent à travers les barreaux du soleil.
+- {:.prose} attiré par les succulences de mon propre squelette en dents de scie, legs de mon corps assassiné violent à travers les barreaux du soleil. -->
 
 
 - {:.speaker} The Reciter.
 
-- dépecé éparpillé
+- scattered skinned
+- in the soils in the thickets
+- disemboweled poem
+- emigration of burned doves drizzled with spirits ...
+
+
+<!-- - dépecé éparpillé
 - dans les terrains dans les halliers
 - poème éventré
-- émigration de colombes brûlées arrosées d'eau vie ...
+- émigration de colombes brûlées arrosées d'eau vie ... -->
 
 
 - {:.speaker} The Narrator.
 
-- Saint-Domingue saigne.
+- Saint-Domingue bleeds.
 
 
 - {:.speaker} The Reciter.
 
-- Haïti saigne.
+- Haïti bleeds.
 
 
 - {:.speaker} The Narrator.
 
-- Cul de sac de misères, de solitude, d'herbes puantes.
+- Cul de sac of miseries, of loneliness, of smelly grasses.
+
+<!-- - Cul de sac de misères, de solitude, d'herbes puantes. -->
 
 
 - {:.speaker} Toussaint.
 
-- le caïman ! les torches ! les drapeaux!
-- et l'Amazone degout d'hévéas
+- the caiman! the torches! the flags!
+- and the Amazon River erects rubber trees
+- and the moons fallen like winged seeds in the warm humus of the sky
+- o hand of the strangler,
+- my soul swims in the heart of the maelstrom
+- where strange monograms sprout:
+- a drowned phallus, a tibia, a sternum
+
+<!-- - le caïman ! les torches ! les drapeaux!
+- et l'Amazone debout d'hévéas
 - et les lunes tombées comme des graines ailées dans l'humus tiède du ciel
 - o main de l'étrangleur,
-- mon âme nage en plein cœur  du maelström
+- mon âme nage en plein cœur du maelström
 - là où germent d'étranges monogrammes :
-- un phallus de noyé, un tibia, un sternum
+- un phallus de noyé, un tibia, un sternum -->
 
 ---
 

@@ -2751,7 +2751,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - {:.speaker} Récitant.
 
-- {:.prose} Vers le soir de grandes îles de crachat s'élargirent en annonces somptuaires — sur le pavé.
+- {:.prose} Vers le soir de grandes îles de crachat s'élargirent en annonces somptuaires sur le pavé.
 
 ---
 
@@ -2768,7 +2768,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - les signaux de la mort.
 
 
-*(Une lande désolée&nbsp;: leurs d'incendie.)*
+*(Une lande désolée&nbsp;: lueurs d'incendie.)*
 
 
 
@@ -2836,7 +2836,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 [ 66 ](/chiens/chiens/p066.html){: target='\_blank'}
 
-- {:.prose} d'un grand troupeau et j'enfonce à mijambes dans les hautes herbes du sang. pauvres dieux faces débonnaires , bras trop longs, chassés d'un paradis de rhum — paumes cendreuses visitées de chauves souris et de meutes somnambules — la décomposition cadévérique allume toutes ses bougies de vers et d'herbes
+- {:.prose} d'un grand troupeau et j'enfonce à mi-jambes dans les hautes herbes du sang. pauvres dieux faces débonnaires , bras trop longs, chassés d'un paradis de rhum — paumes cendreuses visitées de chauves souris et de meutes somnambules — la décomposition cadévérique allume toutes ses bougies de vers et d'herbes
 - Montez fusées, éclairez le désastre...
 - {:.prose} J'ai saigné dans les couloirs secrets — sur le sol grand'ouvert des batailles et,
 - je m'avance, mouche dédorée grand insecte malicorne et vorace
