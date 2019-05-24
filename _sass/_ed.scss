@@ -709,52 +709,52 @@ div.toc {
 
 /* To set line indentation for poetry wrap the line in a span, with a class="indent-x" attribute. The x is represents an rem (root em) value */
 
-.indent-1 {
+.i1 {
 	font-style: normal;
 	padding-left: 1rem;
 }
 
-.indent-2 {
+.i2 {
 	font-style: normal;
 	padding-left: 2rem;
 }
 
-.indent-3 {
+.i3 {
 	font-style: normal;
 	padding-left: 3rem;
 }
 
-.indent-4 {
+.i4 {
 	font-style: normal;
 	padding-left: 4rem;
 }
 
-.indent-5 {
+.i5 {
 	font-style: normal;
 	padding-left: 5rem;
 }
 
-.indent-6 {
+.i6 {
 	font-style: normal;
 	padding-left: 6rem;
 }
 
-.indent-7 {
+.i7 {
 	font-style: normal;
 	padding-left: 7rem;
 }
 
-.indent-8 {
+.i8 {
 	font-style: normal;
 	padding-left: 8rem;
 }
 
-.indent-9 {
+.i9 {
 	font-style: normal;
 	padding-left: 9rem;
 }
 
-.indent-10 {
+.i10 {
 	font-style: normal;
 	padding-left: 10rem;
 }
@@ -836,13 +836,13 @@ li.centered {
     text-align: center;
 }
 
-li.speaker, li.speakerGroup {
+li.sp, li.spGroup {
     text-align: center;
     padding-top: 1.2em;
     margin-bottom: .5rem;
 }
 
-li.speakerGroup {
+li.spGroup {
   margin-bottom: -1.6em;
 }
 
@@ -854,13 +854,13 @@ li.attribution {
   color: #454545;
 }
 
-li.prose { 
+li.pr { 
   list-style-position: inside;
   margin-left: -1em;
   text-indent: 0;
 }
 
-li.prose-indent {
+li.i {
   text-indent: 2rem;
 }
 
@@ -1138,7 +1138,7 @@ dd {
     margin-bottom: 1rem;
   }
 
-  li.speaker p {
+  li.sp p {
     margin-bottom: 0.5rem;
   }
 
@@ -1165,11 +1165,11 @@ div#figure-p img {
     text-align: right;
   }
 
-  li.speaker {
+  li.sp {
     padding-top: .5rem;
   }
 
-  li.speaker p {
+  li.sp p {
     margin-bottom: 0rem;
   }
 
