@@ -18,7 +18,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[Title Page]({{site.baseurl}}/chiens/chiens/p000.html){:.pagetitle}
+[Title Page]({{site.baseurl}}/chiens/p000.html){:.pagetitle}
 
 - {:.centered} AIMÉ CÉSAIRE.
 - {:.centered} .............
@@ -34,7 +34,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[1]({{site.baseurl}}/chiens/chiens/p001.html){:.pagetitle}
+[1]({{site.baseurl}}/chiens/p001.html){:.pagetitle}
 
 - {:.centered} ACT I
 
@@ -67,7 +67,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[2]({{site.baseurl}}/chiens/chiens/p002.html){:.pagetitle}
+[2]({{site.baseurl}}/chiens/p002.html){:.pagetitle}
 
 - {:.pr.i} By the bounding tides, I march on the water of spinning Springs; I see my sentinel eyes on high. The insomnia grows steadfast like a disobedience along the free temples of the woman with amphora—water jug, sprouting tempest Acquarius, kettle.
 
@@ -105,7 +105,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[5]({{site.baseurl}}/chiens/chiens/p005.html){:.pagetitle}
+[5]({{site.baseurl}}/chiens/p005.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -137,7 +137,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[6]({{site.baseurl}}/chiens/chiens/p006.html){:.pagetitle}
+[6]({{site.baseurl}}/chiens/p006.html){:.pagetitle}
 
 - I was a slave for 50 years
 - and I have cut the cane and I have waxed the shoes and
@@ -169,7 +169,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[7]({{site.baseurl}}/chiens/chiens/p007.html){:.pagetitle}
+[7]({{site.baseurl}}/chiens/p007.html){:.pagetitle}
 
 - {:.sp} The Chorus.
 
@@ -211,7 +211,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[8]({{site.baseurl}}/chiens/chiens/p008.html){:.pagetitle}
+[8]({{site.baseurl}}/chiens/p008.html){:.pagetitle}
 
 - {:.pr.i} And I am young. I am plush with youth, with a childhood prior to doors and windows, with a childhood of libations and offerings over my eyes, over the hours. A dry lake hangs on my cheek, but it weeps for the trees of Judea bathed in crocuses and
 - anemones
@@ -239,7 +239,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[9]({{site.baseurl}}/chiens/chiens/p009.html){:.pagetitle}
+[9]({{site.baseurl}}/chiens/p009.html){:.pagetitle}
 
 - {:.sp} The Narrator.
 
@@ -257,7 +257,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[10]({{site.baseurl}}/chiens/chiens/p010.html){:.pagetitle}
+[10]({{site.baseurl}}/chiens/p010.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -290,7 +290,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[11]({{site.baseurl}}/chiens/chiens/p011.html){:.pagetitle}
+[11]({{site.baseurl}}/chiens/p011.html){:.pagetitle}
 
 - {:.sp} The Chorus.
 
@@ -326,7 +326,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[12]({{site.baseurl}}/chiens/chiens/p012.html){:.pagetitle}
+[12]({{site.baseurl}}/chiens/p012.html){:.pagetitle}
 
 - {:.sp} The Reciter.
 
@@ -357,7 +357,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[13]({{site.baseurl}}/chiens/chiens/p013.html){:.pagetitle}
+[13]({{site.baseurl}}/chiens/p013.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -409,7 +409,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[14]({{site.baseurl}}/chiens/chiens/p014.html){:.pagetitle}
+[14]({{site.baseurl}}/chiens/p014.html){:.pagetitle}
 
 - {:.sp} Toussaint *(with a thundering voice.)*
 
@@ -449,7 +449,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[15]({{site.baseurl}}/chiens/chiens/p015.html){:.pagetitle}
+[15]({{site.baseurl}}/chiens/p015.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -465,7 +465,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[16]({{site.baseurl}}/chiens/chiens/p016.html){:.pagetitle}
+[16]({{site.baseurl}}/chiens/p016.html){:.pagetitle}
 
 - No, no, I lie. I'm afraid. I'm alone
 - my forests don't have ears, nor my rivers skin
@@ -490,7 +490,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[17]({{site.baseurl}}/chiens/chiens/p017.html){:.pagetitle}
+[17]({{site.baseurl}}/chiens/p017.html){:.pagetitle}
 
 - {:.sp} Voices.
 
@@ -529,7 +529,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[18]({{site.baseurl}}/chiens/chiens/p018.html){:.pagetitle}
+[18]({{site.baseurl}}/chiens/p018.html){:.pagetitle}
 
 - {:.sp} The Crowd.
 
@@ -574,7 +574,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[19]({{site.baseurl}}/chiens/chiens/p019.html){:.pagetitle}
+[19]({{site.baseurl}}/chiens/p019.html){:.pagetitle}
 
 - {:.sp} The Crowd.
 
@@ -620,7 +620,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[20]({{site.baseurl}}/chiens/chiens/p020.html){:.pagetitle}
+[20]({{site.baseurl}}/chiens/p020.html){:.pagetitle}
 
 - {:.sp} The Crowd.
 
@@ -655,7 +655,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[21]({{site.baseurl}}/chiens/chiens/p021.html){:.pagetitle}
+[21]({{site.baseurl}}/chiens/p021.html){:.pagetitle}
 
 - {:.sp} The Crowd.
 
@@ -691,7 +691,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[22]({{site.baseurl}}/chiens/chiens/p022.html){:.pagetitle}
+[22]({{site.baseurl}}/chiens/p022.html){:.pagetitle}
 
 *(The scene fades progressively, slowly.)*
 
@@ -705,7 +705,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[23]({{site.baseurl}}/chiens/chiens/p023.html){:.pagetitle}
+[23]({{site.baseurl}}/chiens/p023.html){:.pagetitle}
 
 *(In Saint-Domingue, young white girls play in front of a rich mansion, 18th century style. Enter The Chorus, The Reciter and The Narrator.)* 
 
@@ -731,7 +731,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 3rd Girl.
 
-- {:.i2} Boo; boo.
+- {:.i2} Boo. boo.
 
 - {:.sp} 4th Girl.
 
@@ -749,7 +749,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[24]({{site.baseurl}}/chiens/chiens/p024.html){:.pagetitle}
+[24]({{site.baseurl}}/chiens/p024.html){:.pagetitle}
 
 *(The Reciter and The Narrator pretend to put down a stretcher; The Chorus to dig a grave. They bury an imaginary corpse on the grave—a scene of homeopathic magic.)*
 
@@ -773,7 +773,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[25]({{site.baseurl}}/chiens/chiens/p025.html){:.pagetitle}
+[25]({{site.baseurl}}/chiens/p025.html){:.pagetitle}
 
 - {:.sp} Toussaint
 
@@ -801,7 +801,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[26]({{site.baseurl}}/chiens/chiens/p026.html){:.pagetitle}
+[26]({{site.baseurl}}/chiens/p026.html){:.pagetitle}
 
 *(The scene is overrun with the insurgency: a mass of men and women armed with machetes.)*
 
@@ -842,7 +842,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[27]({{site.baseurl}}/chiens/chiens/p027.html){:.pagetitle}
+[27]({{site.baseurl}}/chiens/p027.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -876,7 +876,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[28]({{site.baseurl}}/chiens/chiens/p028.html){:.pagetitle}
+[28]({{site.baseurl}}/chiens/p028.html){:.pagetitle}
 
 *(The warriors parade by the cadavers brandishing their machetes.)*
 
@@ -900,7 +900,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[29]({{site.baseurl}}/chiens/chiens/p029.html){:.pagetitle}
+[29]({{site.baseurl}}/chiens/p029.html){:.pagetitle}
 
 - {:.sp} The Reciter.
 
@@ -940,7 +940,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[30]({{site.baseurl}}/chiens/chiens/p030.html){:.pagetitle}
+[30]({{site.baseurl}}/chiens/p030.html){:.pagetitle}
 
 - {:.sp} The Reciter.
 
@@ -960,7 +960,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[31]({{site.baseurl}}/chiens/chiens/p031.html){:.pagetitle}
+[31]({{site.baseurl}}/chiens/p031.html){:.pagetitle}
 
 *(At Cap-Haïtien. An assembly of planters presided by the governor)*
 
@@ -1002,7 +1002,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[32]({{site.baseurl}}/chiens/chiens/p032.html){:.pagetitle}
+[32]({{site.baseurl}}/chiens/p032.html){:.pagetitle}
 
 - {:.sp} A Voice.
 
@@ -1036,7 +1036,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[33]({{site.baseurl}}/chiens/chiens/p033.html){:.pagetitle}
+[33]({{site.baseurl}}/chiens/p033.html){:.pagetitle}
 
 *(A road. Nighttime. Groups of passersby.)*
 
@@ -1067,7 +1067,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[34]({{site.baseurl}}/chiens/chiens/p034.html){:.pagetitle}
+[34]({{site.baseurl}}/chiens/p034.html){:.pagetitle}
 
 - {:.sp} 2nd Freak.
 
@@ -1103,7 +1103,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[35]({{site.baseurl}}/chiens/chiens/p035.html){:.pagetitle}
+[35]({{site.baseurl}}/chiens/p035.html){:.pagetitle}
 
 - {:.sp} The Crowd.
 
@@ -1134,7 +1134,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[36]({{site.baseurl}}/chiens/chiens/p036.html){:.pagetitle}
+[36]({{site.baseurl}}/chiens/p036.html){:.pagetitle}
 
 - {:.sp} The Reciter.
 
@@ -1161,7 +1161,7 @@ Please note that the following text contains violence in many guises, including 
 
 ---
 
-[37]({{site.baseurl}}/chiens/chiens/p037.html){:.pagetitle}
+[37]({{site.baseurl}}/chiens/p037.html){:.pagetitle}
 
 *(Enter a mother and her two daughters. Tired, worried. White ... They turn their heads from time to time to see if they are being followed ... Half reassured, they lay down their bundles.)*
 
@@ -1201,7 +1201,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[38]({{site.baseurl}}/chiens/chiens/p038.html){:.pagetitle}
+[38]({{site.baseurl}}/chiens/p038.html){:.pagetitle}
 
 - {:.sp} 1st Slave.
 
@@ -1242,7 +1242,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[39]({{site.baseurl}}/chiens/chiens/p039.html){:.pagetitle}
+[39]({{site.baseurl}}/chiens/p039.html){:.pagetitle}
 
 - {:.sp} The Narrator *(doleful.)*
 
@@ -1274,7 +1274,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[40]({{site.baseurl}}/chiens/chiens/p040.html){:.pagetitle}
+[40]({{site.baseurl}}/chiens/p040.html){:.pagetitle}
 
 *(Discordant cries ... The silence suddenly falls heavy and wet, the silence of the Caribbean. Abruptly a ship in distress invades the whole field of vision; and in the flesh of the phosphorescent sea, an inscription explodes, bloody, reflected on the reefs.)*
 
@@ -1292,7 +1292,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[41]({{site.baseurl}}/chiens/chiens/p041.html){:.pagetitle}
+[41]({{site.baseurl}}/chiens/p041.html){:.pagetitle}
 
 - {:.centered} ACTE II
 
@@ -1326,7 +1326,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[42]({{site.baseurl}}/chiens/chiens/p042.html){:.pagetitle}
+[42]({{site.baseurl}}/chiens/p042.html){:.pagetitle}
 
 *(A Haitian town, public plaza: troops, crowds, flags. Sudden cheers and fanfare. Enter Toussaint and his entourage. Toussaint stands on the dais: the delegations approach in succession.)*
 
@@ -1364,7 +1364,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[43]({{site.baseurl}}/chiens/chiens/p043.html){:.pagetitle}
+[43]({{site.baseurl}}/chiens/p043.html){:.pagetitle}
 
 - {:.sp} The Grand Master of the University.
 
@@ -1407,7 +1407,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[44]({{site.baseurl}}/chiens/chiens/p044.html){:.pagetitle}
+[44]({{site.baseurl}}/chiens/p044.html){:.pagetitle}
 
 - {:.sp} The Cantors  *(bawling.)*
 
@@ -1454,7 +1454,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[45]({{site.baseurl}}/chiens/chiens/p045.html){:.pagetitle}
+[45]({{site.baseurl}}/chiens/p045.html){:.pagetitle}
 
 - {:.sp} The Reciter.
 
@@ -1505,7 +1505,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[46]({{site.baseurl}}/chiens/chiens/p046.html){:.pagetitle}
+[46]({{site.baseurl}}/chiens/p046.html){:.pagetitle}
 
 - is it to see you that the pyramids
 - have
@@ -1540,7 +1540,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[47]({{site.baseurl}}/chiens/chiens/p047.html){:.pagetitle}
+[47]({{site.baseurl}}/chiens/p047.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -1581,7 +1581,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[48-49]({{site.baseurl}}/chiens/chiens/p048.html){:.pagetitle}
+[48-49]({{site.baseurl}}/chiens/p048.html){:.pagetitle}
 
 *(A road in Le Cap.)*
 
@@ -1621,7 +1621,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[50]({{site.baseurl}}/chiens/chiens/p050.html){:.pagetitle}
+[50]({{site.baseurl}}/chiens/p050.html){:.pagetitle}
 
 - {:.sp} 2nd Passerby.
 
@@ -1648,7 +1648,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[51]({{site.baseurl}}/chiens/chiens/p051.html){:.pagetitle}
+[51]({{site.baseurl}}/chiens/p051.html){:.pagetitle}
 
 - {:.sp} The Chorus.
 
@@ -1686,7 +1686,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[52]({{site.baseurl}}/chiens/chiens/p052.html){:.pagetitle}
+[52]({{site.baseurl}}/chiens/p052.html){:.pagetitle}
 
 - water lilies.
 - {:.i2} We will muzzle the sea while listening to the farmers toil towards the rump
@@ -1725,7 +1725,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[53]({{site.baseurl}}/chiens/chiens/p053.html){:.pagetitle}
+[53]({{site.baseurl}}/chiens/p053.html){:.pagetitle}
 
 - Hippos blow their nightmares
 - Rhinos charge in the wind grown too quickly
@@ -1758,7 +1758,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[54]({{site.baseurl}}/chiens/chiens/p054.html){:.pagetitle}
+[54]({{site.baseurl}}/chiens/p054.html){:.pagetitle}
 
 *(Panic. People run in all directions.)*
 
@@ -1802,7 +1802,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[55]({{site.baseurl}}/chiens/chiens/p055.html){:.pagetitle}
+[55]({{site.baseurl}}/chiens/p055.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -1842,7 +1842,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[56]({{site.baseurl}}/chiens/chiens/p056.html){:.pagetitle}
+[56]({{site.baseurl}}/chiens/p056.html){:.pagetitle}
 
 - {:.sp} Parliamentarian.
 
@@ -1881,7 +1881,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[57]({{site.baseurl}}/chiens/chiens/p057.html){:.pagetitle}
+[57]({{site.baseurl}}/chiens/p057.html){:.pagetitle}
 
 - {:.sp} Parliamentarian.
 
@@ -1921,7 +1921,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[58]({{site.baseurl}}/chiens/chiens/p058.html){:.pagetitle}
+[58]({{site.baseurl}}/chiens/p058.html){:.pagetitle}
 
 *(At this moment djembe drums begin to beat frenetically, drowning out the voices.)*
 
@@ -1960,7 +1960,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[59]({{site.baseurl}}/chiens/chiens/p059.html){:.pagetitle}
+[59]({{site.baseurl}}/chiens/p059.html){:.pagetitle}
 
 - {:.sp} The Chorus.
 
@@ -1980,7 +1980,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[60]({{site.baseurl}}/chiens/chiens/p060.html){:.pagetitle}
+[60]({{site.baseurl}}/chiens/p060.html){:.pagetitle}
 
 - {:.sp} The Narrator.
 
@@ -2026,7 +2026,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[61]({{site.baseurl}}/chiens/chiens/p061.html){:.pagetitle}
+[61]({{site.baseurl}}/chiens/p061.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -2080,7 +2080,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[62]({{site.baseurl}}/chiens/chiens/p062.html){:.pagetitle}
+[62]({{site.baseurl}}/chiens/p062.html){:.pagetitle}
 
 - all my ideas turned into fire ships
 - all my thoughts into Greek fire
@@ -2126,7 +2126,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[63]({{site.baseurl}}/chiens/chiens/p063.html){:.pagetitle}
+[63]({{site.baseurl}}/chiens/p063.html){:.pagetitle}
 
 - but they advance ...
 - the tired eyes? hands cut like a marroon?
@@ -2172,7 +2172,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[64]({{site.baseurl}}/chiens/chiens/p064.html){:.pagetitle}
+[64]({{site.baseurl}}/chiens/p064.html){:.pagetitle}
 
 - and soon the jararacas took their post atop the landscape
 - Then the road was surprised by strange disasters
@@ -2208,7 +2208,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[65]({{site.baseurl}}/chiens/chiens/p065.html){:.pagetitle}
+[65]({{site.baseurl}}/chiens/p065.html){:.pagetitle}
 
 - Three wise men
 - Eyes protected by 3 rows of embossed eyelids
@@ -2243,7 +2243,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[66]({{site.baseurl}}/chiens/chiens/p066.html){:.pagetitle}
+[66]({{site.baseurl}}/chiens/p066.html){:.pagetitle}
 
 - {:.pr} of a large herd, and I dig, knee-deep, in the high grass of blood. Poor gods, good-natured faces, arms too long, driven out of a rum paradise—ashen palms visited by bats and packs of sleepwalkers—the cadaverous decomposition lights its worm and herb candles
 - Climb, rockets, illuminate the disaster ...
@@ -2282,7 +2282,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[67]({{site.baseurl}}/chiens/chiens/p067.html){:.pagetitle}
+[67]({{site.baseurl}}/chiens/p067.html){:.pagetitle}
 
 - an extreme challenge
 - from the eye fermented with shipwrecks.
@@ -2305,18 +2305,18 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint Louverture.
 
-- est-ce qu'ils croient m'avoir comme la laie et le marcassin ?
-- m'extirper comme une racine sans suite ?
-- vaincu,
-- Afrique, Amérique, Europe j'ai de la frénésie cachée sous les feuilles,
-- à ma suffisance ;
-- je tiens à l'abri des cœurs à flanc de furie
-- la clé des perturbations
-- et tout à détruire.
-- le soufre mon frère, le soufre mon sang
-- répandra dans les cités les plus orgueilleuses
-- ses effluves parfumées,
-- les charismes de sa grâce.
+- do they think they could possess me like a sow and her farrow?
+- to yank me out like a root without hairs?
+- defeated,
+- Africa, America, Europe, I have frenzy hidden under the leaves,
+- sufficient;
+- I shelter hearts on the side of fury
+- the key to disturbances
+- and everything to be destroyed.
+- sulfur my brother, sulfur my blood
+- will spread in the most proud cities
+- its scented fragrances,
+- the charismas of its grace.
 
 - {:.sp} 3rd Whisper.
 
@@ -2324,78 +2324,78 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- Inutile de me contredire
-- je n'entends  rien
-- rien que les catastrophes qui montent à la relève des villes
+- No need to contradict me
+- I don't hear anything
+- but disasters surging to substitute cities
 
 ---
 
-[68]({{site.baseurl}}/chiens/chiens/p068.html){:.pagetitle}
+[68]({{site.baseurl}}/chiens/p068.html){:.pagetitle}
 
-- blocs d'injustice monstrueusement agencés
-- villes radieuses
-- je lâcherai sur vous ma meute de vengeance
-- et j'en susciterai par milliers des nègres
-- de toutes les couleurs mes nègres
-- taillés dans du beurre frais
-- taillés dans du roucou
-- taillés ô joie en pleine blancheur
-- et on ne les reconnaitra pas ceux là, poètes ou antéchrists,
-- bourreaux fameux
-- la plus noire des nuits est à venir
+- enclosures of injustice monstrously arranged
+- radiant cities
+- I'll drop on you my pack of revenge
+- and I will arouse thousands of Black people
+- my black people, of all colors,
+- cut in fresh butter
+- carved in achiote
+- carved, what joy, in full whiteness
+- and we will not recognize them there, poets or antichrists,
+- famous executioners
+- the blackest night is coming
 - courage.
 
 - {:.sp} 1st Celestial Voice.
 
-- {:.pr.i} Que l'on me bâtisse sur des montagnes de charniers durcis, une prison : je vois battre les narines des ombres glissantes et du mauvais temps.
+- {:.pr.i} Build me a prison on mountains of hardened mass graves: I see the nostrils pulsing with slippery shadows and bad weather.
 
 - {:.sp} 2nd Celestial Voice.
 
-- {:.i2} Que l'on m'invente des tortures
-- je vois d'ennuis exploser les roses trémières des longs silences pacifiques.
+- {:.i2} Invent me new tortures
+- I see trouble explode the hollyhocks with long peaceful silences.
 
 - {:.sp} The Chorus *(underground.)*
 
-- {:.i2} Voici ma main. Voici ma main.
-- Ma main fraiche, ma main de jet d'eau de sang
-- ma main de varech et d'iode
-- ma main de lumière et de vengeance ...
-- Toussaint Louverture. Toussaint Louverture.
+- {: .i2} This is my hand. Here is my hand.
+- My fresh hand, my blood-sprayed hand
+- my hand of kelp and iodine
+- my hand of light and revenge ...
+- Toussaint louverture. Toussaint louverture.
 
 - {:.sp} Toussaint.
 
-- Dieux d'en bas, dieux bons
-- j'emporte dans ma gueule délabrée
-- le bourdonnement d'une chair vivante,
-- me voici ...
+- Gods from below, good gods
+- I take in my dilapidated mouth
+- the buzzing of living flesh,
+- Here I am ...
 
 ---
 
-[69]({{site.baseurl}}/chiens/chiens/p069.html){:.pagetitle}
+[69]({{site.baseurl}}/chiens/p069.html){:.pagetitle}
 
 *(Passent des nègres « enfilés par le cou à une longue chaine de fer, comme les grains d'un chapelet, et portant tons des menottes aux bras ».)*
 
 *(Entrent les dieux noirs et rouges paissants sous la houlette de l'archevêque.)*
 
-- {:.sp} 1e  dieu.
+- {:.sp} 1st God.
 
 - Quelle époque. Mes enfants vous avez fait là une belle boucherie.
 
 *(Il s'assied sur son trône.)*
 
-- {:.sp} 2nd  dieu.
+- {:.sp} 2nd God.
 
 - {:.pr} Une époque étonnante mes frères : la morue terre-neuvienne se jette d'elle-même sur les lignes.
 
 *(Il s'assied sur son trône.)*
 
-- {:.sp} 3e  dieu.
+- {:.sp} 3rd God.
 
 - Je dis que c'est une époque étourdissante ou stupéfiante à votre gré.
 
 *(Il s'assied sur son trône.)*
 
-- {:.sp} 4e  dieu.
+- {:.sp} 4th God.
 
 - Une époque phallique et fertile en miracles.
 
@@ -2417,7 +2417,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[70]({{site.baseurl}}/chiens/chiens/p070.html){:.pagetitle}
+[70]({{site.baseurl}}/chiens/p070.html){:.pagetitle}
 
 - {:.sp} The Narrator.
 
@@ -2473,7 +2473,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[71]({{site.baseurl}}/chiens/chiens/p071.html){:.pagetitle}
+[71]({{site.baseurl}}/chiens/p071.html){:.pagetitle}
 
 - {:.sp} Le voyageur.
 
@@ -2527,7 +2527,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[72]({{site.baseurl}}/chiens/chiens/p072.html){:.pagetitle}
+[72]({{site.baseurl}}/chiens/p072.html){:.pagetitle}
 
 *(Toussaint s'éloigne : les bonnes gens en riant lui lancent des pierres.)*
 
@@ -2577,7 +2577,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[73]({{site.baseurl}}/chiens/chiens/p073.html){:.pagetitle}
+[73]({{site.baseurl}}/chiens/p073.html){:.pagetitle}
 
 - {:.centered} ACTE III
 
@@ -2599,7 +2599,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - Ténèbres du cachot je vous salue.
 
-- {:.sp} 1e spectre.
+- {:.sp} 1st spectre.
 
 - Les soirs dégringolent comme un enfant dans l'escalier.
 
@@ -2615,7 +2615,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[74]({{site.baseurl}}/chiens/chiens/p074.html){:.pagetitle}
+[74]({{site.baseurl}}/chiens/p074.html){:.pagetitle}
 
 - {:.pr.i} Hé bien, je dis qu'il est une justice suprème et c'est elle qui refait aujourd'hui du général Toussaint Louverture, le vieux Toussaint, l'esclave Toussaint, triste chose oubliée aux latrines de l'histoire, un nègre pouilleux, un nègre dégringolé...
 - {:.pr.i} Toussaint, Toussaint, la race du Cham ne secouera pas la malédiction des jours sanglotés.
@@ -2662,7 +2662,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[75]({{site.baseurl}}/chiens/chiens/p075.html){:.pagetitle}
+[75]({{site.baseurl}}/chiens/p075.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -2709,7 +2709,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[76]({{site.baseurl}}/chiens/chiens/p076.html){:.pagetitle}
+[76]({{site.baseurl}}/chiens/p076.html){:.pagetitle}
 
 - {:.sp} Messager.
 
@@ -2748,7 +2748,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[77]({{site.baseurl}}/chiens/chiens/p077.html){:.pagetitle}
+[77]({{site.baseurl}}/chiens/p077.html){:.pagetitle}
 
 - mon corps&nbsp;&nbsp;mon corps
 - brancard je ne jetterai pas le blessé aux chiens de l'aubépine
@@ -2757,7 +2757,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[78]({{site.baseurl}}/chiens/chiens/p078.html){:.pagetitle}
+[78]({{site.baseurl}}/chiens/p078.html){:.pagetitle}
 
 - {:.sp} Messager.
 
@@ -2803,7 +2803,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[79]({{site.baseurl}}/chiens/chiens/p079.html){:.pagetitle}
+[79]({{site.baseurl}}/chiens/p079.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -2822,7 +2822,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Messager.
 
-- {:.pr} Toussaint, je suis ravi de vous voir revenu à de meilleures dispositions. Le 1er consul m'envoie vous en féliciter et vous assurer que votre complètes soumission ne le laissera pas insensible.
+- {:.pr} Toussaint, je suis ravi de vous voir revenu à de meilleures dispositions. Le 1str consul m'envoie vous en féliciter et vous assurer que votre complètes soumission ne le laissera pas insensible.
 - {:.pr} En tout cas, permettez-moi de remarquer que vous ne vous sous-estimez pas: vous vous rachetez au prix d'un trésor.
 
 - {:.sp} Toussaint.
@@ -2843,7 +2843,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[80]({{site.baseurl}}/chiens/chiens/p080.html){:.pagetitle}
+[80]({{site.baseurl}}/chiens/p080.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -2859,7 +2859,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Messager.
 
-- {:.i2} Insolent, tu braves le 1er Consul.
+- {:.i2} Insolent, tu braves le 1str Consul.
 
 - {:.sp} Toussaint.
 
@@ -2905,7 +2905,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[81]({{site.baseurl}}/chiens/chiens/p081.html){:.pagetitle}
+[81]({{site.baseurl}}/chiens/p081.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -2935,7 +2935,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 *(Entrent des prêtres.)*
 
-- {:.sp} 1er prêtre *(index tendu vers Toussaint.)*
+- {:.sp} 1str prêtre *(index tendu vers Toussaint.)*
 
 - {:.pr} Ladre, je te défends, si tu vas par les chemins et si tu rencontres une personne qui te parle de te mettre au dessus du vent avant de répondre.
 
@@ -2945,13 +2945,13 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[82]({{site.baseurl}}/chiens/chiens/p082.html){:.pagetitle}
+[82]({{site.baseurl}}/chiens/p082.html){:.pagetitle}
 
-- {:.sp} 3e prêtre.
+- {:.sp} 3rd prêtre.
 
 - Je te défends de manger et boire en compagnie.
 
-- {:.sp} 4e prêtre.
+- {:.sp} 4th prêtre.
 
 - Je te défends de sortir sans t'annoncer afin que l'on puisse s'éloigner.
 
@@ -2992,7 +2992,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[83]({{site.baseurl}}/chiens/chiens/p083.html){:.pagetitle}
+[83]({{site.baseurl}}/chiens/p083.html){:.pagetitle}
 
 - {:.sp} 
 
@@ -3040,7 +3040,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[84]({{site.baseurl}}/chiens/chiens/p084.html){:.pagetitle}
+[84]({{site.baseurl}}/chiens/p084.html){:.pagetitle}
 
 - et leur bruit et leur harmonie et leur mesure
 - ce qu'il a fallu de ma nervosité
@@ -3079,7 +3079,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[85]({{site.baseurl}}/chiens/chiens/p085.html){:.pagetitle}
+[85]({{site.baseurl}}/chiens/p085.html){:.pagetitle}
 
 -  du père moribond.
 - Mon fils, à toi mes trésors, à toi mes bandes
@@ -3112,7 +3112,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[86]({{site.baseurl}}/chiens/chiens/p086.html){:.pagetitle}
+[86]({{site.baseurl}}/chiens/p086.html){:.pagetitle}
 
 - {:.pr}  — et cet homme spéculait sur le berceau de mon fils — un berceau de garde-chiourme — 
 - {:.pr} et je ne dis rien, mais une colère me saisissait et une envie d'étrangler cet homme, et une résolution était prises dans mon cœur ...
@@ -3139,7 +3139,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[87]({{site.baseurl}}/chiens/chiens/p087.html){:.pagetitle}
+[87]({{site.baseurl}}/chiens/p087.html){:.pagetitle}
 
 - {:.sp} Le fils.
 
@@ -3176,7 +3176,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[88]({{site.baseurl}}/chiens/chiens/p088.html){:.pagetitle}
+[88]({{site.baseurl}}/chiens/p088.html){:.pagetitle}
 
 - {:.pr} faites d'oreilles coupées qui glissent sur le couchant. Va-t-en, fils, je suis seul et la mer est une manille à mon pied de forçat.
 
@@ -3214,7 +3214,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[89]({{site.baseurl}}/chiens/chiens/p089.html){:.pagetitle}
+[89]({{site.baseurl}}/chiens/p089.html){:.pagetitle}
 
 *(À ce moment, vision : dans une campagne tropicale, s'agite et se convulse la silhouette innénarrable du Grand Prohibiteur. Le « héraut », « sa bouche,» est couché sous un arbre ? Il ronfle.)*
 
@@ -3241,7 +3241,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[90]({{site.baseurl}}/chiens/chiens/p090.html){:.pagetitle}
+[90]({{site.baseurl}}/chiens/p090.html){:.pagetitle}
 
 - {:.pr} tion, non la station, le retrait qui est le contraire du progrès, l'être  le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le contraire de l'expansion de la propension de la contagion, croc-en jambe, croc-en jambe
 - celui qui à un certain moment rend caduc caduc, caduc
@@ -3284,7 +3284,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[91]({{site.baseurl}}/chiens/chiens/p091.html){:.pagetitle}
+[91]({{site.baseurl}}/chiens/p091.html){:.pagetitle}
 
 - {:.sp} Le héraut.
 
@@ -3328,7 +3328,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[92]({{site.baseurl}}/chiens/chiens/p092.html){:.pagetitle}
+[92]({{site.baseurl}}/chiens/p092.html){:.pagetitle}
 
 - {:.sp} The Narrator.
 
@@ -3372,7 +3372,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[93]({{site.baseurl}}/chiens/chiens/p093.html){:.pagetitle}
+[93]({{site.baseurl}}/chiens/p093.html){:.pagetitle}
 
 - au secours! au secours! au meurtre!
 - ils ont tué le soleil! il n'y a plus de soleil! il ne reste plus que les taureaux
@@ -3407,7 +3407,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[94]({{site.baseurl}}/chiens/chiens/p094.html){:.pagetitle}
+[94]({{site.baseurl}}/chiens/p094.html){:.pagetitle}
 
 - Comme un agouti. Comme une mangouste.
 - Qui a fait cela ? Vous me demandez qui a fait cela!
@@ -3454,7 +3454,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[95]({{site.baseurl}}/chiens/chiens/p095.html){:.pagetitle}
+[95]({{site.baseurl}}/chiens/p095.html){:.pagetitle}
 
 - {:.sp} Geôlier.
 
@@ -3483,7 +3483,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[96]({{site.baseurl}}/chiens/chiens/p096.html){:.pagetitle}
+[96]({{site.baseurl}}/chiens/p096.html){:.pagetitle}
 
 - {:.sp} Geôlière.
 
@@ -3542,7 +3542,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[97]({{site.baseurl}}/chiens/chiens/p097.html){:.pagetitle}
+[97]({{site.baseurl}}/chiens/p097.html){:.pagetitle}
 
 - {:.sp} Geôlier.
 
@@ -3583,7 +3583,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[98]({{site.baseurl}}/chiens/chiens/p098.html){:.pagetitle}
+[98]({{site.baseurl}}/chiens/p098.html){:.pagetitle}
 
 - {:.sp} The Reciter.
 
@@ -3632,7 +3632,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[99]({{site.baseurl}}/chiens/chiens/p099.html){:.pagetitle}
+[99]({{site.baseurl}}/chiens/p099.html){:.pagetitle}
 
 - {:.sp} Toussaint.
 
@@ -3655,7 +3655,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[100]({{site.baseurl}}/chiens/chiens/p100.html){:.pagetitle}
+[100]({{site.baseurl}}/chiens/p100.html){:.pagetitle}
 
 - bres à pain, de sucreries, de bagasse harcelée de moucherons ...
 - Terre ma mère j'ai compris votre langage de cape et d'épée
@@ -3694,7 +3694,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[101]({{site.baseurl}}/chiens/chiens/p101.html){:.pagetitle}
+[101]({{site.baseurl}}/chiens/p101.html){:.pagetitle}
 
 - {:.sp} The Reciter.
 
@@ -3744,7 +3744,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[102]({{site.baseurl}}/chiens/chiens/p102.html){:.pagetitle}
+[102]({{site.baseurl}}/chiens/p102.html){:.pagetitle}
 
 *(Sur le rempart apparait une tête. L'homme se dresse, c'est le « négrophobe. »)*
 
@@ -3786,7 +3786,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[103]({{site.baseurl}}/chiens/chiens/p103.html){:.pagetitle}
+[103]({{site.baseurl}}/chiens/p103.html){:.pagetitle}
 
 - le meilleur est en vous et non hors de vous
 - lâchez ces armes,
@@ -3833,7 +3833,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[104]({{site.baseurl}}/chiens/chiens/p104.html){:.pagetitle}
+[104]({{site.baseurl}}/chiens/p104.html){:.pagetitle}
 
 - mais aux salles aussi belles que le mensonge qui n'est pas autre chose que
 - l'amour du voyage
@@ -3872,7 +3872,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[105]({{site.baseurl}}/chiens/chiens/p105.html){:.pagetitle}
+[105]({{site.baseurl}}/chiens/p105.html){:.pagetitle}
 
 - aux mains de champs de charpie et de fonio
 - douce
@@ -3899,7 +3899,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[106]({{site.baseurl}}/chiens/chiens/p106.html){:.pagetitle}
+[106]({{site.baseurl}}/chiens/p106.html){:.pagetitle}
 
 - {:.sp} Général&nbsp;négre.
 
@@ -3945,7 +3945,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 ---
 
-[107]({{site.baseurl}}/chiens/chiens/p107.html){:.pagetitle}
+[107]({{site.baseurl}}/chiens/p107.html){:.pagetitle}
 
 - {:.sp} The Narrator.
 
