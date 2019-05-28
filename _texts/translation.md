@@ -2605,7 +2605,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Je danserai autour de ma victime la danse du scalp.
 
-- {:.sp} Geôlier *(s'adressant au public.)*
+- {:.sp} The Prison Guard *(s'adressant au public.)*
 
 - {:.pr} Regardez-le, caricatural à souhait, la mine déconfite et chafouine, la face blette, les mains  frileuses, chef hypocrite d'un peuple de sauvages, triste conducteur d'une race de démons ; calculateur sournois égaré parmi des frénétiques.
 - {:.pr.i} Mesdames et Messieurs, suivez-moi bien ... En 1793 nous apprenions qu'au nom des droits de l'homme, nous apprenions dis-je que la plus vile de toutes les races allait s'asseoir côte à côte avec nous au banquet d'une risible fra­ternité.
@@ -2634,15 +2634,15 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr.i} Attaché comme une enseigne au haut bout de la France, je ne sanglotte pas ... j'appelle.
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
-- Nous avons miné l'écho : tes paroles brûleront comme des excréments.
+- Nous avons miné The Echo. : tes paroles brûleront comme des excréments.
 
 - {:.sp} Toussaint.
 
 - Marron, ton seul drapeau, le mien : de périls et de révolte sans remords.
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - Tu te vantes de tes forfaits.
 
@@ -2650,7 +2650,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - J'ai acclimaté un arbre de soufre et de laves chez un peuple de vaincus.
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - Misérable.
 
@@ -2670,7 +2670,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - la race de terre, la race de cendre marche
 - les pieds de la route explosent de chiques de salpêtre.
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - Tu expieras prisonnier de la neige, de la solitude, du désespoir.
 
@@ -2684,7 +2684,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Toussaint a part avec lui qu'il le veuille ou non.
 - Je dis que l'Afrique ne le lâchera pas ...
 
-*(à ce moment entre à l'autre bout de la scène le Messager.)*
+*(à ce moment entre à l'autre bout de la scène le The Messenger.)*
 
 - {:.sp} Toussaint.
 
@@ -2694,7 +2694,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - l'éclat de l'acier niche en leurs yeux froids.
 - Ah. C'est une race sans velours.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - Toussaint.
 
@@ -2709,7 +2709,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [76]({{site.baseurl}}/chiens/p076.html){:.pagetitle}
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - Toussaint!
 
@@ -2748,16 +2748,16 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [77]({{site.baseurl}}/chiens/p077.html){:.pagetitle}
 
-- mon corps&nbsp;&nbsp;mon corps
+- mon corps; mon corps
 - brancard je ne jetterai pas le blessé aux chiens de l'aubépine
 - au cri du vin
-- au roulis des&nbsp;&nbsp;ornières peuplés&nbsp;&nbsp;de veaux marins.
+- au roulis des; ornières peuplés; de veaux marins.
 
 ---
 
 [78]({{site.baseurl}}/chiens/p078.html){:.pagetitle}
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - Toussaint.
 
@@ -2765,7 +2765,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr.i} Je me souviens des soirs : le crépuscule était un colibri bleu-vert jouissant dans l'hibiscus rouge.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - Toussaint.
 
@@ -2773,7 +2773,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} Le crépuscule hésitait frissonnant et fragile parmi les criquets rapiéçeurs de ferraille.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - Toussaint Louverture.
 
@@ -2809,7 +2809,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.pr} Aujourd'hui est un jour de connivence. Il est des jours amers à mes lèvres et le mangot qui tombe, tombe lugubrement et les fleurs ressemblent à des ensevelis qui répondent de plus en plus faiblement, mais aujourd'hui je suis en paix et le filao que ne vois pas, me fait des signes et la mer me sourit de toutes ses fossettes et chaque mancenillier se double et se suicide de l'olivier propice.
 - {:.i2} Jour de l'épreuve, soyez le bienvenu.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - Toussaint Louverture.
 
@@ -2818,7 +2818,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Hé bien, te voilà digne messager de la race supérieure
 - {:.pr} Pleins de flair, ayant humé l'odeur du trésor proche, nos maitres t'ont ici délégué pour ouïr la révélation de nos petits secrets ... C'est très bien ... La civette n'accourt pas plus vite sur les pas de la gazelle.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - {:.pr} Toussaint, je suis ravi de vous voir revenu à de meilleures dispositions. Le 1str consul m'envoie vous en féliciter et vous assurer que votre complètes soumission ne le laissera pas insensible.
 - {:.pr} En tout cas, permettez-moi de remarquer que vous ne vous sous-estimez pas: vous vous rachetez au prix d'un trésor.
@@ -2827,7 +2827,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - ... Considérable ... le trésor des anciens flibustiers grossi par ma prévoyance.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - Hé bien Toussaint.
 
@@ -2835,7 +2835,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Ce trésor, vous ne l'aurez pas.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - Comment! vos promesses ? vos remords ? votre lettre ?
 
@@ -2847,7 +2847,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.i2} Je dis que vous ne l'aurez pas.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - {:.i2} Nous l'aurons, car de lui dépend votre vie.
 
@@ -2855,7 +2855,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.i2} Vous ne l'aurez pas : c'est l'or de la vengeance et de la Liberté.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - {:.i2} Insolent, tu braves le 1str Consul.
 
@@ -2863,7 +2863,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.i2} Je ne le brave pas, je le hais.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - {:.i2} Assez.
 
@@ -2871,7 +2871,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.i2} Je vous hais.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - {:.i2} Insolent* (il le frappe.)*
 
@@ -2879,7 +2879,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr.i} Merci, ah merci ... J'avais encore besoin de cette lâcheté là. Ah, comme votre lâcheté me fait du bien.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - {:.pr} Voyons Toussaint, vous avez perdu la bataille. Vous êtes vaincu : il n'y a pas de déshonneur à le reconnaitre.
 
@@ -2888,18 +2888,14 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Toussaint est vaincu ; l'esprit de Toussaint n'est pas vaincu.
 - Il anime encore des milliers de volontés
 - voyez-vous les mornes gonflés d'une menace d'hommes à la peau rude ?
-- La révolte ... mes fils, ce sont mes fils.
+- La révolte ... mes fils, ce sont mes The Son.
 
-- {:.sp} Messager.
+- {:.sp} The Messenger.
 
 - {:.i2} Tes puériles imaginations me font sourire de pitié.
-- Tes fils.  vieillard naïf.
+- Tes The Son.  vieillard naïf.
 - et ton fils pense comme nous que tu serais impardonnable
 - d'ajouter le vol au crime.
-
-- {:.sp} 
-
-- 
 
 ---
 
@@ -2912,7 +2908,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Dis-tu vrai ? Isaac est entre leurs mains.
 - Non traitre, bourreau ... bourreau.
 
-- {:.sp} Le-nègre-à-lunettes  *(sententieux.)*
+- {:.sp} The Black Man with Glasses  *(sententieux.)*
 
 - Je dis : ô que les querelles pourrissent longuement!
 - Je ne suis pas de ceux qui crachent l'huile sur le feu
@@ -2927,7 +2923,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - ... Et moi je veux crier
 
-- {:.sp}  Le-nègre-à-lunettes  *(s'enfuyant.)*
+- {:.sp}  The Black Man with Glasses  *(s'enfuyant.)*
 
 - {:.pr} Je dis : ô que les querelles pourrissent! Au secours! Au secours!  
 
@@ -2992,8 +2988,6 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [83]({{site.baseurl}}/chiens/p083.html){:.pagetitle}
 
-- {:.sp} 
-
 - toucan
 - vent du désastre
 - aspergé de liqueurs fortes
@@ -3046,11 +3040,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.pr} de mes cris d'éternel clochard et de dés de sueur de ma face suante pour faire cela, mon fils
 - ô le fleuve de mes muscles fous
 - ô le saut de mon sang
-- {:.pr} ô le bégaiement de mon sang dans la forge viscérale Eh bien! libéral trop longtemps, je dénonce le pacte absurdement respecté de père en fils.
+- {:.pr} ô le bégaiement de mon sang dans la forge viscérale Eh bien! libéral trop longtemps, je dénonce le pacte absurdement respecté de père en The Son.
 - mon fils,
 - je serai celui-là qui aura commencé.
 
-- {:.sp} Le fils.
+- {:.sp} The Son.
 
 - Mon père, aidez moi à vous aider.
 
@@ -3058,7 +3052,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Je ne veux pas être aidé, je veux mourir ici.
 
-- {:.sp} Le fils.
+- {:.sp} The Son.
 
 - Un mot, un seul mot de vous, mon père et votre sort en est changé.
 
@@ -3066,7 +3060,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Ce mot, je ne le prononcerai pas.
 
-- {:.sp} Le fils.
+- {:.sp} The Son.
 
 - Je veux te rendre à la gloire, à la liberté, à ton île :
 - et le vesou ne sentait pas mauvais, non, dans le matin fruité.
@@ -3083,7 +3077,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Mon fils, à toi mes trésors, à toi mes bandes
 - Haïti t'attend, Venge moi.
 
-- {:.sp} Fils.
+- {:.sp} The Son.
 
 - Saint-Domingue attend la paix,
 - l'oubli,
@@ -3098,7 +3092,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - mais le voici élu par toutes les flèches du carbet
 - {:.pr} son lait s'écoule par mille blessures son cœur d'arbre n'a plus la force d'envoyer aux extrémités le sang ferme qui le défendait contre l'aridité du sable.
 
-- {:.sp} Fils.
+- {:.sp} The Son.
 
 - Je ne suis pas un lâche. Je ne suis pas un traitre.
 - {:.pr} Ce que je suis, je ne l'ai point choisi : fixé équitablement entre deux continent, je suis un être de médiation.
@@ -3115,7 +3109,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.pr}  — et cet homme spéculait sur le berceau de mon fils — un berceau de garde-chiourme — 
 - {:.pr} et je ne dis rien, mais une colère me saisissait et une envie d'étrangler cet homme, et une résolution était prises dans mon cœur ...
 
-- {:.sp} Fils.
+- {:.sp} The Son.
 
 - Père.
 
@@ -3139,7 +3133,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [87]({{site.baseurl}}/chiens/p087.html){:.pagetitle}
 
-- {:.sp} Le fils.
+- {:.sp} The Son.
 
 - Je suis libre
 - et je veux oublier comment
@@ -3150,7 +3144,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Ingrat.
 
-- {:.sp} Le fils.
+- {:.sp} The Son.
 
 - Ingrat, non : libre,
 - libre de toute haine, libre de tout remords.
@@ -3159,7 +3153,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Non pas libre. Vide. La liberté est une plénitude.
 
-- {:.sp} Fils.
+- {:.sp} The Son.
 
 - Peut-être alors, mon père, pourrais-je m'en plaindre à mon tour
 - {:.pr} Lorsque la République t'offrit de m'élever en Europe, les cloches de ton cœur sonnèrent à toute volée.
@@ -3178,7 +3172,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} faites d'oreilles coupées qui glissent sur le couchant. Va-t-en, fils, je suis seul et la mer est une manille à mon pied de forçat.
 
-- {:.sp} Fils.
+- {:.sp} The Son.
 
 - Grâce, je demande grâce.
 
@@ -3216,7 +3210,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 *(À ce moment, vision : dans une campagne tropicale, s'agite et se convulse la silhouette innénarrable du Grand Prohibiteur. Le « héraut », « sa bouche,» est couché sous un arbre ? Il ronfle.)*
 
-- {:.sp} Le Grand Prohibiteur.
+- {:.sp} The Great Prohibitor.
 
 - {:.pr} Allons. Allons ; réveille toi être grossier , stupide et somnolent que la destinée mauvais m'impose comme bouche.
 - Ma bouche
@@ -3228,12 +3222,12 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - non, c'est veto, veto
 - {:.pr} ça ne vous dit rien, je vois que ça ne vous dit rien. Et pourtant à ce cri, les bouches s'arrêtent de parler, les jambes rentrent leur humeur vagabonde, le monde se balafre de bornes, se hérisse d'obstacles, veto, veto
 - Je suis le compresseur, le represseur, le régisseur
-- je suis le grand prohibiteur
+- je suis The Great Prohibitor
 - je m'explique
 - {:.pr} eh bien, il avait été constaté en haut lieu qu'il se faisait depuis quelque temps une consommation effroyable absurde, imprévue, insensée de dons, largesses libéralités, indulgences et permissions, toute chose dérangeant incontestablement l'économie fragile, ô fragile, fragile de l'univers borné
 - borné
-- et c'est alors que je fus suscité. Prohibiteur le grand Prohibiteur
-- je suis le grand prohibiteur, saisissez vous ?
+- et c'est alors que je fus suscité. Prohibiteur The Great Prohibitor
+- je suis The Great Prohibitor, saisissez vous ?
 - Celui qui regne, qui restreint, qui retient et contraint
 - {:.pr} l'ordre négatif, la défense personnifiée, la menotte éloquente, le verrou de prison ambulant, le baillon à la langue bien pendue, le mois qui est le contraire du plus, l'arrêt qui est le contraire vrai du mouvement, non la sta-
 
@@ -3248,35 +3242,31 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Allons héraut. Ma bouche, ma bouche. Héraut. Héraut.
 - Allons héráut fais ton office.
 
-- {:.sp} 
-
-- 
-
-- {:.sp} Le héraut.
+- {:.sp} The Herald.
 
 - Mais c'est que je ne vois personne. Rien que des arbres et de la savane.
 
-- {:.sp} Le Grand Prohibiteur.
+- {:.sp} The Great Prohibitor.
 
 - Imbécile, Eh bien crie la loi aux arbres, à la savane.
 
-- {:.sp} Le héraut  *(incrédule.)*
+- {:.sp} The Herald  *(incrédule.)*
 
 - {:.i2} Aux arbres ? à la savane ?
 
-- {:.sp} Le Grand Prohibiteur.
+- {:.sp} The Great Prohibitor.
 
 - {:.pr} Je dis : aux arbres à la savane, à la pluie au soleil ... Comme si sur ce continent d'Indiens fuyards, ça n'avait pas été d'abord dans les oreilles stables de  l'arbre et de la savane que s'étaient gravés les accents de la loi.
 
-- {:.sp} Le  héraut  *(émerveillé.)*
+- {:.sp} The Herald *(émerveillé.)*
 
 - Vraiment! aux arbres! à la savane! des lois!!
 
-- {:.sp} Le Grand Prohibiteur
+- {:.sp} The Great Prohibitor.
 
 - {:.pr} Ignorant qui connait le nom de Don Christobal Colon amiral de l'océan et ignore celui de Rodrigo de Escovedo notaire royal.[^tei2] Apprends donc mon ami, que les caravelles qui abordaient ici n'étaient pas seulement enceintes d'armes, de vivres, de chevaux, de cavaliers ... Elles avaient et surtout la panse rebondie de lois sonores et répressives.
 
-- {:.sp} Le héraut.
+- {:.sp} The Herald.
 
 - {:.i2} De lois, la panse pleine de lois !
 
@@ -3284,19 +3274,19 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [91]({{site.baseurl}}/chiens/p091.html){:.pagetitle}
 
-- {:.sp} Le héraut.
+- {:.sp} The Herald.
 
 - {:.i2} De lois,  la panse pleine de lois ; de lois répressives.
 
-- {:.sp} Le Grand Prohibiteur.
+- {:.sp} The Great Prohibitor.
 
 - {:.pr} Et puis que j'ai commencé à t'instruire, je ne veux pas te laisser ignorer le nom de mon genial précurseur ici, à Hispaniola. Il s'appelait Alonzo Hojeda. Retiens bien ce nom  don Alonzo de Hojeda,&nbsp;de même que l'histoire a retenu comme symbole le geste d'Hojeda offrant au cacique Caonabo ce qu'il y a au monde de plus précieux. Et il offrit à Caonabo émerveillé devinez quoi ? un turey, un turey sacré, c'est à dire une jolie paire de menottes. Hi-hi, tu as compris allons, héraut, allons.
 
-- {:.sp} Le héraut *(d'une voix forte.)*
+- {:.sp} The Herald *(d'une voix forte.)*
 
 - {:.pr} *(Après une sonnerie de trompette)* au vent, a la pluie, au soleil, aux arbres du nouveau Monde, salut *(sonnerie de trompette.)*
 
-- {:.sp} Le Grand Prohibiteur *(jappant.)*
+- {:.sp} The Great Prohibitor *(jappant.)*
 
 - {:.pr} Veto, veto, veto. 
 
@@ -3320,9 +3310,6 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Un gouffre. Ma vue ne saurait le mesurer.
 
-- {:.sp} The Narrator.
-
-- 
 
 ---
 
@@ -3418,7 +3405,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.pr} Mais vous savez je vous dis que l'action de la Justice est eteinte. Eteint, mais le tison de leurs yeux ne s'éteint jamais.
 - assassins! assassins! assassins!
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - Silence!
 
@@ -3426,7 +3413,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} Allons! bonnes gens ... c'est vrai que je vous importune ... et vous voudriez m'empécher de parler ... Faites moi peur, faites moi bien peur, je suis très lâche vous savez : j'ai tremblé de toutes les peurs depuis la peur première ...
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - Le gredin!
 
@@ -3434,7 +3421,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} Faites moi peur, faites moi très peur je vous dis. Et vous savez les bons moyens : serrez moi le front avec une corde, pendez moi par les aisselles, chauffez moi les pieds avec une pelle rougie.
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - Tais toi nom de Dieu!
 
@@ -3442,7 +3429,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Percez moi la bouche d'un cadenas rougi au feu.
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - Il me tente!
 
@@ -3454,7 +3441,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [95]({{site.baseurl}}/chiens/p095.html){:.pagetitle}
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - Tous les diables de l'enfer tisonnent dans sa couenne noire
 
@@ -3462,7 +3449,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - ... ou bien de vos chiffres entrelaçés, ou bien d'une formule latine.
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - Assez!
 
@@ -3470,7 +3457,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} Ils font les scrupuleux. Ne vous génez pas je vous assure : j'étais absent au baptème du Christ.
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - Ça se voit à l'œil nu.
 
@@ -3483,15 +3470,15 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [96]({{site.baseurl}}/chiens/p096.html){:.pagetitle}
 
-- {:.sp} Geôlière.
+- {:.sp} The Jailer.
 
 - Ligote le.
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - On y va ma femme, on y va *(il ligote Toussaint.)*
 
-- {:.sp} Geôlière.
+- {:.sp} The Jailer.
 
 - Misérable voleur.
 
@@ -3499,11 +3486,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Que me voulez vous, méprisables créatures ?
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - ... Ce trésor ... où l'as tu caché ce trésor ... le fruit de tes rapines ?
 
-- {:.sp} Geôlière.
+- {:.sp} The Jailer.
 
 - Voleur! Voleur! ... Nous sommes renseignés ...
 
@@ -3511,11 +3498,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Quelle est cette femme qui m'insulte ?
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - A toi de répondre, gredin noir ... il n'est plus temps de biaiser.
 
-- {:.sp} Geôlière.
+- {:.sp} The Jailer.
 
 - Frappe le, frappe-le ... ça fera du bien à sa vilaine peau ...
 
@@ -3524,11 +3511,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Qui es-tu femme ?
 - {:.pr} J'en ai connu des femmes ; des seins surpris au pâturage, des éléphants enfants allant à la messe.
 
-- {:.sp} Geôlière.
+- {:.sp} The Jailer.
 
 - Aïe ! Le goujat! il m'insulte le salaud, il m'insulte tu entends ?
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - Insolent, dégoutant, singe libidineux!
 
@@ -3542,7 +3529,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [97]({{site.baseurl}}/chiens/p097.html){:.pagetitle}
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - {:.pr.i} Dis-donc, mais il se fout de nous, le moricaud ... Bien sûr qu'il fait le fou ... Plus fort ... encore plus fort *(il frappe Toussaint)*.
 
@@ -3550,12 +3537,12 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} Frappe ... frappe commandeur ... frappe jusqu'au sang ... il est né du sillon une race sans gémissement ... frappe et lasse toi.
 
-- {:.sp} Geôlière.
+- {:.sp} The Jailer.
 
 - {:.pr} Bûche! Quelle bûche! C'est une bûche te dis-je ... une drôle de race, ces nègres ... Crois-tu que nos coups lui fassent mal ... en tout cas, ça ne marque pas.
 - ... *(elle frappe.)* Oh! Oh! Son sang coule!
 
-- {:.sp} Geôlier  *(riant.)*
+- {:.sp} The Prison Guard  *(riant.)*
 
 - C'est bien connu : battre un nègre  c'est le nourrir ...
 
@@ -3563,7 +3550,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} Isaac, Isaac, pourquoi rester sous la pluie ... J'avais un fils ... j'avais réussi à le préserver des morsures de cette race de scorpions ... Isaac, Isaac!
 
-- {:.sp} Geôlier.
+- {:.sp} The Prison Guard.
 
 - {:.pr} Ah! il déraille sérieusement ... C'est à mourir de rire ... Dis, c'est marrant le sang rouge sur la peau noire. *(Ils délient Toussaint.)*
 
@@ -3618,7 +3605,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} La sainte vierge.
 
-- {:.i2} Mon fils, mon fils.
+- {:.i2} Mon fils, mon The Son.
 
 - {:.sp} Toussaint.
 
@@ -3746,37 +3733,37 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 *(Sur le rempart apparait une tête. L'homme se dresse, c'est le « négrophobe. »)*
 
-- {:.sp} Le négrophobe.
+- {:.sp} The Negrophobe.
 
 - {:.pr} Bande de salauds! Mort aux voleurs! (Des animaux qui n'ont pas d'âme à sauver et à qui le fouet prête de temps en temps un semblant de conscience.) Voleurs! Voleurs! Les armes à la&nbsp;main, je revendique mon bien, mon troupeau, ma possession légitime, mes esclaves!
 
-*(Bruit de mousqueterie ; les nègres ont tiré ; le négrophobe tombe, il est aussitôt remplacé par le « le négrophile ».)*
+*(Bruit de mousqueterie ; les nègres ont tiré ; le négrophobe tombe, il est aussitôt remplacé par le « The Negrophile ».)*
 
-- {:.sp} Le négrophile  *(haraguant le vide.)*
+- {:.sp} The Negrophile  *(haraguant le vide.)*
 
 - {:.pr} Ha! mes amis, mes chers amis! Et l'Evangile a dit que celui qui hait son frère vivra dans l'obscurité. O mes amis qui vivez dans l'obscurité, dans l'obscurité de votre peau, dans l'obscurité de vos cœurs, je veux faire descendre, lait, un rayon de lumière ... d'amour. Et je ne cesserai de vous appeler « mes amis » mes amis, mes frères.
 
-- {:.sp} L'écho
+- {:.sp} The Echo.
 
 - ... mes frères, mes frères ...
 
-- {:.sp} Le négrophile  *(préchant dans le désert).*
+- {:.sp} The Negrophile  *(préchant dans le désert).*
 
 - {:.pr} Mes amis, ô mes amis : je vous accorde que l'esclavage est une grande inicuité, mais par l'esclavage vous avez souffert. Et la souffrance vous a grandis. Et la souffrance vous a fait hommes. Dela mes amis, mes frères, ne l'oubliez pas.
 
-- {:.sp} L'écho
+- {:.sp} The Echo.
 
 - N'oubliez pas, n'oubliez pas.
 
-- {:.sp} Le négrophile  *(donnant des coups d'épée dans l'eau.)*
+- {:.sp} The Negrophile  *(donnant des coups d'épée dans l'eau.)*
 
 - Paix, paix, amour, amour.
 
-- {:.sp} L'écho
+- {:.sp} The Echo.
 
 - Amour, amour
 
-- {:.sp} Le négrophile  *(désespéré.)*
+- {:.sp} The Negrophile  *(désespéré.)*
 
 - Ô peuple égaré,
 - ô insensés
@@ -3792,19 +3779,17 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - vous désarmerez, je le jure,
 - l'arrogance de vos maitres.
 
-- {:.sp} L'écho
+- {:.sp} The Echo.
 
 - Vos maitres, vos maitres.
 
-- {:.sp} Le négrophile 
-
-- 
-
 *(Bruit de mousqueterie.)*
+
+- {:.sp} The Negrophile 
 
  Mes frères, mes frères! 
 
-*(Le négrophile tombe.)*
+*(The Negrophile tombe.)*
 
 - {:.sp} Récitante
 
@@ -3899,21 +3884,21 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [106]({{site.baseurl}}/chiens/p106.html){:.pagetitle}
 
-- {:.sp} Général&nbsp;négre.
+- {:.sp} Black General.
 
 - En avant Morne Rouge *(charge de fantassins.)*
 
-- {:.sp} Général&nbsp;négre.
+- {:.sp} Black General.
 
 - En avant charnier ardent *(nouvelle charge de fantassins.)*
 
-- {:.sp} Général négre
+- {:.sp} Black General.
 
 - En avant Capoix-la-Mort! *(charge de cavalerie.)*
 
 *(Des cris au loin : Victoire, victoire ...)*
 
-- {:.sp} Général&nbsp;négre
+- {:.sp} Black General.
 
 - C'est bien.
 
@@ -3929,17 +3914,15 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Quel est cet homme ? un nuage de sang auréole sa tête sauvage.
 
-- {:.sp} Demi chœur *(allègre.)*
+- {:.sp} Half Chorus *(allègre.)*
 
 - Dessalines ... Dessalines le boucher, Dessalines le vengeur.
-- Toussaint Toussaint Louverture!
+- Toussaint, Toussaint Louverture!
 
-- {:.sp} Une voix dans les airs.
+- {:.sp} A Voice in the Air.
 
 - {:.i2} Laboure-moi, laboure-moi, cri armé de mon peuple ;
 - {:.pr} laboure phacochère et piétine, piétine moi jusqu'à la brisure de mon cœur , jusqu'à l'éclatement de mes veines, jusqu'au flamboiement de mes os dans le minuit de ma chair.
-
-- {:.centered} 
 
 ---
 
