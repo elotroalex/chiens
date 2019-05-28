@@ -2373,47 +2373,47 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 [69]({{site.baseurl}}/chiens/p069.html){:.pagetitle}
 
-*(Passent des nègres « enfilés par le cou à une longue chaine de fer, comme les grains d'un chapelet, et portant tons des menottes aux bras ».)*
+*(Black folks pass "strung together by the neck, like beads, on a great iron chain, and all with manacles on their hands.")*
 
-*(Entrent les dieux noirs et rouges paissants sous la houlette de l'archevêque.)*
+*(Enter the black and red gods grazing under the command of the archbishop)*
 
 - {:.sp} 1st God.
 
-- Quelle époque. Mes enfants vous avez fait là une belle boucherie.
+- What a time. My children, you have made a beautiful butcher's shop.
 
-*(Il s'assied sur son trône.)*
+*(He sits down on his throne)*
 
 - {:.sp} 2nd God.
 
-- {:.pr} Une époque étonnante mes frères : la morue terre-neuvienne se jette d'elle-même sur les lignes.
+- {:.pr} An astonishing time, my brothers: the Newfoundland cod throws itself on the lines of its own accord.
 
-*(Il s'assied sur son trône.)*
+*(He sits down on his throne)*
 
 - {:.sp} 3rd God.
 
-- Je dis que c'est une époque étourdissante ou stupéfiante à votre gré.
+- I say it's a dizzying or an amazing time, take your pick.
 
-*(Il s'assied sur son trône.)*
+*(He sits down on his throne)*
 
 - {:.sp} 4th God.
 
-- Une époque phallique et fertile en miracles.
+- A phallic time, rife with miracles.
 
-*(Il rit idiotement et s'assied sur son trône. Les trois premiers dieux  se touchent le front du doigt et désignent le quatrième dieu  pour indiquer qu'il est fou.)*
+*(He laughs idiotically and sits on his throne. The first three gods touch their foreheads and point to the fourth god to indicate he is mad.)*
 
-- {:.sp} L'archevêque.
+- {:.sp} The Archbishop.
 
-- Allons, j'aime les bêtes de beau pelage : ne tuez pas les chats.
-- Ouha. Brrouha. Ou-ou-ah.
+- Come on, I like animals with beautiful furs: do not kill the cats.
+- Ooha. Brrooha. Oo-oo-ah.
 
-*(Les dieux se touchent le front du doigt et désignent l'archevêque pour indiquer qu'il a perdu la raison.)*
+*(The gods all touch their foreheads and point to the archbishop to indicate that he has lost his mind.)*
 
-- {:.sp} L'archevêque.
+- {:.sp} The Archbishop.
 
-- Allons, j'entends la flute perlée des crapauds et le crécellement rugueux des
-- grillons de la nuit. Ouah, brrouah.
+- Come on, I hear the toads' pearly flute and the rough crunches of
+- night crickets. Ooha. Brrooha.
 
-*(Les dieux se lèvent, le groupe sort lentement, chacun trainant derrière soi un hareng-saur attaché au bout d'un fil.)*
+*(The gods get up. The group goes out slowly, each trailing behind a buckling attached to the end of a wire.)*
 
 ---
 
