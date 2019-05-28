@@ -2373,7 +2373,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 [69]({{site.baseurl}}/chiens/p069.html){:.pagetitle}
 
-*(Black folks pass "strung together by the neck, like beads, on a great iron chain, and all with manacles on their hands.")*
+*(Black folks pass, "strung together by the neck, like beads, on a great iron chain, and all with manacles on their hands.")*
 
 *(Enter the black and red gods grazing under the command of the archbishop)*
 
@@ -2421,167 +2421,165 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The Narrator.
 
-- Ô j'attends passionnément : je suis cernée ...
+- Oh, I'm waiting passionately: I am surrounded ...
 
 - {:.sp} The Reciter.
 
-- Cerné d'yeux, de cauchemars.
+- Surrounded by eyes, nightmares.
 
 - {:.sp} The Narrator.
 
-- Cernée d'enfants et d'yeux et de ruées de  rires.
+- Surrounded by children and eyes and rushes of laughter.
 
 - {:.sp} The Reciter.
 
-- Cataractes voici les cataractes et le chant meurtrier clair des oiseaux.
+- Cataracts here are the cataracts and the murderous clear song of the birds.
 
-*(Une campagne désertique, aussi peu tropicale que possible. Des paysans. Entre le voyageur la tête recouverte d'un voile).*
+*(A desert campaign, as far from tropical as possible. Farmers. Enter the traveler, head covered with a veil.)*
 
-- {:.sp} Le voyageur.
+- {:.sp} The Traveler.
 
-- Bonjour bonnes gens, bonjour.
+- Good morning, good people, good morning.
 
-- {:.sp} Les bonnes gens.
+- {:.sp} The Good People.
 
-- Hein ? C'est drôle ? Pourquoi bonjour ?
+- Huh? It's funny? Why good morning?
 
-- {:.sp} Le voyageur.
+- {:.sp} The Traveler.
 
-- Ouf, je viens de loin.
+- Oof, I come from afar.
 
-- {:.sp} Les bonnes gens.
+- {:.sp} The Good People.
 
-- De combien loin ?
+- How far?
 
-- {:.sp} Le voyageur.
+- {:.sp} The Traveler.
 
-- {:.pr} De bien loin ... Dites, j'ai jadis connu  un homme qui s'appelait Tous­saint, et le sobriquet avait curieusement allongé son nom d'une aigrette de mains hardies ... Toussaint, Toussaint Louverture.
+- {:.pr} Very far ... Say, I once knew a man named Toussaint, and his nickname had oddly lengthened his name with an aigrette of bold hands ... Toussaint, Toussaint Louverture.
 
-- {:.sp} Les bonnes gens.
+- {:.sp} The Good People.
 
-- Hein,  nous le conaissons pas.
+- Huh, we don't know him.
 
-- {:.sp} Le voyageur.
+- {:.sp} The Traveler.
 
-- {:.pr} Et pourtant c'est dans cette lande qu'enfant il joua, saharien, avec pour compagnon votre paysannerie joviale.
+- {:.pr} And yet it was in this heath that, as a child, he played, Saharan, with your jovial peasantry as his company.
 
-- {:.sp} Les bonnes gens.
+- {:.sp} The Good People.
 
-- {:.pr} C'est drôle et bien possible nous le connaissons pas. Nous passons notre vie à planter des pierres.
-
-- {:.sp} 
+- {:.pr} It's funny, pretty sure we don't know him. We spend our lives planting stones.
 
 ---
 
 [71]({{site.baseurl}}/chiens/p071.html){:.pagetitle}
 
-- {:.sp} Le voyageur.
+- {:.sp} The Traveler.
 
-- {:.pr} Eh bien, salut planteurs de pierres, et moi je suis un planteur de paroles. Toussaint Louverture, c'était un homme ... comment dirais-je ?
+- {:.pr} Well, hello stone planters, I am a word planter. Toussaint Louverture, he was a man ... how would I say?
 
-- {:.sp} Les bonnes gens.
+- {:.sp} The Good People.
 
-- Un homme en morsures profondes.
+- A man with deep bites.
 
-- {:.sp} Le voyageur.
+- {:.sp} The Traveler.
 
-- Comment ? en morsures profondes ? Vous le connaissez ?
+- What? Deep bites? You know him?
 
-- {:.sp} Les bonnes gens.
+- {:.sp} The Good People.
 
-- Nous le connaissons pas.
+- No, we don't know him.
 
-- {:.sp} Le voyageur.
+- {:.sp} The Traveler.
 
-- {:.pr} Oui toutefois ... un homme étonnant ... en morsures profondes ... Il parcourut le pays à la vitesse rapide de l'éclair et de la liberté, imprimant sur le sol de cadavres détrempés, ses pas fertiles.
+- {: .pr} Yes, anyway ... an amazing man ... with deep bites ... He traveled the country at the rapid speed of lightning and freedom, printing on the ground sodden corpses, his steps fertile.
 
-- {:.sp} Les bonnes gens.
+- {:.sp} The Good People.
 
-- Excusez-nous, nous ne le connaissons pas.
+- Sorry, we don't know him.
 
-- {:.sp} Le voyageur.
+- {:.sp} The Traveler.
 
-- {:.pr} Peuple singulier ... et ils ne savent pas reconnaitre parmi les jonquilles une face de tempête.
+- {:.pr} Singular people ... and they do not even recognize among the daffodils the face of the storm.
 
-*(Le voyageur enlève son voile.)*
+*(The Traveler lifts up his veil.)*
 
 - {:.sp} Toussaint.
 
-- Me connaissez-vous maintenant ?
+- Do you know me now?
 
 - {:.sp} Les bons gens.
 
-- Non, nous ne vous connaissons pas.
+- Nope, we don't know you.
 
-*(Toussaint les bat nerveusement.)*
+*(Toussaint beats them nervously.)*
 
 - {:.sp} Toussaint.
 
-- {:.pr} Toussaint Louverture c'est moi, votre vengeance, votre liberté, votre colère,  votre sang levé, votre machete, votre tête laineuse, votre paroxysme.
+- {:.pr} I am Toussaint L'Ouverture, your revenge, your freedom, your anger, your lifted blood, your machete, your woolly head, your paroxysm.
 
-*(Les bonnes gens se mettent à planter des pierres, puis brusquement s'arrêtent.)*
+*(The Good People continue to plant stones, then suddenly they stop.)*
 
-- {:.sp} Les bonnes gens.
+- {:.sp} The Good People.
 
-- {:.pr} Tu nous  importunes étranger ; nous ne croyons à rien ... nous plantons des pierres.
+- {:.pr} You're bothering us, stranger; we don't believe in anything ... we plant stones.
 
 ---
 
 [72]({{site.baseurl}}/chiens/p072.html){:.pagetitle}
 
-*(Toussaint s'éloigne : les bonnes gens en riant lui lancent des pierres.)*
+*(Toussaint moves away: the good people laugh and throw stones at him.)*
 
-- {:.sp} Les bonnes gens.
+- {:.sp} The Good People.
 
-- {:.pr} Hein, c'est drôle : nous ne le connaissons pas. 
+- {:.pr} That's funny: we don't know him at all.
 
-*(Toussaint s'avance seul dans la lande ; des hommes déterrent des pierres avec leurs ongles. Toussaint s'arrète.)*
-
-- {:.sp} Toussaint.
-
-- Mes enfants je suis un roi qui ne possède rien, bonjour.
-
-- {:.sp} Les deterreurs de pierres.
-
-- Un  roi ?
+*(Toussaint advances alone in the heath; men dig stones with their nails. Toussaint stops.)*
 
 - {:.sp} Toussaint.
 
-- ... Qui ne possède rien.
+- My children, I am a king without possessions, hello.
 
-- {:.sp} Les deterreurs de pierres.
+- {:.sp} The Stone Diggers.
 
-- Pouvons nous vous aider ?
-
-- {:.sp} Toussaint.
-
-- {:.pr} Ravaudeurs du désert, baptisez moi. 
-
-*(Toussaint s'incline face contre terre, les bras écartés. Un des hommes lui verse de la terre sur la tête et la nuque.)*
+- A king?
 
 - {:.sp} Toussaint.
 
-- {:.pr} Terre farineuse, lait de ma mère chaud sur ma nuque, ruisseau riche, demi‐ténèbres, exige, dirige ... 
+- ... Without possessions.
 
-*(Il approche l'oreille du sol.)*
+- {:.sp} The Stone Diggers.
 
- Oh, des pas ; des sabots de chevaux ; des rampements de larves grossis dans la vallée de mes oreilles. Confluences. Flaques. Langages. Mains sures d'aveugle. Je suis atteint. Oh, Oh, je suis atteint.
-
-*(Il se  redresse ; à ce moment la lune brille de tout son éclat haut dans le ciel. Toussaint s'enfonce dans la nuit. Il s'arrète, se retourne et crie de loin.)*
+- Can we help you ?
 
 - {:.sp} Toussaint.
 
-- {:.pr} A la folle enchère, à mes frais, à mes risques et périls ... 
+- {:.pr} Desert tinkerers, baptize me.
 
-*(Toussaint a disparu.)*
+*(Toussaint bends down, face to the ground, arms spread. One of the men pours earth on his head and nape.)*
+
+- {:.sp} Toussaint.
+
+- {:.pr} Mealy land, warm mother's milk on my neck, rich brook, half-darkness, demand, guide ...
+
+*(He nears his ear close to the ground.)*
+
+Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Confluence. Puddles. Languages. Safe hands of the blind. I hurt. Oh, Oh, I hurt.
+
+*(He stands up; at this moment the moon shines brightly in the sky. Toussaint fades into the night. He stops, turns around, and shouts from a distance.)*
+
+- {:.sp} Toussaint.
+
+- {:.pr} To the crazy auction, at my expense, at my own risk and peril ...
+
+*(Toussaint is gone.)*
 
 ---
 
 [73]({{site.baseurl}}/chiens/p073.html){:.pagetitle}
 
-- {:.centered} ACTE III
+- {:.centered} ACT III
 
-*(En France. Une prison dans le Jura.)*
+*(In France. A prison in the Jura.)*
 
 - {:.sp} The Reciter.
 
