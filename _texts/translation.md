@@ -2873,7 +2873,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Messenger.
 
-- {:.i2} Insolent* (il le frappe.)*
+- {:.i2} Insolence *(he hits him.)*
 
 - {:.sp} Toussaint.
 
