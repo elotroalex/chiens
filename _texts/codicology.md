@@ -95,7 +95,7 @@ The witness has interesting features which push the boundaries of traditional co
 
 Starting on [page 41](/chiens/chiens/p041.html){: target='\_blank'}, and intensifying after [page 60](/chiens/chiens/p060.html){: target='\_blank'} of the current pagination, the typist[^cod2] tries to use as much of the real estate on the page as possible, sometimes schewing the line towards the end of the page, as the paper began to slip from the platen roller. Perhaps paper became scarcer during the later stages of composition due to the American blockade? Perhaps the household became more frugal? This marked difference in the use of paper is indicated in *table c* as `Max Use`.
 
-[^cod2]: I have not been able to establish the identity of the typist, despite inquiries to more senior scholars who knew the poet, or analysis of the typos. After [Bruce Holsinger](https://twitter.com/bruceholsinger) trended the hashtag [#thanksfortyping](http://www.npr.org/2017/03/30/521931310/-thanksfortyping-spotlights-unnamed-women-in-literary-acknowledgements) on Twitter, though, the lingering suspicion that Suzanne Césaire is our mysterious typist has flared up. I put $5 on it. 
+[^cod2]: I have not been able to establish the identity of the typist, despite inquiries to more senior scholars who knew the poet, or analysis of the typos. I suspect, though, that Suzanne Césaire is our mysterious typist.
 
 {% include image.html
     img="fig-m.png"
@@ -192,7 +192,7 @@ Finally, the `Page` pagination adopts most of the numbering of `P6`, with some f
 
 ---
 
-## [works cited]({{site.baseurl}}/bibliography/)
+## [works cited]({{site.baseurl}}/texts/bibliography/)
 
 ---
 

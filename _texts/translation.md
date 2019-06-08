@@ -8,6 +8,8 @@ editor: Alex Gil
 
 ---
 
+[DRAFT]
+
 The following is an English translation of my own [reading edition]({{site.baseurl}}/texts/reading/) and interpretation of the final authorial stage of the Saint-Dié typescript. My approach to translation is vulgar where it can be: If the original French has a particular effect on me, I bend English to achieve as much, or close. When I can't translate effect, I choose broad legible over arcane literal—except in the case of Caribbean vocabularies—and take liberties to make the English pop.
 
 The drama depends on two tricky binaries: Black/White, and to a lesser extent, Man/Woman. Three temporalities complicate these binaries further for translation: The unfolding drama is based on the Haitian Revolution; it was written for a Martinique audience during the Vichy regime; and, I'm translating for an era of re-ascendant fascism and an American audience knee-deep in our own anti-racist and anti-patriarchal struggle. Césaire's perennial "*nègre*"—the root of Négritude—exemplifies these difficulties. The n-word in English is inexcusable—not least of which for historical or philological reasons—and is often found in translations of Césaire to provide a perverse excuse for non-black Americans to indulge in reading it out loud. I mostly chose variations of "black" to highlight the manichean core of the drama. I use "negro" in other cases when the speaker is paternalistic and racist, or ventriloquizing. I translate the feminine "*La Récitante*," which has no equivalent in English, to "The Narrator," while using "The Reciter" for the masculine "*Le Récitant*."
