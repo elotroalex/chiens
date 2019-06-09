@@ -4,6 +4,7 @@ _site
 .ruby-version
 img
 _data/raw_images
+.pdf
 
 
 # Numerous always-ignore extensions
