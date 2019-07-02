@@ -3446,7 +3446,7 @@ En France. Une prison dans le Jura.
 
 - Ah. Voici le digne messager de cette race <span class="delete">cupide</span><span class="add #u_m above">cupide</span>.
 - L'or et l'argent ont tissé leur teint p<span class="delete">d</span><span class="add  ">â</span>le
-- l'attente de la proie a busqu<span class="delete">ë</span><span class="add  ">é</span>leur nez fauve
+- l'attente de la proie a busqu<span class="delete">ë</span><span class="add  ">é</span> leur nez fauve
 - l'éclat de l'acier niche en leurs yeux froids
 - ah. C'est une race sans velours.
 

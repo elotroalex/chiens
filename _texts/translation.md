@@ -2663,35 +2663,35 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- La race de terre la race par terre s'est connu des pieds.
-- Congo et Mississipi coulez de l'or
-- coulez du sang
-- la race de terre, la race de cendre marche
-- les pieds de la route explosent de chiques de salpêtre.
+- The earth race, the race on the ground met its feet.
+- Congo and Mississippi, strain out gold
+- strain out blood
+- the land race, the race of ash walks
+- the road's feet explode with saltpetre quills.
 
 - {:.sp} The Prison Guard.
 
-- Tu expieras prisonnier de la neige, de la solitude, du désespoir.
+- You will expire, prisoner of snow, loneliness and desperation.
 
 - {:.sp} Toussaint.
 
-- Tout comme moi, ton maitre saignera un jour :
-- naufragé
-- prisonnier de mon Afrique comme moi de son Europe.
-- L'Afrique est désormais liée à son destin ...
-- L'Afrique a part avec lui
-- Toussaint a part avec lui qu'il le veuille ou non.
-- Je dis que l'Afrique ne le lâchera pas ...
+- Just like me, your master will bleed one day:
+- shipwrecked
+- prisoner of my Africa, like me of his Europe.
+- Africa is now linked to its destiny ...
+- Africa has a share with him
+- Toussaint a share with him, whether he likes it or not.
+- I say that Africa will not let go ...
 
-*(à ce moment entre à l'autre bout de la scène le The Messenger.)*
+*(At this moment, enters The Messenger through the other side of the stage.)*
 
 - {:.sp} Toussaint.
 
-- Ah. Voici le digne messager de cette race cupide.
-- L'or et l'argent ont tissé leur teint pâle
-- l'attente de la proie a busquéleur nez fauve
-- l'éclat de l'acier niche en leurs yeux froids.
-- Ah. C'est une race sans velours.
+- Ah. Here is the worthy messenger of this greedy race.
+- Gold and silver have woven their pale complexion
+- waiting for prey has carved their tawny noses
+- the brilliance of steel nests in their cold eyes.
+- Ah. It is a breed without velvet.
 
 - {:.sp} The Messenger.
 
@@ -2699,10 +2699,10 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- Ô mes membres de mur bousillé
-- vous n'éteindrez pas de fatigue ou de froid
-- mon cri fumant
-- mon cri intact d'animal pris au piège.
+- O my limbs of cob wall
+- you will not quit from fatigue or cold
+- my smoking cry
+- my trapped-animal cry intact.
 
 ---
 
@@ -2714,34 +2714,35 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- les minutes autour de moi processionnent
-- comme une bande de loups efflanqués
-- comme un troupeau de coups de fouet
-- comme les nœuds d'une échelle de corde et de statuts
-- sujet indocile victime parfaite
-- défi rivé au front des mares
-- je ne converse pas avec les dieux
-- je ne guéris pas les possédés
-- je ne sais pas le secret qui tua Antiochus Epiphane
-- ni Erode le grand
-- qu'attendez vous pour cracher sur moi
--  l'épais crachat des siècles
-- mûri
-- en 306 ans
-- trop tard, il est trop tard
-- mes amis je n'y suis pour personne
-- pour personne
-- sauf pour l'inondation trop détrempée pour que les étoiles y éclatent
-- sauf pour la boue aux yeux brulés au sexe brulé
-- des filles courent dans mes yeux cahotés de luzernes
-- en faisant sonner leurs sabots de rivières
-- leurs voix d'arbres sans poussières
-- leur long corsage de pain, de plaine
-- et voici
-- j'ai commandé pour mes funérailles
-- un troupeau de buffles sauvages
-- un cent d'eunuques des sacrifices des tumultes
-- un vol de couteaux de jet de sagaies de cuivre rouge
+- the minutes around me procession
+- like a band of skinny wolves
+- like a flock of lashes
+- like the nodes of a rope ladder of statutes
+- indocile subject perfect victim
+- challenge riveted to the front of the pools
+- I do not converse with the gods
+- I do not cure the possessed
+- I do not know the secret that killed Antiochus Epiphanes
+- nor Herod the Great
+- what are you waiting for to spit on me
+- the thick spit of centuries
+- matured
+- over 306 years
+- too late, it's too late
+- my friends, I'm not here for anyone
+- for anyone
+- except for the flood too wet for the stars to burst
+- except for mud with burnt eyes and hot sex
+- girls run in my eyes jolted with alfalfa
+- by ringing their hooves of rivers
+- their dust-free tree voices
+- their long bodice of bread, of plains
+- and here
+- I ordered for my funeral
+- a herd of wild buffaloes
+- one hundred eunuchs sacrifices tumults
+- a flight of knives of jet of spears of red copper 
+
 
 ---
 

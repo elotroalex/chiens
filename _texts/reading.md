@@ -2726,7 +2726,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - Ah. Voici le digne messager de cette race cupide.
 - L'or et l'argent ont tissé leur teint pâle
-- l'attente de la proie a busquéleur nez fauve
+- l'attente de la proie a busqué leur nez fauve
 - l'éclat de l'acier niche en leurs yeux froids.
 - Ah. C'est une race sans velours.
 
