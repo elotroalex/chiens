@@ -21,3 +21,7 @@ $1(/chiens/c$2.html)
 
 htmlproofer ./_site --only-4xx --check-favicon --check-html --external_only
 
+## Removing large files from git cache
+
+git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch pi/data/node-login.0'
+

@@ -2509,7 +2509,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - Do you know me now?
 
-- {:.sp} Les bons gens.
+- {:.sp} The Good People.
 
 - Nope, we don't know you.
 
@@ -2585,80 +2585,77 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Reciter.
 
-- Salut Toussaint.
+- Hello, Toussaint.
 
 - {:.sp} The Narrator.
 
-- Salut feuille morte.
+- Hello, dead leaf.
 
 - {:.sp} The Chorus.
 
-- Salut prince de l'exil.
+- Hello, prince of exile.
 
 - {:.sp} Toussaint.
 
-- Ténèbres du cachot je vous salue.
+- Dungeon darkness, I greet you.
 
-- {:.sp} 1st spectre.
+- {:.sp} 1st Specter.
 
-- Les soirs dégringolent comme un enfant dans l'escalier.
+- Evenings tumble like a child on the stairs.
 
-- {:.sp} 2nd spectre.
+- {:.sp} 2nd Specter.
 
-- Je danserai autour de ma victime la danse du scalp.
+- I will dance around my victim the scalp dance.
 
-- {:.sp} The Prison Guard *(s'adressant au public.)*
+- {:.sp} The Prison Guard *(addressing the public.)*
 
-- {:.pr} Regardez-le, caricatural à souhait, la mine déconfite et chafouine, la face blette, les mains  frileuses, chef hypocrite d'un peuple de sauvages, triste conducteur d'une race de démons ; calculateur sournois égaré parmi des frénétiques.
-- {:.pr.i} Mesdames et Messieurs, suivez-moi bien ... En 1793 nous apprenions qu'au nom des droits de l'homme, nous apprenions dis-je que la plus vile de toutes les races allait s'asseoir côte à côte avec nous au banquet d'une risible fra­ternité.
-- {:.pr.i} Ah, le résultat ne se fit guère attendre. Il y eut du comique. Il y eut du tragique. Il y eut de l'horrible. On vit des cannibales entrer gonflés d'orgueil dans les villes prises ; on en vit aux Te Deum. On en vit rédiger des constitutions. Voilà ce que l'on vit , bonnes gens qui m'écoutez. Et ce que l'on vit encore, la fumée dans le ciel de midi, le feu dans le ciel de minuit d'innombrables aurores boréales jetant au loin le reflet du crime et de l'absurdité.
+- {: .pr} Look at him, a caricature if you will, that crestfallen and scrawny face, a shabby face, chilly hands, the hypocritical chief of a tribe of savages, a sad conductor of a race of demons; sneaky schemer lost with his fanatics.
+- {: .pr.i} Ladies and Gentlemen, listen carefully ... In 1793 we learned that in the name of human rights, we learned, I repeat, that the most vile of all races was going to sit side by side with us at the banquet of a laughable fraternity.
+- {: .pr.i} Ah, we didn't have to wait long to see the results. There was comedy. There was a bit of tragedy. There was horror. Cannibals could be seen entering the towns swollen with pride; we lived the Te Deum. We saw constitutions being drafted. That's what we saw, good people who are listening. And what else did we witness? The smoke in the midday sky, the fire in the midnight sky of innumerable aurora borealis reflecting the images of crime and absurdity far in the distance.
 
 ---
 
 [74]({{site.baseurl}}/chiens/p074.html){:.pagetitle}
 
-- {:.pr.i} Hé bien, je dis qu'il est une justice suprème et c'est elle qui refait aujourd'hui du général Toussaint Louverture, le vieux Toussaint, l'esclave Toussaint, triste chose oubliée aux latrines de l'histoire, un nègre pouilleux, un nègre dégringolé...
-- {:.pr.i} Toussaint, Toussaint, la race du Cham ne secouera pas la malédiction des jours sanglotés.
+- {: .pr.i} Well, I say that this is a supreme justice, and it is she who now transforms the General Toussaint Louverture into the old Toussaint, the slave Toussaint, a sad thing forgotten in the latrines of history, a lousy negro, a fallen negro ...
+- {:.pr.i} Toussain, Toussaint, the brood of Ham will never be able to shake off its curse of daily tears.
 
 - {:.sp} The Narrator.
 
-- {:.pr.i} Saint-Domingue ... Saint-Domingue aux yeux d'antimoine, à la bouche de Kola fraiche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
+- {:.pr.i} Saint-Domingue ... Saint-Domingue with antimony eyes and fresh kola mouth. Saint-Domingue the heavy, the golden, with the bevels of mango and mature woman.
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Saint-Domingue salve de bouse coupée d'or. Mords moi, mords moi, j'entends tes chiens dans le tonnerre, j'entends ton amour dans mes veines. Mords moi. Bois mon sang.
+- {: .pr.i} Saint-Domingue, salve of dung riven with gold. Bite me, bite me, I hear your dogs in the thunder, I hear your love in my veins. Bite me. Drink my blood.
 
 - {:.sp} The Chorus.
 
-- {:.i2} Je ne sais pas ce qu'elles disent, mais ses paroles me font mal.
+- {:.i2} I don't know what they mean, but his words hurt me.
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Attaché comme une enseigne au haut bout de la France, je ne sanglotte pas ... j'appelle.
+- {: .pr.i} Attached like a sign to the top of France, I do not sob ... I call.
 
 - {:.sp} The Prison Guard.
 
-- Nous avons miné The Echo. : tes paroles brûleront comme des excréments.
+- We undermined the echo : your words will burn like turds.
 
 - {:.sp} Toussaint.
 
-- Marron, ton seul drapeau, le mien : de périls et de révolte sans remords.
+- Maroon, your only flag, mine: perils and revolt without remorse.
 
 - {:.sp} The Prison Guard.
 
-- Tu te vantes de tes forfaits.
+- You boast of your crimes.
 
 - {:.sp} Toussaint.
 
-- J'ai acclimaté un arbre de soufre et de laves chez un peuple de vaincus.
+- I acclimatized a tree of sulfur and lava among a vanquished people.
 
 - {:.sp} The Prison Guard.
 
-- Misérable.
+- Pathetic.
 
-- {:.sp} 
-
-- 
 
 ---
 
