@@ -2817,7 +2817,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - Qui m'appelle ? J'écoute. Je n'écoute pas.
 - {:.pr} Il y a dans ma tête une riviere de boue d'ablettes de choses troubles et vertes d'oiseaux morts, de ventres jaunes,
-- des miaulemants entrecroisés giclés très près du baillon
+- des miaulemants entrecroisés giclés très près du bâillon
 - mes années convulsées peintes en feu
 - des plaques tournantes de marécages, de cratères, de fillettes violées
 - il y a dans mes oreilles le peloton d'exécution dans les caponnières du matin.

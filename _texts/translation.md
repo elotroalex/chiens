@@ -2358,7 +2358,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The Chorus *(underground.)*
 
-- {: .i2} This is my hand. Here is my hand.
+- {:.i2} This is my hand. Here is my hand.
 - My fresh hand, my blood-sprayed hand
 - my hand of kelp and iodine
 - my hand of light and revenge ...
@@ -2493,7 +2493,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The Traveler.
 
-- {: .pr} Yes, anyway ... an amazing man ... with deep bites ... He traveled the country at the rapid speed of lightning and freedom, printing on the ground sodden corpses, his steps fertile.
+- {:.pr} Yes, anyway ... an amazing man ... with deep bites ... He traveled the country at the rapid speed of lightning and freedom, printing on the ground sodden corpses, his steps fertile.
 
 - {:.sp} The Good People.
 
@@ -2539,7 +2539,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- My children, I am a king without possessions, hello.
+- My children, I am a king without possessions. Hello.
 
 - {:.sp} The Stone Diggers.
 
@@ -2609,15 +2609,15 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Prison Guard *(addressing the public.)*
 
-- {: .pr} Look at him, a caricature if you will, that crestfallen and scrawny face, a shabby face, chilly hands, the hypocritical chief of a tribe of savages, a sad conductor of a race of demons; sneaky schemer lost with his fanatics.
-- {: .pr.i} Ladies and Gentlemen, listen carefully ... In 1793 we learned that in the name of human rights, we learned, I repeat, that the most vile of all races was going to sit side by side with us at the banquet of a laughable fraternity.
-- {: .pr.i} Ah, we didn't have to wait long to see the results. There was comedy. There was a bit of tragedy. There was horror. Cannibals could be seen entering the towns swollen with pride; we lived the Te Deum. We saw constitutions being drafted. That's what we saw, good people who are listening. And what else did we witness? The smoke in the midday sky, the fire in the midnight sky of innumerable aurora borealis reflecting the images of crime and absurdity far in the distance.
+- {:.pr} Look at him, a caricature if you will, that crestfallen and scrawny face, a shabby face, chilly hands, the hypocritical chief of a tribe of savages, a sad conductor of a race of demons; sneaky schemer lost with his fanatics.
+- {:.pr.i} Ladies and Gentlemen, listen carefully ... In 1793 we learned that in the name of human rights, we learned, I repeat, that the most vile of all races was going to sit side by side with us at the banquet of a laughable fraternity.
+- {:.pr.i} Ah, we didn't have to wait long to see the results. There was comedy. There was a bit of tragedy. There was horror. Cannibals could be seen entering the towns swollen with pride; we lived the Te Deum. We saw constitutions being drafted. That's what we saw, good people who are listening. And what else did we witness? The smoke in the midday sky, the fire in the midnight sky of innumerable aurora borealis reflecting the images of crime and absurdity far in the distance.
 
 ---
 
 [74]({{site.baseurl}}/chiens/p074.html){:.pagetitle}
 
-- {: .pr.i} Well, I say that this is a supreme justice, and it is she who now transforms the General Toussaint Louverture into the old Toussaint, the slave Toussaint, a sad thing forgotten in the latrines of history, a lousy negro, a fallen negro ...
+- {:.pr.i} Well, I say that this is a supreme justice, and it is she who now transforms the General Toussaint Louverture into the old Toussaint, the slave Toussaint, a sad thing forgotten in the latrines of history, a lousy negro, a fallen negro ...
 - {:.pr.i} Toussain, Toussaint, the brood of Ham will never be able to shake off its curse of daily tears.
 
 - {:.sp} The Narrator.
@@ -2626,7 +2626,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {: .pr.i} Saint-Domingue, salve of dung riven with gold. Bite me, bite me, I hear your dogs in the thunder, I hear your love in my veins. Bite me. Drink my blood.
+- {:.pr.i} Saint-Domingue, salve of dung riven with gold. Bite me, bite me, I hear your dogs in the thunder, I hear your love in my veins. Bite me. Drink my blood.
 
 - {:.sp} The Chorus.
 
@@ -2634,7 +2634,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {: .pr.i} Attached like a sign to the top of France, I do not sob ... I call.
+- {:.pr.i} Attached like a sign to the top of France, I do not sob ... I call.
 
 - {:.sp} The Prison Guard.
 
@@ -2663,7 +2663,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- The earth race, the race on the ground met its feet.
+- The earth race, the downtrodden race knows feet.
 - Congo and Mississippi, strain out gold
 - strain out blood
 - the land race, the race of ash walks
@@ -2691,7 +2691,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Gold and silver have woven their pale complexion
 - waiting for prey has carved their tawny noses
 - the brilliance of steel nests in their cold eyes.
-- Ah. It is a breed without velvet.
+- Ah. A breed without velvet.
 
 - {:.sp} The Messenger.
 
@@ -2717,7 +2717,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - the minutes around me procession
 - like a band of skinny wolves
 - like a flock of lashes
-- like the nodes of a rope ladder of statutes
+- like the nodes of a rope ladder of bylaws
 - indocile subject perfect victim
 - challenge riveted to the front of the pools
 - I do not converse with the gods
@@ -2748,10 +2748,10 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [77]({{site.baseurl}}/chiens/p077.html){:.pagetitle}
 
-- mon corps; mon corps
-- brancard je ne jetterai pas le blessé aux chiens de l'aubépine
-- au cri du vin
-- au roulis des; ornières peuplés; de veaux marins.
+- my body&nbsp;&nbsp;my body
+- stretcher I will not throw the injured to the dogs of hawthorn
+- to the cry of wine
+- to the roll of populated ruts of marine calves.
 
 ---
 
@@ -2763,7 +2763,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Je me souviens des soirs : le crépuscule était un colibri bleu-vert jouissant dans l'hibiscus rouge.
+- {:.pr.i} I remember the evenings: dusk was a blue-green hummingbird frolicking in the red hibiscus.
 
 - {:.sp} The Messenger.
 
@@ -2771,7 +2771,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.pr} Le crépuscule hésitait frissonnant et fragile parmi les criquets rapiéçeurs de ferraille.
+- {:.pr} Twilight hesitated shivering and fragile among the crickets scrapers of metal.
 
 - {:.sp} The Messenger.
 
@@ -2779,25 +2779,25 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- Qui m'appelle ? J'écoute. Je n'écoute pas.
-- {:.pr} Il y a dans ma tête une riviere de boue d'ablettes de choses troubles et vertes d'oiseaux morts, de ventres jaunes,
-- des miaulemants entrecroisés giclés très près du baillon
-- mes années convulsées peintes en feu
-- des plaques tournantes de marécages, de cratères, de fillettes violées
-- il y a dans mes oreilles le peloton d'exécution dans les caponnières du matin.
+- Who's calling me ? I listen. I do not listen.
+- {:.pr} There is in my head a river of mud of bleak of green and troubled things of dead birds, yellow bellies,
+- crisscrossed miaowings squirts very close to the gag
+- my convulsed years painted on fire
+- revolving plaques of swamps, craters, raped girls
+- there in my ears the firing squad in the morning caponiers.
 
 - {:.sp} The Reciter.
 
-- {:.pr.i} Toussaint, une trompette guerrière a passé dans les airs : elle crachait de la poussière et de la fumée.
+- {:.pr.i} Toussaint, a war trumpet flew through the air: it spewed dust and smoke.
 
 - {:.sp} The Narrator.
 
-- {:.i2} Les chauves-souris vampires volaient autour du cou lisse du soleil.
+- {:.i2} The vampire bats flew around the smooth neck of the sun.
 
 - {:.sp} The Reciter.
 
-- Des singes gambadaient autour du Lion à face d'homme.
-- Toussaint, Toussaint, c'est le jour de l'épreuve.
+- Monkeys frolicking around the Lion with a man's face.
+- Toussaint, Toussaint, the day of trials is here.
 
 ---
 
@@ -2805,9 +2805,9 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- Je ne crains rien, je ne crains rien mes amis.
-- {:.pr} Aujourd'hui est un jour de connivence. Il est des jours amers à mes lèvres et le mangot qui tombe, tombe lugubrement et les fleurs ressemblent à des ensevelis qui répondent de plus en plus faiblement, mais aujourd'hui je suis en paix et le filao que ne vois pas, me fait des signes et la mer me sourit de toutes ses fossettes et chaque mancenillier se double et se suicide de l'olivier propice.
-- {:.i2} Jour de l'épreuve, soyez le bienvenu.
+- I fear nothing. I have no fear, my friends.
+- {:.pr} Today is a day of connivance. There are bitter days on my lips and the small mango that falls, falls lugubriously, and the flowers look like burials that respond more and more feebly, but today I am at peace, and the blind she-oak signals me, and the sea smiles at me with all its dimples and every manchineel doubles up and commits suicide from the propitious olive tree.
+- {:.i2} Welcome, day of trials.
 
 - {:.sp} The Messenger.
 
@@ -2815,29 +2815,29 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- Hé bien, te voilà digne messager de la race supérieure
-- {:.pr} Pleins de flair, ayant humé l'odeur du trésor proche, nos maitres t'ont ici délégué pour ouïr la révélation de nos petits secrets ... C'est très bien ... La civette n'accourt pas plus vite sur les pas de la gazelle.
+- Well, here you are, worthy messenger of the superior race
+- {:.pr} Full of flair, having smelled the smell of nearby treasure, our masters here have delegated to you to hear the revelation of our little secrets ... It's all good ... The civet does not hasten on the steps of the gazelle.
 
 - {:.sp} The Messenger.
 
-- {:.pr} Toussaint, je suis ravi de vous voir revenu à de meilleures dispositions. Le 1str consul m'envoie vous en féliciter et vous assurer que votre complètes soumission ne le laissera pas insensible.
-- {:.pr} En tout cas, permettez-moi de remarquer que vous ne vous sous-estimez pas: vous vous rachetez au prix d'un trésor.
+- {:.pr} Toussaint, I am delighted to see you back in a better mood. The consul is sending me to congratulate you, and assure you that your complete submission will not leave him indifferent.
+- {:.pr} In any case, let me point out that you do not underestimate yourself: your ransom is worth a treasure.
 
 - {:.sp} Toussaint.
 
-- ... Considérable ... le trésor des anciens flibustiers grossi par ma prévoyance.
+- ... Considerable ... the treasure of the old buccaneers fattened by my foresight.
 
 - {:.sp} The Messenger.
 
-- Hé bien Toussaint.
+- Well, Toussaint.
 
 - {:.sp} Toussaint.
 
-- Ce trésor, vous ne l'aurez pas.
+- This treasure, you will not have it.
 
 - {:.sp} The Messenger.
 
-- Comment! vos promesses ? vos remords ? votre lettre ?
+- How! your promises? your remorse? your letter?
 
 ---
 
@@ -2845,31 +2845,31 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.i2} Je dis que vous ne l'aurez pas.
+- {:.i2} I said you will not have it.
 
 - {:.sp} The Messenger.
 
-- {:.i2} Nous l'aurons, car de lui dépend votre vie.
+- {:.i2} We will have it, because your life depends on it.
 
 - {:.sp} Toussaint.
 
-- {:.i2} Vous ne l'aurez pas : c'est l'or de la vengeance et de la Liberté.
+- {:.i2} You will not have it; it is the gold of vengeance and liberty.
 
 - {:.sp} The Messenger.
 
-- {:.i2} Insolent, tu braves le 1str Consul.
+- {:.i2} Insolent, you defy the First Consul!
 
 - {:.sp} Toussaint.
 
-- {:.i2} Je ne le brave pas, je le hais.
+- {:.i2} I don't defy him. I hate him.
 
 - {:.sp} The Messenger.
 
-- {:.i2} Assez.
+- {:.i2} Enough.
 
 - {:.sp} Toussaint.
 
-- {:.i2} Je vous hais.
+- {:.i2} I hate you.
 
 - {:.sp} The Messenger.
 
@@ -2877,25 +2877,25 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Merci, ah merci ... J'avais encore besoin de cette lâcheté là. Ah, comme votre lâcheté me fait du bien.
+- {:.pr.i} Thank you, ah, thank you ... I still needed that cowardice right there. Ah, how your cowardice does me good.
 
 - {:.sp} The Messenger.
 
-- {:.pr} Voyons Toussaint, vous avez perdu la bataille. Vous êtes vaincu : il n'y a pas de déshonneur à le reconnaitre.
+- {:.pr} Let's see, Toussaint, you lost the battle. You are defeated: there is no dishonor to recognize it.
 
 - {:.sp} Toussaint.
 
-- Toussaint est vaincu ; l'esprit de Toussaint n'est pas vaincu.
-- Il anime encore des milliers de volontés
-- voyez-vous les mornes gonflés d'une menace d'hommes à la peau rude ?
-- La révolte ... mes fils, ce sont mes The Son.
+- Toussaint is conquered; the spirit of Toussaint is not.
+- He still animates thousands of wills
+- Do you see the hills bloated with the menace of rough-skinned men?
+- The revolt ... my sons, these are my sons.
 
 - {:.sp} The Messenger.
 
-- {:.i2} Tes puériles imaginations me font sourire de pitié.
-- Tes The Son.  vieillard naïf.
-- et ton fils pense comme nous que tu serais impardonnable
-- d'ajouter le vol au crime.
+- {:.i2} Your childish imaginations make me smile with pity.
+- Your sons. Naive old man.
+- and your son agrees with us, that it would be unforgivable
+- if you added theft to your crimes.
 
 ---
 
@@ -2903,39 +2903,39 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- Le vol ? Moi, le vol, mon fils ?
-- Tu mens chien ; hors de ma vue, hors d'ici te dis-je ou je t'étrangle.
-- Dis-tu vrai ? Isaac est entre leurs mains.
-- Non traitre, bourreau ... bourreau.
+- Theft ? Me, theft, my son?
+- You lie, dog; out of my sight, out of here, I tell you, or I will strangle you.
+- Do you speak the truth? Isaac is in their hands.
+- No, traitor, executioner ... executioner.
 
-- {:.sp} The Black Man with Glasses  *(sententieux.)*
+- {:.sp} The Black Man with Glasses  *(sententious.)*
 
-- Je dis : ô que les querelles pourrissent longuement!
-- Je ne suis pas de ceux qui crachent l'huile sur le feu
-- Mais j'ai choisi de jeter l'eau sur la braise
-- {:.pr} et je dis que je renifle ici un crime : le crime contre l'oubli, le crime contre le fils et je dis que le père n'a pas le droit de pendre le fil dans le fil rancunier de ses souvenirs cruels
-- {:.pr} et je dis qu'il faut savoir oublier, que le tort des vaincus est d'être vaincus, mais que leur crime est de ne  savoir pas oublier
-- {:.pr} et je dis que, bénévole ministre des bienséances, je cravache de la mention « inopportun » l'indécence exposée des questions — qu'on-devrait-taire.
-- « Inopportun », comprenez vous ?
-- Je dis : ô , je veux oublier longuement.
+- I say, O, let the quarrels rot for a long time! 
+- I'm not one to spit oil on fire
+- But I do choose to throw water on embers
+- {:.pr} and I say that I sniff a crime here: the crime against oblivion, the crime against the son, and I say that the father has no right to hang the son on the grudging wire of his cruel memories
+- {: .pr} and I say that we must forget, that the wrong of the vanquished is to be defeated, but their crime is not to forget
+- {: .pr} and I say that, as a volunteer Minister of Propriety, I yell "inopportune" at the exposed indecency of questions that should stay silent.
+- "Inopportune", do you understand?
+- I say: O, I want to forget at length.
 
-- {:.sp} Toussaint  *(debout.)*
+- {:.sp} Toussaint  *(standing up.)*
 
-- ... Et moi je veux crier
+- ... And I want to cry.
 
-- {:.sp}  The Black Man with Glasses  *(s'enfuyant.)*
+- {:.sp}  The Black Man with Glasses  *(fleeing.)*
 
-- {:.pr} Je dis : ô que les querelles pourrissent! Au secours! Au secours!  
+- {:.pr} I say : O, let the quarrels rot for a long time! Help! Help! 
 
-*(Entrent des prêtres.)*
+*(Enter The Priests.)*
 
-- {:.sp} 1str prêtre *(index tendu vers Toussaint.)*
+- {:.sp} 1st Priest *(index finger pointing at Toussaint.)*
 
-- {:.pr} Ladre, je te défends, si tu vas par les chemins et si tu rencontres une personne qui te parle de te mettre au dessus du vent avant de répondre.
+- {:.pr} Miser, if you go on the road and you meet a person who speaks to you, I forbid you from floating above the wind before answering.
 
-- {:.sp} 2nd prêtre.
+- {:.sp} 2nd Priest.
 
-- {:.pr} Ladre, je te défends d'aller dans les ruelles étroites, de peur que quelqu'un ne te rencontre. 
+- {:.pr} Miser, I forbid you to go down the narrow roads, lest someone meet you.
 
 ---
 
