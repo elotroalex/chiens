@@ -2663,11 +2663,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- The earth race, the downtrodden race knows feet.
+- The earth race, the downtrodden race is well acquainted with feet.
 - Congo and Mississippi, strain out gold
 - strain out blood
-- the land race, the race of ash walks
-- the road's feet explode with saltpetre quills.
+- the race of earth, the race of ash walks
+- the road feet spit saltpetre wads.
 
 - {:.sp} The Prison Guard.
 
