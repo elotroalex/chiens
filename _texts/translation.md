@@ -2941,94 +2941,94 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [82]({{site.baseurl}}/chiens/p082.html){:.pagetitle}
 
-- {:.sp} 3rd prêtre.
+- {:.sp} 3rd Priest.
 
-- Je te défends de manger et boire en compagnie.
+- I forbid you from eating and drinking with company.
 
-- {:.sp} 4th prêtre.
+- {:.sp} 4th Priest.
 
-- Je te défends de sortir sans t'annoncer afin que l'on puisse s'éloigner.
+- I forbid you from coming out unnanounced so we can all avoid you.
 
 - {:.sp} Toussaint.
 
-- Et moi je veux crier crier et on m'entendra jusqu'au bout du monde. *(Il crie.)*
-- Mon fils! mon fils!
+- And me, I just want to cry, cry and let the whole world hear me. *(He cries.)*
+- My son! My son!
 
 - {:.sp} The Reciter.
 
-- Le fils arrive.
+- The son arrives.
 
 - {:.sp} The Narrator.
 
-- Le fils arrive ...
+- The son arrives ...
 
-- {:.sp} Toussaint  *(extatique.)*
+- {:.sp} Toussaint *(ecstatic.)*
 
-- Trois enfants noirs jouent dans mon œil
-- Sollicités de chiens
-- et les galaxies ouvertes dans ma main foudroyent le paysage
-- de plaintes
-- de lèpres
-- d'éléphantiasis
-- de non-lieu de déni de justice de lynchages de morts lentes
-- pikanninies
-- pikanninies
-- ô votre rire indompté
-- rire de larves
-- rire d'oeuf
-- votre rire de paille dans leur acier
-- votre rire de lézarde dans le mur
-- votre rire d'hérésie dans leur dogme
-- votre rire qui tatoue leurs monnaies sans qu'ils s'en doutent
-- votre rire irrémédiable
-- votre rire de vertige où s'abîmeront fascinées les villes
-- votre rire de bombe en retard sur leurs pieds de  maîtres
+- Three black children play in my eye
+- Solicited by dogs
+- and the open galaxies in my hand blaze the landscape
+- complaints
+- of leprosy
+- elephantiasis
+- non-place of denial of justice of lynchings of slow deaths
+- pickaninnies
+- pickaninnies
+- O your untamable laughter
+- larvae laughter
+- egg laughter
+- your straw laughter in their steel
+- your lizard laughter in the wall
+- your laughter of heresy in their dogma
+- your laughter tattooing their currencies without them suspecting it
+- your irrepressible laughter
+- your laughter of vertigo where the cities fascinated will be ruined 
+- your bomb laughter late on their master feet
 
 ---
 
 [83]({{site.baseurl}}/chiens/p083.html){:.pagetitle}
 
 - toucan
-- vent du désastre
-- aspergé de liqueurs fortes
-- pikanninies rongés de soleil
-- pikanninies déchirés attention à la tache de soleil sur votre front
-- attention à la tache maléfique du soleil
-- au cancer du soleil qui rampe vers votre cœur
-- jusqu'à ce que tombe
-- rire de vos pieds nus
-- le monde
-- {:.pr} grand vol fou de poule écrasée *(il rit frénétiquement.)*
+- the disaster's wind
+- sprinkled with hard liqueurs
+- sun-scented pikanninies
+- torn pikanninies pay attention to the sun spot on your forehead
+- watch out for the evil spot on the sun
+- for the cancer of the sun that creeps towards your heart
+- until it falls
+- laughter of your bare feet
+- the world
+- {:.pr} big mad flight of crushed chicken *(he laughs frantically.)*
 
 - {:.sp} The Narrator.
 
-- Le fils arrive.
+- The son arrives.
 
 - {:.sp} The Reciter.
 
-- &nbsp;Le fils arrive.
+- The son arrives.
 
 - {:.sp} The Chorus.
 
-- Attention : le fils arrive.
+- Attention: The son arrives.
 
 - {:.sp} Toussaint
 
-- C'est bien : je demande une torche et mon fils arrive.
+- That's good: I'm asking for a torch and my son is coming.
 
 - {:.sp} The Narrator.
 
-- Attention : le fils arrive.
+- Attention: The son arrives.
 
 - {:.sp} Toussaint.
 
-- Un trésor! mais c'est moi qui leur réclame mon trésor volé!
-- Londres! Paris! New York! Amsterdam!
-- {:.pr} Je les vois toutes réunies autour de moi comme des étoiles, comme des lunes triomphales
-- et je veux avec mes mauvais yeux, mon haleine pourrie mes doigts d'aveugle dans
-- la serrure
-- supputer
-- ah! supputer sous leur calme et leur dignité et leur équilibre et leur mouvement
+- A treasure! but it's me who's asking for my stolen treasure!
+- London! Paris! New York! Amsterdam!
+- {:.pr} I see them all gathered around me like stars, like triumphal moons
+- and I want with my bad eyes, my rotten breath my braille fingers in
+- the lock
+- calculate
+- ah! to think under their calm and dignity and their balance and movement
 
 ---
 
