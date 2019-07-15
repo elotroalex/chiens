@@ -3022,7 +3022,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- A treasure! but it's me who's asking for my stolen treasure!
+- A treasure! I'm the one who asks for his stolen treasure!
 - London! Paris! New York! Amsterdam!
 - {:.pr} I see them all gathered around me like stars, like triumphal moons
 - and I want with my bad eyes, my rotten breath my braille fingers in
@@ -3034,73 +3034,73 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [84]({{site.baseurl}}/chiens/p084.html){:.pagetitle}
 
-- et leur bruit et leur harmonie et leur mesure
-- ce qu'il a fallu de ma nervosité
-- de ma panique
-- {:.pr} de mes cris d'éternel clochard et de dés de sueur de ma face suante pour faire cela, mon fils
-- ô le fleuve de mes muscles fous
-- ô le saut de mon sang
-- {:.pr} ô le bégaiement de mon sang dans la forge viscérale Eh bien! libéral trop longtemps, je dénonce le pacte absurdement respecté de père en The Son.
-- mon fils,
-- je serai celui-là qui aura commencé.
+- and their noise and harmony and their measure
+- what was needed from my nervousness
+- from my panic
+- {: .pr} my cries of eternal vagabond, and the sweat dice from my sweating face to do what I did, my son
+- oh, the river of my crazy muscles
+- oh, the jump of my blood
+- {: .pr} oh, the stuttering of my blood in the visceral forge. Well! I have been liberal far too long. I denounce the absurdly respected pact of the father and the son.
+- My son,
+- I'll be the one who started.
 
 - {:.sp} The Son.
 
-- Mon père, aidez moi à vous aider.
+- My father, help me help you.
 
 - {:.sp} Toussaint.
 
-- Je ne veux pas être aidé, je veux mourir ici.
+- I don't want help. I want to die here.
 
 - {:.sp} The Son.
 
-- Un mot, un seul mot de vous, mon père et votre sort en est changé.
+- One word, just one word form you, father, and your lot will change.
 
 - {:.sp} Toussaint.
 
-- Ce mot, je ne le prononcerai pas.
+- This word, I will never utter it.
 
 - {:.sp} The Son.
 
-- Je veux te rendre à la gloire, à la liberté, à ton île :
-- et le vesou ne sentait pas mauvais, non, dans le matin fruité.
+- I want to restore you to glory, to freedom, to your island:
+- and the sugarcane juice did not smell bad, no, in the fruity morning.
 
 - {:.sp} Toussaint.
 
-- Ah! le scélérat n'avait pas menti ... Et ils lancent le fils suborné aux trousses
+- Ah! the scoundrel doesn't lie ... And they throw the suborned son on the trail
 
 ---
 
 [85]({{site.baseurl}}/chiens/p085.html){:.pagetitle}
 
--  du père moribond.
-- Mon fils, à toi mes trésors, à toi mes bandes
-- Haïti t'attend, Venge moi.
+- of the dying father.
+- My son, to you my treasures, to you my bands
+- Haiti is waiting for you. Avenge me.
 
 - {:.sp} The Son.
 
-- Saint-Domingue attend la paix,
-- l'oubli,
-- les convalescences
-- Saint-Domingue attend de dormir.
+- Saint-Domingue is waiting for peace,
+- forgetfulness,
+- convalescences
+- Saint-Domingue is waiting to sleep.
 
 - {:.sp} Toussaint.
 
-- Hélas.
-- comme un papayer tendre
-- sa tête est encore chauve de fruits
-- mais le voici élu par toutes les flèches du carbet
-- {:.pr} son lait s'écoule par mille blessures son cœur d'arbre n'a plus la force d'envoyer aux extrémités le sang ferme qui le défendait contre l'aridité du sable.
+- Alas.
+- like a tender papaya
+- his head is still bald
+- but here he is elected by all the arrows of the carbet
+- {:.pr} his milk flows out of a thousand wounds, and his tree heart no longer has the strength to send to the extremities the strong blood which defended him against the aridity of the sand.
 
 - {:.sp} The Son.
 
-- Je ne suis pas un lâche. Je ne suis pas un traitre.
-- {:.pr} Ce que je suis, je ne l'ai point choisi : fixé équitablement entre deux continent, je suis un être de médiation.
+- I'm not a coward. I am not a traitor.
+- {: .pr} What I am, I still haven't chosen: standing evenly between two continents, I am a being of mediation.
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Je me souviens d'un jour de novembre ; tu n'avais pas 6 mois et le maitre est entré dans la case fuligineuse comme une lune rousse, et il tatait tes petits membres musclés, c'était un très bon maitre
-- {:.pr} il promena d'une caresse ses doigts gros sur ton petit visage plein de fossettes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées, ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en me regardant et la mère disait que le maitre était très bon, trop bon disait-elle, je m'en souviens bien et il disait d'autres choses aimables le maitre, qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire un bon commandeur, œil vif et le bras ferme
+- {: .pr.i} I remember one day in November; you were not yet 6 months and the master entered the hut, sooty like a red moon, and he teased your muscular little limbs, he was a very good master
+- {: .pr} he put his big fingers on your small face full of dimples to caress it, his blue eyes laughed and his mouth teased you with sweet words, it will be a good piece, he says, a good piece like his father, he said looking at me and the mother said that the master was very good, too good she said, I remember it well and he said other kind things to the master, it was necessary to think ahead, in 20 years you would make a good slave-driver, keen eyes and firm arm
 
 ---
 
