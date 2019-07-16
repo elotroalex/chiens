@@ -3106,28 +3106,28 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [86]({{site.baseurl}}/chiens/p086.html){:.pagetitle}
 
-- {:.pr}  — et cet homme spéculait sur le berceau de mon fils — un berceau de garde-chiourme — 
-- {:.pr} et je ne dis rien, mais une colère me saisissait et une envie d'étrangler cet homme, et une résolution était prises dans mon cœur ...
+- {: .pr} ---and this man speculated by my son's cradle---a warden cradle---
+- {: .pr} and I said nothing, but an anger seized me and a desire to strangle this man, and my heart was set ...
 
 - {:.sp} The Son.
 
-- Père.
+- Father.
 
 - {:.sp} Toussaint.
 
-- Tué... je l'ai tué... de mes propres mains.
-- C'était une nuit de novembre.
-- Nous rampâmes parmi les cannes à sucre
-- Les coutelas riaient aux étoiles, mais on se moquait des étoiles.
-- Les cannes à sucre nous balafraient le visage de ruisseaux de lames vertes
-- Nous rampâmes coutelas au poing
-- Et subitement des clameurs déchirèrent le silence.
-- {:.pr} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux sabots de patience. Nous courions comme des forcenés. Les coups de feu éclatèrent ... Nous frappions ... La sueur et le sang nous faisaient une fraîcheur.
-- {:.pr} Nous frappions parmi les cris et les cris devinrent plus stridents et une grande flamme s'éleva vers l'est : c'étaient les communs qui brulaient et la flamme tremblota douce sur nos joues.
-- Alors ce fut l'assaut donné à la maison du maitre.
-- On tirait des fenètres.
-- Nous forçâmes les portes.
-- {:.pr} La chambre du maitre était grande ouverte. La chambre du maitre était brillamment éclairée, et le maitre était là très calme ... et les nôtres s'arrétèrent ... C'était le maitre ... J'entrai. C'est toi, Toussaint, me dit-il, très calme ... C'était moi, c'était bien moi, lui disais-je, le bon Toussaint, le fidèle Toussaint, son esclave Toussaint, Toussaint Toussaint Louverture et soudain ses yeux furent deux ravets apeurés les jours de pluie ... je frappai, le sang gicla ; c'est de ce seul baptème que je me souviens aujourd'hui.
+- Killed ... I killed him ... with my own hands.
+- It was a November night.
+- We crawled through the sugar cane
+- The cutlasses were laughing at the stars. They were making fun of the stars.
+- The sugar cane scarred our faces of streams of green blades
+- We crawled cutlass in hand
+- Suddenly the ruckus broke the silence.
+- {: .pr} We had jumped, we slaves, we dunghill, we beasts with patient hoofs. We ran like madmen. The gunshots burst ... We were striking ... The sweat and the blood kept us fresh.
+- {: .pr} We were striking among the cries and the shouts became more strident and a great flame rose from the east: it was the commons burning and the flame flickered softly on our cheeks.
+- Then we assaulted the master's house.
+- We fired at the windows.
+- We forced the doors.
+- {: .pr} The master's bedroom was wide open. The master's room was brightly lit, and the master was very quiet ... and we stopped ... It was the master ... I entered. It's you, Toussaint, he told me, very calm ... It was me, it was me, I told him, the good Toussaint, the faithful Toussaint, his slave Toussaint, Toussaint, Toussaint Louverture, and suddenly his eyes were two frightened cockroaches on a rainy day ... I swung, the blood spurted. This is the only baptism I remember.
 
 ---
 
