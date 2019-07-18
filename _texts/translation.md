@@ -3135,74 +3135,74 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Son.
 
-- Je suis libre
-- et je veux oublier comment
-- et le ravin
-- et la broussaille ...
+- I'm free
+- and I want to forget how
+- and the ravine
+- and the brush ...
 
 - {:.sp} Toussaint.
 
-- Ingrat.
+- Ungrateful.
 
 - {:.sp} The Son.
 
-- Ingrat, non : libre,
-- libre de toute haine, libre de tout remords.
+- Ungrateful, no: free,
+- free from all hate, free from all remorse.
 
 - {:.sp} Toussaint.
 
-- Non pas libre. Vide. La liberté est une plénitude.
+- Not free. Empty. Freedom is a plenitude.
 
 - {:.sp} The Son.
 
-- Peut-être alors, mon père, pourrais-je m'en plaindre à mon tour
-- {:.pr} Lorsque la République t'offrit de m'élever en Europe, les cloches de ton cœur sonnèrent à toute volée.
-- {:.pr} Mais pour moi, les cris d'exil de la mouette, et le grand rapt salé et la brume sans soleil, l'exil mon père.
-- Et la pluie de cendres violettes sur ce Paris étranger.
-- Et&nbsp;le froid incisif jusqu'au sang.
-- {:.pr} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des  il avait une mesure, une décence, une retenue en même temps qu'un abandon, le paysage, une amitié enfin ... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
+- Maybe then, my father, it is my turn to complain.
+- {: .pr} When the Republic offered you to raise me in Europe, the bells of your heart rang loud.
+- {: .pr} But for me, the cries of exile, of the seagull, and the big salty kidnapping and the sunless haze: exile, my father.
+- And the rain of purple ash on a foreign Paris.
+- And the cold injected down to the vein.
+- {: .pr} But time passed. There was a peace in me, something like fibers untwining, and the landscape was sweet, maternal, like a reflection on the water, and it had a measure, a decency, a restraint at the same time as an abandonment, the landscape, a friendship at last ... my blood no longer swore, something like an undoing and a blooming.
 
 - {:.sp} Toussaint.
 
-- {:.pr} et moi, le paysage m'empoisonne des aconits de son alphabet. Moi aussi je sais lire et le nuage a la tête du vieux nègre que j'ai vu rouer vif sur une place du Cap, il avait giflé un blanc, j'avais 10 ans, le ciel bas est un étouffoir, le vent houle des fardeaux et des sanglots de peau suante, le vent se contamine de fouets et de futailles et les pendus peuplent le ciel d'acéras et il y a des dogues le poil sanglant et des oreilles ... des  oreilles ... des barques
+- {: .pr} and me, the landscape poisons me with aconites of his alphabet. I too can read and the cloud over the head of the old negro that I saw on the breaking wheel on a square in Cape Town, he slapped a White, I was 10 years old, the low sky is a damper, the wind swells with burdens and the sobs of sweating skin, the wind is contaminated with whips and casks and the hung populate the sky with orchis and there are mastiffs with bloody hair and ears ... ears ... boats
 
 ---
 
 [88]({{site.baseurl}}/chiens/p088.html){:.pagetitle}
 
-- {:.pr} faites d'oreilles coupées qui glissent sur le couchant. Va-t-en, fils, je suis seul et la mer est une manille à mon pied de forçat.
+- {: .pr} made of cut ears that slide on the sunset. Go away, son, I'm alone and the sea is a shackle at my prisoner's feet.
 
 - {:.sp} The Son.
 
-- Grâce, je demande grâce.
+- Grace, I ask for grace.
 
 - {:.sp} Toussaint.
 
-- Qui a dit pitié ?
-- qui essaie par ce mot incongru d'effacer le tableau noir et feu ? Qui demande
-- grâce ?
-- Est-ce que je demande grâce à mes yeux irrités ?
-- est-ce que je ne subis pas mes visions irréparables ?
-- et je n'ai pas besoin de harpon. Et je n'ai pas besoin de merlin.
-- Pas de pardon.
-- {:.pr} J'ai remonté avec mon cœur l'antique silex, le vieil amadou déposé par l'Afrique au fond de moi-même.
-- Je te hais. Je vous hais.
-- Et ma haine ne mourra pas.
-- Aussi longtemps que le soleil obèse chevauchera la vieille rosse de la Terre ...
-- Et maintenant le passé se feuille vivant
-- le passé se haillonne comme une feuille de bananier.
+- Who said pity?
+- who tries by this incongruous word to erase the blackboard and fire? Who is asking
+- grace?
+- Do I ask grace for my irritated eyes?
+- don't I suffer my irreparable visions?
+- and I don't need a harpoon. And I don't need a sledge axe.
+- No pardon.
+- {: .pr} My heart went back to the ancient flint, the old tinder deposited by Africa in my heart.
+- I hate you. I hate you.
+- And my hate will not die.
+- As long as the obese sun straddles the old nag of the Earth ...
+- And now the past leafs through alive
+- the past hails like a banana leaf.
 - Isaac, Isaac
-- {:.pr} le cataclysme à la tête de scalp, à la cervelle de rouages de larves et de montres
-- au hasard des fables,
-- au hasard des victimes  expiatoires
-- attend
-- les yeux chavirés de palabres magnétiques.
+- {: .pr} the cataclysm at the scalp head, at the brains of larval wheels and watches
+- at random fables,
+- at random expiatory victims
+- waits
+- eyes capsized by magnetic palaver.
 - Isaac, Isaac
-- vénéneuses mes paupières s'entrouvent au cœur de cocotiers ...
-- fortement attirantes la parade des buissons vivants ;
-- ô végétaux enfants trébuchant sur les pavés inégaux des perturbations
-- Liberté, liberté,
-- j'oserai soutenir seul la lumière de ta tête bléssée.
+- poisonous my eyelids open in the heart of coconut palms ...
+- highly attractive the parade of live bushes;
+- O plant children stumbling on the uneven cobblestones of disturbances
+- Freedom, freedom,
+- I dare to bear alone the light of your wounded head.
 
 ---
 

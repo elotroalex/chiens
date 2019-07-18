@@ -3196,7 +3196,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - {:.pr} Mais pour moi, les cris d'exil de la mouette, et le grand rapt salé et la brume sans soleil, l'exil mon père.
 - Et la pluie de cendres violettes sur ce Paris étranger.
 - Et&nbsp;le froid incisif jusqu'au sang.
-- {:.pr} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des  il avait une mesure, une décence, une retenue en même temps qu'un abandon, le paysage, une amitié enfin... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
+- {:.pr} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des eaux, et il avait une mesure, une décence, une retenue en même temps qu'un abandon, le paysage, une amitié enfin... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
 
 - {:.sp} Toussaint.
 
