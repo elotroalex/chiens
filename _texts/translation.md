@@ -3208,28 +3208,29 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [89]({{site.baseurl}}/chiens/p089.html){:.pagetitle}
 
-*(À ce moment, vision : dans une campagne tropicale, s'agite et se convulse la silhouette innénarrable du Grand Prohibiteur. Le « héraut », « sa bouche,» est couché sous un arbre ? Il ronfle.)*
+*(At this moment, a vision: in a tropical field, the innenarrable silhouette of The Great Prohibitor trembles and convulses. The Herald, "his mouth," is lying under a tree. He's snoring.)*
 
 - {:.sp} The Great Prohibitor.
 
-- {:.pr} Allons. Allons ; réveille toi être grossier , stupide et somnolent que la destinée mauvais m'impose comme bouche.
-- Ma bouche
-- ô ma bouche tardigrade
-- ma honte
-- {:.pr} j'ai un flot de paroles d'ordres, de contre-ordres qui se pressent et attendent  dans le recès de ma salive
-- allons, vite, vite, l'animal ronfle
-- mais peut-être ne savez vous qui je suis : veto, veto, ce n'est pas un aboi
-- non, c'est veto, veto
-- {:.pr} ça ne vous dit rien, je vois que ça ne vous dit rien. Et pourtant à ce cri, les bouches s'arrêtent de parler, les jambes rentrent leur humeur vagabonde, le monde se balafre de bornes, se hérisse d'obstacles, veto, veto
-- Je suis le compresseur, le represseur, le régisseur
-- je suis The Great Prohibitor
-- je m'explique
-- {:.pr} eh bien, il avait été constaté en haut lieu qu'il se faisait depuis quelque temps une consommation effroyable absurde, imprévue, insensée de dons, largesses libéralités, indulgences et permissions, toute chose dérangeant incontestablement l'économie fragile, ô fragile, fragile de l'univers borné
-- borné
-- et c'est alors que je fus suscité. Prohibiteur The Great Prohibitor
-- je suis The Great Prohibitor, saisissez vous ?
-- Celui qui regne, qui restreint, qui retient et contraint
-- {:.pr} l'ordre négatif, la défense personnifiée, la menotte éloquente, le verrou de prison ambulant, le baillon à la langue bien pendue, le mois qui est le contraire du plus, l'arrêt qui est le contraire vrai du mouvement, non la sta-
+- {: .pr} Come on. Come on; wake up you rude, stupid and sleepy being, the mouth which my wretched destiny imposes on me.
+- My mouth
+- O my tardigrade mouth
+- my shame
+- {: .pr} I have a flood of words, of orders, of counter-orders that press and wait in the recess of my saliva
+- Come on, quickly, quickly, the animal snores
+- but maybe you do not know who I am: veto, veto, not a bad thing
+- No, it's veto, veto
+- {: .pr} it does not tell you anything, I see that it does not tell you anything. And yet, at my bark, the mouths stop talking, the legs cease their wandering, the world is scarred with bounds, bristles with obstacles, veto, veto
+- I am the compressor, the repressor, the stage manager
+- I'm The Great Prohibitor
+- let me explain
+- {:.pr} Well, it had been ascertained in high places that there had been for some time dreadful absurd consuming, unforeseen insane gifts, a largess of liberality, indulgences and permissions, all things undoubtedly disturbing the fragile economy, so fragile, fragile to the bounded universe
+- bounded
+- and it was then that I was summoned. Prohibitor, The Great Prohibitor
+- I am The Great Prohibitor, do you understand?
+- He who reigns, reins, restraints, retains and constraints.
+- {:.pr} the negative order, defense personified, the eloquent handcuff, the jail lock, the gag to the well-hung tongue, the less contrary to more, the stop which is the exact opposite true of movement, not the station,  
+
 
 ---
 

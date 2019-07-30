@@ -3244,7 +3244,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 [ 89 ](/chiens/chiens/p089.html){: target='\_blank' .pagetitle}
 
-*(À ce moment, vision : dans une campagne tropicale, s'agite et se convulse la silhouette innénarrable du Grand Prohibiteur. Le «&nbsp;héraut&nbsp;», «&nbsp;sa bouche,» est couché sous un arbre&nbsp;? Il ronfle.)*
+*(À ce moment, vision : dans une campagne tropicale, s'agite et se convulse la silhouette innénarrable du Grand Prohibiteur. Le «&nbsp;héraut&nbsp;», «&nbsp;sa bouche,» est couché sous un arbre. Il ronfle.)*
 
 - {:.sp} Le Grand Prohibiteur.
 
@@ -3265,7 +3265,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - et c'est alors que je fus suscité. Prohibiteur le grand Prohibiteur
 - je suis le grand prohibiteur, saisissez vous ?
 - Celui qui regne, qui restreint, qui retient et contraint
-- {:.pr} l'ordre négatif, la défense personnifiée, la menotte éloquente, le verrou de prison ambulant, le baillon à la langue bien pendue, le mois qui est le contraire du plus, l'arrêt qui est le contraire vrai du mouvement, non la sta-
+- {:.pr} l'ordre négatif, la défense personnifiée, la menotte éloquente, le verrou de prison ambulant, le baillon à la langue bien pendue, le moins qui est le contraire du plus, l'arrêt qui est le contraire vrai du mouvement, non la sta-
 
 ---
 

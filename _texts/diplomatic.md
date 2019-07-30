@@ -4064,7 +4064,7 @@ Entrent des prètres.
 
 
 
-<span class="add blue-ink inline">(</span> à ce moment, vision: dans une campagne tropicale, s'agite et se convulse la sil<br>houette innénarrable du Grand Prohibiteur. Le "héraut",  <span class="add blue-ink inline">«&nbsp;</span>sa bouche,<span class="add blue-ink inline">»</span> est cou<br>ché sous un arbre? Il ronfle.<span class="add blue-ink inline">)</span>
+<span class="add blue-ink inline">(</span> à ce moment, vision: dans une campagne tropicale, s'agite et se convulse la sil<br>houette innénarrable du Grand Prohibiteur. Le "héraut",  <span class="add blue-ink inline">«&nbsp;</span>sa bouche,<span class="add blue-ink inline">»</span> est cou<br>ché sous un arbre<span class="delete">?</span><span class="add inline">.</span> Il ronfle.<span class="add blue-ink inline">)</span>
 
 
 
@@ -4087,7 +4087,7 @@ Entrent des prètres.
 - et c'est alors que je fus suscité. Prohibiteur le grand Prohibiteur
 - je suis le grand prohibiteur, saisissez vous ?
 - Celui qui regne, qui restreint, <span class="delete">quir</span><span class="add blue-ink above">qui </span>retient et contraint
-- {:.prose} <span class="add margin">&nbsp;|&nbsp;l'ordre&nbsp;|&nbsp;</span><span class="delete">l(ordre</span> négatif, la défense personnifiée, la menotte éloquente, le verrou de pri<br>son ambulant, le baillon à la langue bien <span class="delete">p<span class="delete">n</span><span class="add  ">e</span>ndue</span><span class="add  ">pendue</span>, le mois qui est le contraire<br>du plus, l'arrêt qui est le contraire vrai du mouvement, non la <span class="delete">satation </span>sta-
+- {:.prose} <span class="add margin">&nbsp;|&nbsp;l'ordre&nbsp;|&nbsp;</span><span class="delete">l(ordre</span> négatif, la défense personnifiée, la menotte éloquente, le verrou de pri<br>son ambulant, le baillon à la langue bien <span class="delete">p<span class="delete">n</span><span class="add  ">e</span>ndue</span><span class="add  ">pendue</span>, le moins qui est le contraire<br>du plus, l'arrêt qui est le contraire vrai du mouvement, non la <span class="delete">satation </span>sta-
 
 <hr>
 
