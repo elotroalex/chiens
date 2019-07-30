@@ -4097,7 +4097,7 @@ Entrent des prètres.
 - {:.prose} tion, non la station, le retrait qui est le contraire du progrès, l'être <span class="delete">p</span><br>le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le<br><span class="delete">contraree</span><span class="add blue-ink above">contraire</span> de l'expansion de la propension de la contagion, croc-en jambe, croc-<br>en jambe
 - celui qui à un certain moment rend caduc caduc, caduc
 - (il jappe) veto, veto&nbsp;;
-- {:.prose} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications<br>bénévolentes, de mes philantropiques exclamation<span class="add blue-ink inline">s</span>pour ba<span class="add  accent">̂</span>iller aux cormeilles.
+- {:.prose} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications<br>bénévolentes, de mes philantropiques exclamation<span class="add blue-ink inline">s</span> pour ba<span class="add  accent">̂</span>iller aux cormeilles.
 - Allons héraut. Ma bouche, ma bouche. Héraut. Héraut.
 - Allons héráut fais ton office.
 

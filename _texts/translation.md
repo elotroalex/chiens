@@ -3229,19 +3229,22 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - and it was then that I was summoned. Prohibitor, The Great Prohibitor
 - I am The Great Prohibitor, do you understand?
 - He who reigns, reins, restraints, retains and constraints.
-- {:.pr} the negative order, defense personified, the eloquent handcuff, the jail lock, the gag to the well-hung tongue, the less contrary to more, the stop which is the exact opposite true of movement, not the station,  
+- {:.pr} the negative order, defense personified, the eloquent handcuff, the jail lock, the gag to the well-hung tongue, the less which is the contrary of more, the stop which is the exact opposite true of movement, not the station,
 
 
 ---
 
 [90]({{site.baseurl}}/chiens/p090.html){:.pagetitle}
 
-- {:.pr} tion, non la station, le retrait qui est le contraire du progrès, l'être  le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le contraire de l'expansion de la propension de la contagion, croc-en jambe, croc-en jambe
-- celui qui à un certain moment rend caduc caduc, caduc
-- *(il jappe)* veto, veto ;
-- {:.pr} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications bénévolentes, de mes philantropiques exclamationspour bâiller aux cormeilles.
-- Allons héraut. Ma bouche, ma bouche. Héraut. Héraut.
-- Allons héráut fais ton office.
+- {:pr} not the station, the withdrawal which is the opposite of progress, the most existent being, the one which arises in opposition, the most necessary being, the opposite of expansion, of propensity, of the contagion, croc-leg, croc-leg
+- the one who at a certain moment makes obsolete, obsolete
+
+- {:.pr} tion, non la station, le retrait qui est le contraire du progrès, l'être le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le contraire de l'expansion de la propension de la contagion, tripping, tripping
+- the one who at a certain moment makes obsolete, obsolete
+- *(yapping)* veto, veto;
+- {:.pr} But I realize that my servant finally wakes to profit from my gracious explanations, from my philanthropic exclamations, to yawn a mouthful of air.
+- Let's go herald. My mouth, my mouth. Herald. Herald.
+- Come, let us do your work.
 
 - {:.sp} The Herald.
 
