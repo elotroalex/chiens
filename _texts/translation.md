@@ -3236,7 +3236,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [90]({{site.baseurl}}/chiens/p090.html){:.pagetitle}
 
-- {:pr} not the station, the withdrawal which is the opposite of progress, the most existent being, the one which arises in opposition, the most necessary being, the opposite of expansion, of propensity, of the contagion, croc-leg, croc-leg
+- {:.pr} not the station, the withdrawal which is the opposite of progress, the most existent being, the one which arises in opposition, the most necessary being, the opposite of expansion, of propensity, of the contagion, croc-leg, croc-leg
 - the one who at a certain moment makes obsolete, obsolete
 - *(yapping)* veto, veto;
 - {:.pr} But I realize that my servant finally wakes to profit from my gracious explanations, from my philanthropic exclamations, to yawn a mouthful of air.
@@ -3257,7 +3257,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Great Prohibitor.
 
-- {: .pr} I say: at the trees and the savannah, at the rain and the sun ... As if, on this continent of fugitive Indians, the accents of the law had not been first engraved on the steady ears of the tree and the savannah.
+- {: .pr} I say: at the trees and the savannah, at the rain and the sun ... As if, on this continent of fugitive Indians, the accents of the law had not been engraved first and foremost on the steady ears of the trees and the savannah.
 
 - {:.sp} The Herald *(amazed.)*
 
@@ -3265,7 +3265,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Great Prohibitor.
 
-- {: .pr} Ignorant is he who knows the name of Don Christobal Colon admiral of the ocean and ignores that of Rodrigo de Escovedo, royal notary. So learn, my friend, that the caravels that came here were not only pregnant with arms, food, horses, riders ... They had, above all, their bellies bouncing with loud and repressive laws.
+- {: .pr} Ignorant is he who knows the name of Don Cristobal Colon, Admiral of the Ocean Sea, and ignores that of Rodrigo de Escovedo, Royal Notary. So learn, my friend, that the caravels that traveled here were not only pregnant with arms, food, horses, riders ... They had, above all, their plump bellies full of loud and repressive laws.
 
 - {:.sp} The Herald.
 
@@ -3281,7 +3281,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Great Prohibitor.
 
-- {: .pr} And since I'm giving you a lesson, I do not want to let you ignore the name of my genial precursor here in Hispaniola. His name was Alonzo Hojeda. Remember this name, don Alonzo de Hojeda; just as history has remembered his gesture, his offer to the cacique Caonabo of the most valuable thing in the world. Can you guess what he offered the awed Caonabo? A *turey*, a sacred *turey*, i.e. a nice pair of handcuffs. He-he, you understand now, herald, come on.
+- {: .pr} And since I'm giving you a lesson, I don't want you to ignore the name of my genial precursor here, in Hispaniola. His name was Alonzo Hojeda. Remember this name, don Alonzo de Hojeda; just as history has remembered his iconic gesture, offering the cacique Caonabo the most valuable thing in the world. Can you guess what he offered the wide-eyed Caonabo? A *turey*, a sacred *turey*, i.e. a nice pair of handcuffs. He-he, you understand now, herald, come on.
 
 - {:.sp} The Herald *(with a strong voice.)*
 
@@ -3322,39 +3322,39 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Reciter.
 
-- Un désert de béton, de camphre, d'acier, de charpies, de marais desinfectés
-- {:.pr} un lieu lourd miné d'yeux de flammes et de champignon, une perversion d'acier de viol, de tortures, de spasmes, d'effondrements, d'égorgements, un lévrier fou,
-- {:.pr} un tonnerre bas, un crachat frénétique dans le soleil chimique, un océan aux détresse de goulet étroit de catéchisme d'éternuement.
+- A desert of concrete, camphor, steel, shavings, disinfected marsh
+- {:.pr} a heavy place mined with eyes of flame and mushroom, a perversion of steel of rape, torture, spasm, collapse, slaughter, a mad greyhound,
+- {:.pr} a low thunder, a frenzied spit in the chemical sun, a distressed ocean through the narrow gully of catechism, of a sneeze.
 
 - {:.sp} The Narrator.
 
-- Des torrents dégorgeant d'innombrables cadavres de dogues, de cauchemars, de lémures tourmentés.
+- Torrents disgorging innumerable corpses of mastiffs, nightmares, tormented lemurs.
 
 - {:.sp} Toussaint.
 
-- ...toutes les violences du monde mort
-- frappé de verges exposé aux bêtes
-- trainé en chemise la corde au cou
-- arrosé de pétrole
-- et j'ai attendu en san-benito l'heure de l'auto-da-fé
-- et j'ai bu de l'urine, piétiné, trahi, vendu
-- et j'ai mangé des excréments
-- et j'ai acquis la force de parler
-- plus haut que les fleuves
-- plus fort que les désastres
+- ... all the violence of the dead world
+- beaten with the rod, exposed to the beasts
+- dragged in a straightjacket, rope to the neck
+- sprinkled with oil
+- and I waited in San Benito for the auto-da-fé
+- and I drank urine, trampled, betrayed, sold
+- and I ate feces
+- and I gained the strength to speak
+- higher than the rivers
+- stronger than the disasters
 
-*(à ce moment vision du soleil qui se couche, saignant.)*
+*(at that moment, a vision of the setting sun, bleeding.)*
 
 - {:.sp} The Chorus.
 
-- Oh oh le soleil se couche.
+- Oh, oh, the sun is setting.
 
 - {:.sp} Toussaint.
 
-- Arrière.
-- arrétez bourreaux
-- ah vous me clignez de l'œil
-- vous me demandez ma complicité
+- Stand back.
+- stop, executioners
+- ah, you wink at me
+- you ask me for my complicity
 
 ---
 
