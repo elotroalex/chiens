@@ -3238,41 +3238,38 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:pr} not the station, the withdrawal which is the opposite of progress, the most existent being, the one which arises in opposition, the most necessary being, the opposite of expansion, of propensity, of the contagion, croc-leg, croc-leg
 - the one who at a certain moment makes obsolete, obsolete
-
-- {:.pr} tion, non la station, le retrait qui est le contraire du progrès, l'être le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le contraire de l'expansion de la propension de la contagion, tripping, tripping
-- the one who at a certain moment makes obsolete, obsolete
 - *(yapping)* veto, veto;
 - {:.pr} But I realize that my servant finally wakes to profit from my gracious explanations, from my philanthropic exclamations, to yawn a mouthful of air.
 - Let's go herald. My mouth, my mouth. Herald. Herald.
-- Come, let us do your work.
+- Come, do your work.
 
 - {:.sp} The Herald.
 
-- Mais c'est que je ne vois personne. Rien que des arbres et de la savane.
+- But I do not see anyone. Just trees and the savannah.
 
 - {:.sp} The Great Prohibitor.
 
-- Imbécile, Eh bien crie la loi aux arbres, à la savane.
+- Fool! Well, yell the law at the trees, at the savannah.
 
-- {:.sp} The Herald  *(incrédule.)*
+- {:.sp} The Herald  *(incredulous.)*
 
-- {:.i2} Aux arbres ? à la savane ?
-
-- {:.sp} The Great Prohibitor.
-
-- {:.pr} Je dis : aux arbres à la savane, à la pluie au soleil ... Comme si sur ce continent d'Indiens fuyards, ça n'avait pas été d'abord dans les oreilles stables de  l'arbre et de la savane que s'étaient gravés les accents de la loi.
-
-- {:.sp} The Herald *(émerveillé.)*
-
-- Vraiment! aux arbres! à la savane! des lois!!
+- {:.i2} At the trees? at the savannah?
 
 - {:.sp} The Great Prohibitor.
 
-- {:.pr} Ignorant qui connait le nom de Don Christobal Colon amiral de l'océan et ignore celui de Rodrigo de Escovedo notaire royal.[^tei2] Apprends donc mon ami, que les caravelles qui abordaient ici n'étaient pas seulement enceintes d'armes, de vivres, de chevaux, de cavaliers ... Elles avaient et surtout la panse rebondie de lois sonores et répressives.
+- {: .pr} I say: at the trees and the savannah, at the rain and the sun ... As if, on this continent of fugitive Indians, the accents of the law had not been first engraved on the steady ears of the tree and the savannah.
+
+- {:.sp} The Herald *(amazed.)*
+
+- Really! on the trees! on the savannah! laws!!
+
+- {:.sp} The Great Prohibitor.
+
+- {: .pr} Ignorant is he who knows the name of Don Christobal Colon admiral of the ocean and ignores that of Rodrigo de Escovedo, royal notary. So learn, my friend, that the caravels that came here were not only pregnant with arms, food, horses, riders ... They had, above all, their bellies bouncing with loud and repressive laws.
 
 - {:.sp} The Herald.
 
-- {:.i2} De lois, la panse pleine de lois !
+- {:.i2} Laws! Bellies full of laws!
 
 ---
 
@@ -3280,39 +3277,39 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Herald.
 
-- {:.i2} De lois,  la panse pleine de lois ; de lois répressives.
+- {:.i2} Laws, bellies full of laws; repressive laws.
 
 - {:.sp} The Great Prohibitor.
 
-- {:.pr} Et puis que j'ai commencé à t'instruire, je ne veux pas te laisser ignorer le nom de mon genial précurseur ici, à Hispaniola. Il s'appelait Alonzo Hojeda. Retiens bien ce nom  don Alonzo de Hojeda,&nbsp;de même que l'histoire a retenu comme symbole le geste d'Hojeda offrant au cacique Caonabo ce qu'il y a au monde de plus précieux. Et il offrit à Caonabo émerveillé devinez quoi ? un turey, un turey sacré, c'est à dire une jolie paire de menottes. Hi-hi, tu as compris allons, héraut, allons.
+- {: .pr} And since I'm giving you a lesson, I do not want to let you ignore the name of my genial precursor here in Hispaniola. His name was Alonzo Hojeda. Remember this name, don Alonzo de Hojeda; just as history has remembered his gesture, his offer to the cacique Caonabo of the most valuable thing in the world. Can you guess what he offered the awed Caonabo? A *turey*, a sacred *turey*, i.e. a nice pair of handcuffs. He-he, you understand now, herald, come on.
 
-- {:.sp} The Herald *(d'une voix forte.)*
+- {:.sp} The Herald *(with a strong voice.)*
 
-- {:.pr} *(Après une sonnerie de trompette)* au vent, a la pluie, au soleil, aux arbres du nouveau Monde, salut *(sonnerie de trompette.)*
+- {:.pr} *(After a trumpet blast)* to the wind, to the rain, to the sun, to the trees of the new world, hello *(trumpet blast.)*
 
-- {:.sp} The Great Prohibitor *(jappant.)*
+- {:.sp} The Great Prohibitor *(yelping.)*
 
 - {:.pr} Veto, veto, veto. 
 
-*(la vision disparait.)*
+*(The vision disappears.)*
 
 - {:.sp} The Chorus
 
-- Hélas, hélas, je crie hélas
-- Le négrier,
-- le licol
-- la tringle de fer
-- la cale puante
-- le mal de mer
-- les saucisses bien liées de morts et de vivants
-- et la révolte un beau soir miteux
-- et les manilles et les menottes
-- et le rotin et la noyade
-- {:.pr} hélas, hélas vers le matin blanchiment  d'îles de continents d'église et de málédiction.
+- Alas, alas, I cry alas
+- The slave,
+- the halter
+- the iron rod
+- the stinky shiphold
+- sea sickness
+- tightly-wound sausages of dead and alive
+- and the rebellion a shabby beautiful evening
+- and shackles and handcuffs
+- and rattan and drowning
+- {:.pr} alas, alas, towards the morning the whitening of islands of continents of church and curse.
 
 - {:.sp} The Reciter
 
-- Un gouffre. Ma vue ne saurait le mesurer.
+- A gulf. My sight cannot sound it.
 
 
 ---
@@ -3321,7 +3318,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Narrator.
 
-- {:.pr} Un gouffre de sanglots&nbsp;un ouragan de rauquements, de vociférations, une forêt d'erreurs, d'interdictions, de rites, de maladresses&nbsp;de mensonges, d'exaspération pas de fruits, pas de fruits, harpies, harpies, buissons d'âmes séchées.
+- {: .pr} A gulf of sobs, a hurricane of raucousness, vociferations, a forest of errors, prohibitions, rites, clumsiness, lies, exasperation, no fruits, no fruits, harpies, harpies, bushes of dried souls.
 
 - {:.sp} The Reciter.
 
