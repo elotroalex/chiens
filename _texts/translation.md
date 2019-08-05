@@ -3360,36 +3360,34 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [93]({{site.baseurl}}/chiens/p093.html){:.pagetitle}
 
-- au secours! au secours! au meurtre!
-- ils ont tué le soleil! il n'y a plus de soleil! il ne reste plus que les taureaux
-- de Basan une torche est attaché à leur queue furibonde ... Les taureaux piétinent
-- la savane sans meubles
-- Il y a aussi les cavaliers.
-- Ils ont suspendu le soleil comme un bouclier à la&nbsp;porte du ciel
-- assassins! assassins!
-- mais ils s'éloignent et je ne puis pas les suivre
-- ils poursuivent le pauvre homme! ils lui donnent la chasse à grands cris
-- et abois de chiens
-- leurs chevaux sont vite
-- ils entourent le pauvre homme de longs cercles fatals
-- ils resserrent le nœud de leur cercle autour du cou pelé
-- ça y est ... ils ont reniflé la viande du négre
-- ils s'arrétent
-- ils rient
-- ils se lissent le moustache
-- ils sifflent les chiens penauds
-- les chiens accourent, la langue pendante
-- Ha! deux yeux dans crime roulent dans la nuit
-- deux yeux roulent de la nuit, de la&nbsp;peur des malédictions de la résignation
-- de la fierté
-- de la haine
-- aïe! ils sifflent, les autres sifflent
-- ils ont lancé les chiens
-- taïaut! taïaut! ils poussent des cris terribles
-- à pleine dent de molosse de molosse de molosse
-- les torches sont allumées sous les voûtes de la forêt. C'est fini, tout est fini.
-- {:.i2} Inutile de réclamer ; l'action de la justice est éteinte.
-- voyez, ils l'ont déchiré en lambeaux. En lambeaux comme un cochon sauvage.
+- Help! Help! Murder!
+- they killed the sun! there is no more sun! the bulls of Bashan remain, a torch attached to their furious tail ... The bulls trample the unfurnished savannah
+- the riders remain too.
+- They hung the sun like a shield at the gates of heaven
+- assassins! murderers!
+- but they get farther away, and I can not follow them
+- they are pursuing the poor man! they give him the hunt with loud cries
+- and dogs barking
+- their horses are fast
+- they surround the poor man with long fatal circles
+- they tighten their circle like a knot around the naked neck
+- that's it ... they sniffed the black meat
+- they stop
+- they laugh
+- they smooth out their mustaches
+- they whistle to the sheepish dogs
+- the dogs come running, tongues hanging
+- Ha! two eyes in crime roll in the night
+- two eyes roll of the night, of the fear of the curses of the resignation
+- of pride
+- of hatred
+- Ouch! they whistle, the others whistle
+- they have sicced the dogs
+- git'im! git'im! they utter terrible cries
+- full on teeth of mastiff of mastiff of mastiff
+- the torches are lit under the vaults of the forest. It's over, everything is over.
+- {: .i2} No need to demand; the action of justice is extinguished.
+- See, they tore it to shreds. To shreds like a wild pig.
 
 ---
 

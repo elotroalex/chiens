@@ -3397,9 +3397,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 [ 93 ](/chiens/chiens/p093.html){: target='\_blank' .pagetitle}
 
 - au secours&nbsp;! au secours&nbsp;! au meurtre&nbsp;!
-- ils ont tué le soleil&nbsp;! il n'y a plus de soleil&nbsp;! il ne reste plus que les taureaux
-- de Basan une torche est attaché à leur queue furibonde... Les taureaux piétinent
-- la savane sans meubles
+- ils ont tué le soleil&nbsp;! il n'y a plus de soleil&nbsp;! il ne reste plus que les taureaux de Basan une torche est attaché à leur queue furibonde... Les taureaux piétinent la savane sans meubles
 - Il y a aussi les cavaliers.
 - Ils ont suspendu le soleil comme un bouclier à la&nbsp;porte du ciel
 - assassins&nbsp;! assassins&nbsp;!
