@@ -3370,23 +3370,23 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - and dogs barking
 - their horses are fast
 - they surround the poor man with long fatal circles
-- they tighten their circle like a knot around the naked neck
-- that's it ... they sniffed the black meat
+- they tighten their circle like a knot around the exposed neck
+- that's it ... they smell black meat
 - they stop
 - they laugh
 - they smooth out their mustaches
-- they whistle to the sheepish dogs
+- they whistle to their sheepish dogs
 - the dogs come running, tongues hanging
 - Ha! two eyes in crime roll in the night
-- two eyes roll of the night, of the fear of the curses of the resignation
+- two eyes roll of the night of the fear of the curses of the resignation
 - of pride
 - of hatred
 - Ouch! they whistle, the others whistle
 - they have sicced the dogs
-- git'im! git'im! they utter terrible cries
-- full on teeth of mastiff of mastiff of mastiff
-- the torches are lit under the vaults of the forest. It's over, everything is over.
-- {: .i2} No need to demand; the action of justice is extinguished.
+- git'im! git'im! they utter their terrible cries
+- full on bite of mastiff of mastiff of mastiff
+- the torches lit under the vaults of the forest. It's over, everything is over.
+- {:.i2} No need to make demands; the action of justice is extinguished.
 - See, they tore it to shreds. To shreds like a wild pig.
 
 ---
