@@ -2636,7 +2636,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr.i} Attached like a sign to the top of France, I do not sob ... I call.
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
 - We undermined the echo : your words will burn like turds.
 
@@ -2644,7 +2644,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Maroon, your only flag, mine: perils and revolt without remorse.
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
 - You boast of your crimes.
 
@@ -2652,7 +2652,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - I acclimatized a tree of sulfur and lava among a vanquished people.
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
 - Pathetic.
 
@@ -2669,7 +2669,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - the race of earth, the race of ash walks
 - the road feet spit saltpetre wads.
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
 - You will expire, prisoner of snow, loneliness and desperation.
 
@@ -3393,150 +3393,152 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [94]({{site.baseurl}}/chiens/p094.html){:.pagetitle}
 
-- Comme un agouti. Comme une mangouste.
-- Qui a fait cela ? Vous me demandez qui a fait cela!
-- Non, non ce n'est pas moi
-- je suis innocent
-- Qui ?
-- Eux
-- eux les chiens
-- eux les hommes aux sourires saignants, aux yeux d'acier
-- {:.pr} Mais vous savez je vous dis que l'action de la Justice est eteinte. Eteint, mais le tison de leurs yeux ne s'éteint jamais.
-- assassins! assassins! assassins!
+- Like an agouti. Like a mongoose.
+- Who did this? You ask me who did this!
+- No, no it wasn't me
+- I am innocent
+- Who?
+- Them
+- them dogs
+- them men with bleeding smiles, with steel eyes
+- {:.pr} But you know, I tell you that the action of justice is extinguished. Extinguished, but the glow of their eyes never goes out.
+- assassins! murderers! murderers!
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
 - Silence!
 
 - {:.sp} Toussaint.
 
-- {:.pr} Allons! bonnes gens ... c'est vrai que je vous importune ... et vous voudriez m'empécher de parler ... Faites moi peur, faites moi bien peur, je suis très lâche vous savez : j'ai tremblé de toutes les peurs depuis la peur première ...
+- {: .pr} Come on! good people ... it is true that I bother you ... and you would like to prevent me from speaking ... Make me afraid, make me very afraid, I am very cowardly you know: I trembled with all the fears since the first fear ...
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
-- Le gredin!
-
-- {:.sp} Toussaint.
-
-- {:.pr} Faites moi peur, faites moi très peur je vous dis. Et vous savez les bons moyens : serrez moi le front avec une corde, pendez moi par les aisselles, chauffez moi les pieds avec une pelle rougie.
-
-- {:.sp} The Prison Guard.
-
-- Tais toi nom de Dieu!
+- This asshole!
 
 - {:.sp} Toussaint.
 
-- Percez moi la bouche d'un cadenas rougi au feu.
+- {:.pr} Make me afraid, make me very afraid, I tell you. And you know the good ways: shake my forehead with a rope, hang me by the armpits, warm my feet with a red-hot shovel.
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
-- Il me tente!
+- Jesus Christ, shut up!
 
 - {:.sp} Toussaint.
 
-- {:.pr} Marquez moi à l'épaule d'une fleur de lys, d'un verrou de prison, ou de vos initiales tout simplement Jean ou Pierre ou Jeanne ou Louise ou Geneviève ... c'est ça ... ou d'un drapeau ... ou d'un petit canon ... ou d'une croix ... ou d'un trèfle. 
+- Pierce my mouth with a flaming-red padlock.
+
+- {:.sp} The Guardman.
+
+- He tempts me!
+
+- {:.sp} Toussaint.
+
+- {: .pr} Mark me on the shoulder with a fleur-de-lys, a prison lock, or your initials, simply Jean, or Pierre, or Jeanne, or Louise, or Geneviève ... that's it .. or a flag ... or a small cannon ... or a cross ... or a clover.
 
 ---
 
 [95]({{site.baseurl}}/chiens/p095.html){:.pagetitle}
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
-- Tous les diables de l'enfer tisonnent dans sa couenne noire
-
-- {:.sp} Toussaint.
-
-- ... ou bien de vos chiffres entrelaçés, ou bien d'une formule latine.
-
-- {:.sp} The Prison Guard.
-
-- Assez!
+- All the devils of hell poke on his black skin
 
 - {:.sp} Toussaint.
 
-- {:.pr} Ils font les scrupuleux. Ne vous génez pas je vous assure : j'étais absent au baptème du Christ.
+- ... or your intertwined figures, or a Latin formula.
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
-- Ça se voit à l'œil nu.
+- Enough!
 
 - {:.sp} Toussaint.
 
-- Et je m'accuse d'avoir ri de Noé, mon père nu, mon père ivre.
-- Et je m'accuse de m'être vautré d'amour dans la nuit opaque, dans la nuit lourde.
+- {: .pr} They are scrupulous. Don't be afraid, I assure you: I was absent from the baptism of Christ.
+
+- {:.sp} The Guardman.
+
+- We can tell.
+
+- {:.sp} Toussaint.
+
+- And I confess, I laughed at Noah, my naked father, my drunk father.
+- And I confess, I wallowed in love in the opaque night, in the heavy night.
 
 ---
 
 [96]({{site.baseurl}}/chiens/p096.html){:.pagetitle}
 
-- {:.sp} The Jailer.
+- {:.sp} The Guardwoman.
 
-- Ligote le.
+- Tie him up.
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
-- On y va ma femme, on y va *(il ligote Toussaint.)*
+- On it, my dear. On it *(he ties Toussaint)*
 
-- {:.sp} The Jailer.
+- {:.sp} The Guardwoman.
 
-- Misérable voleur.
-
-- {:.sp} Toussaint.
-
-- Que me voulez vous, méprisables créatures ?
-
-- {:.sp} The Prison Guard.
-
-- ... Ce trésor ... où l'as tu caché ce trésor ... le fruit de tes rapines ?
-
-- {:.sp} The Jailer.
-
-- Voleur! Voleur! ... Nous sommes renseignés ...
+- Lousy thief.
 
 - {:.sp} Toussaint.
 
-- Quelle est cette femme qui m'insulte ?
+- What do you want from me, despicable creatures?
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
-- A toi de répondre, gredin noir ... il n'est plus temps de biaiser.
+- ... This treasure ... where did you hide it ... your booty?
 
-- {:.sp} The Jailer.
+- {:.sp} The Guardwoman.
 
-- Frappe le, frappe-le ... ça fera du bien à sa vilaine peau ...
+- Thief! Thief! ... We have information ...
 
 - {:.sp} Toussaint.
+
+- Who is this woman who insults me?
+
+- {:.sp} The Guardman.
+
+- Answer us, you Black bastard ... there is no time to waste.
+
+- {:.sp} The Guardwoman.
+
+- Hit him, hit him ... it will do his rotten skin some good ...
+
+- {:.sp} Toussaint.
+
+- Who is this woman?
 
 - Qui es-tu femme ?
-- {:.pr} J'en ai connu des femmes ; des seins surpris au pâturage, des éléphants enfants allant à la messe.
+- {:.pr} I have known women like you; breasts surprised with grazing, elephant children going to mass.
 
-- {:.sp} The Jailer.
+- {:.sp} The Guardwoman.
 
-- Aïe ! Le goujat! il m'insulte le salaud, il m'insulte tu entends ?
+- Ouch! The sexist pig! He insults me, the bastard. He insults me, you hear?
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
-- Insolent, dégoutant, singe libidineux!
+- Insolent, disgusting, libidinous monkey!
 
 *(il le frappe. La femme le frappe également).*
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Le roi Toussaint ... Répétez : "le roi Toussaint." Le roi Toussaint vainquit les Anglais. Le roi Toussaint terrassa les Espagnols ...
+- {: .pr.i} King Toussaint ... Repeat after me: "King Toussaint." King Toussaint defeated the English. King Toussaint overthrew the Spaniards ...
 
 ---
 
 [97]({{site.baseurl}}/chiens/p097.html){:.pagetitle}
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
-- {:.pr.i} Dis-donc, mais il se fout de nous, le moricaud ... Bien sûr qu'il fait le fou ... Plus fort ... encore plus fort *(il frappe Toussaint)*.
+- {: .pr.i} Would you look at that. He doesn't give a fuck. This monkey ... Of course, he's crazy ... stronger ... even stronger *(he hits Toussaint)*.
 
 - {:.sp} Toussaint.
 
 - {:.pr} Frappe ... frappe commandeur ... frappe jusqu'au sang ... il est né du sillon une race sans gémissement ... frappe et lasse toi.
 
-- {:.sp} The Jailer.
+- {:.sp} The Guardwoman.
 
 - {:.pr} Bûche! Quelle bûche! C'est une bûche te dis-je ... une drôle de race, ces nègres ... Crois-tu que nos coups lui fassent mal ... en tout cas, ça ne marque pas.
 - ... *(elle frappe.)* Oh! Oh! Son sang coule!
@@ -3549,7 +3551,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} Isaac, Isaac, pourquoi rester sous la pluie ... J'avais un fils ... j'avais réussi à le préserver des morsures de cette race de scorpions ... Isaac, Isaac!
 
-- {:.sp} The Prison Guard.
+- {:.sp} The Guardman.
 
 - {:.pr} Ah! il déraille sérieusement ... C'est à mourir de rire ... Dis, c'est marrant le sang rouge sur la peau noire. *(Ils délient Toussaint.)*
 
