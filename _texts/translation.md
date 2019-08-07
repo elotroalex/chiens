@@ -3508,8 +3508,6 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.sp} Toussaint.
 
 - Who is this woman?
-
-- Qui es-tu femme ?
 - {:.pr} I have known women like you; breasts surprised with grazing, elephant children going to mass.
 
 - {:.sp} The Guardwoman.
@@ -3536,36 +3534,36 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.pr} Frappe ... frappe commandeur ... frappe jusqu'au sang ... il est né du sillon une race sans gémissement ... frappe et lasse toi.
+- {: .pr} Strike ... strike, commander ... strike to the blood ... born from the furrow, a race without moan ... strike and tire yourself.
 
 - {:.sp} The Guardwoman.
 
-- {:.pr} Bûche! Quelle bûche! C'est une bûche te dis-je ... une drôle de race, ces nègres ... Crois-tu que nos coups lui fassent mal ... en tout cas, ça ne marque pas.
-- ... *(elle frappe.)* Oh! Oh! Son sang coule!
+- {: .pr} Chump! What a chump! This is a chump I tell you ... a strange race, these negroes ... Do you think our blows hurt him ... in any case, it doesn't leave a mark.
+- ... *(she hits.)* Oh! Oh! He's bleeding!
 
-- {:.sp} The Prison Guard  *(riant.)*
+- {:.sp} The Prison Guard  *(laughing.)*
 
-- C'est bien connu : battre un nègre  c'est le nourrir ...
+- Everyone knows: it does a negro good to hit him ...
 
 - {:.sp} Toussaint.
 
-- {:.pr} Isaac, Isaac, pourquoi rester sous la pluie ... J'avais un fils ... j'avais réussi à le préserver des morsures de cette race de scorpions ... Isaac, Isaac!
+- {: .pr} Isaac, Isaac, why stay in the rain ... I had a son ... I managed to protect him from the bites of this race of scorpions ... Isaac, Isaac!
 
 - {:.sp} The Guardman.
 
-- {:.pr} Ah! il déraille sérieusement ... C'est à mourir de rire ... Dis, c'est marrant le sang rouge sur la peau noire. *(Ils délient Toussaint.)*
+- {: .pr} Ah! he is seriously going off the rails ... I could die laughing ... Say, it's weird, the red blood on the black skin. *(They loosen Toussaint.)*
 
-- {:.sp} Toussaint  *(sursautant.)*
+- {:.sp} Toussaint  *(jumping up.)*
 
-- des mains coupées ... de la cervelle giclante ... de la charogne molle ... Isaac,
-- Isaac ... pourquoi rester sous la pluie des scorpions venimeux ?
-- {:.pr} les tamanoirs égarés dans les époques lapent au pavé des villes des fourmis d'aigue-marine. Les sarigues cherchent entre le joint des équinoxes un arbre roux, un arbre d'argent ... une volonté se convulse dans le mastic bourbeux des fatalités et le cache-cache des vers luisants. Isaac! Isaac! 
+- cut hands ... squirting brains ... soft carrion ... Isaac,
+- Isaac ... why stay in the rain with the poisonous scorpions?
+- {: .pr} the anteaters lost in time lapping aquamarine ants on the city pavements. The opossums seek a red tree, a silver tree between the joints of the equinox ... a will convulses in the mastic, muddied by fatalities and the hide-and-seek of glow worms. Isaac! Isaac! 
 
-*(Il s'écroule en gémissant.)*
+*(He collapses moaning.)*
 
 - {:.sp} The Narrator.
 
-- {:.pr} Quelle nuit! quelle neige! C'est comme si la neige et la nuit s'étaient furieusement battues : de grosses masses d'ombre s'écroulent avec tout le panneau du ciel et la cavalerie des flocons se précipite au vol fouetté de ses cent mille burnous.
+- {: .pr} What a night! the snow! It is as if the snow and the night had furiously beaten each other: large masses of shadow bring down with them the panel of the sky, and the cavalry of flakes rushes down in the whipped flight of its one hundred thousand burnous.
 
 ---
 
@@ -3573,48 +3571,48 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Reciter.
 
-- {:.pr} La neige! il neige! première nuit de neige! la neige première creuse la nuit de ses doigts précieux, creuse la mort de ses doigts de vengeance, creuse le bol des nuits de son lait de prière.
+- {: .pr} The snow! it's snowing! first night of snow! the first snow digs the night with its precious fingers, digs death with its vengeful fingers, digs the bowl of nights with its prayer milk.
 
 - {:.sp} The Chorus.
 
-- {:.pr} Amen! la neige mord ; la neige mord de ses crocs brûlants une nuit solennelle. 
+- {: .pr} Amen! the snow bites; the snow sinks its burning fangs on a solemn night.
 
-*(A ce moment vision d'une route illimitée blanche : une lanterne cahote ; une forme se précise peu à peu. C'est la Sainte Vierge. Elle s'avance, s'arrête et se penche sur Toussaint qu'elle contemple longuement).*
-
-- {:.sp} Toussaint.
-
-- Hum! qu'y a t-il ? Qui me réveille ?
-- Qui&nbsp;vient me troubler sur le seuil du repos ?
-
-- {:.sp} La sainte vierge.
-
-- {:.i2} ... Mon fils
-
-- {:.sp} The Chorus *(chuchotant.)*
-
-- C'est la Sainte Vierge! C'est la Sainte Vierge!
-
-*(le vent apporte du lointain des bribes de spiritual.)*
-
-- {:.sp} La sainte Vierge.
-
-- ... Toi aussi tu es mon fils!
+*(At this moment a vision of an endless white road: a lantern flickers; a form slowly appears. It is The Holy Virgin. She walks forward, stops and looks at Toussaint, who she contemplates at length.)*
 
 - {:.sp} Toussaint.
 
-- {:.pr} Et moi aussi je suis ton fils ... regarde ... regarde donc ... fille de la neige, regarde ce bloc de nuit sculptée, mon visage!
+- Hum! what is it ? Who wakes me up?
+- Who comes to trouble me by the doorsteps of rest?
 
-- {:.sp} La sainte vierge.
+- {:.sp} The Holy Virgin.
 
-- {:.i2} Mon fils, mon The Son.
+- {:.i2} ... My son.
+
+- {:.sp} The Chorus *(whispering.)*
+
+- It's the Holy Virgin! It's the Holy Virgin!
+
+*(the wind brings with it fragments of spirituals from afar.)*
+
+- {:.sp} The Holy Virgin.
+
+- ... You too are my child!
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Je ne suis pas ton fils, mais le fils de la Terre, mais le frère du Soleil, mais le frère de la Nuit avec ses millions d'étoiles, je ne suis pas ton fils ... j'ai peur ... ma gorge me brûle. Mère! Mère!
+- {: .pr} And I too am your son ... look ... look closer ... daughter of the snow, look at this carved block of night, my face!
 
-- {:.sp} La sainte Vierge.
+- {:.sp} The Holy Virgin.
 
-- {:.i2} Ta souffrance mon enfant, m'était indispensable ...
+- {:.i2} My son, my son.
+
+- {:.sp} Toussaint.
+
+- {: .pr.i} I am not your son. I am the son of the Earth instead, the brother of the Sun instead, the brother of the Night with its millions of stars instead. I am not your son ... I'm afraid ... my throat burns. Mother! Mother!
+
+- {:.sp} The Holy Virgin.
+
+- {: .i2} Your suffering, my child, was indispensable to me ...
 
 ---
 
@@ -3622,61 +3620,57 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Ah! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de crachats ... et tu m'as choisi ... Merci! Ainsi donc il te fallait de la sueur d'homme, du sang d'homme, des gémissements d'homme ... des désespoirs d'homme et tu nous as requis! Merci ...
-- {:.pr.i} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi — n'est ce pas ? — à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite, mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation ... il leur fallait mon oui et alors ils t'ont envoyée ... Va t'en marâtre ... va t'en car je t'exècre ... va t'en les mains vides ... ou plutôt prends&nbsp;ce sac de paroles ... les paroles de Toussaint, les dernières peut-être, les dernières ... sans doute et porte les à ton engeance fienteuse.
-- {:.i2} O hommes blancs, mes frères
-- nos spectres tordus viendront hanter vos banquets
-- {:.pr} nous dresserons obscènes et nuls au milieu de vos réjouissances nos faces de scandale,
-- nos cris troubleront vos victoires
-- {:.pr} et les soirs de défaite vous nous verrez debouts à vos carrefours, noirs, terribles, muets ... et vous aurez honte ... et vous aurez peur ... 
+- {: .pr.i} Ah! you needed a naked son, a son betrayed and sold, a son sprinkled with spittle ... and you chose me ... Thank you! So you needed man's sweat, man's blood, man's moans ... man's despair and you asked us! Thanks ...
+- {: .pr.i} And when we were tired, broken, exhausted, cracked, our only julep and balm was the sneer of the whip, the barking whip and the wild bite, and acid dripping on our flesh, brutalized with humiliation. Thank you, my mother. And they needed---didn't they?---those who sent you, they needed more than my defeat, more than my breasts breaking, more than my blood decomposing, they needed my acceptance ... they needed my yes, and then they sent you ... go away, stepmother ... I despise you, go away ... leave empty handed ... or rather take this bag of words ... the words of Toussaint, the last perhaps, the last ... no doubt, and bring them to your filthy brood.
+- {: .i2} O white men, my brothers
+- our twisted specters will come to haunt your banquets
+- {: .pr} dressed in rags, obscene, in the midst of your celebration, our scandalous faces,
+- our shouts will disturb your victories
+- {: .pr} and in the nights of defeat, you will see us standing at your crossroads, black, terrible, silent ... and you will be ashamed ... and you will be afraid ... 
 
-*(La vision disparait peu à peu.)*
+*(The vision disappears little by little.)*
 
-- {:.sp} Toussaint  *(hagard)*
+- {:.sp} Toussaint *(hagard)*
 
-- {:.pr} ... Une rumeur de chaine de carcans monte de la mer ... un gargouillement de noyés de la panse verte de la mer ... un claquement de feu, un claquement de fouet, des cris d'assassinés ...
-- ... la mer brûle
-- ou c'est l'étoupe de mon sang qui brûle ...
-- {:.pr} Oh, le cri ... toujours ce cri fusant des mornes ... et le rut du feu et du tambour et vainement se gonfle le vent de l'odeur tendre du ravin moisi d'ar-
+- {: .pr} ... A rumor of chains of shackles rises from the sea ... a gurgling of the drowned of the green belly of the sea ... a lash of fire, a crack of the whip, the cries of the murdered ...
+- ... the sea burns
+- or the tow in my blood that burns ...
+- {: .pr} Oh, the cry ... always that fanning cry from the mountains ... and the rut of fire and of drums, and the wind swells in vain with the soft smell of a musty ravine of breadfruit trees
 
 ---
 
 [100]({{site.baseurl}}/chiens/p100.html){:.pagetitle}
 
-- bres à pain, de sucreries, de bagasse harcelée de moucherons ...
-- Terre ma mère j'ai compris votre langage de cape et d'épée
-- mes frères les marrons le mors au dent
-- mes frères les pieds hors clôture et dans le torrent
-- ma sœur l'étoile filante, mon frère le verre pilé
-- mon frère le baiser de sang de la tête coupée au plat d'argent
-- et ma sœur l'épizootie et ma sœur l'épilepsie
-- mon ami le milan,
-- mon ami l'incendie
-- chaque goutte de sang explose dans la tubulure de mes veines
-- et mon frère le volcan aux panses de pistolet
-- et mon frère le précipice sans rampe de balisiers
-- et ma mère la folie aux herbes de fumée et d'hérésie
-- aux pieds de Croisade et de bâton
-- aux mains d'hivernage et de jamais
-- et de jujubier et de perturbation et de soleil bayonnetté.
+- of sugar mills, bagasse pestered by gnats ...
+- Mother Earth, I understood your cloak and sword language
+- my brothers the browns bit between the teeth
+- my brothers feet beyond the starting gate and in the torrent
+- my sister the shooting star, my brother the crushed glass
+- my brother the blood kiss of the head cut on the silver platter
+- and my sister the epizootic and my sister epilepsy
+- my friend the kite,
+- my friend the fire
+- every drop of blood explodes in the tubing of my veins
+- and my brother the volcano with the gun gut
+- and my brother the precipice without a balisier ramp
+- and my mother madness with herbs of smoke and heresy
+- by the feet of the Crusade and the stick
+- on the wintering hands and the never
+- and the jujube and the disturbance and the sun pierced with the bayonet.
 
-*(Toussaint se met à marcher, à ramper, à courir dans d'imaginaires broussailles, des guerriers nus bondissent, un tam-tam bat lointainement.)*
+*(Toussaint begins to walk, to crawl, to run in imaginary bushes, naked warriors jump around, a djembe beats in the distance.)*
 
 - {:.sp} The Narrator.
 
-- {:.pr.i} Ô la danse des étoiles sans nom ... les savanes s'animent ... les pluies fument ... des arbres inconnus tombent palmés de foudre.
+- {: .pr.i} O the dance of the nameless stars ... the savannas come alive ... the rains smoke ... unknown trees fall reduced by lightning.
 
-- {:.sp} The Reciter.
-
-- {:.i2} Qu'est ce qu'elle dit ? Qu'est-ce qu'elle dit ?
-
-*(À ce moment Toussaint se redresse.)*
+*(At this moment Toussaint straightens up.)*
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} les chenilles rampent vers l'auberge des bonnets de coton ... La cuve de la Terre s'est éteinte ... c'est bon ... Mais le ciel mange du bétel ... ha ha! le ciel suce des poignards ... Roi de Malaisie et de la fièvre pleine d'insectes mâche bien ton kriss et ton bétel ... Isaac, Isaac, une balle pourrit entre tes sourires blancs ... Aïe! je marche dans des piquants d'étoiles. Je marche ... j'assume ... j'embrasse ...
+ - {: .pr.i} the caterpillars crawl towards the shelter of cotton caps ... The Earth's pit is extinguished ... it's all good ... But the sky chews betel bags ... ha ha! the sky sucks daggers ... King of Malaysia and fevers full of insects, chew your kris and your betel ... Isaac, Isaac, a ball rots between your smiley white teeth ... Ouch! I walk on starfish needles. I walk ... I assume ... I kiss ...
 
-*(Toussaint s'affaisse, les bras étendus, poitrine contre terre.)*
+*(Toussaint collapses, arms outstretched, chest against the ground.)*
 
 ---
 
@@ -3684,7 +3678,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Reciter.
 
-- {:.i2} Mort, il est mort!
+- {:.i2} Dead, he is dead!
 
 - {:.sp} The Narrator.
 
