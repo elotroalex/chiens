@@ -12,7 +12,7 @@ editor: Alex Gil
 
 The following is an English translation of my own [reading edition]({{site.baseurl}}/texts/reading/) and interpretation of the final authorial stage of the Saint-Dié typescript. My approach to translation is vulgar where it can be: If the original French has a particular effect on me, I bend English to achieve as much, or close. When I can't translate effect, I choose broad legible over arcane literal—except in the case of Caribbean vocabularies—and take liberties to make the English pop.
 
-The drama depends on two tricky binaries: Black/White, and to a lesser extent, Man/Woman. Three temporalities complicate these binaries further for translation: The unfolding drama is based on the Haitian Revolution; it was written for a Martinique audience during the Vichy regime; and, I'm translating for an era of re-ascendant fascism and an American audience knee-deep in our own anti-racist and anti-patriarchal struggle. Césaire's perennial "*nègre*"—the root of Négritude—exemplifies these difficulties. The n-word in English is inexcusable—not least of which for historical or philological reasons—and is often found in translations of Césaire to provide a perverse excuse for non-black Americans to indulge in reading it out loud. I mostly chose variations of "black" to highlight the manichean core of the drama. I use "negro" in other cases when the speaker is paternalistic and racist, or ventriloquizing. I translate the feminine "*La Récitante*," which has no equivalent in English, to "The Narrator," while using "The Reciter" for the masculine "*Le Récitant*."
+The drama depends on two tricky binaries: Black/White, and to a lesser extent, Man/Woman. Three temporalities complicate these binaries further for translation: The unfolding drama is based on the Haitian Revolution; it was written for a Martinique audience during the Vichy regime; and, I'm translating for an era of re-ascendant fascism and an American audience knee-deep in our own anti-racist and anti-patriarchal struggle. Césaire's perennial "*nègre*"—the root of Négritude—exemplifies these difficulties. The n-word in English is inexcusable—not least of which—for historical or philological reasons. I mostly chose variations of "black" to highlight the Manichean core of the drama. I use "Negro" in other cases when the white speaker is paternalistic and racist, or ventriloquizing. I translate the feminine "*La Récitante*," which has no equivalent in English, to "The Narrator," while using "The Reciter" for the masculine "*Le Récitant*."
 
 ---
 
@@ -71,7 +71,7 @@ Please note that the following text contains violence in many guises, including 
 
 [2]({{site.baseurl}}/chiens/p002.html){:.pagetitle}
 
-- {:.pr.i} By the bounding tides, I march on the water of spinning Springs; I see my sentinel eyes on high. The insomnia grows steadfast like a disobedience along the free temples of the woman with amphora—water jug, sprouting tempest Acquarius, kettle.
+- {:.pr.i} By the bounding tides, I march on the water of spinning Springs; I see my sentinel eyes on high. The insomnia grows steadfast like a disobedience along the free temples of the woman with amphora—water jug, sprouting tempest Aquarius, kettle.
 
 - {:.sp} Toussaint.
 
@@ -79,13 +79,13 @@ Please note that the following text contains violence in many guises, including 
 - cramps
 - and I salute my fraternity whole.
 - Saint-Domingue, your rivers sink into my flesh
-- their tamarin snout,
+- their tamarind snout,
 - forests grow mangles on my muscles,
 - waves of my blood sing for the cays,
 - I close my eyes,
 - all my riches at hand,
 - all my wetlands,
-- all my volcanos,
+- all my volcanoes,
 - my rivers hang on my neck like
 - snakes and precious chains.
 
@@ -103,7 +103,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Second Voice of Temptation.
 
-- {:.pr.i} Ha, ha, ha. Words, nothing but words—not only three; a thousand words, Toussaint ... My dear friend, do you want money? Titles? Land? Would you like to be field marshall? Grandee of Spain? King ... that's it ... you will be King ... I swear you will be King.
+- {:.pr.i} Ha, ha, ha. Words, nothing but words—not only three; a thousand words, Toussaint ... My dear friend, do you want money? Titles? Land? Would you like to be Field Marshall? Grandee of Spain? King ... that's it ... you will be King ... I swear you will be King.
 
 ---
 
@@ -233,7 +233,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Narrator.
 
-- {:.pr.i} A terrible, beautiful girl breaks her shell of disasters. Coyote hunters wake up in a happy absynthe hut.
+- {:.pr.i} A terrible, beautiful girl breaks her shell of disasters. Coyote hunters wake up in a happy absinthe hut.
 
 - {:.sp} Toussaint.
 
@@ -296,7 +296,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} My eye gleams with sovereign visions ... Toussaint makes his solemn entry into Santo Domingo ... The cabildo hands him the keys to the city.
+- {:.pr.i} My eye gleams with sovereign visions ... Toussaint makes his solemn entry into Santo Domingo ... The Cabildo hands him the keys to the city.
 
 - {:.sp} The Reciter.
 
@@ -320,7 +320,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Narrator.
 
-- {:.pr.i} Alas. Alas. Spider Europe stirs its legs and phalange of ships ... Alas. Alas.
+- {:.pr.i} Alas. Alas. Spider Europe stirs its legs and phalanges of ships ... Alas. Alas.
 
 - {:.sp} The Chorus.
 
@@ -472,7 +472,7 @@ Please note that the following text contains violence in many guises, including 
 - No, no, I lie. I'm afraid. I'm alone
 - my forests don't have ears, nor my rivers skin
 - unknown caravels roam the night
-- Is it you, Columbus? Captain of the slaveship? Is it you
+- Is it you, Columbus? Captain of the slave ship? Is it you
 - old pirate, old corsair?
 - No response. The scree widens the night.
 - Columbus. Columbus.
@@ -635,7 +635,7 @@ Please note that the following text contains violence in many guises, including 
 - and I see you and I uncover you in the middle of your
 - lies and your cowardice;
 - proud minions
-- little hipocrites, sweet spinning
+- little hypocrites, sweet spinning
 - slaves and children of slaves,
 - and you don't even have the strength to protest, to be outraged,
 - to moan;
@@ -767,7 +767,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} ...Saint-Domingue the black, where the master's sadism and the groan of the slave, coprophagous by force, complete with strokes of vomit the shark bite and the centipede's crawl.
 
-*(At this moment darkness falls on the scene; gunshots; discordant cries; after these, the ruckus dies down; when the light returns, the decor has changed: the Black warcamp in the middle of the forest. A conference of Black leaders and White deputies.)*
+*(At this moment darkness falls on the scene; gunshots; discordant cries; after these, the ruckus dies down; when the light returns, the decor has changed: the Black war camp in the middle of the forest. A conference of Black leaders and White deputies.)*
 
 - {:.sp} 1st Deputy.
 
@@ -781,7 +781,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} That's alright, gentlemen. Can you now repeat to my troops all that you have proposed to us?
 
-*(Asembly. The sound of djembe.)*
+*(Assembly. The sound of djembe.)*
 
 - {:.sp} The Reciter.
 
@@ -856,7 +856,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} And having heard, you understand, comrades, that the Whites have not renounced yet to their hateful priviledges; that White people are not ready to stop feasting on the blood and tear of Black people.
+- {:.pr.i} And having heard, you understand, comrades, that the Whites have not renounced yet to their hateful privileges; that White people are not ready to stop feasting on the blood and tear of Black people.
 
 - {:.sp} The Crowd.
 
@@ -874,7 +874,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr} Kiss of precious stones, oblivion of blood, beautiful as the freed memory of fresh forgetting, revenge rose with the day's ear, and all the vanilla dust weaves the nights' flesh, and all the wasps salivate the nights' cassava, and all the sphygens sign the nights' back, have forced them to see their lock's eye.
+- {:.pr} Kiss of precious stones, oblivion of blood, beautiful as the freed memory of fresh forgetting, revenge rose with the day's ear, and all the vanilla dust weaving the nights' flesh, and all the wasps salivating the nights' cassava, and all the barracudas signing the the back of the night, have been forced to see through their keyhole eye.
 
 ---
 
@@ -920,11 +920,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} The ravine bursts with corpses.
 
-- {:.sp} Demi-Chorus.
+- {:.sp} Half Chorus.
 
 - {:.i2} They cut our hams.
 
-- {:.sp} Demi-Chorus.
+- {:.sp} Half Chorus.
 
 - {:.i2} They branded us with hot irons.
 
@@ -934,7 +934,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Reciter.
 
-- {:.pr.i} The wind has lifted. The savannahs split in the glory of wild plumes ... I hear the children cry ... in the master's house.
+- {:.pr.i} The wind has lifted. The savannas split in the glory of wild plumes ... I hear the children cry ... in the master's house.
 
 - {:.sp} The Chorus.
 
@@ -984,7 +984,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Governor.
 
-- {:.pr.i} Hey, Gentlemen, common sense, please. What the hell. You know what's going on: a full-blown slave rebellion; half of the North province is on fire. Toussaint has built an army with the Blacks from the Turpin, Flaville, Trêmes, and Noé plantations. And what an army! I shudder. Our women are suffering the latest outrages; they are impaling the children; planters are being sawn alive on planks.
+- {:.pr.i} Hey, Gentlemen, common sense, please. What the hell. You know what's going on: a full-blown slave rebellion; half of the North province is on fire. Toussaint has built an army with the Blacks from the Turpin, Flaville, Trêmes, and Noé plantations. And what an army! I shudder. Our women are suffering the latest outrages; they are impaling the children; planters are being sewn alive on planks.
 
 - {:.sp} A Voice.
 
@@ -1032,9 +1032,9 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Governor.
 
-- {:.pr.i} I see, gentlemen, that you haven't understood. This is no time for deliberation. I made my decision. The priority now is to stop the Blacks of the West province from communicating with the Nord insurgents. I've set up war camps at Trou, Vallières, Morne, Dondon, la Marmelade and Fort Dauphin. As far you're concerned, Gentlemen, prepare for battle, and long live the French colony of Saint-Domingue.
+- {:.pr.i} I see, gentlemen, that you haven't understood. This is no time for deliberation. I made my decision. The priority now is to stop the Blacks of the West province from communicating with the northern insurgents. I've set up war camps at Trou, Vallières, Morne, Dondon, la Marmelade and Fort Dauphin. As far you're concerned, Gentlemen, prepare for battle, and long live the French colony of Saint-Domingue.
 
-*(Prolongued vivats. The deputies exit. Some stragglers continue to argue.)*
+*(Prolonged vivats. The deputies exit. Some stragglers continue to argue.)*
 
 ---
 
@@ -1099,7 +1099,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Flag Bearer *(in a nasal voice.)*
 
-- {:.pr.i} Alright. Alright. I will speak. You see, Gentlemen, this is not the time to deliberate. I have made my decision. There's only one way with the negroes: terror. Gentlemen, on today's agenda: terror ... 
+- {:.pr.i} Alright. Alright. I will speak. You see, Gentlemen, this is not the time to deliberate. I have made my decision. There's only one way with the Negroes: terror. Gentlemen, on today's agenda: terror ... 
 
 *(Applause. Laughter.)*
 
@@ -1179,7 +1179,7 @@ Please note that the following text contains violence in many guises, including 
 
 Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in the arrowing canes ... then run some more ... Ouch. My legs ...
 
-*(The mother and her girls have dissapeared; same decor. A hoe strips the scene. Hoes, then hands ... They are slaves plowing at dusk.)*
+*(The mother and her girls have disappeared; same decor. A hoe strips the scene. Hoes, then hands ... They are slaves plowing at dusk.)*
 
 - {:.sp} 1st Slave *(singing.)*
 
@@ -1300,7 +1300,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The Narrator.
 
-- {:.pr} What a great day, monstruously great. Wave forward, weeks, scruples of dying worlds, wave forward, big girls; foam against my scabrous expectation.
+- {:.pr} What a great day, monstrously great. Wave forward, weeks, scruples of dying worlds, wave forward, big girls; foam against my scabrous expectation.
 
 - {:.sp} The Reciter.
 
@@ -1342,7 +1342,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} 2nd Delegation: 2nd Orator.
 
-- {:.pr} Glory to Toussaint Louverture, the black spartacus. The black man Raynal predicted would avenge the injuries against his race.
+- {:.pr} Glory to Toussaint Louverture, the black Spartacus. The black man Raynal predicted would avenge the injuries against his race.
 
 - {:.sp} The Crowd.
 
@@ -1375,7 +1375,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The Crowd.
 
-- Hurrah!
+- Hurray!
 
 - {:.sp} The French Representative.
 
@@ -1450,7 +1450,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - and you're the one I'm questioning
 - oh, wind
 - calm face painted with the guano of contortion
-- wind deserts, cactus and sphynx standing
+- wind deserts, cactus and sphinx standing
 - calamitously
 - did you hear anything?
 
@@ -1501,7 +1501,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.sp} Toussaint.
 
 - For heaven's sake!
-- leave the camp already, goddamnit!
+- leave the camp already, goddammit!
 - are executioners not practicing their ax on the block?
 - do birds of prey not cock the dark rings under their eyes?
 
@@ -1512,7 +1512,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - is it to see you that the pyramids
 - have
 - stood
-- on tippytoe tonight?
+- on tiptoe tonight?
 
 *(At this moment a rain of stones thrown by invisible hands falls on the delegations; disarray.)*
 
@@ -1548,7 +1548,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - broken wings and branches
 - the victims take turns at the falls
-- hey there on the foretop
+- hey there on the fore top
 - start the fire, continuous fire, on the shade and the ditch
 - A thousand excuses, we have the best to offer you
 - a blazing fire saluting with its flares the darkness armed
@@ -1556,7 +1556,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - what is that? what is that?
 - through my hand I see stars
 - obsolete freedoms
-- a revolute face caught in the frost and the overhang and the yaws' net.
+- a repulsed face caught in the frost and the overhang and the yaws' net.
 
 - {:.sp} The Reciter.
 
@@ -1617,7 +1617,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} 1st Passerby.
 
-- {:.pr.i} A negro, Captain General of Saint-Domingue! It's ridiculous, humiliating, dangerous! What is a negro, my friends?
+- {:.pr.i} A Negro, Captain General of Saint-Domingue! It's ridiculous, humiliating, dangerous! What is a Negro, my friends?
 - {:.pr.i} A monkey scarcely trimmed; a chimpanzee, an orangutan, a marmoset, a sapajou. What do I know?
 - {:.i2} All scholars will tell you the same.
 
@@ -1627,7 +1627,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} 2nd Passerby.
 
-- {:.pr} You're missing the point, my dear cousin ... You're getting carried away, and passion is worthless in politics. A negro Captain General of Saint-Domingue
+- {:.pr} You're missing the point, my dear cousin ... You're getting carried away, and passion is worthless in politics. A Negro Captain General of Saint-Domingue
 - ridiculous, I agree with you,
 - humiliating, I don't deny it,
 - {:.pr} But see here, young man ... dangerous above all else. And I'm going to tell you why ...
@@ -1699,7 +1699,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.pr} Enough happiness! strange beggars with vintage faces 
 - who now threaten, now salute the dawns
 - It's me
-- every night a hunger wakes them up among the madrepore
+- every night a hunger wakes them up among the madrepora
 - a strong hunger for the sun and very ancient coins.
 - I turn to the unknown wind bursting with persecution
 - I'm leaving
@@ -1756,7 +1756,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Drunkenness and debauchery. An immense expanse is gilded;
 - in the depths of the washing lake, a red eagle;
 - {:.pr} fields of corn, indigo, sugar cane, a few fathoms deep;
-- clamour in the hollow rush to the hollow and clog the sky ...
+- clamor in the hollow rush to the hollow and clog the sky ...
 
 ---
 
@@ -1772,11 +1772,11 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - The Whites are landing ... the Whites are landing.
 
-- {:.sp} Voix.
+- {:.sp} Voice.
 
 - The Whites are landing.
 
-- {:.sp} Voix.
+- {:.sp} Voice.
 
 - The Whites are landing.
 
@@ -1813,7 +1813,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - a dawn pounded simple words brighter than plowshares ...
 - and for us the season of rains, still
 - and of poisonous beasts
-- and of warcries knocked down
+- and of war cries knocked down
 - and of women who collapse pregnant with waiting ...
 
 - {:.sp} Soldier.
@@ -1891,7 +1891,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- I already told you; resist any aggresion.
+- I already told you; resist any aggression.
 
 - {:.sp} Parliamentarian.
 
@@ -1990,7 +1990,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Récitant
 
-- {:.pr} We arrive at the moment when the Empress decrees in the caves of empire the uselessness of reparations, and tattooes her thighs with a shower of daturas, where a flaming spear rattles.
+- {:.pr} We arrive at the moment when the Empress decrees in the caves of empire the uselessness of reparations, and tattoos her thighs with a shower of daturas, where a flaming spear rattles.
 
 - {:.sp} Toussaint *(to the crowd.)*
 
@@ -2019,7 +2019,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} "To arms." That was the cry of your Guadeloupian brothers when they learned what the tyrants had in store for them.
+- {:.pr.i} "To arms." That was the cry of your brothers in Guadeloupe when they learned what the tyrants had in store for them.
 - {:.pr.i} "To arms." And Delgrès blew himself up rather than surrender ...
 
 - {:.sp} The Crowd.
@@ -2040,7 +2040,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I will communicate my orders to you later. But know now that the Whites should find nothing here but rubble and ruins: three cannon shots will give you the signal for a sytematic, implacable demolition. Fire and ashes. Let Saint-Domingue perish before our freedom: Freedom or death.
+- {:.pr.i} I will communicate my orders to you later. But know now that the Whites should find nothing here but rubble and ruins: three cannon shots will give you the signal for a systematic, implacable demolition. Fire and ashes. Let Saint-Domingue perish before our freedom: Freedom or death.
 
 - {:.sp} The Crowd.
 
@@ -2096,7 +2096,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - your smile grown to full complicity
 - I will not back down ...
 
-*(3 cannon shots blast intermitently. Men with torches run from the explosions ... from the smoke ... a panic ...)*
+*(3 cannon shots blast intermittently. Men with torches run from the explosions ... from the smoke ... a panic ...)*
 
 - {:.sp} Voices.
 
@@ -2131,7 +2131,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 [63]({{site.baseurl}}/chiens/p063.html){:.pagetitle}
 
 - but they advance ...
-- the tired eyes? hands cut like a marroon?
+- the tired eyes? hands cut like a maroon?
 - slave?
 - they will not have me.
 - riding my hate and my hope.
@@ -2170,7 +2170,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The Reciter.
 
-- {:.pr} When night fell on the large islands of spit they became sumptuary notices on the footpath.
+- {:.pr} When night fell on the large islands of spit they became sumptuary laws on the footpath.
 
 ---
 
@@ -2199,8 +2199,8 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - alas.
 - Everything disappears, everything falls apart.
 - nothing matters anymore but the skies I remember
-- nothing's left but to go down one staircase, step by step
-- nothing's left but one little stolen cinder rose
+- nothing is left but to go down one staircase, step by step
+- nothing is left but one little stolen cinder rose
 - but one aroma of naked women
 - but one country of fabulous explosions
 - but one burst of pack-ice laughter
@@ -2230,7 +2230,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.sp} The Narrator.
 
 - {:.pr.i} Curses crushed on the stones throb across the road with heavy toad eyes; a loud insane noise shakes the island by the sky, the tragic bones unfold against nature
-- conches, avalanches, heart
+- conchs, avalanches, heart
 - a poorly drained and unhealthy night goes around the world.
 
 - {:.sp} The Chorus.
@@ -2274,7 +2274,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- the caiman! the torches! the flags!
+- the cayman! the torches! the flags!
 - and the Amazon River erects rubber trees
 - and the moons fallen like winged seeds in the warm humus of the sky
 - o hand of the strangler,
@@ -2318,7 +2318,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - sulfur my brother, sulfur my blood
 - will spread in the most proud cities
 - its scented fragrances,
-- the charismas of its grace.
+- the charisma of its grace.
 
 - {:.sp} 3rd Whisper.
 
@@ -2342,7 +2342,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - cut in fresh butter
 - carved in achiote
 - carved, what joy, in full whiteness
-- and we will not recognize them there, poets or antichrists,
+- and we will not recognize them there, poets or Antichrists,
 - famous executioners
 - the blackest night is coming
 - courage.
@@ -2362,7 +2362,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - My fresh hand, my blood-sprayed hand
 - my hand of kelp and iodine
 - my hand of light and revenge ...
-- Toussaint louverture. Toussaint louverture.
+- Toussaint Louverture. Toussaint Louverture.
 
 - {:.sp} Toussaint.
 
@@ -2581,7 +2581,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.centered} ACT III
 
-*(In France. A prison in the Jura.)*
+*(In France. A prison in the Jura Mountains.)*
 
 - {:.sp} The Reciter.
 
@@ -2611,14 +2611,14 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} Look at him, a caricature if you will, that crestfallen and scrawny face, a shabby face, chilly hands, the hypocritical chief of a tribe of savages, a sad conductor of a race of demons; sneaky schemer lost with his fanatics.
 - {:.pr.i} Ladies and Gentlemen, listen carefully ... In 1793 we learned that in the name of human rights, we learned, I repeat, that the most vile of all races was going to sit side by side with us at the banquet of a laughable fraternity.
-- {:.pr.i} Ah, we didn't have to wait long to see the results. There was comedy. There was a bit of tragedy. There was horror. Cannibals could be seen entering the towns swollen with pride; we lived the Te Deum. We saw constitutions being drafted. That's what we saw, good people who are listening. And what else did we witness? The smoke in the midday sky, the fire in the midnight sky of innumerable aurora borealis reflecting the images of crime and absurdity far in the distance.
+- {:.pr.i} Ah, we didn't have to wait long to see the results. There was comedy. There was a bit of tragedy. There was horror. Cannibals could be seen entering the towns swollen with pride; we lived the Te Deum. We saw constitutions being drafted. That's what we saw, good people who are listening. And what else did we witness? The smoke in the midday sky, the fire in the midnight sky of innumerable Aurora Borealis reflecting the images of crime and absurdity far in the distance.
 
 ---
 
 [74]({{site.baseurl}}/chiens/p074.html){:.pagetitle}
 
-- {:.pr.i} Well, I say that this is a supreme justice, and it is she who now transforms the General Toussaint Louverture into the old Toussaint, the slave Toussaint, a sad thing forgotten in the latrines of history, a lousy negro, a fallen negro ...
-- {:.pr.i} Toussain, Toussaint, the brood of Ham will never be able to shake off its curse of daily tears.
+- {:.pr.i} Well, I say that this is a supreme justice, and it is she who now transforms the General Toussaint Louverture into the old Toussaint, the slave Toussaint, a sad thing forgotten in the latrines of history, a lousy Negro, a fallen Negro ...
+- {:.pr.i} Toussaint, Toussaint, the brood of Ham will never be able to shake off its curse of daily tears.
 
 - {:.sp} The Narrator.
 
@@ -2636,7 +2636,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr.i} Attached like a sign to the top of France, I do not sob ... I call.
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - We undermined the echo : your words will burn like turds.
 
@@ -2644,7 +2644,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Maroon, your only flag, mine: perils and revolt without remorse.
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - You boast of your crimes.
 
@@ -2652,7 +2652,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - I acclimatized a tree of sulfur and lava among a vanquished people.
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - Pathetic.
 
@@ -2667,9 +2667,9 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Congo and Mississippi, strain out gold
 - strain out blood
 - the race of earth, the race of ash walks
-- the road feet spit saltpetre wads.
+- the road feet spit saltpeter wads.
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - You will expire, prisoner of snow, loneliness and desperation.
 
@@ -2748,7 +2748,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [77]({{site.baseurl}}/chiens/p077.html){:.pagetitle}
 
-- my body&nbsp;&nbsp;my body
+- my body my body
 - stretcher I will not throw the injured to the dogs of hawthorn
 - to the cry of wine
 - to the roll of populated ruts of marine calves.
@@ -2908,7 +2908,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Do you speak the truth? Isaac is in their hands.
 - No, traitor, executioner ... executioner.
 
-- {:.sp} The Black Man with Glasses  *(sententious.)*
+- {:.sp} The Black Man with Glasses *(sententious.)*
 
 - I say, O, let the quarrels rot for a long time! 
 - I'm not one to spit oil on fire
@@ -2919,11 +2919,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - "Inopportune", do you understand?
 - I say: O, I want to forget at length.
 
-- {:.sp} Toussaint  *(standing up.)*
+- {:.sp} Toussaint *(standing up.)*
 
 - ... And I want to cry.
 
-- {:.sp}  The Black Man with Glasses  *(fleeing.)*
+- {:.sp}  The Black Man with Glasses *(fleeing.)*
 
 - {:.pr} I say : O, let the quarrels rot for a long time! Help! Help! 
 
@@ -2947,7 +2947,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} 4th Priest.
 
-- I forbid you from coming out unnanounced so we can all avoid you.
+- I forbid you from coming out unannounced so we can all avoid you.
 
 - {:.sp} Toussaint.
 
@@ -2973,7 +2973,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - non-place of denial of justice of lynchings of slow deaths
 - pickaninnies
 - pickaninnies
-- O your untamable laughter
+- O your unbreakable laughter
 - larvae laughter
 - egg laughter
 - your straw laughter in their steel
@@ -3160,11 +3160,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {: .pr} But for me, the cries of exile, of the seagull, and the big salty kidnapping and the sunless haze: exile, my father.
 - And the rain of purple ash on a foreign Paris.
 - And the cold injected down to the vein.
-- {: .pr} But time passed. There was a peace in me, something like fibers untwining, and the landscape was sweet, maternal, like a reflection on the water, and it had a measure, a decency, a restraint at the same time as an abandonment, the landscape, a friendship at last ... my blood no longer swore, something like an undoing and a blooming.
+- {: .pr} But time passed. There was a peace in me, something like fibers untwisting, and the landscape was sweet, maternal, like a reflection on the water, and it had a measure, a decency, a restraint at the same time as an abandonment, the landscape, a friendship at last ... my blood no longer swore, something like an undoing and a blooming.
 
 - {:.sp} Toussaint.
 
-- {: .pr} and me, the landscape poisons me with aconites of his alphabet. I too can read and the cloud over the head of the old negro that I saw on the breaking wheel on a square in Cape Town, he slapped a White, I was 10 years old, the low sky is a damper, the wind swells with burdens and the sobs of sweating skin, the wind is contaminated with whips and casks and the hung populate the sky with orchis and there are mastiffs with bloody hair and ears ... ears ... boats
+- {: .pr} and me, the landscape poisons me with aconites of his alphabet. I too can read and the cloud over the head of the old Negro that I saw on the breaking wheel on a square in Cape Town, he slapped a White, I was 10 years old, the low sky is a damper, the wind swells with burdens and the sobs of sweating skin, the wind is contaminated with whips and casks and the hung populate the sky with orchis and there are mastiffs with bloody hair and ears ... ears ... boats
 
 ---
 
@@ -3208,9 +3208,9 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [89]({{site.baseurl}}/chiens/p089.html){:.pagetitle}
 
-*(At this moment, a vision: in a tropical field, the innenarrable silhouette of The Great Prohibitor trembles and convulses. The Herald, "his mouth," is lying under a tree. He's snoring.)*
+*(At this moment, a vision: in a tropical field, the innenarrable silhouette of The Great Prohibiter trembles and convulses. The Herald, "his mouth," is lying under a tree. He's snoring.)*
 
-- {:.sp} The Great Prohibitor.
+- {:.sp} The Great Prohibiter.
 
 - {: .pr} Come on. Come on; wake up you rude, stupid and sleepy being, the mouth which my wretched destiny imposes on me.
 - My mouth
@@ -3221,13 +3221,13 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - but maybe you do not know who I am: veto, veto, not a bad thing
 - No, it's veto, veto
 - {: .pr} it does not tell you anything, I see that it does not tell you anything. And yet, at my bark, the mouths stop talking, the legs cease their wandering, the world is scarred with bounds, bristles with obstacles, veto, veto
-- I am the compressor, the repressor, the stage manager
-- I'm The Great Prohibitor
+- I am the compressor, the suppressor, the stage manager
+- I'm The Great Prohibiter
 - let me explain
 - {:.pr} Well, it had been ascertained in high places that there had been for some time dreadful absurd consuming, unforeseen insane gifts, a largess of liberality, indulgences and permissions, all things undoubtedly disturbing the fragile economy, so fragile, fragile to the bounded universe
 - bounded
-- and it was then that I was summoned. Prohibitor, The Great Prohibitor
-- I am The Great Prohibitor, do you understand?
+- and it was then that I was summoned. Prohibiter, The Great Prohibiter
+- I am The Great Prohibiter, do you understand?
 - He who reigns, reins, restraints, retains and constraints.
 - {:.pr} the negative order, defense personified, the eloquent handcuff, the jail lock, the gag to the well-hung tongue, the less which is the contrary of more, the stop which is the exact opposite true of movement, not the station,
 
@@ -3236,7 +3236,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [90]({{site.baseurl}}/chiens/p090.html){:.pagetitle}
 
-- {:.pr} not the station, the withdrawal which is the opposite of progress, the most existent being, the one which arises in opposition, the most necessary being, the opposite of expansion, of propensity, of the contagion, croc-leg, croc-leg
+- {:.pr} not the station, the withdrawal which is the opposite of progress, the most existent being, the one which arises in opposition, the most necessary being, the opposite of expansion, of propensity, of the contagion, trip up, trip up
 - the one who at a certain moment makes obsolete, obsolete
 - *(yapping)* veto, veto;
 - {:.pr} But I realize that my servant finally wakes to profit from my gracious explanations, from my philanthropic exclamations, to yawn a mouthful of air.
@@ -3245,25 +3245,25 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Herald.
 
-- But I do not see anyone. Just trees and the savannah.
+- But I do not see anyone. Just trees and the savanna.
 
-- {:.sp} The Great Prohibitor.
+- {:.sp} The Great Prohibiter.
 
-- Fool! Well, yell the law at the trees, at the savannah.
+- Fool! Well, yell the law at the trees, at the savanna.
 
 - {:.sp} The Herald  *(incredulous.)*
 
-- {:.i2} At the trees? at the savannah?
+- {:.i2} At the trees? at the savanna?
 
-- {:.sp} The Great Prohibitor.
+- {:.sp} The Great Prohibiter.
 
-- {: .pr} I say: at the trees and the savannah, at the rain and the sun ... As if, on this continent of fugitive Indians, the accents of the law had not been engraved first and foremost on the steady ears of the trees and the savannah.
+- {: .pr} I say: at the trees and the savanna, at the rain and the sun ... As if, on this continent of fugitive Indians, the accents of the law had not been engraved first and foremost on the steady ears of the trees and the savanna.
 
 - {:.sp} The Herald *(amazed.)*
 
-- Really! on the trees! on the savannah! laws!!
+- Really! on the trees! on the savanna! laws!!
 
-- {:.sp} The Great Prohibitor.
+- {:.sp} The Great Prohibiter.
 
 - {: .pr} Ignorant is he who knows the name of Don Cristobal Colon, Admiral of the Ocean Sea, and ignores that of Rodrigo de Escovedo, Royal Notary. So learn, my friend, that the caravels that traveled here were not only pregnant with arms, food, horses, riders ... They had, above all, their plump bellies full of loud and repressive laws.
 
@@ -3279,7 +3279,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.i2} Laws, bellies full of laws; repressive laws.
 
-- {:.sp} The Great Prohibitor.
+- {:.sp} The Great Prohibiter.
 
 - {: .pr} And since I'm giving you a lesson, I don't want you to ignore the name of my genial precursor here, in Hispaniola. His name was Alonzo Hojeda. Remember this name, don Alonzo de Hojeda; just as history has remembered his iconic gesture, offering the cacique Caonabo the most valuable thing in the world. Can you guess what he offered the wide-eyed Caonabo? A *turey*, a sacred *turey*, i.e. a nice pair of handcuffs. He-he, you understand now, herald, come on.
 
@@ -3287,7 +3287,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} *(After a trumpet blast)* to the wind, to the rain, to the sun, to the trees of the new world, hello *(trumpet blast.)*
 
-- {:.sp} The Great Prohibitor *(yelping.)*
+- {:.sp} The Great Prohibiter *(yelping.)*
 
 - {:.pr} Veto, veto, veto. 
 
@@ -3299,7 +3299,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - The slave,
 - the halter
 - the iron rod
-- the stinky shiphold
+- the stinky ship hold
 - sea sickness
 - tightly-wound sausages of dead and alive
 - and the rebellion a shabby beautiful evening
@@ -3334,7 +3334,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - ... all the violence of the dead world
 - beaten with the rod, exposed to the beasts
-- dragged in a straightjacket, rope to the neck
+- dragged in a straight jacket, rope to the neck
 - sprinkled with oil
 - and I waited in San Benito for the auto-da-fé
 - and I drank urine, trampled, betrayed, sold
@@ -3361,7 +3361,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 [93]({{site.baseurl}}/chiens/p093.html){:.pagetitle}
 
 - Help! Help! Murder!
-- they killed the sun! there is no more sun! the bulls of Bashan remain, a torch attached to their furious tail ... The bulls trample the unfurnished savannah
+- they killed the sun! there is no more sun! the bulls of Bashan remain, a torch attached to their furious tail ... The bulls trample the unfurnished savanna
 - the riders remain too.
 - They hung the sun like a shield at the gates of heaven
 - assassins! murderers!
@@ -3383,7 +3383,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - of hatred
 - Ouch! they whistle, the others whistle
 - they have sicced the dogs
-- git'im! git'im! they utter their terrible cries
+- get'im! get'im! they utter their terrible cries
 - full on bite of mastiff of mastiff of mastiff
 - the torches lit under the vaults of the forest. It's over, everything is over.
 - {:.i2} No need to make demands; the action of justice is extinguished.
@@ -3404,7 +3404,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.pr} But you know, I tell you that the action of justice is extinguished. Extinguished, but the glow of their eyes never goes out.
 - assassins! murderers! murderers!
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - Silence!
 
@@ -3412,7 +3412,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {: .pr} Come on! good people ... it is true that I bother you ... and you would like to prevent me from speaking ... Make me afraid, make me very afraid, I am very cowardly you know: I trembled with all the fears since the first fear ...
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - This asshole!
 
@@ -3420,7 +3420,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} Make me afraid, make me very afraid, I tell you. And you know the good ways: shake my forehead with a rope, hang me by the armpits, warm my feet with a red-hot shovel.
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - Jesus Christ, shut up!
 
@@ -3428,7 +3428,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Pierce my mouth with a flaming-red padlock.
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - He tempts me!
 
@@ -3440,7 +3440,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [95]({{site.baseurl}}/chiens/p095.html){:.pagetitle}
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - All the devils of hell poke on his black skin
 
@@ -3448,7 +3448,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - ... or your intertwined figures, or a Latin formula.
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - Enough!
 
@@ -3456,7 +3456,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {: .pr} They are scrupulous. Don't be afraid, I assure you: I was absent from the baptism of Christ.
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - We can tell.
 
@@ -3469,15 +3469,15 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [96]({{site.baseurl}}/chiens/p096.html){:.pagetitle}
 
-- {:.sp} The Guardwoman.
+- {:.sp} The Guard Woman.
 
 - Tie him up.
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - On it, my dear. On it *(he ties Toussaint)*
 
-- {:.sp} The Guardwoman.
+- {:.sp} The Guard Woman.
 
 - Lousy thief.
 
@@ -3485,11 +3485,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - What do you want from me, despicable creatures?
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - ... This treasure ... where did you hide it ... your booty?
 
-- {:.sp} The Guardwoman.
+- {:.sp} The Guard Woman.
 
 - Thief! Thief! ... We have information ...
 
@@ -3497,11 +3497,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Who is this woman who insults me?
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - Answer us, you Black bastard ... there is no time to waste.
 
-- {:.sp} The Guardwoman.
+- {:.sp} The Guard Woman.
 
 - Hit him, hit him ... it will do his rotten skin some good ...
 
@@ -3510,11 +3510,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Who is this woman?
 - {:.pr} I have known women like you; breasts surprised with grazing, elephant children going to mass.
 
-- {:.sp} The Guardwoman.
+- {:.sp} The Guard Woman.
 
 - Ouch! The sexist pig! He insults me, the bastard. He insults me, you hear?
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - Insolent, disgusting, libidinous monkey!
 
@@ -3528,7 +3528,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [97]({{site.baseurl}}/chiens/p097.html){:.pagetitle}
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - {: .pr.i} Would you look at that. He doesn't give a fuck. This monkey ... Of course, he's crazy ... stronger ... even stronger *(he hits Toussaint)*.
 
@@ -3536,20 +3536,20 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {: .pr} Strike ... strike, commander ... strike to the blood ... born from the furrow, a race without moan ... strike and tire yourself.
 
-- {:.sp} The Guardwoman.
+- {:.sp} The Guard Woman.
 
-- {: .pr} Chump! What a chump! This is a chump I tell you ... a strange race, these negroes ... Do you think our blows hurt him ... in any case, it doesn't leave a mark.
+- {: .pr} Chump! What a chump! This is a chump I tell you ... a strange race, these Negroes ... Do you think our blows hurt him ... in any case, it doesn't leave a mark.
 - ... *(she hits.)* Oh! Oh! He's bleeding!
 
 - {:.sp} The Prison Guard  *(laughing.)*
 
-- Everyone knows: it does a negro good to hit him ...
+- Everyone knows: it does a Negro good to hit him ...
 
 - {:.sp} Toussaint.
 
 - {: .pr} Isaac, Isaac, why stay in the rain ... I had a son ... I managed to protect him from the bites of this race of scorpions ... Isaac, Isaac!
 
-- {:.sp} The Guardman.
+- {:.sp} The Guard Man.
 
 - {: .pr} Ah! he is seriously going off the rails ... I could die laughing ... Say, it's weird, the red blood on the black skin. *(They loosen Toussaint.)*
 
@@ -3630,7 +3630,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 *(The vision disappears bit by bit.)*
 
-- {:.sp} Toussaint *(hagard)*
+- {:.sp} Toussaint *(haggard)*
 
 - {: .pr} ... A rumor of chains of shackles rises from the sea ... a gurgling of the drowned of the green belly of the sea ... a lash of fire, a crack of the whip, the cries of the murdered ...
 - ... the sea burns
@@ -3682,7 +3682,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Narrator.
 
-- {:.i2} Dead in a coppice of scented cloverlies.
+- {:.i2} Dead on a brush of scented bleeding-heart vines.
 
 - {:.sp} The Reciter.
 
@@ -3716,12 +3716,6 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - wastes from the bottom of the pierced stones and the night of ages
 - the deadly laughter of cavernous mummies
 
-- {:.i2} Dans la forêt les meurtrières coulent avec des rires de fontaine et les
-- fleuves sans signaux trament l'aventure charnue des voyages virulents
-- sang nomade en coquetterie de morts et de genèses
-- gaspille du fond des pierres trouées et de la nuit des âges
-- le rire mortel des momies caverneuses
-
 - {:.sp} The Chorus.
 
 - Saint-Domingue! Saint-Domingue!
@@ -3732,88 +3726,88 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [102]({{site.baseurl}}/chiens/p102.html){:.pagetitle}
 
-*(Sur le rempart apparait une tête. L'homme se dresse, c'est le « négrophobe. »)*
+*(A head appears on the rampart. The man stands up. He is "The Negrophobe.")*
 
 - {:.sp} The Negrophobe.
 
-- {:.pr} Bande de salauds! Mort aux voleurs! (Des animaux qui n'ont pas d'âme à sauver et à qui le fouet prête de temps en temps un semblant de conscience.) Voleurs! Voleurs! Les armes à la&nbsp;main, je revendique mon bien, mon troupeau, ma possession légitime, mes esclaves!
+- {: .pr} Bastards! Death to the thieves! (Animals without soul, for whom the whip lends a semblance of conscience once in a while.) Robbers! Thieves! Arms in hand, I claim my property, my flock, my legitimate possession, my slaves!
 
-*(Bruit de mousqueterie ; les nègres ont tiré ; le négrophobe tombe, il est aussitôt remplacé par le « The Negrophile ».)*
+*(Noise of musketry; the Negroes fired; The Negrophobe falls, and is immediately replaced by "The Negrophile.")*
 
-- {:.sp} The Negrophile  *(haraguant le vide.)*
+- {:.sp} The Negrophile *(hassling the void.)*
 
-- {:.pr} Ha! mes amis, mes chers amis! Et l'Evangile a dit que celui qui hait son frère vivra dans l'obscurité. O mes amis qui vivez dans l'obscurité, dans l'obscurité de votre peau, dans l'obscurité de vos cœurs, je veux faire descendre, lait, un rayon de lumière ... d'amour. Et je ne cesserai de vous appeler « mes amis » mes amis, mes frères.
-
-- {:.sp} The Echo.
-
-- ... mes frères, mes frères ...
-
-- {:.sp} The Negrophile  *(préchant dans le désert).*
-
-- {:.pr} Mes amis, ô mes amis : je vous accorde que l'esclavage est une grande inicuité, mais par l'esclavage vous avez souffert. Et la souffrance vous a grandis. Et la souffrance vous a fait hommes. Dela mes amis, mes frères, ne l'oubliez pas.
+- {: .pr} Ha! my friends, my dear friends! And the gospel said that whoever hates his brother will live in darkness. O my friends who live in the dark, in the darkness of your skin, in the darkness of your hearts, I want to bring down, milk, a ray of light ... of love. And I will not stop calling you "my friends," my friends, my brothers.
 
 - {:.sp} The Echo.
 
-- N'oubliez pas, n'oubliez pas.
+- ... my brothers, my brothers ...
 
-- {:.sp} The Negrophile  *(donnant des coups d'épée dans l'eau.)*
+- {:.sp} The Negrophile *(preaching in the desert).*
 
-- Paix, paix, amour, amour.
+- {: .pr} My friends, my friends: I grant you that slavery is a great iniquity, but by slavery you have suffered. And the suffering has made you grow. And the suffering made you men. Don't forget that my friends, my brothers.
 
 - {:.sp} The Echo.
 
-- Amour, amour
+- Don't forget, don't forget.
 
-- {:.sp} The Negrophile  *(désespéré.)*
+- {:.sp} The Negrophile *(swinging his sword on the water.)*
 
-- Ô peuple égaré,
-- ô insensés
-- lâchez vos armes homicides
+- Peace, peace, love, love.
+
+- {:.sp} The Echo.
+
+- Love, love
+
+- {:.sp} The Negrophile  *(desperate.)*
+
+- O lost people,
+- O fools
+- release your homicidal weapons
 
 ---
 
 [103]({{site.baseurl}}/chiens/p103.html){:.pagetitle}
 
-- le meilleur est en vous et non hors de vous
-- lâchez ces armes,
-- et à force de patience et de soumission
-- vous désarmerez, je le jure,
-- l'arrogance de vos maitres.
+- the answer is within you, not here
+- let go of these weapons,
+- and by dint of patience and humility
+- you will disarm, I swear,
+- the arrogance of your masters.
 
 - {:.sp} The Echo.
 
-- Vos maitres, vos maitres.
+- Your masters, your masters.
 
-*(Bruit de mousqueterie.)*
+*(Noise of musketry.)*
 
 - {:.sp} The Negrophile 
 
- Mes frères, mes frères! 
+- My brothers, my brothers! 
 
-*(The Negrophile tombe.)*
+*(The Negrophile falls.)*
 
-- {:.sp} Récitante
+- {:.sp} The Narrator
 
-- {:.pr} Je bâtirai de ciel, d'oiseaux, de perroquets, de cloches, de foulards, de tambour de fumées légères, de tendresses furieuses, de ton de cuivre, de nacre, de dimanches, de bastringues, de mot d'enfants, de mots d'amour, d'amour, de mitaines
-- d'enfant
-- un monde notre monde
-- mon monde aux épaules rondes
-- de vent, de soleil, de lune, de pluie, de pleine lune
-- un monde de petites cuillers
-- de velours
-- d'étoffes d'or
-- de pitons, de vallées, de pétales de cris de faon effarouché
-- un jour
-- autrefois
-- les sœurs égales se donneront la&nbsp;main dans les chambres de torture
-- le monde penchera tout doucement pour mourir sa tête biscornue
-- 
-- les jours bien rangés comme un orphelinat allant à la messe
-- les jours avec leurs airs d'assassin polis
-- se détrousseront de lait, d'herbes, d'heures
-- avec leurs mines de cerisiers sauvages
-- avec leurs politesses de galère sur la&nbsp;route des cygnes
-- avec leurs airs de chateau connu
+- {: .pr} I will build with sky, birds, parrots, bells, scarves, drums, light smoke, furious tenderness, copper tone, mother-of-pearl, Sundays, rackets, childish words, words of love, love, mittens
+- with children
+- a world our world
+- my world with round shoulders
+- with wind, sun, moon, rain, full moon
+- a world of little spoons
+- velvet
+- gold fabrics
+- hilltops, valleys, of petals of cries of frightened fawns
+- One day
+- in the old days
+- sisters, equals, will take each others' hands in the torture chambers
+- and the world will gently lean down its horned head to die
+
+- days tidy as an orphanage going to Mass
+- the days with their polite-assassin tunes
+- will mug milk, herbs, hours
+- with their wild cherry mines
+- with their galley curtsies by the swans' route
+- with their familiar castle airs
 
 ---
 

@@ -3783,7 +3783,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - {:.sp} Le négrophile  *(préchant dans le désert).*
 
-- {:.pr} Mes amis, ô mes amis : je vous accorde que l'esclavage est une grande inicuité, mais par l'esclavage vous avez souffert. Et la souffrance vous a grandis. Et la souffrance vous a fait hommes. Dela mes amis, mes frères, ne l'oubliez pas.
+- {:.pr} Mes amis, ô mes amis : je vous accorde que l'esclavage est une grande inicuité, mais par l'esclavage vous avez souffert. Et la souffrance vous a grandis. Et la souffrance vous a fait hommes. Cela mes amis, mes frères, ne l'oubliez pas.
 
 - {:.sp} L'écho
 
@@ -3821,13 +3821,13 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 *(Bruit de mousqueterie.)*
 
- Mes frères, mes frères&nbsp;! 
+ - Mes frères, mes frères&nbsp;! 
 
 *(Le négrophile tombe.)*
 
 - {:.sp} Récitante
 
-- {:.pr} Je bâtirai de ciel, d'oiseaux, de perroquets, de cloches, de foulards, de tambour de fumées légères, de tendresses furieuses, de ton de cuivre, de nacre, de dimanches, de bastringues, de mot d'enfants, de mots d'amour, d'amour, de mitaines
+- {:.pr} Je bâtirai de ciel, d'oiseaux, de perroquets, de cloches, de foulards, de tambour, de fumées légères, de tendresses furieuses, de ton de cuivre, de nacre, de dimanches, de bastringues, de mot d'enfants, de mots d'amour, d'amour, de mitaines
 - d'enfant
 - un monde notre monde
 - mon monde aux épaules rondes
