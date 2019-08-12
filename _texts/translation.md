@@ -3628,7 +3628,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - our shouts will disturb your victories
 - {: .pr} and in the nights of defeat, you will see us standing at your crossroads, black, terrible, silent ... and you will be ashamed ... and you will be afraid ... 
 
-*(The vision disappears little by little.)*
+*(The vision disappears bit by bit.)*
 
 - {:.sp} Toussaint *(hagard)*
 
@@ -3668,7 +3668,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
- - {: .pr.i} the caterpillars crawl towards the shelter of cotton caps ... The Earth's pit is extinguished ... it's all good ... But the sky chews betel bags ... ha ha! the sky sucks daggers ... King of Malaysia and fevers full of insects, chew your kris and your betel ... Isaac, Isaac, a ball rots between your smiley white teeth ... Ouch! I walk on starfish needles. I walk ... I assume ... I kiss ...
+ - {: .pr.i} the caterpillars crawl towards the shelter of cotton caps ... The Earth's pit is extinguished ... it's all good ... But the sky chews betel ... ha ha! the sky sucks daggers ... King of Malaysia and fevers full of insects, chew your kris and your betel ... Isaac, Isaac, a ball rots between your smiley white teeth ... Ouch! I walk on starfish needles. I walk ... I assume ... I kiss ...
 
 *(Toussaint collapses, arms outstretched, chest against the ground.)*
 
@@ -3682,19 +3682,19 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Narrator.
 
-- {:.i2} Mort dans un taillis de clérodendres parfumés.
+- {:.i2} Dead in a coppice of scented cloverlies.
 
 - {:.sp} The Reciter.
 
-- {:.i2} Mort en pleine poussée de sisal.
+- {:.i2} Dead in full bloom of sisal.
 
 - {:.sp} The Narrator.
 
-- Mort en pleine pulpe de calebassier.
+- Dead in full calabash pulp.
 
 - {:.sp} The Reciter.
 
-- {:.i2} Mort en plein vol de torches, en pleine fécondation de vanilliers ...
+- {:.i2} Dead in full flight of torches, in full impregnation of vanilla ...
 
 - {:.sp} The Chorus.
 
@@ -3702,13 +3702,19 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Reciter.
 
-- {:.pr.i} Saint-Domingue les secrets enfermés sous un tour de gorge montent dans le clocher du sang. Les femmes possédées dressent leurs mains savonneuses aux 4 coins du marais au cœur rouge ; les soifs nouvelles s'écoulent, lunes cassées à même la miche d'eau, une pierre au front.
+- {:.pr.i} Saint-Domingue the secrets locked under a throat turn up in the blood steeple. Possessed women lay their soapy hands in the four corners of the red-heart marsh; the new thirsts flow out, broken moons right on the water loaf, a stone on the forehead.
 
 - {:.sp} The Narrator.
 
-- {:.pr.i} Kohol sans langueur l'atmosphère blasée de porte vide tient du miracle un ricanement de roucou précieux. Une boussole meurt de convulsion dans une lande, jatte de lait à la fin du monde.
+- {:.pr.i} Kohol without languor the jaded atmosphere empty doored miraculously holds a sneer of precious achiote. A compass dies of convulsion in the moorlands, a bowl of milk at the end of the world.
 
 - {:.sp} The Reciter.
+
+- {:.i2} In the forest the murderers flow down laughter gushing and the
+- rivers without signals weave the fleshy adventure of virulent travels
+- nomadic blood flirting with deaths and genesis
+- wastes from the bottom of the pierced stones and the night of ages
+- the deadly laughter of cavernous mummies
 
 - {:.i2} Dans la forêt les meurtrières coulent avec des rires de fontaine et les
 - fleuves sans signaux trament l'aventure charnue des voyages virulents
@@ -3720,7 +3726,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Saint-Domingue! Saint-Domingue!
 
-*(La scène a brusquement changé. Nous sommes à Saint-Domingue devant les murs du Cap assiégé par l'armée noire de Dessalines ... des coups de canon ... des fumées ... des pans de murs écroulés ... Général noir à cheval entouré d'un nombreux état major ... des troupes en armes prêtes à s'ébranler.)*
+*(The scene has changed abruptly. We are in Saint-Domingue, the walls of Cap, besieged by the black army of Dessalines ... cannon shots ... fumes ... pieces of collapsed wall ... Black general on horseback surrounded by a large staff ... armed troops ready to move.)*
 
 ---
 
