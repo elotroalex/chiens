@@ -3813,67 +3813,67 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [104]({{site.baseurl}}/chiens/p104.html){:.pagetitle}
 
-- mais aux salles aussi belles que le mensonge qui n'est pas autre chose que
-- l'amour du voyage
-- est-ce que je n'ai pas des mains ?
-- de la pierre et de la nuit tombée ?
-- un jour-autrefois trève de Dieu sans dieu
-- des ports inconnus toujours — des soleils inconnus
-- des mains aux créneaux
-- des mains vivantes aux meurtrières
-- le pont-levis s'abaisse sur l'irrémédiable
-- et le bondissement des paroles magiques qui calment la forêt
-- insurgé, insurgé
-- araignée des jours précieux
-- je n'avalerai pas ma salive.
+- but in rooms as beautiful as the lie which is nothing else than
+- the love of travel
+- don't I have hands?
+- stones and nightfall?
+- ancient truce of God without god days
+- ports always unknown---unknown suns
+- hands in the holes
+- from living hands to murder
+- the drawbridge lowers on the irremediable
+- and the leap of magic words that calm the forest
+- insurgent, insurgent
+- spider precious days
+- I will not swallow my saliva.
 
 - {:.sp} The Reciter.
 
-- à l'heure rouge des requins
-- à l'heure rouge des étrivières
-- à l'heure rouge des noyades
-- à l'heure rouge des nostalgies
-- à l'heure dénouée rouge
-- à l'heure rouge des cohues
-- épaules de l'eau bouillante nos fesses scarifiées se mirent à crier vengeance ;
-- à l'heure rouge des miracles
-- liberté belle de nuit éclose au caillebotis et fumier de jambes coupées
-- les chenilles rugissaient sur le pont
-- et nos jambes criaient victoire
-- et les douves brisées répondaient vengeance
-- par ses ardillons d'étoiles
-- par ses prunelles d'étoiles ses mammes d'étoiles
-- ses cerises d'étoiles qu'elle nous lançait à pleines vannes
-- et la mort n'était pas hargneuse
-- mais douce
-- aux mains de seins de palissandre et de jeune fille nubile
+- at the red hour of sharks
+- at the red hour of the stirrup leagues
+- at the red hour of drowning
+- at the red hour of nostalgia
+- at the hour undone red
+- at the red hour of the crushes
+- shoulders of boiling water our scarred buttocks began to cry out revenge;
+- at the red hour of miracles
+- beautiful liberty of the night hatching with slatted manure and legs
+- caterpillars roared on the bridge
+- and our legs were screaming victory
+- and the broken moats answered with revenge
+- by her barbs of stars
+- by her eyes of stars her ranges of stars
+- her cherries of stars that she released on us valves wide-open
+- and death was not surly
+- but sweet
+- in the hands of rosewood breasts and a young nubile girl
 
 ---
 
 [105]({{site.baseurl}}/chiens/p105.html){:.pagetitle}
 
-- aux mains de champs de charpie et de fonio
-- douce
-- nous étions là
-- et une virginité saignait cette nuit là
-- timonnier de la nuit peuplée de soleils et d'arc-en ciel
-- timonnier de la mer et de mort
-- liberté ô ma grande&nbsp;bringue les jambes poisseuses du sang neuf
-- ton cri d'oiseau surpris et de fascine
-- et de chabine au fond des eaux
-- et d'aubier et d'épreuve et de letchi triomphant
-- et de sacrilège
-- rampe, rampe
-- ma grande fille peuplée de cheveux et de fouillages
-- et de hasard et de connaissance
-- et d'héritages et de sources
-- sur la pointe de tes amours, sur la pointe de tes retards
-- sur la pointe de tes cantiques
-- de tes lampes
-- sur tes pointes d'insectes et de racines
-- rampe grand frai ivre de dogues de matins et de marcassins
-- de bothrops lancéolés et d'incendies
-- à la déroute de l'exemple scrofuleux des cataplasmes.
+- in the hands of lint and fonio fields
+- sweet
+- we were there
+- and a virginity was bleeding that night
+- helmsman of the night with suns and rainbow
+- helmsman of the sea and death
+- freedom oh my great bustle the sticky legs of the new blood
+- your surprised and fascinated cry of bird
+- and sheep-goat at the bottom of the sea
+- and sapwood and trial and the triumphant litchi
+- and sacrilege
+- ramp, ramp
+- my big girl peopled with hair and fowl
+- and of chance and knowledge
+- and inheritances and sources
+- on the tip of your love, on the tip of your delays
+- on the tip of your hymns
+- of your lamps
+- on your tips of insects and roots
+- large spawning ramp drunk with mongrels and wild boars
+- lanceolate butrops and fires
+- the rout of the scrofulous example of poultices.
 
 ---
 
