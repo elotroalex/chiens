@@ -52,7 +52,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- Misfortune befall whoever holds the resin of this country in their hands.
+- Woe to him who comes in contact with this country's resin.
 
 - {:.sp} The Man Reciter.
 
@@ -61,26 +61,26 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} The Woman Reciter.
 
 - This country is cursed.
-- {:.pr} This country yawns: having spat the hookworm Cuba, a mouth of empty clamor. 
+- {:.pr} This country yawns: having spat the hookworm Cuba, a mouth of empty cries. 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} This country bites: the gaping mouth of a fire throat, fire fangs converging on the ass of America the shitty.
+- {:.pr} This country bites: the gaping mouth of a fire throat, fire fangs looming over America's evil ass.
 
 ---
 
 [2]({{site.baseurl}}/chiens/p002.html){:.pagetitle}
 
-- {:.pr.i} By the bounding tides, I march on the water of spinning Springs; I see my sentinel eyes on high. The insomnia grows steadfast like a disobedience along the free temples of the woman with amphora—water jug, sprouting tempest Aquarius, kettle.
+- {:.pr.i} By the bounding tides, I march on the waters of spinning Springs; I see my sentinel eyes on high. The insomnia grows steadfast like a disobedience along the free temples of the woman with amphora---water jug, sprouting tempest Aquarius, kettle.
 
 - {:.sp} Toussaint.
 
-- My hands dig out my thoughts, creepers without
-- cramps
+- My hands dig out my thoughts, creepers
+- loosened
 - and I salute my fraternity whole.
 - Saint-Domingue, your rivers sink into my flesh
 - their tamarind snout,
-- forests grow mangles on my muscles,
+- forests sprout mangles on my muscles,
 - waves of my blood sing for the cays,
 - I close my eyes,
 - all my riches at hand,
@@ -89,21 +89,60 @@ Please note that the following text contains violence in many guises, including 
 - my rivers hang on my neck like
 - snakes and precious chains.
 
-- {:.sp} Toussaint.
+---
 
-- {:.pr.i} Who goes there, injecting me with silver and gold, besieging me with dangers, with unknown caresses?
+[3]({{site.baseurl}}/chiens/p003.html){:.pagetitle}
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} I've consulted the sacred dice. I say that a royal being, sleeping on a narrow bed, lives inside of you. 
+- {:.pr.i} Toussaint stands by the river's rumble... from the golden shore, a hundred warriors throw a hundred spears at him... Toussaint's chest is moonlit with scars...  
+
+- {:.sp} The Chorus.
+
+- {:.pr.i} Saint-Marc yields... the proud... its walls crumble... our horses scent the air's blend of gunpowder and drum. 
+
+- {:.sp} The Woman Reciter.
+
+- {:.pr.i} Toussaint, Toussaint, the day of trials has arrived... He comes... the King's messenger... he glides... mouth full of promises... the serpent hisses... hisses... He holds Toussaint on the tip of the tongue...
+
+- {:.sp} The Chorus.
+
+- {:.pr.i} Toussaint alone has taken the path of war. Everything has grown quiet. The canons and muskets are quiet. Toussaint is naked... The shield of braided straw on his left hand... He stops... He crawls... He freezes, a knee on the ground... His torso unfolds like a wall... The spear is raised...
+
+*(At this moment an extravagant procession invades the scene: pilgrims, horses, dogs. Scents of musk and benzoin.)*
+
+---
+
+[4]({{site.baseurl}}/chiens/p004.html){:.pagetitle}
+
+- {:.sp} First Voice of Temptation.
+
+- My voice rumples words of silk,
+- my voice exhales umbels of feather,
+- my evergreen voice can dig from the hollow basins
+- a thousand harmonious songs
+- my eyelash voice crafts a thousand victorious insects
+- my voice, a pretty flamboyant golden bird
+- of sky muslin, of irresistible desires,
+- my moist voice rolls out streams
+- of fearless doves over pebbles
+- of jasper and ecbatana...
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I say that the Republic has rung the world a new swing by hammering three golden words ...
+- {:.pr.i} Who goes there, thrusting silver and gold on me, besieging me with dangers, with foreign caresses?
+
+- {:.sp} The Man Reciter.
+
+- {:.pr.i} I've questioned the sacred dice. I say that a royal being slumbers in you on a narrow bed.
+
+- {:.sp} Toussaint.
+
+- {:.pr.i} I say that the Republic has belled the world a new swing by hammering three golden words...
 
 - {:.sp} Second Voice of Temptation.
 
-- {:.pr.i} Ha, ha, ha. Words, nothing but words—not only three; a thousand words, Toussaint ... My dear friend, do you want money? Titles? Land? Would you like to be Field Marshall? Grandee of Spain? King ... that's it ... you will be King ... I swear you will be King.
+- {:.pr.i} Ha, ha, ha. Words, nothing but words---not only three; a thousand words, Toussaint... My dear friend, do you want money? Titles? Land? Would you like to be Field Marshall? Grandee of Spain? King... that's it... you will be King... I swear you will be King.
 
 ---
 
@@ -124,17 +163,17 @@ Please note that the following text contains violence in many guises, including 
 
 - Night feast
 - wine cellar, meat
-- the cleaved houses spin their serpent cut-outs
+- cleaved houses stitch their serpent motif
 - fer-de-lance and rose window
-- the towns bounce like lambs with yellow fever
+- towns bounce like lambs with yellow fever
 - the swollen Artibonite plays the peacock;
 - on the broken dike
-- the windows open unto always
-- stop the cruising torture of paradises barred with temptations:
+- windows open up ever after.
+- Stop the cruising torture of paradises barred with temptations:
 - a seaside campaign of rum and contraband
-- splits the flat fever of days with nested suns.
-- Cursed, may I be cursed.
-- To catch half a word on the tongue. Accomplice.
+- splits the flat fever of days into nested suns.
+- Cursed, may I be cursed
+- to catch doublespeak on my tongue. Accomplice.
 - Islands,
 
 ---
@@ -142,13 +181,13 @@ Please note that the following text contains violence in many guises, including 
 [6]({{site.baseurl}}/chiens/p006.html){:.pagetitle}
 
 - I was a slave for 50 years
-- and I have cut the cane and I have waxed the shoes and
-- the smallest child (the master's kid)
-- drove the old slave chained to obedience
+- and I cut the cane and I waxed the shoes and
+- the smallest child, the master's kid,
+- pulled the old slave along, chained to obedience
 - and respect;
 - and I tell you,
-- those which light the old night in my head,
-- are certainly not the images of ambition, no,
+- that which lights the old night of my skull,
+- is certainly not images of ambition, nope,
 - but the laughter of fire, the laughter of flowers and rivers
 - your image
 - more violent than a heart, more brutal than a thoroughbred
@@ -164,10 +203,10 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - Martinique, Jamaica
-- all mirages and mountaingems
-- cannot lull to amnesic sleep
+- no mirage or mountaingem
+- can lull to amnesic sleep
 - the fire blast, the spoils of blood, the steel song
-- fraternal abysses of the roses of Jericho ... 
+- fraternal abysses of Jericho roses  ... 
 
 ---
 
@@ -179,15 +218,15 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} My law is to run from a chain with no broken link, as far as the confluence of fire that detonates me, where my own alloyed gift distills and ignites me.
+- {:.pr.i} My law is to run from the unbroken chain, as far as the confluence of fire that detonates me, where my own alloyed gift distills and ignites me.
 
 - {:.sp} The Chorus.
 
-- The moon wanes funereal; the king hides. 
+- The moon wanes funereal. The king hides. 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I don't want to be the grain of perfume where the innumerable sacrifices of unarmed roses become celebrated and succint.
+- {:.pr.i} I don't want to be the grain of perfume where the innumerable sacrifices of unarmed roses is distilled and celebrated.
 
 - {:.sp} The Man Reciter.
 
@@ -200,22 +239,21 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - {:.i2} So be it, I will die. But naked. Intact.
-- One hand on the other, my feet on the ground,
-- {:.pr} what is this dark collapse towards the sunset through drownings and crowds? The world sinks, murdered with smoke screens, caught in the net of its own parentheses.
+- My hand in my hands, my feet on the ground,
+- {:.pr} what is this dark collapse past drownings and crowds towards the sunset? The world sinks, murdered with smokescreens, caught in the net of its own parentheses.
 - Naked like water,
 - naked like the unicorn gaze of noon,
 - like the scream and the bite, I cleared the low fog
 - from the world, without gratitude or ingratitude,
 - where thought does not equivocate, a flower with the heart of a butterfly.
 - I want a naked world and an unstamped universe.
-
 - A young Fouta girl gnaws at a chandelier bone.
 
 ---
 
 [8]({{site.baseurl}}/chiens/p008.html){:.pagetitle}
 
-- {:.pr.i} And I am young. I am plush with youth, with a childhood prior to doors and windows, with a childhood of libations and offerings over my eyes, over the hours. A dry lake hangs on my cheek, but it weeps for the trees of Judea bathed in crocuses and
+- {:.pr.i} And I am young. I am plush with youth, with a childhood prior to doors and windows, with a childhood of libations and offerings over my eyes, over the hours. On my cheek hangs a dry lake, weeping for the trees of Judea bathed in crocuses and
 - anemones
 - I am naked.
 - I am naked on the stones.
@@ -224,7 +262,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} The Woman Reciter.
 
 - {:.i2} Patience, I see.
-- {:.pr} My polar head engulfs the glimmer of corpses, the broken helmets, the inconsolable debris, the suns oozing the beefy scent of venison.
+- {:.pr} My polar head gulps the glimmer of corpses, the broken helmets, the inconsolable debris, suns oozing the beefy scent of venison.
 
 - {:.sp} Toussaint.
 
@@ -233,11 +271,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} A terrible, beautiful girl breaks her shell of disasters. Coyote hunters wake up in a happy absinthe hut.
+- {:.pr.i} A terrible, beautiful girl breaks her shell of disasters. Coyote hunters wake up in a merry hut of absinthe.
 
 - {:.sp} Toussaint.
 
-- Come then, tapered flames, bundle of chills. Let the fire scents throw their javelin over my head. 
+- Come then, tapered flames, bundle of chills. Let the scent of fire throw its javelin around my head.
 
 ---
 
@@ -246,16 +284,16 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} The Woman Reciter.
 
 - {:.i2} Nothing remains but a lost man,
-- {:.pr} tragic like a palm stump in the trite riot and the fields of gunpowder. His dusty eyes dart into a steppe without shade and water—and he chews shade and water—a prayer that he will not sell.
+- {:.pr} tragic like a palm stump in the stale uprising and the fields of gunpowder. His dusty eyes dart into a steppe without shade and water---and he chews shade and water---a prayer he won't sell.
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Thank you, my sister ... a prayer that he will not sell ... my cobra prayer ... my eel prayer in the forests of the sea ... my cactus milk prayer in the halls of the sky.
+- {:.pr.i} Thank you, my sister ... a prayer that he won't sell ... my cobra prayer ... my eel prayer in the forests of the sea ... my cactus milk prayer in the halls of heaven.
 
 - {:.sp} The Woman Reciter.
 
-- {:.i2} ... I did see, and the bridges have fallen ...
-- The stars have unleashed their scars of sand.
+- {:.i2} ... I see, the bridges have fallen ...
+- The stars have unleashed their sand scars.
 
 ---
 
@@ -270,10 +308,10 @@ Please note that the following text contains violence in many guises, including 
 - Blind by the grace of god and fear.
 - Do you see nothing in the new grass?
 - Nothing in the ground's churn and the
-- Convulsive heckling of plants?
+- Convulsive frolic of plants?
 - Nothing in the sea, really?
 - I see ... I hear ... I will talk ...
-- Oh, the vampire sun sucks my blood again,
+- Oh, the vampire sun sucks my blood once more,
 - Oh, the corsair night assaults my rock
 - and my dawn farts below their faces
 - its crash of midday and gulls
@@ -281,7 +319,7 @@ Please note that the following text contains violence in many guises, including 
 - Trample me. Assassinate me. Too late.
 - The flushed out hours ring on the lulls 
 - and the mooring lanterns;
-- all sniffs
+- sniffling
 - the hours ring
 - and spread out at the brush of my fingers,
 - the flames spread out.
@@ -304,11 +342,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} Toussaint's wishes are commands ... He orders and legislates.
+- {:.pr.i} Toussaint's desires are the law ... He orders and legislates.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} There are no roses: only peppers stitching their red tears. 
+- {:.pr.i} There are no roses: only peppers stitching together their red tears. 
 
 - {:.sp} The Chorus.
 
@@ -340,7 +378,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} I was awakened from my grand dream of violet seas and chocolate earth, and I saw a small man arrive this side of the clove trees. He turned the sky black, his face a peat bog cut with dragonflies.
+- {:.pr.i} I was awakened from my grand dream of violet seas and chocolate earth, and I saw a small man arrive near the clove trees. He turned the sky black, his face a peat bog cut with dragonflies.
 
 - {:.sp} The Man Reciter.
 
@@ -366,12 +404,12 @@ Please note that the following text contains violence in many guises, including 
 - {:.i2} The river without idiom is exasperated by the maneuvers of the ash;
 - the cape and the filings
 - the birds and days
-- turn, their doorknob creaks;
-- the fantastic animals on the childish horizon
+- turn with a doorknob's creak;
+- fantastic animals on the infantile horizon
 - brain grazers
 - have averted
 - their eyes
-- playful from all that drunk night
+- giddy after drinking the night
 
 - {:.sp} The Chorus *(distant.)*
 
@@ -423,7 +461,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.i2} I'll make this country to know itself
+- {:.i2} I'll bring this country to the knowledge of self
 - I'll acquaint this land with its secret demons
 - I'll light up the craters with cymbals and heloderma
 - the symphonies of an unknown hell, splendid
@@ -439,8 +477,8 @@ Please note that the following text contains violence in many guises, including 
 - alone.
 - Everything is alone
 - I sharpen my voice
-- all deserted all
-- my voice barely,
+- all abandons all
+- save my voice,
 - my voice sways in the cornet of mists without crossroads 
 - and I don't have a mother
 - and I don't have a son.
@@ -471,7 +509,7 @@ Please note that the following text contains violence in many guises, including 
 
 - No, no, I lie. I'm afraid. I'm alone
 - my forests don't have ears, nor my rivers skin
-- unknown caravels roam the night
+- unmet caravels roam the night
 - Is it you, Columbus? Captain of the slave ship? Is it you
 - old pirate, old corsair?
 - No response. The scree widens the night.
@@ -508,7 +546,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Voice.
 
-- This time the Whites will be really angry at us, and all because of him.
+- White people will be really angry at us now, and all because of him.
 
 - {:.sp} Voices.
 
@@ -521,13 +559,13 @@ Please note that the following text contains violence in many guises, including 
 
 - Bring Toussaint to the stake. To the stake. To the stake. Bring him to the stake.
 
-- {:.sp} An orator.
+- {:.sp} An Orator.
 
-- {:.pr.i} Comrades, I'm here to tell you that Toussaint is an enemy of the people and a troublemaker. As if we didn't have enough troubles as it is. That we're not happy? Comrades, will we be happy with freedom and war and the vengeance of the Whites on our heads? I tell you that Toussaint is a traitor. Kill him.
+- {:.pr.i} Comrades, I'm here to tell you that Toussaint is an enemy of the people and a troublemaker. We have enough troubles as it is. We are not happy, you say? Comrades, will we be happy with freedom and war and the vengeance of White people on our heads? I tell you that Toussaint is a traitor. Kill him.
 
 - {:.sp} Voices.
 
-- {:.i2} He is right. He is right. Kill Toussaint.
+- {:.i2} He's right. He's right. Kill Toussaint.
 
 ---
 
@@ -540,7 +578,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.i2} I am a specter; men chase me from their nightmares.
+- {:.i2} I am a specter. Men chase me from their nightmares.
 
 - {:.sp} The Crowd.
 
@@ -596,7 +634,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Crowd.
 
-- A curse; a curse.
+- A curse, a curse.
 
 - {:.sp} Toussaint.
 
@@ -609,8 +647,8 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.i2} Long live vengeance. Long live freedom.
-- {:.pr} The mountains will tremble like a tooth caught between a pair of forceps, the stars will crash on the ground their pregnant-woman forehead.
+- {:.i2} Long live Vengeance. Long live Freedom.
+- {:.pr} The mountains will tremble like a tooth caught between a pair of forceps; the stars will crash on the ground their pregnant forehead.
 
 - {:.sp} The Crowd.
 
@@ -618,7 +656,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr} ... come nighttime, the still suns will grow massive, catastrophic coconut trees.
+- {:.pr} ... when night falls, the still suns will grow massive, catastrophic coconut trees.
 
 ---
 
@@ -631,17 +669,17 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - {:.pr.i} Ah! You won't quit me so easy, not without first hearing the bite of my tongue on your imbecile souls.
-- You can be certain of it, I follow you like pray ...
-- and I see you and I uncover you in the middle of your
+- You can be certain of it, I track you like pray ...
+- and I see you, and I catch you in the middle of your
 - lies and your cowardice;
 - proud minions
 - little hypocrites, sweet spinning
 - slaves and children of slaves,
 - and you don't even have the strength to protest, to be outraged,
 - to moan;
-- condemned to live head-to-head with rank stupidity
+- condemned to live toe-to-toe with rank stupidity
 - with nothing to make your blood boil
-- other than to chug half a glass of your Caribbean
+- other than chugging half a glass of your Caribbean
 - rum ...
 - Codfish souls. 
 
@@ -674,14 +712,14 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.i2} ... And in fact, the breathless catacombs of the End and the Beginning
+- {:.i2} ... And there it is, winded catacombs of the End and the Beginning
 - Death jumps on them, like a torrent of wild horses, like a
 - flight of mosquitoes ...
 - Columbus, Columbus
 - you
 - the calm
-- when you set your first foot on this island, snapped like a rat-trap,
-- {:.pr} among the new signs, among the gods that your pride refused to confess, I know it, I feel it, you did not feel overcome with triumph, but with anguish, with uneasy anxiety, you the impregnable, caught leaking and tied up with the great silent creepers of fear, the great silent creepers of Repentance.
+- when you set your first foot on this island snapped shut like a mousetrap,
+- {:.pr} among the new signs, among the gods that your pride refused to confess, I know it, I feel it, you did not feel overcome with triumph, but with anguish, with uneasy anxiety, you the impregnable, caught pierced and bound up with the great silent creepers of fear, the great silent creepers of Repentance.
 
 - {:.sp} The Crowd.
 
@@ -741,7 +779,7 @@ Please note that the following text contains violence in many guises, including 
 
 *(The mother appears at the front door, very pale)*
 
-- {:.pr.i} Children ... come inside ... come inside ... I'm afraid.
+- {:.pr.i} Children ... come inside ... come inside ... I'm scared.
 
 - {:.sp} The Man Reciter.
 
@@ -753,7 +791,7 @@ Please note that the following text contains violence in many guises, including 
 
 [24]({{site.baseurl}}/chiens/p024.html){:.pagetitle}
 
-*(The Reciter and The Narrator pretend to put down a stretcher; The Chorus to dig a grave. They bury an imaginary corpse on the grave—a scene of homeopathic magic.)*
+*(The Reciters pretend to put down a stretcher; The Chorus to dig a grave. They bury an imaginary corpse on the grave—a scene of homeopathic magic.)*
 
 - {:.sp} The Man Reciter *(collected.)*
 
@@ -765,13 +803,13 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus *(hateful.)*
 
-- {:.pr.i} ...Saint-Domingue the black, where the master's sadism and the groan of the slave, coprophagous by force, complete with strokes of vomit the shark bite and the centipede's crawl.
+- {:.pr.i} ...Saint-Domingue the black, where the master's sadism and the groan of the slave, coprophagous by force, complete with streaks of vomit the shark bite and the centipede's crawl.
 
 *(At this moment darkness falls on the scene; gunshots; discordant cries; after these, the ruckus dies down; when the light returns, the decor has changed: the Black war camp in the middle of the forest. A conference of Black leaders and White deputies.)*
 
 - {:.sp} 1st Deputy.
 
-- {:.pr.i} Our presence alone signals how earnest is our desire to reconcile. We have silenced in our hearts the natural indignation aroused by the memory of so many acts of cruelty. And we have swept under the rug all of our repugnance and repulsion, all of the habits that our philosophical minds call prevention or prejudice, and which are nonetheless binding forces in our colonial societies ...
+- {:.pr.i} Our presence alone signals how earnest our desire is to reconcile. We have silenced in our hearts the natural indignation aroused by the memory of so many acts of cruelty. And we have swept under the rug all of our repugnance and repulsion, all of the habits that our philosophical minds define as prevention or prejudice, even though these are necessary in our colonial societies ...
 
 ---
 
@@ -785,18 +823,18 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} The hostile collapse of the tower, the mountain, the lighthouse stops to hesitate on the edge of the trigger
+- {:.pr} The hostile collapse of the tower, the mountain, the lighthouse stops to hesitate by the edge of the trigger
 - A necklace of convenient pearls no longer numbs the anxiety
 - {:.pr} Sprawling apostrophes come to life in the distance like cataclysms
 - Silence already poisons every fiber
 - Half-swallowed hieroglyphic gestures signal
-- The fallows and the sowing of corpses.
+- the fallows and the sowing of corpses.
 
 - {:.sp} The Woman Reciter.
 
-- The beautiful, blind eyes of the earth sing on their own
-- truant, the joint eyebrows of great plows
-- {:.pr} quicksand for the scholarly tricks of symposia without rhyme or reason
+- The beautiful, blind eyes of the earth sing themselves
+- playing hooky, the joint eyebrows of great plows
+- {:.pr} the scholarly gimmicks of conferences without rhyme or reason on quicksand
 - The wrecker's cow, the Calvary rains and the waves
 - bewitch with snakes, with palaver, with kelp
 - the disjointed lighthouse with eagle blood.
@@ -866,11 +904,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.i2} Here begins the baptism by blood.
+- {:.i2} Here begins the blood baptism.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Here begins the meal of vengeance. Here we bind our blood solidarity, and here we run the great communion of war.
+- {:.pr.i} Here begins the meal of vengeance. Here we bind our blood in solidarity, and here we run the great communion of war.
 
 - {:.sp} The Chorus.
 
@@ -884,7 +922,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} We are not done here, comrades ... Who will bring to the rest of the Whites our fancy response? ... Yes ... Deaf and blind, their ambassadors sail through hell. Who then, and with what words will knot coarse fear in viscera?
+- {:.pr.i} We are not done here, comrades ... Who will bring to the rest of the Whites our elegant response? ... Yes ... Deaf and blind, their ambassadors sail through hell. Who then, and with what words will you stitch the earth's terror in their guts?
 
 - {:.sp} Voices.
 
@@ -910,7 +948,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} The machete falls down. What a harvest. Those are not canes that fall. These are not banana trunks. The blood streams and skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
+- {:.pr.i} The machetes fall. What a harvest. That is not sugar cane on the ground. These are not banana trunks. The blood streams and skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
 
 - {:.sp} The Man Reciter.
 
@@ -930,7 +968,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} And they sold us like beasts, and counted our teeth ... and tested our balls, and examined the tear-and-wear of our skins, and pinched us and weighed us and double-checked, and hung the collar of servitude and insult on our necks like tamed beasts.
+- {:.pr.i} And they sold us like beasts, and counted our teeth ... and tested our testicles, and examined the tear-and-wear of our skins, and pinched us and weighed us and double-checked, and hung the collar of servitude and insult on our necks like tamed beasts.
 
 - {:.sp} The Man Reciter.
 
@@ -950,15 +988,15 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} In the name of all the lazy dreams in your hearts, I sing the steely motion of the matador.
+- {:.pr.i} In the name of all the lazy dreams in your hearts, I sing the steely moves of the matador.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} I sing the salty act of the harpooner, and the whale has blown for the last time ...
+- {:.pr.i} I sing the salty throw of the harpooner, and the whale has blown for the last time ...
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} A bird and its smile ... a ship and its roots ... the horizon and its precious gemstones ... a girl with a grassy smile shreds to fine larks the wine of days, the stone of nights. 
+- {:.pr.i} A bird and its smile ... a ship and its roots ... the horizon and its precious gemstones ... a girl with a grassy smile shreds into fine larks the wine of days, the stone of nights. 
 
 ---
 
