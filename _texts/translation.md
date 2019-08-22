@@ -992,7 +992,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} I sing the salty throw of the harpooner, and the whale has blown for the last time ...
+- {:.pr.i} I sing the salty throw of the harpooner, and the whale blows for the last time ...
 
 - {:.sp} The Chorus.
 
@@ -1002,7 +1002,7 @@ Please note that the following text contains violence in many guises, including 
 
 [31]({{site.baseurl}}/chiens/p031.html){:.pagetitle}
 
-*(At Cap-Haïtien. An assembly of planters presided by the governor)*
+*(At Cap-Haïtien. An assembly of planters presided by The Governor.)*
 
 - {:.sp} 1st Deputy.
 
@@ -1018,11 +1018,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 2nd Deputy.
 
-- {:.i2} And I, sir, of those who await the henchmen of tyranny.
+- {:.i2} And I, sir, of theirs who bow to the henchmen of tyranny.
 
 - {:.sp} The Governor.
 
-- {:.pr.i} Hey, Gentlemen, common sense, please. What the hell. You know what's going on: a full-blown slave rebellion; half of the North province is on fire. Toussaint has built an army with the Blacks from the Turpin, Flaville, Trêmes, and Noé plantations. And what an army! I shudder. Our women are suffering the latest outrages; they are impaling the children; planters are being sewn alive on planks.
+- {:.pr.i} Hey, Gentlemen, common sense, please. What the hell. You know what's going on: a full-blown slave rebellion; half of the North province is on fire. Toussaint has built an army with the Blacks from the plantations in Turpin, Flaville, Trêmes, and Noé. And what an army! Makes you shudder. Our women are suffering the latest outrages; they are impaling the children; planters are being sewn alive on planks.
 
 - {:.sp} A Voice.
 
@@ -1038,7 +1038,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Governor.
 
-- {:.pr.i} Silence, gentlemen. Sadly, this is not all. While the rebellion consumes the Cap, bringing with it fire and screams and Voudou, here in the city, you're ignoring the voice of wisdom. We attack the slaves who have remained faithful. We attack the free men of color. Several of them have already been massacred.
+- {:.pr.i} Silence, gentlemen. Sadly, this is not all. While the rebellion consumes the province in fire and screams and Voudou, you ignore the voice of wisdom here in the city. We attacked the slaves who remained faithful. We attacked the free men of color. Several of them have already been massacred.
 
 ---
 
@@ -1070,7 +1070,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Governor.
 
-- {:.pr.i} I see, gentlemen, that you haven't understood. This is no time for deliberation. I made my decision. The priority now is to stop the Blacks of the West province from communicating with the northern insurgents. I've set up war camps at Trou, Vallières, Morne, Dondon, la Marmelade and Fort Dauphin. As far you're concerned, Gentlemen, prepare for battle, and long live the French colony of Saint-Domingue.
+- {:.pr.i} I see, gentlemen, that you haven't understood. The time for deliberation is over. I've made my decision. Our priority now is to stop the Blacks from the West province from communicating with the northern rebels. I've set up war camps at Trou, Vallières, Morne, Dondon, la Marmelade and Fort Dauphin. As far you're concerned, Gentlemen, prepare for battle, and long live the French colony of Saint-Domingue.
 
 *(Prolonged vivats. The deputies exit. Some stragglers continue to argue.)*
 
@@ -1095,7 +1095,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.i2} Baby look a here, look a here, look a here
 - {:.i2} Coons from ev'ry city ...)
 
-*(After a few seconds, screams break out; a monotone and brutal choir begins, grows, approaches. Hoots. Sneers. A confused trampling. A frenzied Black crowd invades the town hall, slapping and jeering through some white deputies. A grotesque Black man gesticulates on the podium. We will call him The Speaker. The Black crowds sit in indescribable confusion. Thus begins a sinister and clownish session full of vehemence and cruelty.)*
+*(After a few seconds, screams break out; a monotone and brutal choir begins, grows, approaches. Hoots. Sneers. A confused trampling. A frenzied Black crowd invades the town hall, slapping and jeering some white deputies. A grotesque Black man gesticulates on the podium. We will call him The Speaker. The Black crowds sit in indescribable confusion. Thus begins a sinister and buffoonish session full of vehemence and cruelty.)*
 
 - {:.sp} The Speaker.
 
@@ -1103,7 +1103,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 1st Freak.
 
-- {:.pr.i} No such silence. We are free and have equal rights. Don't forget that.
+- {:.pr.i} Forget silence. We are free and have equal rights. Don't forget that.
 
 ---
 
@@ -1129,15 +1129,15 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Crowd.
 
-- {:.i2} Kill the Whites, Kill the Whites.
+- {:.i2} Kill the Whites. Kill the Whites.
 
 - {:.sp} The Speaker *(blowing the severed head.)*
 
-- {:.i2} I call on the Gentleman Governor.
+- {:.i2} I call on the gentleman Governor.
 
 - {:.sp} The Flag Bearer *(in a nasal voice.)*
 
-- {:.pr.i} Alright. Alright. I will speak. You see, Gentlemen, this is not the time to deliberate. I have made my decision. There's only one way with the Negroes: terror. Gentlemen, on today's agenda: terror ... 
+- {:.pr.i} Alright. Alright. I will speak. You see, Gentlemen, the time for deliberation is over. I have made my decision. There's only one way with the Negroes: terror. Gentlemen, on today's agenda: terror ... 
 
 *(Applause. Laughter.)*
 
@@ -1149,7 +1149,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} Kill the Whites! Kill the Whites!
 
-*(A collective hysteria. The scent of blood grows. The Speaker dances the bamboula on the dais.)*
+*(A collective hysteria. The scent of blood rises. The Speaker dances the bamboula on the dais.)*
 
 - {:.sp} The Crowd.
 
@@ -1197,7 +1197,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter *(in a scathing voice.)*
 
-- {:.pr.i} In the end, let me tell you, what I see in the end: in the end ... ah yes, at the very end: the fall of Europe, down a sinkhole under this hysterical shit of chomping ghouls, its limping haunted with devils, its insolence crushed by prayers, and, on its wounds, the pepper of my laughter and the salt of my tears.
+- {:.pr.i} In the end, let me tell you, what I see in the end: in the end ... ah yes, at the very end: the fall of Europe, down a sinkhole under the hysterical shit of chomping ghouls, its limping haunted with devils, its insolence crushed by prayers, and, on its wounds, the pepper of my laughter and the salt of my tears.
 
 ---
 
@@ -1211,13 +1211,13 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 2nd Girl.
 
-- {:.pr.i} Sigh. So fatigued ... We are soaked ... there's fog on the hill ... My bones are afraid and cold.
+- {:.pr.i} Sigh. So fatigued ... We are soaked ... there's fog on the hill ... My bones are scared and cold.
 
 - {:.sp} The Mother.
 
-Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in the arrowing canes ... then run some more ... Ouch. My legs ...
+Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide in the sharp canes ... then run some more ... Ouch. My legs ...
 
-*(The mother and her girls have disappeared; same decor. A hoe strips the scene. Hoes, then hands ... They are slaves plowing at dusk.)*
+*(The mother and her girls have disappeared; same decor. A hoe slashes the scene. Hoes, then hands ... They are slaves plowing at dusk.)*
 
 - {:.sp} 1st Slave *(singing.)*
 
@@ -1229,15 +1229,15 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} 1st Slave *(singing.)*
 
-- {:.i2} The earth is all fatigue; mine gonna fatigue it more.
+- {:.i2} The earth is all fatigue; my fatigue is even more.
 
 - {:.sp} 2nd Slave *(singing.)*
 
-- {:.i2} The sun is all fatigue; mine gonna fatigue it more.
+- {:.i2} The sun is all fatigue; my fatigue is even more.
 
 - {:.sp} 3rd Slave *(singing.)*
 
-- {:.i2} The rain is all fatigue; mine gonna fatigue it more.
+- {:.i2} The rain is all fatigue; my fatigue is even more.
 
 ---
 
@@ -1249,7 +1249,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} 2nd Slave.
 
-- {:.i2} My fatigue is an abyss; that no sleep can fill.
+- {:.i2} My fatigue is a hole, that no sleep can fill.
 
 - {:.sp} 3rd Slave.
 
@@ -1258,8 +1258,8 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.sp} The Chorus of Slaves.
 
 - {:.i2}  Hey, ho. Ho, my friends, ho.
-- My fatigue is a dumper of quiet sand
-- on the four corners of the harvest of stones.
+- My fatigue is a wheelbarrow full of silent sand
+- dumped on the four corners of the stone harvest.
 
 - {:.sp} The Man Reciter *(dismal.)*
 
@@ -1316,11 +1316,11 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 [40]({{site.baseurl}}/chiens/p040.html){:.pagetitle}
 
-*(Discordant cries ... The silence suddenly falls heavy and wet, the silence of the Caribbean. Abruptly a ship in distress invades the whole field of vision; and in the flesh of the phosphorescent sea, an inscription explodes, bloody, reflected on the reefs.)*
+*(Discordant cries ... The silence suddenly falls heavy and wet, the silence of the Caribbean. Abruptly, a ship in distress invades the whole field of vision; and in the flesh of the phosphorescent sea, an inscription explodes, bloody, reflected on the reefs.)*
 
-- : The Republic of Haiti.
+- The Republic of Haiti.
 
-- {:.sp} The Chorus *(enthusiast.)*
+- {:.sp} The Chorus *(enthusiastic.)*
 
 - {:.i2} Haiti. Haiti.
 
@@ -1358,7 +1358,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} What a great day a gerbera uncovered more than a woman in the sun plays towards the sun and the sun crackles in the closed brains mined diadem tree of the traveler heart braided beautiful water blown high frost.
+- {:.pr} What a great day, a gerbera nuder than a woman in the sun plays towards the sun and the sun crackles in the closed brains mined diadem tree of the traveler heart braided beautiful water blown to high frost.
 
 - {:.sp} The Man Reciter.
 
@@ -1408,7 +1408,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The Grand Master of the University.
 
-- {:.pr} Glory and recognition to Toussaint Louverture, educator of the people! The opposite of a Villaret, happy to close down the schools of our neighbor Martinique, and declare cynically:
+- {:.pr} Glory and recognition to Toussaint Louverture, educator of the people! The opposite of a Villaret, who eagerly closed down the schools of our neighbor, Martinique, and declared cynically:
 - {:.pr.i} "Ignorance is a necessary bond for men chained by violence or withered by prejudices." Here, in our free Haiti, thanks to the impetuous genius of Toussaint Louverture, the unholy system that wanted ignorance to be a policy, a police, a dogma, dies on the vine.
 
 - {:.sp} The Crowd.
@@ -1417,7 +1417,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The French Representative.
 
-- {:.pr.i} In the name of France, I recognize General Toussaint Louverture with the titles of Governor and  Captain General of the French Colony of Saint-Domingue.
+- {:.pr.i} In the name of France, I recognize General Toussaint Louverture with the titles of Governor and Captain General of the French Colony of Saint-Domingue.
 
 - {:.sp} The Crowd.
 
@@ -1441,9 +1441,9 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - Queen's gardens
 - I let myself drift into the night of tornado spices and holy images
 - and the kelp
-- grabs with its small child fingers
+- grabs with its kid fingers
 - my future trumpeting
-- of shipwreck!
+- of the shipwreck!
 
 ---
 
@@ -1470,7 +1470,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - Go away
 - go
-- rats I pity
+- pitiful rats
 - rats who can't see the ship is rotten
 - go, go in peace
 - pick up your pious carcasses
@@ -1485,7 +1485,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - A monkey, I am a monkey who by his grimace brings
 - the stations of dust puddles, despair, famine
 - vengeance returned, nuclear distress, unspeakable devotions
-- and you're the one I'm questioning
+- and you're the one I ask
 - oh, wind
 - calm face painted with the guano of contortion
 - wind deserts, cactus and sphinx standing
@@ -1573,7 +1573,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The Chorus.
 
-- {:.pr} I'm the nurse. Toussaint Louverture, of course, he had no nurse; sure he never fell from my arms; we all know that he drank the milk of the earth, and that he suckled on the earth's bosom, and that he ate earth bread, but not a nurse. Well, imagine that I am the earth.
+- {:.pr} I am the nurse. Toussaint Louverture, of course, had no nurse; sure, he never fell from my arms; we all know that he drank the milk of the earth, and that he suckled on the earth's bosom, and that he ate dirt bread, but not from a nurse. Well, imagine that I am the earth.
 - So, I came to ask you to forgive him.
 - {:.pr} My child is weird, my child is violent; my child makes demands: rights. All kinds of rights. Rights that are not made for us.
 - {:.pr} But I say it's not his fault. Humph! I say that his blood is stronger than him; it overcomes him, and plays nasty tricks on him. Humph. And I see that he has infected a bunch of young people with his madness. And it's very unfortunate. A bunch of young protesters. Negroes: they are wrong to demand so much. And no doubt it will bring misfortune. In my day we were sweeter, more accepting, more consenting. Humph.
@@ -1587,7 +1587,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - broken wings and branches
 - the victims take turns at the falls
 - hey there on the fore top
-- start the fire, continuous fire, on the shade and the ditch
+- start the fire, a lengthy fire, on the shade and the ditch
 - A thousand excuses, we have the best to offer you
 - a blazing fire saluting with its flares the darkness armed
 - with blue shadows
@@ -1609,7 +1609,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr} There will still be eyes like sunflowers or big soybeans in love, blindfolded with birds as beautiful as an alarm of Adam's apple in the flash of brief furies.
+- {:.pr} There will still be eyes like sunflowers and large soybeans in love, blindfolded with birds as beautiful as an alarm of Adam's apple in the flash of brief furies.
 
 - {:.sp} The Man Reciter.
 
@@ -1649,7 +1649,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} 2nd Passerby.
 
-- {:.pr.i} Still though! The English and the Spaniards forced us, and we send back Master Gilles. Still, it annoys me to call that old ass "my general," and to have to stand at attention in front of him.
+- {:.pr.i} Still though! The English and the Spaniards forced us, and we sent back Master Gilles. Still, it annoys me to call that old ass "my general," and to have to stand at attention in front of him.
 
 - {:.spGroup} 2nd Group of Passersby.
 
@@ -1669,8 +1669,8 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - ridiculous, I agree with you,
 - humiliating, I don't deny it,
 - {:.pr} But see here, young man ... dangerous above all else. And I'm going to tell you why ...
-- {:.pr.i} You know the white version (our version) of the story of the slave: Cinquez the Negro gives the signal to revolt. Revolt triumphs. But here is Cinquez the Negro who can't sail the ship ... Ha, ha! Do you see ... What a revenge for the Whites! ... The untamed sea, the grimoire of stars ... the famine ... the despair ... But imagine this for a moment, my friends: Cinquez the Negro can sail the ship! Cinquez the Negro can read the stars! Cinquez the Negro has calculated right and is headed for land.
-- {:.pr.i} And here it is: one day, Cinquez the Negro arrives with his crew, his people, I would say in a beautiful country, full of sun, parrots, fruits, fresh water , breadfruit ...
+- {:.pr.i} You know the White version---our version---of the story of the slave: Cinquez the Negro gives the signal to revolt. Revolt triumphs. But here is Cinquez the Negro who can't sail the ship ... Ha, ha! Do you see ... What a revenge for the Whites! ... The untamed sea, the grimoire of stars ... the famine ... the despair ... But imagine this for a moment, my friends: Cinquez the Negro can sail the ship! Cinquez the Negro can read the stars! Cinquez the Negro has calculated right and is headed for land.
+- {:.pr.i} And here it is: one day, Cinquez the Negro arrives with his crew, his people, I would say in a beautiful country, full of sun, parrots, fruits, fresh water, breadfruit ...
 - {:.i2} Huh! What do you say?
 - {:.i2} What a slap in the face!
 
@@ -1684,7 +1684,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} All the bitterness and all the hope on the backs of my hands, in the palms of my caimito hands, will not console me.
+- {:.pr.i} All the bitterness and all the hope on the backs of my hands, in the palms of my *caimito* hands, will not console me.
 
 ---
 
@@ -1696,7 +1696,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} My palaces, I hate them. My limit island is a prison, and I am a prisoner.
+- {:.pr.i} My palaces, I hate them. My island limit is a prison, and I am a prisoner.
 
 - {:.sp} The Chorus.
 
@@ -1706,7 +1706,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.sp} Toussaint.
 
 - I've caught extraordinary messages in the void ... full
-- {:.pr} of daggers, nights, moans; I hear above the praises a vast improvisation of tornadoes, sunbursts, curses, cooking stones, strange little days, numbness drunk with small sips, the red sex, the yellow sex, devouring, devourer ...
+- {:.pr} of daggers, nights, moans; I hear above the praises a vast improvisation of tornadoes, sunbursts, curses, cooking stones, strange little days, numbness drunk in small sips, the red sex, the yellow sex, devouring, devourer ...
 
 - {:.sp} The Chorus.
 
@@ -1718,7 +1718,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.i2} seeding to see flies, palaver, bad memories
 - {:.i2} tracks, termites, fevers to heal, wrongs to straighten,
 - {:.i2} an alligator yawn
-- {:.i2} an immense injustice.
+- {:.i2} a gargantuan injustice.
 
 - {:.sp} The Chorus.
 
@@ -1742,7 +1742,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - I turn to the unknown wind bursting with persecution
 - I'm leaving
 - don't speak, don't laugh
-- Africa sleeps—don't speak, don't laugh. Africa bleeds my mother
+- Africa sleeps---don't speak, don't laugh. Africa bleeds, my mother
 - Africa opens, shattered by the channel of vermin,
 - to the sterile invasion of the spermatozoa of rape!
 
@@ -1750,7 +1750,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.pr} What a thread stretched over the forests, rivers, swamps, tongues and big cats!
 - I do not have the gift of theft.
-- I do not have a mother—I do not have a past.
+- I do not have a mother---I do not have a past.
 - I filled up to oblivion, dust and insults, the well
 - my navel's stepmother.
 
@@ -1778,7 +1778,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - I scream from the top of my watch. Warning!
 - Closer!
 - This way!
-- a soft and slow voice of bad harvest and unexpected rain
+- the soft and slow voice of a bad harvest and unexpected rain
 - the black nude
 - draws
 - draws
@@ -1804,25 +1804,25 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Voices.
 
-- The Whites are landing, the Whites are landing. 
+- The Whites are landing. The Whites are landing. 
 
 - {:.sp} Voices.
 
-- The Whites are landing ... the Whites are landing.
+- The Whites are landing ... The Whites are landing.
 
-- {:.sp} Voice.
+- {:.sp} A Voice.
 
 - The Whites are landing.
 
-- {:.sp} Voice.
+- {:.sp} A Voice.
 
 - The Whites are landing.
 
 *(The crowd grows in front of Toussaint's palace. Toussaint comes to the balcony.)*
 
-- {:.sp} Cries.
+- {:.sp} The Cries.
 
-- The Whites are landing, The Whites are landing.
+- The Whites are landing. The Whites are landing.
 
 *(Cannon shots in the distance, then a silence ... A white flag springs from the ground)*
 
@@ -1836,7 +1836,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 *(Enter armed troops accompanied by a white parliamentarian.)*
 
-- {:.sp} Cries.
+- {:.sp} The Cries.
 
 - Long live Freedom! Long live freedom! Long live Toussaint Louverture!
 
@@ -1890,7 +1890,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- Is it for me to choose? Attack, I will defend myself.
+- Is it for me to choose? Attack; I will defend myself.
 
 - {:.sp} Parliamentarian.
 
@@ -1929,7 +1929,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- I already told you; resist any aggression.
+- I already told you: resist any aggression.
 
 - {:.sp} Parliamentarian.
 
@@ -1987,7 +1987,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Parliamentarian.
 
-- {:.i2} General, the 1st consul has reason to complain about your administration.
+- {:.i2} General, the 1st Consul has reason to complain of your administration.
 
 - {:.sp} Toussaint.
 
@@ -1996,7 +1996,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Parliamentarian.
 
-- {:.pr} What the consul reproaches ...
+- {:.pr} What the Consul reproaches ...
 
 ---
 
@@ -2032,7 +2032,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint *(to the crowd.)*
 
-- {:.i2} My friends, shout it with me : Long live Freedom.
+- {:.i2} My friends, shout it with me: Long live Freedom.
 
 - {:.sp} The Crowd.
 
@@ -2048,8 +2048,8 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} If there are still some naive folks among you under any illusions, I tell you that the Whites are no longer secretive about their plans. My friends, listen well: The Whites have restored slavery to Martinique, to Guadeloupe. Martinique slavery, Guadeloupe slavery: do you understand? So I tell you, there's no longer any doubt. All they bring
-- {:.pr.i} is decay, it's servitude without hope, for us and our children.
+- {:.pr.i} If there are still some naive folks among you, under any illusions, I tell you that the Whites are no longer secretive about their plans. My friends, listen well: The Whites have restored slavery to Martinique, to Guadeloupe. Martinique, slavery; Guadeloupe, slavery: do you understand? So I tell you, there's no longer any doubt. All they bring
+- {:.pr.i} is decay, servitude without hope, for us and our children.
 
 - {:.sp} The Crowd.
 
@@ -2078,7 +2078,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I will communicate my orders to you later. But know now that the Whites should find nothing here but rubble and ruins: three cannon shots will give you the signal for a systematic, implacable demolition. Fire and ashes. Let Saint-Domingue perish before our freedom: Freedom or death.
+- {:.pr.i} I will communicate my orders to you later. For now, let the Whites find nothing here but rubble and ruins: three cannon shots will give you the signal for systematic, implacable demolition. Fire and ashes. Let Saint-Domingue perish before our freedom: Freedom or death.
 
 - {:.sp} The Crowd.
 
@@ -2274,7 +2274,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 - {:.sp} The Chorus.
 
 - {:.i2} I remember the islands' morning.
-- The morning kneaded almond and glass.
+- The morning-kneaded almond and glass.
 - The thrushes would laugh in the breadfruit tree.
 
 - {:.sp} Toussaint.
@@ -2285,11 +2285,11 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 [66]({{site.baseurl}}/chiens/p066.html){:.pagetitle}
 
-- {:.pr} of a large herd, and I dig, knee-deep, in the high grass of blood. Poor gods, good-natured faces, arms too long, driven out of a rum paradise—ashen palms visited by bats and packs of sleepwalkers—the cadaverous decomposition lights its worm and herb candles
+- {:.pr} of a large herd, and I dig, knee-deep, in the high grass of blood. Poor gods, good-natured faces, arms too long, driven out of a rum paradise---ashen palms visited by bats and packs of sleepwalkers---the cadaverous decomposition lights its worm and herb candles
 - Climb, rockets, illuminate the disaster ...
-- {:.pr} I bled in the secret corridors—on the grand open field of battle and,
-- I advance, spalled fly big insect tough-horned and voracious
-- {:.pr} attracted by the succulences of my own sawtooth skeleton, legacy of my murdered body, violent through the bars of the sun.
+- {:.pr} I bled in the secret corridors---on the grand open field of battle and,
+- I advance, [check]spalled fly big insect tough-horned and voracious
+- {:.pr} attracted by the succulence of my own sawtooth skeleton, legacy of my murdered body, violent through the bars of the sun.
 
 - {:.sp} The Man Reciter.
 
@@ -2308,13 +2308,13 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - {:.sp} The Woman Reciter.
 
-- Cul de sac of miseries, of loneliness, of smelly grasses.
+- Dead end of miseries, of loneliness, of smelly grasses.
 
 - {:.sp} Toussaint.
 
 - the cayman! the torches! the flags!
 - and the Amazon River erects rubber trees
-- and the moons fallen like winged seeds in the warm humus of the sky
+- and the moons fall like winged seeds in the warm humus of the sky
 - o hand of the strangler,
 - my soul swims in the heart of the maelstrom
 - where strange monograms sprout:
@@ -2439,7 +2439,7 @@ Courage, girls ... Courage ... It won't be easy ... Run ... run ... and hide in 
 
 - A phallic time, rife with miracles.
 
-*(He laughs idiotically and sits on his throne. The first three gods touch their foreheads and point to the fourth god to indicate he is mad.)*
+*(He laughs idiotically and sits on his throne. The first three gods touch their foreheads and point to the fourth god to imply he is mad.)*
 
 - {:.sp} The Archbishop.
 
