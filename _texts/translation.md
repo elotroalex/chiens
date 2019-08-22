@@ -2288,15 +2288,15 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - {:.pr} of a large herd, and I dig, knee-deep, in the high grass of blood. Poor gods, good-natured faces, arms too long, driven out of a rum paradise---ashen palms visited by bats and packs of sleepwalkers---the cadaverous decomposition lights its worm and herb candles
 - Climb, rockets, illuminate the disaster ...
 - {:.pr} I bled in the secret corridors---on the grand open field of battle and,
-- I advance, [check]spalled fly big insect tough-horned and voracious
-- {:.pr} attracted by the succulence of my own sawtooth skeleton, legacy of my murdered body, violent through the bars of the sun.
+- I advance, spalled-fly grand-insect tough-horned and voracious
+- {:.pr} attracted by the succulence of my own sawtooth skeleton, legacy of my body murdered violently through the bars of the sun.
 
 - {:.sp} The Man Reciter.
 
 - scattered skinned
-- in the soils in the thickets
+- in the terrains in the thickets
 - disemboweled poem
-- emigration of burned doves drizzled with spirits ...
+- migration of doves burnt dipped in hard liquor ...
 
 - {:.sp} The Woman Reciter.
 
@@ -2475,7 +2475,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - Cataracts here are the cataracts and the murderous clear song of the birds.
 
-*(A desert campaign, as far from tropical as possible. Farmers. Enter the traveler, head covered with a veil.)*
+*(A field in the desert, as far from tropical as possible. Farmers. Enter the traveler, head covered with a veil.)*
 
 - {:.sp} The Traveler.
 
@@ -2555,7 +2555,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} Toussaint.
 
-- {:.pr} I am Toussaint L'Ouverture, your revenge, your freedom, your anger, your lifted blood, your machete, your woolly head, your paroxysm.
+- {:.pr} I am Toussaint the Opening, your revenge, your freedom, your anger, your lifted blood, your machete, your woolly head, your paroxysm.
 
 *(The Good People continue to plant stones, then suddenly they stop.)*
 
@@ -2585,7 +2585,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} Toussaint.
 
-- ... Without possessions.
+- ... without possessions.
 
 - {:.sp} The Stone Diggers.
 
@@ -2609,7 +2609,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.pr} To the crazy auction, at my expense, at my own risk and peril ...
+- {:.pr} To the irresponsible bid, at my expense, at my own risk and peril ...
 
 *(Toussaint is gone.)*
 
@@ -2645,11 +2645,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - I will dance around my victim the scalp dance.
 
-- {:.sp} The Prison Guard *(addressing the public.)*
+- {:.sp} The Guard Man *(addressing the public.)*
 
 - {:.pr} Look at him, a caricature if you will, that crestfallen and scrawny face, a shabby face, chilly hands, the hypocritical chief of a tribe of savages, a sad conductor of a race of demons; sneaky schemer lost with his fanatics.
 - {:.pr.i} Ladies and Gentlemen, listen carefully ... In 1793 we learned that in the name of human rights, we learned, I repeat, that the most vile of all races was going to sit side by side with us at the banquet of a laughable fraternity.
-- {:.pr.i} Ah, we didn't have to wait long to see the results. There was comedy. There was a bit of tragedy. There was horror. Cannibals could be seen entering the towns swollen with pride; we lived the Te Deum. We saw constitutions being drafted. That's what we saw, good people who are listening. And what else did we witness? The smoke in the midday sky, the fire in the midnight sky of innumerable Aurora Borealis reflecting the images of crime and absurdity far in the distance.
+- {:.pr.i} Ah, we didn't have to wait long to see the results. There was comedy. There was a bit of tragedy. There was horror. Cannibals could be seen entering the towns swollen with pride; we lived the Te Deum. We saw constitutions being drafted. That's what we saw, good people in the audience. And what else did we witness? The smoke in the midday sky, the fire in the midnight sky of innumerable Aurora Borealis reflecting the images of crime and absurdity far in the distance.
 
 ---
 
@@ -2664,7 +2664,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Saint-Domingue, salve of dung riven with gold. Bite me, bite me, I hear your dogs in the thunder, I hear your love in my veins. Bite me. Drink my blood.
+- {:.pr.i} Saint-Domingue, salve of dung riven with gold. Bite me, bite me; I hear your dogs in the thunder; I hear your love in my veins. Bite me. Drink my blood.
 
 - {:.sp} The Chorus.
 
@@ -2672,11 +2672,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Attached like a sign to the top of France, I do not sob ... I call.
+- {:.pr.i} Hung like a sign above France, I do not weep ... I call.
 
 - {:.sp} The Guard Man.
 
-- We undermined the echo : your words will burn like turds.
+- We drowned the echo: your words will burn like turds.
 
 - {:.sp} Toussaint.
 
@@ -2705,11 +2705,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Congo and Mississippi, strain out gold
 - strain out blood
 - the race of earth, the race of ash walks
-- the road feet spit saltpeter wads.
+- the road's feet spit saltpeter wads.
 
 - {:.sp} The Guard Man.
 
-- You will expire, prisoner of snow, loneliness and desperation.
+- You will perish, a prisoner of snow, loneliness and desperation.
 
 - {:.sp} Toussaint.
 
@@ -2755,14 +2755,14 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - the minutes around me procession
 - like a band of skinny wolves
 - like a flock of lashes
-- like the nodes of a rope ladder of bylaws
-- indocile subject perfect victim
-- challenge riveted to the front of the pools
+- like knots on a rope ladder of bylaws
+- ungovernable subject perfect victim
+- riveted defiance in front of puddles
 - I do not converse with the gods
-- I do not cure the possessed
-- I do not know the secret that killed Antiochus Epiphanes
+- I do not heal the possessed
+- I don't know the secret that killed Antiochus Epiphanes
 - nor Herod the Great
-- what are you waiting for to spit on me
+- why wait to spit on me
 - the thick spit of centuries
 - matured
 - over 306 years
@@ -2770,10 +2770,10 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - my friends, I'm not here for anyone
 - for anyone
 - except for the flood too wet for the stars to burst
-- except for mud with burnt eyes and hot sex
-- girls run in my eyes jolted with alfalfa
-- by ringing their hooves of rivers
-- their dust-free tree voices
+- except for the mud with burnt eyes and burnt sex
+- girls run inside my eyes bouncing with alfalfa
+- clanging their hooves made of rivers
+- their dustless tree voices
 - their long bodice of bread, of plains
 - and here
 - I ordered for my funeral
@@ -2788,8 +2788,8 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - my body my body
 - stretcher I will not throw the injured to the dogs of hawthorn
-- to the cry of wine
-- to the roll of populated ruts of marine calves.
+- to the wine's cry
+- to the roll of ruts populated with seals.
 
 ---
 
@@ -2809,7 +2809,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.pr} Twilight hesitated shivering and fragile among the crickets scrapers of metal.
+- {:.pr} Twilight hesitated shivering and fragile among the crickets, scrapers of metal.
 
 - {:.sp} The Messenger.
 
@@ -2819,7 +2819,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Who's calling me ? I listen. I do not listen.
 - {:.pr} There is in my head a river of mud of bleak of green and troubled things of dead birds, yellow bellies,
-- crisscrossed miaowings squirts very close to the gag
+- crisscrossed miaowings, squirts very close to the gag
 - my convulsed years painted on fire
 - revolving plaques of swamps, craters, raped girls
 - there in my ears the firing squad in the morning caponiers.
@@ -2854,7 +2854,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.sp} Toussaint.
 
 - Well, here you are, worthy messenger of the superior race
-- {:.pr} Full of flair, having smelled the smell of nearby treasure, our masters here have delegated to you to hear the revelation of our little secrets ... It's all good ... The civet does not hasten on the steps of the gazelle.
+- {:.pr} Full of flair, having smelled the scent of nearby treasure, our masters here have delegated to you to hear the revelation of our little secrets ... It's all good ... The civet does not hasten on the steps of the gazelle.
 
 - {:.sp} The Messenger.
 
@@ -2875,7 +2875,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Messenger.
 
-- How! your promises? your remorse? your letter?
+- What! your promises? your remorse? your letter?
 
 ---
 
@@ -2919,21 +2919,20 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Messenger.
 
-- {:.pr} Let's see, Toussaint, you lost the battle. You are defeated: there is no dishonor to recognize it.
+- {:.pr} Let's see, Toussaint, you lost the battle. You are defeated: there is no dishonor in recognizing it.
 
 - {:.sp} Toussaint.
 
 - Toussaint is conquered; the spirit of Toussaint is not.
 - He still animates thousands of wills
-- Do you see the hills bloated with the menace of rough-skinned men?
+- Do you see the hills bloated with the menace of rough-necked men?
 - The revolt ... my sons, these are my sons.
 
 - {:.sp} The Messenger.
 
-- {:.i2} Your childish imaginations make me smile with pity.
-- Your sons. Naive old man.
-- and your son agrees with us, that it would be unforgivable
-- if you added theft to your crimes.
+- {:.i2} Your childish imagination is quite touching.
+- Your sons. Naive old fool.
+- Your son actually agrees with us that it would be unforgivable if you added theft to your crimes.
 
 ---
 
@@ -2941,7 +2940,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- Theft ? Me, theft, my son?
+- Theft? Me, theft, my son?
 - You lie, dog; out of my sight, out of here, I tell you, or I will strangle you.
 - Do you speak the truth? Isaac is in their hands.
 - No, traitor, executioner ... executioner.
@@ -2953,9 +2952,9 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - But I do choose to throw water on embers
 - {:.pr} and I say that I sniff a crime here: the crime against oblivion, the crime against the son, and I say that the father has no right to hang the son on the grudging wire of his cruel memories
 - {: .pr} and I say that we must forget, that the wrong of the vanquished is to be defeated, but their crime is not to forget
-- {: .pr} and I say that, as a volunteer Minister of Propriety, I yell "inopportune" at the exposed indecency of questions that should stay silent.
-- "Inopportune", do you understand?
-- I say: O, I want to forget at length.
+- {: .pr} and I say that, as the volunteer Minister of Propriety, I yell "inopportune" at the exhibitionist indecency of questions that better be quiet.
+- "Inopportune," you see?
+- I say: O, I want to forget long and hard.
 
 - {:.sp} Toussaint *(standing up.)*
 
@@ -2969,11 +2968,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} 1st Priest *(index finger pointing at Toussaint.)*
 
-- {:.pr} Miser, if you go on the road and you meet a person who speaks to you, I forbid you from floating above the wind before answering.
+- {:.pr} Wretch, if you go on the road and you meet a person who speaks to you, I forbid you to get all puffed up before answering.
 
 - {:.sp} 2nd Priest.
 
-- {:.pr} Miser, I forbid you to go down the narrow roads, lest someone meet you.
+- {:.pr} Wretch, I forbid you to go down the narrow roads, lest someone meet you.
 
 ---
 
@@ -3034,7 +3033,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - watch out for the evil spot on the sun
 - for the cancer of the sun that creeps towards your heart
 - until it falls
-- laughter of your bare feet
+- the laughter of your bare feet
 - the world
 - {:.pr} big mad flight of crushed chicken *(he laughs frantically.)*
 
@@ -3063,7 +3062,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - A treasure! I'm the one who asks for his stolen treasure!
 - London! Paris! New York! Amsterdam!
 - {:.pr} I see them all gathered around me like stars, like triumphal moons
-- and I want with my bad eyes, my rotten breath my braille fingers in
+- and I desire with my bad eyes, my rotten breath, my braille fingers in
 - the lock
 - calculate
 - ah! to think under their calm and dignity and their balance and movement
@@ -3073,14 +3072,14 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 [84]({{site.baseurl}}/chiens/p084.html){:.pagetitle}
 
 - and their noise and harmony and their measure
-- what was needed from my nervousness
+- what was needed from my nerves
 - from my panic
-- {: .pr} my cries of eternal vagabond, and the sweat dice from my sweating face to do what I did, my son
-- oh, the river of my crazy muscles
+- {: .pr} my cries of eternal vagabond, and the sweat's dice, from my sweating face, to do what I did, my son
+- oh, the river of my insane muscles
 - oh, the jump of my blood
 - {: .pr} oh, the stuttering of my blood in the visceral forge. Well! I have been liberal far too long. I denounce the absurdly respected pact of the father and the son.
 - My son,
-- I'll be the one who started.
+- I'll be the one to start.
 
 - {:.sp} The Son.
 
@@ -3092,7 +3091,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Son.
 
-- One word, just one word form you, father, and your lot will change.
+- One word, just one word from you, father, and your lot will change.
 
 - {:.sp} Toussaint.
 
@@ -3101,50 +3100,50 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.sp} The Son.
 
 - I want to restore you to glory, to freedom, to your island:
-- and the sugarcane juice did not smell bad, no, in the fruity morning.
+- and that sugarcane juice doesn't smell bad at all in the fruity morning.
 
 - {:.sp} Toussaint.
 
-- Ah! the scoundrel doesn't lie ... And they throw the suborned son on the trail
+- Ah! the scoundrel doesn't lie ... and they throw the suborned son on the trail
 
 ---
 
 [85]({{site.baseurl}}/chiens/p085.html){:.pagetitle}
 
 - of the dying father.
-- My son, to you my treasures, to you my bands
+- My son, to you my treasures, to you my troops
 - Haiti is waiting for you. Avenge me.
 
 - {:.sp} The Son.
 
 - Saint-Domingue is waiting for peace,
-- forgetfulness,
-- convalescences
+- forgetting,
+- convalescence
 - Saint-Domingue is waiting to sleep.
 
 - {:.sp} Toussaint.
 
 - Alas.
 - like a tender papaya
-- his head is still bald
+- his head is still [check]bald
 - but here he is elected by all the arrows of the carbet
-- {:.pr} his milk flows out of a thousand wounds, and his tree heart no longer has the strength to send to the extremities the strong blood which defended him against the aridity of the sand.
+- {:.pr} his milk flows out of a thousand wounds, and his bush heart can no longer push the strong blood that defended him against the arid sands to his arms.
 
 - {:.sp} The Son.
 
 - I'm not a coward. I am not a traitor.
-- {: .pr} What I am, I still haven't chosen: standing evenly between two continents, I am a being of mediation.
+- {: .pr} What I am, I haven't yet decided: standing evenly between two continents, I am a being of mediation.
 
 - {:.sp} Toussaint.
 
 - {: .pr.i} I remember one day in November; you were not yet 6 months and the master entered the hut, sooty like a red moon, and he teased your muscular little limbs, he was a very good master
-- {: .pr} he put his big fingers on your small face full of dimples to caress it, his blue eyes laughed and his mouth teased you with sweet words, it will be a good piece, he says, a good piece like his father, he said looking at me and the mother said that the master was very good, too good she said, I remember it well and he said other kind things to the master, it was necessary to think ahead, in 20 years you would make a good slave-driver, keen eyes and firm arm
+- {: .pr} he put his big fingers on your small face, full of dimples, to caress it; his blue eyes laughed and his mouth teased you with sweet words; it will be a good piece, he says; a good piece like his father, he said looking at me, and the mother said that the master was very good, too good, she said; I remember it well, and she said other kind things to the master; it was necessary to think ahead, in 20 years you would make a good slave-driver, keen eyes and firm arm
 
 ---
 
 [86]({{site.baseurl}}/chiens/p086.html){:.pagetitle}
 
-- {: .pr} ---and this man speculated by my son's cradle---a warden cradle---
+- {: .pr} ---and this man speculated by my son's cradle---a warden's cradle---
 - {: .pr} and I said nothing, but an anger seized me and a desire to strangle this man, and my heart was set ...
 
 - {:.sp} The Son.
@@ -3157,8 +3156,8 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - It was a November night.
 - We crawled through the sugar cane
 - The cutlasses were laughing at the stars. They were making fun of the stars.
-- The sugar cane scarred our faces of streams of green blades
-- We crawled cutlass in hand
+- The sugar cane scarred our faces with streams of green blades
+- We crawled, cutlass in hand
 - Suddenly the ruckus broke the silence.
 - {: .pr} We had jumped, we slaves, we dunghill, we beasts with patient hoofs. We ran like madmen. The gunshots burst ... We were striking ... The sweat and the blood kept us fresh.
 - {: .pr} We were striking among the cries and the shouts became more strident and a great flame rose from the east: it was the commons burning and the flame flickered softly on our cheeks.
