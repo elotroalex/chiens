@@ -707,7 +707,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - {:.sp} Toussaint.
 
-- {:.i2} ... Et en effet, des catacombes essouflées de la Fin et du Commencement
+- {:.i2} ... Et en effet, des catacombes essoufflées de la Fin et du Commencement
 - la Mort s’élance vers eux, comme un torrent de chevaux fous, comme un
 - vol de moustiques...
 - Colomb, Colomb
