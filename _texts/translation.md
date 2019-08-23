@@ -2947,7 +2947,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Black Man with Glasses *(sententious.)*
 
-- I say, O, let the quarrels rot for a long time! 
+- I say, O, let old dogs lie! 
 - I'm not one to spit oil on fire
 - But I do choose to throw water on embers
 - {:.pr} and I say that I sniff a crime here: the crime against oblivion, the crime against the son, and I say that the father has no right to hang the son on the grudging wire of his cruel memories
@@ -3016,10 +3016,10 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - your straw laughter in their steel
 - your lizard laughter in the wall
 - your laughter of heresy in their dogma
-- your laughter tattooing their currencies without them suspecting it
+- your laughter tattooing their currencies under their noses
 - your irrepressible laughter
-- your laughter of vertigo where the cities fascinated will be ruined 
-- your bomb laughter late on their master feet
+- your laughter of vertigo where the fascinated cities will be ruined 
+- your bomb laughter late on their master's feet
 
 ---
 
@@ -3125,9 +3125,9 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Alas.
 - like a tender papaya
-- his head is still [check]bald
+- his head is still hairless fruit
 - but here he is elected by all the arrows of the carbet
-- {:.pr} his milk flows out of a thousand wounds, and his bush heart can no longer push the strong blood that defended him against the arid sands to his arms.
+- {:.pr} his milk flows out of a thousand wounds, and his bush heart can no longer push to his arms and feet the strong blood that defended him against the arid sands.
 
 - {:.sp} The Son.
 
@@ -3192,8 +3192,8 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Son.
 
-- Maybe then, my father, it is my turn to complain.
-- {: .pr} When the Republic offered you to raise me in Europe, the bells of your heart rang loud.
+- Maybe then, father, it's my turn to complain.
+- {: .pr} When the Republic offered you to raise me in Europe, the bells of your heart rang high.
 - {: .pr} But for me, the cries of exile, of the seagull, and the big salty kidnapping and the sunless haze: exile, my father.
 - And the rain of purple ash on a foreign Paris.
 - And the cold injected down to the vein.
@@ -3201,7 +3201,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {: .pr} and me, the landscape poisons me with aconites of his alphabet. I too can read and the cloud over the head of the old Negro that I saw on the breaking wheel on a square in Cape Town, he slapped a White, I was 10 years old, the low sky is a damper, the wind swells with burdens and the sobs of sweating skin, the wind is contaminated with whips and casks and the hung populate the sky with orchis and there are mastiffs with bloody hair and ears ... ears ... boats
+- {: .pr} and me, the landscape poisons me with aconites from its alphabet. I too can read, and the cloud over the head of the old Negro that I saw on the breaking wheel on a square in Cape Town, he slapped a White, I was 10 years old, the low sky is a damper, the wind swells with burdens and the sobs of sweating skin, the wind is contaminated with whips and casks, and the hung populate the sky with orchis, and there are mastiffs with bloody hair and ears ... ears ... boats
 
 ---
 
@@ -3221,7 +3221,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Do I ask grace for my irritated eyes?
 - don't I suffer my irreparable visions?
 - and I don't need a harpoon. And I don't need a sledge axe.
-- No pardon.
+- No forgiveness.
 - {: .pr} My heart went back to the ancient flint, the old tinder deposited by Africa in my heart.
 - I hate you. I hate you.
 - And my hate will not die.
@@ -3229,7 +3229,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - And now the past leafs through alive
 - the past hails like a banana leaf.
 - Isaac, Isaac
-- {: .pr} the cataclysm at the scalp head, at the brains of larval wheels and watches
+- {: .pr} the cataclysm at the scalped head, at the brains of larval wheels and watches
 - at random fables,
 - at random expiatory victims
 - waits
@@ -3249,7 +3249,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Great Prohibiter.
 
-- {: .pr} Come on. Come on; wake up you rude, stupid and sleepy being, the mouth which my wretched destiny imposes on me.
+- {: .pr} Come on. Come on; wake up you rude, stupid and sleepy being, mouth imposed on me by my wretched destiny.
 - My mouth
 - O my tardigrade mouth
 - my shame
@@ -3257,23 +3257,23 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Come on, quickly, quickly, the animal snores
 - but maybe you do not know who I am: veto, veto, not a bad thing
 - No, it's veto, veto
-- {: .pr} it does not tell you anything, I see that it does not tell you anything. And yet, at my bark, the mouths stop talking, the legs cease their wandering, the world is scarred with bounds, bristles with obstacles, veto, veto
+- {: .pr} it does not tell you anything, I see that it does not tell you anything. And yet, at my bark, the mouths stop talking, the legs cease their wandering, the world is scarred with borders, bristles with obstacles, veto, veto
 - I am the compressor, the suppressor, the stage manager
 - I'm The Great Prohibiter
 - let me explain
-- {:.pr} Well, it had been ascertained in high places that there had been for some time dreadful absurd consuming, unforeseen insane gifts, a largess of liberality, indulgences and permissions, all things undoubtedly disturbing the fragile economy, so fragile, fragile to the bounded universe
+- {:.pr} Well, it had been ascertained in high places that there had been for some time a dreadful absurd squandering, unforeseen insane gifts, a largess of liberality, indulgences and permissions, all things undoubtedly disturbing the fragile economy, so fragile, fragile for the bounded universe
 - bounded
 - and it was then that I was summoned. Prohibiter, The Great Prohibiter
 - I am The Great Prohibiter, do you understand?
 - He who reigns, reins, restraints, retains and constraints.
-- {:.pr} the negative order, defense personified, the eloquent handcuff, the jail lock, the gag to the well-hung tongue, the less which is the contrary of more, the stop which is the exact opposite true of movement, not the station,
+- {:.pr} the negative order, defense personified, the eloquent handcuff, the jail lock, the gag to the well-hung tongue, the less which is the contrary of more, the stop which is the exact opposite of true movement, not the station,
 
 
 ---
 
 [90]({{site.baseurl}}/chiens/p090.html){:.pagetitle}
 
-- {:.pr} not the station, the withdrawal which is the opposite of progress, the most existent being, the one which arises in opposition, the most necessary being, the opposite of expansion, of propensity, of the contagion, trip up, trip up
+- {:.pr} not the station, the withdrawal which is the opposite of progress, the most existing being, the one which arises in opposition, the most necessary being, the opposite of expansion, of propensity, of the contagion, trip up, trip up
 - the one who at a certain moment makes obsolete, obsolete
 - *(yapping)* veto, veto;
 - {:.pr} But I realize that my servant finally wakes to profit from my gracious explanations, from my philanthropic exclamations, to yawn a mouthful of air.
@@ -3298,11 +3298,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Herald *(amazed.)*
 
-- Really! on the trees! on the savanna! laws!!
+- Really! on the trees! on the savanna! laws!
 
 - {:.sp} The Great Prohibiter.
 
-- {: .pr} Ignorant is he who knows the name of Don Cristobal Colon, Admiral of the Ocean Sea, and ignores that of Rodrigo de Escovedo, Royal Notary. So learn, my friend, that the caravels that traveled here were not only pregnant with arms, food, horses, riders ... They had, above all, their plump bellies full of loud and repressive laws.
+- {: .pr} Ignorant is he who knows the name of Don Cristóbal Colón, Admiral of the Ocean Sea, and ignores that of Rodrigo de Escovedo, Royal Notary. So learn, my friend, that the caravels that traveled here were not only pregnant with arms, food, horses, riders ... They had, above all, their plump bellies full of loud and repressive laws.
 
 - {:.sp} The Herald.
 
@@ -3318,11 +3318,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Great Prohibiter.
 
-- {: .pr} And since I'm giving you a lesson, I don't want you to ignore the name of my genial precursor here, in Hispaniola. His name was Alonzo Hojeda. Remember this name, don Alonzo de Hojeda; just as history has remembered his iconic gesture, offering the cacique Caonabo the most valuable thing in the world. Can you guess what he offered the wide-eyed Caonabo? A *turey*, a sacred *turey*, i.e. a nice pair of handcuffs. He-he, you understand now, herald, come on.
+- {: .pr} And since I'm giving you a lesson, I don't want you to ignore the name of my genial precursor here, in Hispaniola. His name was Alonzo Hojeda. Remember this name, Don Alonzo de Hojeda; just as history remembers his iconic gesture: he offered the cacique Caonabo the most valuable thing in the world. Can you guess what he offered the wide-eyed Caonabo? A *turey*, a sacred *turey*, i.e. a nice pair of handcuffs. He-he, you understand now, herald, come on.
 
 - {:.sp} The Herald *(with a strong voice.)*
 
-- {:.pr} *(After a trumpet blast)* to the wind, to the rain, to the sun, to the trees of the new world, hello *(trumpet blast.)*
+- {:.pr} *(After a trumpet blast)* To the wind, to the rain, to the sun, to the trees of the new world, hello. *(trumpet blast.)*
 
 - {:.sp} The Great Prohibiter *(yelping.)*
 
@@ -3402,8 +3402,8 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - the riders remain too.
 - They hung the sun like a shield at the gates of heaven
 - assassins! murderers!
-- but they get farther away, and I can not follow them
-- they are pursuing the poor man! they give him the hunt with loud cries
+- but they get farther away, and I cannot follow them
+- they pursue the poor man! they give him the hunt with loud cries
 - and dogs barking
 - their horses are fast
 - they surround the poor man with long fatal circles
@@ -3437,8 +3437,8 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Who?
 - Them
 - them dogs
-- them men with bleeding smiles, with steel eyes
-- {:.pr} But you know, I tell you that the action of justice is extinguished. Extinguished, but the glow of their eyes never goes out.
+- them men with bleeding smiles, with steely eyes
+- {:.pr} And you know, I say their Justice is over. Over, but the glow of their eyes never dies.
 - assassins! murderers! murderers!
 
 - {:.sp} The Guard Man.
@@ -3447,7 +3447,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {: .pr} Come on! good people ... it is true that I bother you ... and you would like to prevent me from speaking ... Make me afraid, make me very afraid, I am very cowardly you know: I trembled with all the fears since the first fear ...
+- {: .pr} Come on! good people ... it is true that I bother you ... and you would like to prevent me from speaking ... Make me afraid, make me very afraid, I am very cowardly you know: I have trembled with all the fears since the first fear ...
 
 - {:.sp} The Guard Man.
 
@@ -3455,7 +3455,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.pr} Make me afraid, make me very afraid, I tell you. And you know the good ways: shake my forehead with a rope, hang me by the armpits, warm my feet with a red-hot shovel.
+- {:.pr} Make me afraid, make me very afraid, go ahead. And you know the good ways: shake my forehead with a rope, hang me by the armpits, warm my feet with a red-hot shovel.
 
 - {:.sp} The Guard Man.
 
@@ -3467,11 +3467,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Guard Man.
 
-- He tempts me!
+- He's asking for it!
 
 - {:.sp} Toussaint.
 
-- {: .pr} Mark me on the shoulder with a fleur-de-lys, a prison lock, or your initials, simply Jean, or Pierre, or Jeanne, or Louise, or Geneviève ... that's it .. or a flag ... or a small cannon ... or a cross ... or a clover.
+- {: .pr} Mark me on the shoulder with a fleur-de-lys, a prison lock, or your initials, a simple Jean, or Pierre, or Jeanne, or Louise, or Geneviève ... that's it .. or a flag ... or a small cannon ... or a cross ... or a clover.
 
 ---
 
@@ -3571,7 +3571,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {: .pr} Strike ... strike, commander ... strike to the blood ... born from the furrow, a race without moan ... strike and tire yourself.
+- {: .pr} Strike ... strike, commander ... strike for blood ... born from the furrow, a race without moan ... strike and tire yourself.
 
 - {:.sp} The Guard Woman.
 
@@ -3580,7 +3580,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Prison Guard  *(laughing.)*
 
-- Everyone knows: it does a Negro good to hit him ...
+- Everyone knows: a good smack does a Negro good ...
 
 - {:.sp} Toussaint.
 
@@ -3592,7 +3592,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint  *(jumping up.)*
 
-- cut hands ... squirting brains ... soft carrion ... Isaac,
+- cut hands ... brains leaking ... soft carrion ... Isaac,
 - Isaac ... why stay in the rain with the poisonous scorpions?
 - {: .pr} the anteaters lost in time lapping aquamarine ants on the city pavements. The opossums seek a red tree, a silver tree between the joints of the equinox ... a will convulses in the mastic, muddied by fatalities and the hide-and-seek of glow worms. Isaac! Isaac! 
 
@@ -3600,7 +3600,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Woman Reciter.
 
-- {: .pr} What a night! the snow! It is as if the snow and the night had furiously beaten each other: large masses of shadow bring down with them the panel of the sky, and the cavalry of flakes rushes down in the whipped flight of its one hundred thousand burnous.
+- {: .pr} What a night! the snow! As if the snow and the night fight each other with unrelenting fury: large masses of shadow bring down with them the panel of the sky, and the cavalry of flakes rushes down in the whipped flight of its one hundred thousand burnous.
 
 ---
 
@@ -3618,8 +3618,8 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- Hum! what is it ? Who wakes me up?
-- Who comes to trouble me by the doorsteps of rest?
+- Humph! What is it ? Who wakes me up?
+- Who comes to trouble me at the doorsteps of rest?
 
 - {:.sp} The Holy Virgin.
 
@@ -3645,7 +3645,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {: .pr.i} I am not your son. I am the son of the Earth instead, the brother of the Sun instead, the brother of the Night with its millions of stars instead. I am not your son ... I'm afraid ... my throat burns. Mother! Mother!
+- {: .pr.i} I am not your son. I am the son of the Earth instead, the brother of the Sun instead, the brother of the Night and its millions of stars instead. I am not your son ... I'm afraid ... my throat burns. Mother! Mother!
 
 - {:.sp} The Holy Virgin.
 
@@ -3657,13 +3657,14 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {: .pr.i} Ah! you needed a naked son, a son betrayed and sold, a son sprinkled with spittle ... and you chose me ... Thank you! So you needed man's sweat, man's blood, man's moans ... man's despair and you asked us! Thanks ...
-- {: .pr.i} And when we were tired, broken, exhausted, cracked, our only julep and balm was the sneer of the whip, the barking whip and the wild bite, and acid dripping on our flesh, brutalized with humiliation. Thank you, my mother. And they needed---didn't they?---those who sent you, they needed more than my defeat, more than my breasts breaking, more than my blood decomposing, they needed my acceptance ... they needed my yes, and then they sent you ... go away, stepmother ... I despise you, go away ... leave empty handed ... or rather take this bag of words ... the words of Toussaint, the last perhaps, the last ... no doubt, and bring them to your filthy brood.
+- {: .pr.i} Ah! you needed a naked son, a son betrayed and sold, a son covered in spit ... and you chose me ... Thank you! So you needed man's sweat, man's blood, man's moans ... man's despair and you asked us! Thanks ...
+- {: .pr.i} And when we were tired, broken, exhausted, cracked, our only julep and balm was the sneer of the whip, the barking whip and the wild bite, and acid dripping on our flesh, brutalized with humiliation. Thank you, mom. 
+- {: .pr.i} And they needed---didn't they?---those who sent you, they needed more than my defeat, more than my breasts breaking, more than my blood decomposing, they needed my acceptance ... they needed my yes, and then they sent you ... go away, stepmother ... I despise you, go away ... leave empty handed ... or rather take this bag of words ... the words of Toussaint, the last perhaps, the last ... no doubt, and bring them to your filthy brood.
 - {: .i2} O white men, my brothers
 - our twisted specters will come to haunt your banquets
 - {: .pr} dressed in rags, obscene, in the midst of your celebration, our scandalous faces,
 - our shouts will disturb your victories
-- {: .pr} and in the nights of defeat, you will see us standing at your crossroads, black, terrible, silent ... and you will be ashamed ... and you will be afraid ... 
+- {: .pr} and in the nights of defeat, you will see us standing at your crossroads, Black, terrible, silent ... and you will be ashamed ... and you will be afraid ... 
 
 *(The vision disappears bit by bit.)*
 
@@ -3723,7 +3724,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Man Reciter.
 
-- {:.i2} Dead in full bloom of sisal.
+- {:.i2} Dead in the full bloom of sisal.
 
 - {:.sp} The Woman Reciter.
 
@@ -3739,7 +3740,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} Saint-Domingue the secrets locked under a throat turn up in the blood steeple. Possessed women lay their soapy hands in the four corners of the red-heart marsh; the new thirsts flow out, broken moons right on the water loaf, a stone on the forehead.
+- {:.pr.i} Saint-Domingue, the secrets locked under a throat turn up in the blood steeple. Possessed women lay their soapy hands in the four corners of the red-heart marsh; the new thirsts flow out, broken moons right on the water loaf, a stone on the forehead.
 
 - {:.sp} The Woman Reciter.
 
@@ -3757,7 +3758,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Saint-Domingue! Saint-Domingue!
 
-*(The scene has changed abruptly. We are in Saint-Domingue, the walls of Cap, besieged by the black army of Dessalines ... cannon shots ... fumes ... pieces of collapsed wall ... Black general on horseback surrounded by a large staff ... armed troops ready to move.)*
+*(The scene has changed abruptly. We are in Saint-Domingue, the walls of Le Cap are besieged by the Black army of Dessalines ... cannon shots ... fumes ... pieces of collapsed wall ... a Black general on horseback is surrounded by a large number of officers ... armed troops ready to move.)*
 
 ---
 
@@ -3767,11 +3768,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Negrophobe.
 
-- {: .pr} Bastards! Death to the thieves! (Animals without soul, for whom the whip lends a semblance of conscience once in a while.) Robbers! Thieves! Arms in hand, I claim my property, my flock, my legitimate possession, my slaves!
+- {: .pr} Bastards! Death to the thieves! (Animals without soul, only the whip lends them a semblance of conscience, sometimes.) Robbers! Thieves! Arms in hand, I claim my property, my flock, my legitimate possession, my slaves!
 
-*(Noise of musketry; the Negroes fired; The Negrophobe falls, and is immediately replaced by "The Negrophile.")*
+*(Noise of musketry; the Negroes fire; The Negrophobe falls, and is immediately replaced by "The Negrophile.")*
 
-- {:.sp} The Negrophile *(hassling the void.)*
+- {:.sp} The Negrophile *(gesturing to the void.)*
 
 - {: .pr} Ha! my friends, my dear friends! And the gospel said that whoever hates his brother will live in darkness. O my friends who live in the dark, in the darkness of your skin, in the darkness of your hearts, I want to bring down, milk, a ray of light ... of love. And I will not stop calling you "my friends," my friends, my brothers.
 
@@ -3798,7 +3799,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.sp} The Negrophile  *(desperate.)*
 
 - O lost people,
-- O fools
+- O foolish
 - release your homicidal weapons
 
 ---
@@ -3867,12 +3868,12 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.sp} The Man Reciter.
 
 - at the red hour of sharks
-- at the red hour of the stirrup leagues
+- at the red hour of stirrup leather
 - at the red hour of drowning
 - at the red hour of nostalgia
 - at the hour undone red
-- at the red hour of the crushes
-- shoulders of boiling water our scarred buttocks began to cry out revenge;
+- at the red hour of crowds
+- shoulders of boiling water our scarred asses began to cry out revenge;
 - at the red hour of miracles
 - beautiful liberty of the night hatching with slatted manure and legs
 - caterpillars roared on the bridge
@@ -3901,7 +3902,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - and sapwood and trial and the triumphant litchi
 - and sacrilege
 - ramp, ramp
-- my big girl peopled with hair and fowl
+- my tall daughter peopled with hair and fowl
 - and of chance and knowledge
 - and inheritances and sources
 - on the tip of your love, on the tip of your delays
@@ -3932,7 +3933,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Black General.
 
-- All good.
+- Good times.
 
 - {:.sp} The Man Reciter.
 
