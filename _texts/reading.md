@@ -1343,7 +1343,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - {:.sp} Récitant.
 
-- {:.pr} Ce n'est pas vrai... Il n'y a plus de combats. Il n'y a plus de meurtresn'est‐ce pas&nbsp;? Plus de crimes flamboyants&nbsp;? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve de vin.
+- {:.pr} Ce n'est pas vrai... Il n'y a plus de combats. Il n'y a plus de meurtres, n'est‐ce pas&nbsp;? Plus de crimes flamboyants&nbsp;? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve de vin.
 
 - {:.sp} Récitante.
 
@@ -1480,7 +1480,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - {:.sp} Toussaint.
 
 - Un singe, je suis un singe qui par ses grimaces attroupe
-- les escales de flaques d'eau de poudrières, dedesespérance, de famine
+- les escales de flaques d'eau de poudrières, de desespérance, de famine
 - de vengeances rentrées, de détresses nucléaires, de dévotions inavouables
 - et c'est toi que j'interroge
 - ô vent

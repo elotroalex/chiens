@@ -1707,7 +1707,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Récitant.
 
-- {:.prose} Ce n'est pas vrai...Il n'y a plus de combats. Il n'y a plus de <span class="delete">meutres</span><span class="add u_m above">meurtres</span>n'est‐<br>ce pas? Plus de crimes flamboyants? L'orgue de Barbarie ronronne aveugle des<br>minutes de silence et de silence et de silence, sciure du temps sans poussière<br>Ho. Ho. une odeur de cadavres... du sang pétillant comme une grande cuve de<span class="delete">v</span><br>vin.
+- {:.prose} Ce n'est pas vrai...Il n'y a plus de combats. Il n'y a plus de <span class="delete">meutres</span><span class="add u_m above">meurtres</span> n'est‐<br>ce pas? Plus de crimes flamboyants? L'orgue de Barbarie ronronne aveugle des<br>minutes de silence et de silence et de silence, sciure du temps sans poussière<br>Ho. Ho. une odeur de cadavres... du sang pétillant comme une grande cuve de<span class="delete">v</span><br>vin.
 
 
 - {:.speaker} Récitante.
