@@ -2267,7 +2267,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - {:.sp} Récitante.
 
-- {:.pr.i} des malédictions écrasées sous les pierres palpitent en travers du chemin avec de lourds yeux de crapauds ; un grand bruit démént secoue l'île par le ciel, les os tragiques se déroulent contre nature
+- {:.pr.i} des malédictions écrasées sous les pierres palpitent en travers du chemin avec de lourds yeux de crapauds ; un grand bruit dément secoue l'île par le ciel, les os tragiques se déroulent contre nature
 - conques, avalanches, cœur
 - une nuit mal drainée et malsaine fait le tour du monde.
 
@@ -3061,8 +3061,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - Un trésor&nbsp;! mais c'est moi qui leur réclame mon trésor volé&nbsp;!
 - Londres&nbsp;! Paris&nbsp;! New York&nbsp;! Amsterdam&nbsp;!
 - {:.pr} Je les vois toutes réunies autour de moi comme des étoiles, comme des lunes triomphales
-- et je veux avec mes mauvais yeux, mon haleine pourrie mes doigts d'aveugle dans
-- la serrure
+- et je veux avec mes mauvais yeux, mon haleine pourrie mes doigts d'aveugle dans la serrure
 - supputer
 - ah&nbsp;! supputer sous leur calme et leur dignité et leur équilibre et leur mouvement
 
