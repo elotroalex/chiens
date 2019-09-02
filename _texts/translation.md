@@ -52,7 +52,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- Woe to him who comes in contact with its resin.
+- Woe to those who come in contact with its resin.
 
 - {:.sp} The Man Reciter.
 
@@ -61,7 +61,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} The Woman Reciter.
 
 - This country is cursed.
-- {:.pr} This land yawns: having spat the hookworm Cuba, a mouth of empty cries. 
+- {:.pr} This land yawns: a mouth of empty cries, having spat Cuba the hookworm. 
 
 - {:.sp} The Man Reciter.
 
@@ -80,8 +80,8 @@ Please note that the following text contains violence in many guises, including 
 - and I salute my fraternity whole.
 - Saint-Domingue, your rivers sink into my flesh
 - their tamarind snout,
-- forests grow in mangles on my muscles,
-- waves of my blood sing for the cays,
+- forests grow my muscles to mangles,
+- my blood in waves sings for the cays,
 - I close my eyes,
 - all my riches at hand,
 - all my wetlands,
@@ -3955,7 +3955,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} A Voice in the Air.
 
-- {: .i2} Plow me, plow me, my people's armed cry;
+- {: .i2} Plow me, plow me, my people's battle cry;
 - {:.pr} Plow, warthog, and trample, trample me until my heart breaks, until my veins burst, until my bones blaze in the midnight of my flesh.
 
 ---

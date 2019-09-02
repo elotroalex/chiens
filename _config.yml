@@ -20,7 +20,13 @@ color-scheme:
 
 permalink: pretty
 permalink: /:title/
+
+# Dev exclude
 exclude: [img,images,downloads,_chiens,.sass-cache,chiens.txt,appender.py,ed..gemspec,snippets,Gemfile*,Rakefile.rb,vendor,spec,README.md,wax_theme,package.json]
+
+# Prod exclude
+# exclude: [.sass-cache,chiens.txt,appender.py,ed..gemspec,snippets,Gemfile*,Rakefile.rb,vendor,spec,README.md,wax_theme,package.json]
+
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'

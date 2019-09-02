@@ -9,9 +9,9 @@ desc 'Publishing the website via rsync'
 
 
 task :prod do
-  puts 'First, let\'s build your site...'
-  sh "jekyll build"
-  puts "\n"
+  # puts 'First, let\'s build your site...'
+  # sh "jekyll build"
+  # puts "\n"
   puts 'Now let\'s publish it, hold on a sec...'
 # personal server setup
   user = 'agil'
