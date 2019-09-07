@@ -321,7 +321,7 @@ Please note that the following text contains violence in many guises, including 
 - and the mooring lanterns;
 - sniffling
 - the hours ring
-- and spread out at the brush of my fingers,
+- and spread out while I pet them,
 - the flames spread out.
 - Me too, I am a flame.
 - I spread out. I am the hour.
@@ -342,11 +342,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} Toussaint's desires become law ... He orders and legislates.
+- {:.pr.i} Toussaint's word is law ... He orders and legislates.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} There are no roses: only peppers stitching their red tears together. 
+- {:.pr.i} There are no roses: only peppers stitching red tears together. 
 
 - {:.sp} The Chorus.
 
@@ -382,13 +382,13 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} You have heard ... You have heard ... Toussaint comes. Toussaint puts his feet on the ground ... Toussaint begins his climb up the staircase. Toussaint crosses the first step. He mounts the second. Toussaint is on the perron. Step by step, Toussaint sets foot on the ditch cloaked in slippery smiles ...
+- {:.pr.i} You've heard ... You've heard ... Toussaint comes. Toussaint puts his feet on the ground ... Toussaint starts going up the staircase. Toussaint takes the first step. He takes the second. Toussaint is on the perron. Step by step, Toussaint sets foot on the ditch cloaked with slippery smiles ...
 
 - {:.sp} Toussaint.
 
 - {:.i2} You won't stop me from speaking to my friends without eclipse
 - Fat moon, bad weed, sycamore, sycamore ...
-- These are my loves, here are my hates
+- Those are my loves, here are my hates
 - and my voice a wise child at the edge of your alcove.
 
 - {:.sp} The Chorus *(distant.)*
@@ -509,7 +509,7 @@ Please note that the following text contains violence in many guises, including 
 
 - No, no, I lie. I'm afraid. I'm alone
 - my forests don't have ears, nor my rivers skin
-- unmet caravels roam the night
+- unknown caravels roam the night
 - Is it you, Columbus? Captain of the slave ship? Is it you
 - old pirate, old corsair?
 - No response. The scree widens the night.
@@ -518,9 +518,9 @@ Please note that the following text contains violence in many guises, including 
 - Beautiful as the shadow lattice of two pythons at noon
 - the archipelago
 - turbulence of prostrate organs
-- sacrifice of lamp glass crossed on the mouth
+- sacrifice of glass of lamps hooked on the mouth
 - of tempests
-- virulent battle siren absurdly caught in the motion
+- virulent battle siren, absurdly caught in the motion
 - of palms and scolopendra
 - it's me tonight, swearing before the assembled forest
 - in rings of violent cries
@@ -538,7 +538,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Voices of Women.
 
-- Executioner, kill him.
+- Kill him, executioner.
 
 - {:.sp} Voice.
 
@@ -553,7 +553,7 @@ Please note that the following text contains violence in many guises, including 
 - Kill Toussaint. Kill Toussaint.
 - Bring him to the stake. To the stake.
 
- *(A group prepares a blaze frenetically)*
+ *(A group frenetically prepares a blaze)*
 
 - {:.sp} The Crowd.
 
@@ -639,7 +639,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - {:.i2} Goodbye, friends.
-- Death for me, cold-handed militiaman.
+- For me, death, cold-handed militiaman.
 
 - {:.sp} The Crowd.
 
@@ -648,7 +648,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - {:.i2} Long live Vengeance. Long live Freedom.
-- {:.pr} The mountains will tremble like a tooth caught between a pair of forceps; the stars will crash on the ground their pregnant forehead.
+- {:.pr} The mountains will tremble like a tooth caught between a pair of forceps; the stars will crash their pregnant faces on the land.
 
 - {:.sp} The Crowd.
 
@@ -713,13 +713,13 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - {:.i2} ... And there it is, winded catacombs of the End and the Beginning
-- Death jumps on them, like a torrent of wild horses, like a
+- Death pounces on them, like a torrent of wild horses, like a
 - flight of mosquitoes ...
 - Columbus, Columbus
 - you
 - the calm
-- when you set your first foot on this island snapped shut like a mousetrap,
-- {:.pr} among the new signs, among the gods that your pride refused to confess, I know it, I feel it, you did not feel overcome with triumph, but with anguish, with uneasy anxiety, you the impregnable, caught pierced and bound up with the great silent creepers of fear, the great silent creepers of Repentance.
+- when you first set foot on this island, snapped shut like a mousetrap,
+- {:.pr} among the new signs, among the gods your pride refused to confess---I know it, I feel it---you did not feel overcome with triumph, no, but with anguish, with uneasy anxiety, you the impregnable, caught pierced and bound up with the great silent creepers of fear, the great silent creepers of Repentance.
 
 - {:.sp} The Crowd.
 
@@ -733,7 +733,7 @@ Please note that the following text contains violence in many guises, including 
 
 [22]({{site.baseurl}}/chiens/p022.html){:.pagetitle}
 
-*(The scene fades progressively, slowly.)*
+*(The scene fades away slowly.)*
 
 - {:.sp} The Woman Reciter.
 
@@ -751,7 +751,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Go back inside girls. This is not the time to play, the orbits of death push their dazzling eyes through the pale mica.  
+- {:.pr.i} Go back inside girls. This is no time to play; the orbits of death push their dazzling eyes through the pale mica.  
 
 - {:.sp} 1st Girl *(seriously.)*
 
@@ -759,7 +759,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.i2} It is the season of burning stars about to begin.
+- {:.i2} The season of burning stars is about to begin.
 
 - {:.sp} 2nd Girl *(laughing.)*
 
@@ -803,13 +803,13 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus *(hateful.)*
 
-- {:.pr.i} ...Saint-Domingue the black, where the master's sadism and the groan of the slave, coprophagous by force, complete with streaks of vomit the shark bite and the centipede's crawl.
+- {:.pr.i} ...Saint-Domingue the black, where the master's sadism and the groan of the slave, coprophagous by force, completes with vomit streaks the shark bite and the centipede's crawl.
 
-*(At this moment darkness falls on the scene; gunshots; discordant cries; after these, the ruckus dies down; when the light returns, the decor has changed: the Black war camp in the middle of the forest. A conference of Black leaders and White deputies.)*
+*(At this moment, darkness falls on the scene; gunshots; discordant cries; after these, the ruckus dies down; when the light returns, the decor has changed: a Black war camp in the middle of the forest. A conference of Black leaders and White deputies.)*
 
 - {:.sp} 1st Deputy.
 
-- {:.pr.i} Our presence alone signals how earnest our desire is to reconcile. We have silenced in our hearts the natural indignation aroused by the memory of so many acts of cruelty. And we have swept under the rug all of our repugnance and repulsion, all of the habits that our philosophical minds define as prevention or prejudice, despite their exigency in our colonial societies ...
+- {:.pr.i} Our presence alone signals our earnest desire to seek a resolution. We have silenced in our hearts the natural indignation aroused by the memory of so many acts of cruelty. And we have swept under the rug all of our revulsion and repulsion, all the dispositions that our philosophical minds call prevention or prejudice, as required as these are in our colonial societies ...
 
 ---
 
@@ -823,21 +823,21 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} The hostile collapse of the tower, the mountain, the lighthouse stops to hesitate by the edge of the trigger
+- {:.pr} The hostile collapse of the tower, the mountain, the lighthouse stops to hesitate on the the trigger's edge.
 - A necklace of convenient pearls no longer numbs the anxiety
-- {:.pr} Sprawling apostrophes come to life in the distance like cataclysms
+- {:.pr} Sprawling apostrophes come to life in the distance, like cataclysms
 - Silence already poisons every fiber
 - Half-swallowed hieroglyphic gestures signal
 - the fallows and the sowing of corpses.
 
 - {:.sp} The Woman Reciter.
 
-- The beautiful, blind eyes of the earth sing themselves
-- playing hooky, the joint eyebrows of great plows
-- {:.pr} the scholarly gimmicks of conferences without rhyme or reason on quicksand
+- The beautiful, blind eyes of the earth sing for themselves
+- the skipped school, the joint eyebrows of great plows
+- {:.pr} the scholarly ruses of conferences held on quicksand, with no rhyme or reason.
 - The wrecker's cow, the Calvary rains and the waves
-- bewitch with snakes, with palaver, with kelp
-- the disjointed lighthouse with eagle blood.
+- bewitch the disjointed lighthouse with snakes, with palaver, with kelp
+- with eagle blood.
 
 ---
 
@@ -863,7 +863,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 1st Deputy.
 
-- {:.i2} Your women are tired of the uncertain and unsettled life.
+- {:.i2} Your women grow weary of the uncertain and unsettled life.
 
 - {:.sp} The Voices of Women.
 
@@ -886,7 +886,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Comrades, you heard them; with your own ears you heard. They are so gentle and benevolent, they offered your leaders to abandon you; they have come to bribe us ... they have come to ask us to betray you. 
+- {:.pr.i} Comrades, you heard them; with your own ears you heard them. They are so gentle and benevolent; they offered your leaders to abandon you; they have come to bribe us ... they have come to ask us to betray you. 
 
 - {:.sp} The Crowd.
 
@@ -894,7 +894,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} And having heard, you understand, comrades, that the Whites have not yet renounced their hateful privileges; that White people are not ready to stop feasting on the blood and tears of Black people.
+- {:.pr.i} And having heard, you understand, comrades, that the Whites have not yet given up their hateful privileges; that White people are not ready to stop feasting on the blood and tears of Black people.
 
 - {:.sp} The Crowd.
 
@@ -912,7 +912,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr} Kiss of precious stones, oblivion of blood, beautiful as the freed memory of fresh forgetting, revenge rose with the day's ear, and all the vanilla dust weaving the nights' flesh, and all the wasps salivating the nights' cassava, and all the barracudas signing the back of the night, have been forced to see through their keyhole eye.
+- {:.pr} Kiss of precious stones, oblivion of blood, beautiful as the unleashed memory of fresh forgetting, revenge rose up with the ear of the day, and all the vanilla dust weaving the nights' flesh, and all the wasps salivating the nights' cassava, and all the barracudas signing the back of the night, have been forced to see through their keyhole eye.
 
 ---
 
@@ -922,7 +922,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} We are not done here, comrades ... Who will bring to the rest of the Whites our elegant response? ... Yes ... Deaf and blind, their ambassadors sail through hell. Who then, and with what words will you stitch the earth's terror on their guts?
+- {:.pr.i} We are not done here, comrades ... Who will bring to the rest of the Whites our elegant response? ... Yes ... Deaf and blind, their ambassadors sail through hell. Who then, and with what words will you stitch the terror of the earth on their guts?
 
 - {:.sp} Voices.
 
