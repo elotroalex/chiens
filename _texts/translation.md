@@ -61,7 +61,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} The Woman Reciter.
 
 - This country is cursed.
-- {:.pr} This land yawns: a mouth of empty cries, having spat Cuba the hookworm. 
+- {:.pr} This land yawns: a mouth of empty cries, coughing up Cuba the hookworm. 
 
 - {:.sp} The Man Reciter.
 
@@ -80,8 +80,8 @@ Please note that the following text contains violence in many guises, including 
 - and I salute my fraternity whole.
 - Saint-Domingue, your rivers sink into my flesh
 - their tamarind snout,
-- forests grow my muscles to mangles,
-- my blood in waves sings for the cays,
+- forests grow mangles from my muscles,
+- my blood sings for the cays in waves,
 - I close my eyes,
 - all my riches at hand,
 - all my wetlands,
@@ -99,15 +99,15 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} Saint-Marc yields... the proud... its walls crumble... our horses sense the air's blend of gunpowder and drum. 
+- {:.pr.i} Saint-Marc yields... the proud... its walls crumble... our horses sense the blend of gunpowder and drum in the air. 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Toussaint, Toussaint, the day of trials has arrived... He comes... the King's messenger... he glides... mouth full of promises... the serpent hisses... hisses... He holds Toussaint on the tip of the tongue...
+- {:.pr.i} Toussaint, Toussaint, the day of trials has arrived... He comes... the King's messenger comes... he glides... mouth full of promises... the serpent hisses... hisses... He holds Toussaint on the tip of his tongue...
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} Toussaint alone has taken the path of war. Everything has grown quiet. The canons and muskets are quiet. Toussaint is naked... The shield of braided straw on his left hand... He stops... He crawls... He freezes, a knee on the ground... His torso unfolds like a wall... The spear is raised...
+- {:.pr.i} Toussaint alone has taken the path of war. Everything else was quiet. The canons and muskets are quiet. Toussaint is naked... The shield of braided straw on his left hand... He stops... He crawls... He freezes, a knee on the ground... His torso unfolds like a wall... The spear is raised...
 
 *(At this moment an extravagant procession invades the scene: pilgrims, horses, dogs. Scents of musk and benzoin.)*
 
@@ -119,30 +119,30 @@ Please note that the following text contains violence in many guises, including 
 
 - My voice rumples words of silk,
 - my voice exhales umbels of feather,
-- my evergreen voice can dig from the hollow basins
-- a thousand harmonious songs
-- my eyelash voice crafts a thousand victorious insects
+- my evergreen voice can dig a thousand harmonious songs
+- from the hollow basins
+- my voice of eyelashes hones a thousand victorious insects
 - my voice, a pretty flamboyant golden bird
 - of sky muslin, of irresistible desires,
-- my moist voice rolls out streams
+- my moist voice rolls out in streams
 - of fearless doves over pebbles
 - of jasper and ecbatana...
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Who goes there, thrusting silver and gold on me, besieging me with dangers, with foreign caresses?
+- {:.pr.i} Who hides there, piercing me with silver and gold, besieging me with dangers and strange caresses?
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} I've consulted the sacred dice. I say that a royal being slumbers in you on a narrow bed.
+- {:.pr.i} I've consulted the sacred dice. I say, a royal being slumbers in you on a narrow bed.
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I say that the Republic has belled the world a new swing by hammering three golden words...
+- {:.pr.i} I say, the Republic has belled the world a new swing by hammering three golden words...
 
 - {:.sp} Second Voice of Temptation.
 
-- {:.pr.i} Ha, ha, ha. Words, nothing but words---not only three; a thousand words, Toussaint... My dear friend, do you want money? Titles? Land? Would you like to be Field Marshall? Grandee of Spain? King... that's it... you will be King... I swear you will be King.
+- {:.pr.i} Ha, ha, ha. Words, nothing but words---not just three; a thousand words, Toussaint... My dear friend, do you want money? Titles? Land? Would you like to be Field Marshall? Grandee of Spain? King... that's it... you will be King... I swear you will be King.
 
 ---
 
@@ -151,21 +151,21 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - I take one step
-- Oh. I take another.
-- leave me without the insult of your promises, to swallow
-- carrion and mud. 
+- Ah. I take another.
+- spare me the insult of your promises and go, for me to dislodge
+- the carrion and mud. 
 
 - {:.sp} Third Voice of Temptation.
 
-- {:.pr.i} ... A king. What an adventure. And it's true that something in you could never be subjected: a rage, a desire, a sadness, an impatience, a contempt, in a nutshell, a violence ... And here your veins carry gold, not mud; pride, not servitude. King, you were once king ...
+- {:.pr.i} ... A king. What an adventure. And it's true that something in you could never be subjected: a rage, a desire, a sadness, an impatience, a contempt; in a nutshell, a violence ... And here your veins carry gold, not mud; pride, not servitude. King, you were once king ...
 
 - {:.sp} Toussaint.
 
 - Night feast
 - wine cellar, meat
-- cleaved houses stitch their serpent motif
+- the cleaved houses stitch a serpent motif
 - fer-de-lance and rose window
-- towns bounce like lambs with yellow fever
+- towns bounce, lambs with yellow fever
 - the swollen Artibonite plays the peacock;
 - on the broken dike
 - windows open up ever after.
@@ -183,11 +183,11 @@ Please note that the following text contains violence in many guises, including 
 - I was a slave for 50 years
 - and I cut the cane, and I waxed the shoes, and
 - the smallest child, the master's kid,
-- dragged the old slave around, chained to obedience
+- dragged this old slave around, chained to obedience
 - and respect;
 - and I tell you,
 - that which lights the old night of my skull,
-- is certainly not images of ambition, nope,
+- is certainly not the image of ambition, nope,
 - but the laughter of fire, the laughter of flowers and rivers
 - your image
 - more violent than a heart, more brutal than a thoroughbred
@@ -197,14 +197,14 @@ Please note that the following text contains violence in many guises, including 
 
 - Bornou Sokoto, Benin and Dahomey Sikasso
 - Sikasso
-- I call to assembly: skies and breasts, drizzle
+- I call to assembly: breasts and sky, drizzle
 - and pearls, the sowing, the golden keys.
 
 - {:.sp} Toussaint.
 
 - Martinique, Jamaica
 - no mirage or mountaingem
-- can lull to amnesic sleep
+- can lull to amnesia
 - the fire blast, the spoils of blood, the steel song
 - fraternal abysms of Jericho roses  ... 
 
@@ -261,13 +261,13 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.i2} Patience, I see.
+- {:.i2} Patience, I'm looking.
 - {:.pr} My polar head swallows the glimmer of corpses, the broken helmets, the inconsolable debris, suns oozing the beefy scent of venison.
 
 - {:.sp} Toussaint.
 
 - {:.pr.i} I am not an octopus. I won't spit night and ink on the face of the night.
-- Do you see already? ...
+- Can you see already? ...
 
 - {:.sp} The Woman Reciter.
 
@@ -346,7 +346,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} There are no roses: only peppers stitching together their red tears. 
+- {:.pr.i} There are no roses: only peppers stitching their red tears together. 
 
 - {:.sp} The Chorus.
 
