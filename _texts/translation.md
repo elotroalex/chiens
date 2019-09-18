@@ -187,7 +187,7 @@ Please note that the following text contains violence in many guises, including 
 - and respect;
 - and I tell you,
 - that which lights the old night of my skull,
-- is certainly not the image of ambition, nope,
+- is certainly not the image of ambition, no,
 - but the laughter of fire, the laughter of flowers and rivers
 - your image
 - more violent than a heart, more brutal than a thoroughbred
@@ -358,7 +358,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Alas. Alas. Spider Europe stirs its legs and phalanges of ships ... Alas. Alas.
+- {:.pr.i} Alas. Alas. Spider Europe stirs its legs and the phalanges of ships ... Alas. Alas.
 
 - {:.sp} The Chorus.
 
@@ -464,7 +464,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.i2} I'll bring this country to the knowledge of self
 - I'll acquaint this land with its secret demons
 - I'll light up the craters with cymbals and heloderma
-- the symphonies of an unknown hell, splendid
+- the symphonies of an unknown, splendid hell
 - infested with haughty nostalgias ...
 
 - {:.sp} The Chorus.
@@ -477,11 +477,11 @@ Please note that the following text contains violence in many guises, including 
 - alone.
 - Everything is alone
 - I sharpen my voice
-- all abandons all
+- all is abandon
 - save my voice,
 - my voice sways in the cornet of mists without crossroads 
-- and I don't have a mother
-- and I don't have a son.
+- and I have no mother
+- and I have no son.
 
 - {:.sp} The Chorus.
 
@@ -510,7 +510,7 @@ Please note that the following text contains violence in many guises, including 
 - No, no, I lie. I'm afraid. I'm alone
 - my forests don't have ears, nor my rivers skin
 - unknown caravels roam the night
-- Is it you, Columbus? Captain of the slave ship? Is it you
+- Is it you, Columbus? Slaveship Captain? Is it you
 - old pirate, old corsair?
 - No response. The scree widens the night.
 - Columbus. Columbus.
@@ -546,7 +546,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Voice.
 
-- White people will be really angry at us now, and all because of him.
+- He will bring their fury down on us.
 
 - {:.sp} Voices.
 
@@ -561,7 +561,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} An Orator.
 
-- {:.pr.i} Comrades, I'm here to tell you that Toussaint is an enemy of the people and a troublemaker. We have enough troubles as it is. We are not happy, you say? Comrades, will we be happy with freedom and war and the vengeance of White people raining down on us? I tell you that Toussaint is a traitor. Kill him.
+- {:.pr.i} Comrades, I'm here to tell you that Toussaint is an enemy of the people and a troublemaker. We have enough troubles as it is. We are not happy, you say? Comrades, will we be happy with freedom and war and the vengeance of White people coming down on us? I tell you that Toussaint is a traitor. Kill him.
 
 - {:.sp} Voices.
 
@@ -656,7 +656,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr} ... when night falls, the still suns will grow massive, catastrophic coconut trees.
+- {:.pr} ... the still suns will become night, massive, catastrophic coconut trees.
 
 ---
 
@@ -668,7 +668,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Ah! You won't quit me so easy, not without first hearing the bite of my tongue on your imbecile souls.
+- {:.pr.i} Ah! You won't get rid of me so easily, not without first hearing the bite of my tongue on your imbecile souls.
 - You can be certain of it, I track you like pray ...
 - and I see you, and I catch you in the middle of your
 - lies and your cowardice;
@@ -713,8 +713,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - {:.i2} ... And there it is, winded catacombs of the End and the Beginning
-- Death pounces on them, like a torrent of wild horses, like a
-- flight of mosquitoes ...
+- Death will pounce on them like a torrent of wild horses, like a flight of mosquitoes ...
 - Columbus, Columbus
 - you
 - the calm
@@ -823,7 +822,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} The hostile collapse of the tower, the mountain, the lighthouse stops to hesitate on the the trigger's edge.
+- {:.pr} The hostile collapse of the tower, the mountain, the lighthouse stops to hesitate by the trigger's edge.
 - A necklace of convenient pearls no longer numbs the anxiety
 - {:.pr} Sprawling apostrophes come to life in the distance, like cataclysms
 - Silence already poisons every fiber
@@ -900,7 +899,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} Kill them! Kill! Kill!
 
-*(The crowd closes in like a jaw.)*
+*(The crowd snaps shut like a jaw.)*
 
 - {:.sp} The Man Reciter.
 
@@ -922,7 +921,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} We are not done here, comrades ... Who will bring to the rest of the Whites our elegant response? ... Yes ... Deaf and blind, their ambassadors sail through hell. Who then, and with what words will you stitch the terror of the earth on their guts?
+- {:.pr.i} We are not done here, comrades ... Who will bring to the rest of the Whites our elegant response? ... Yes ... Deaf and blind, their ambassadors sail through hell. Who then, and with what words, will stitch the earth's terror on the remaining guts?
 
 - {:.sp} Voices.
 
@@ -944,15 +943,15 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} A whistle ... The Blacks come out of the bushes with a great clamor. The machetes fall and rise and fall in the reel of exasperation.
+- {:.pr.i} A whistle ... The Blacks come out of the bushes with a great clamor. The machetes fall and rise, and fall again in the reel of exasperation.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} The machetes fall. What a harvest. That is not sugar cane on the ground. These are not banana trunks. The blood streams and skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
+- {:.pr.i} The machetes fall. What a harvest. That is not sugar cane on the ground. These are not banana trunks. Bloodstreams and skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} The hill bursts with cries. Corpses roll up to the breadfruit trees.
+- {:.pr.i} The hill bursts with yells. Corpses roll down to the breadfruit trees.
 
 - {:.sp} The Woman Reciter.
 
@@ -960,7 +959,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Half Chorus.
 
-- {:.i2} They cut our hams.
+- {:.i2} They knived our hamstrings.
 
 - {:.sp} Half Chorus.
 
@@ -1018,7 +1017,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 2nd Deputy.
 
-- {:.i2} And I, sir, of theirs who bow to the henchmen of tyranny.
+- {:.i2} And I, sir, of those who bow to the henchmen of tyranny.
 
 - {:.sp} The Governor.
 
@@ -1149,7 +1148,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} Kill the Whites! Kill the Whites!
 
-*(A collective hysteria. The scent of blood rises. The Speaker dances the bamboula on the dais.)*
+*(A collective hysteria. The scent of blood intensifies. The Speaker dances the bamboula on the dais.)*
 
 - {:.sp} The Crowd.
 
@@ -1197,7 +1196,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter *(in a scathing voice.)*
 
-- {:.pr.i} In the end, let me tell you, what I see in the end: in the end ... ah yes, at the very end: the fall of Europe, down a sinkhole under the hysterical shit of chomping ghouls, its limping haunted by devils, its insolence crushed by prayers, and, on its wounds, the pepper of my laughter and the salt of my tears.
+- {:.pr.i} In the end, let me tell you, what I see in the end: in the end ... ah yes, at the very end: the fall of Europe, to end as the runny shit of chomping ghouls, its limping haunted by devils, its insolence crushed by prayers, and, on its wounds, the pepper of my laughter and the salt of my tears.
 
 ---
 
@@ -1215,7 +1214,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Mother.
 
-Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide in the sharp canes ... then run some more ... Ouch. My legs ...
+Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in the sharp sugarcanes ... then run some more ... Ouch. My legs ...
 
 *(The mother and her girls have disappeared; same decor. A hoe slashes the scene. Hoes, then hands ... They are slaves plowing at dusk.)*
 
@@ -1249,11 +1248,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} 2nd Slave.
 
-- {:.i2} My fatigue is a hole, that no sleep can fill.
+- {:.i2} My fatigue is a hole, and no sleep could fill it up.
 
 - {:.sp} 3rd Slave.
 
-- {:.pr.i} My fatigue is a thirst, ho, that no drink can quench.
+- {:.pr.i} My fatigue is a thirst, ho, and no drink could quench.
 
 - {:.sp} The Chorus of Slaves.
 
@@ -1271,7 +1270,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} 3000 royal poincianas crumble in the nothingness of the night, and the night forgets.
+- {:.pr.i} 3000 royal poincianas crumble in the night's nothingness, and the night forgets.
 
 *(Gunfire ...)*
 
@@ -1440,8 +1439,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - I let myself drift in the night of spices, tornado and holy images
 - and the kelp
 - grabs with its kiddy fingers
-- my imminent trumpeting
-- of the shipwreck!
+- my future trumpeting
+- of shipwrecks!
 
 ---
 
@@ -1480,15 +1479,15 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} Toussaint.
 
-- A monkey, I am a monkey who by his grimace brings
+- A monkey, I am a monkey who can bring with a grimace
 - layovers of dust puddles, despair, famine
 - vengeance returned, nuclear distress, unspeakable devotions
-- and you're the one I ask
+- and I ask you
 - oh, wind
-- calm face painted with the guano of contortion
+- calm face, painted with the guano of contortion
 - wind deserts, cactus and sphinx standing
 - calamitously
-- have you not understood?
+- have you still not understood?
 
 ---
 
@@ -1536,10 +1535,10 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} Toussaint.
 
-- For heaven's sake!
+- Oh, for heaven's sake!
 - leave the camp already, goddammit!
-- don't executioners rehearse already their ax on the block?
-- don't birds of prey cock already their puffy eyes?
+- don't you see the executioners practicing their swing on the block?
+- the birds of prey cocking their puffy eyes?
 
 ---
 
@@ -1565,9 +1564,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - Salvum fac imperatorem
 - salvum fac gubernatorem.
 
-*(The scene remains empty for a few instants.)*
-
-*(Enter the nanny, an old black woman laden with medals.)*
+*(The scene remains empty for a few instants. Enter the nanny, an old black woman laden with medals.)*
 
 - {:.sp} The Chorus.
 
@@ -1585,10 +1582,10 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - broken wings and branches
 - the victims take turns at the falls
 - hey there on the fore top
-- start the fire, ongoing fire, on the shade and the ditch
+- start the fire, keep it going, on the shade and the ditch
 - A thousand excuses, we have the best to offer you
-- a blazing fire saluting with its flares the darkness armed
-- with blue shadows
+- a blazing fire saluting the darkness with flares
+- armed with blue shadows
 - what is that? what is that?
 - through my hand I see stars
 - obsolete freedoms
@@ -1614,9 +1611,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - Princess palm cutters,
 - snake charmers
 - you will not charm my unstoppable hourglass hands
-- and I come to this land where nothing presses
-- lest all
-- fall asleep.
+- and I come to this land where nothing rocks the boat
+- from fear that things won't find their sleep.
 
 ---
 
@@ -1664,7 +1660,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} 2nd Passerby.
 
-- {:.pr} You're missing the point, my dear kin ... You're getting carried away, and passion is worthless in politics. A Negro, Captain General of Saint-Domingue
+- {:.pr} You're missing the point, my dear cousin ... You're getting carried away, and passion is worthless in politics. A Negro, Captain General of Saint-Domingue
 - ridiculous, I agree with you,
 - humiliating, I don't deny it,
 - {:.pr} But see here, young man ... dangerous above all else. And I'm going to tell you why ...
@@ -1683,7 +1679,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} All the bitterness and all the hope on the backs of my hands, in the palms of my *caimito* hands, will not console me.
+- {:.pr.i} All the bitterness and all the hope on the backs of my hands, in the palms of my caimito hands, will not console me.
 
 ---
 
@@ -1695,12 +1691,12 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} My palaces, I hate them. My island's limit is a prison, and I am a prisoner.
+- {:.pr.i} My palaces, I hate them. My island limit is a prison, and I am a prisoner.
 
 - {:.sp} The Chorus.
 
-- {:.i2} I hear a whole people sing their hymns to you.
-- {:.i2} Your glory sung next to the walls.
+- {:.i2} I hear a whole people offer hymns to you.
+- {:.i2} Your glory is sung all along the ramparts.
 
 - {:.sp} Toussaint.
 
@@ -1709,7 +1705,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} Saint-Domingue is happy: a fearless bird casts its young flame in the warm belly of the night.
+- {:.pr.i} Saint-Domingue is happy: a fearless bird casts its young flame into the warm belly of the night.
 
 - {:.sp} Toussaint.
 
@@ -1729,13 +1725,12 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - water lilies.
 - {:.i2} We will muzzle the sea while listening to the farmers toil towards the rump
-- of fabulous mornings, in a sweetness of scandals and scum.
+- of fabulous mornings, in a sweetness of scandals and foam.
 
 - {:.sp} Toussaint.
 
-- {:.pr} Enough happiness! strange beggars with vintage faces 
-- who now threaten, now salute the dawns
-- It's me
+- {:.pr} Enough happiness! The strange beggars with vintage faces who now threaten, now salute the dawns
+- They are me
 - a hunger wakes them up every night among the madrepora
 - a strong hunger for the sun and very ancient coins.
 - I turn to the unknown wind bursting with pursuits
@@ -1743,13 +1738,13 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - don't speak, don't laugh
 - Africa sleeps---don't speak, don't laugh. Africa bleeds, my mother
 - Africa splits open, shattered by drains of vermin,
-- to the sterile invasion of the spermatozoa of rape!
+- to the sterile invasion of spermatozoa of rape!
 
 - {:.sp} The Chorus.
 
 - {:.pr} What a thread stretched along the forests, rivers, swamps, tongues and big cats!
 - I do not have the gift of theft.
-- I do not have a mother---I do not have a past.
+- I have no mother---I have no past.
 - I filled up the well with dust and insults, all the way to oblivion, 
 - my navel's stepmother.
 
@@ -1768,7 +1763,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - Hippos blow their nightmares
 - Rhinos charge in the wind grown too quickly
-- a round of adobe my mature innocence laughs its loud laughter
+- a round of adobe, my mature innocence laughs its loud laughter
 - of fresh earth ...
 
 - {:.sp} The Man Reciter.
@@ -1786,10 +1781,10 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - {:.sp} The Woman Reciter.
 
 - Warning!
-- I scream a warning from the watchtower.
+- I sound the alarm from the watchtower.
 - Closer!
 - This way!
-- The canoe of buccaneers is looting the azure field---for their amusement.
+- The canoe of buccaneers loots the fields of azure---just for fun.
 - Drunkenness and debauchery. An immense expanse is gilded;
 - in the depths of the lye lake, a red eagle;
 - {:.pr} fields of corn, indigo, sugar cane, a few fathoms deep;
@@ -1848,14 +1843,14 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - A fair dawn was pounding smiles
 - a fair dawn was pounding hopes
 - a dawn was pounding simple words brighter than plowshares ...
-- and for us still the rainy season
+- and still for us the season of rain
 - and of poisonous beasts
-- and of war cries knocked down
-- and of women who collapse pregnant from the wait ...
+- and of knocked-down war cries 
+- and of women who collapse pregnant with wait ...
 
 - {:.sp} Soldier.
 
-- {:.i2} My general, the Whites send parliamentarians.
+- {:.i2} My General, the Whites send parliamentarians.
 
 - {:.sp} The Crowd.
 
@@ -1866,13 +1861,13 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - At the threshold of the night
 - for the 50th time
 - in the big castle and the bush
-- the 14 daggers go up the shady stairs
-- whipped with branches.
+- the 14 daggers go up the shaded stairs
+- whipped by branches.
 
 - {:.sp} The Woman Reciter.
 
 - Waters supervised by Griffins
-- sleep on the edge of the fires
+- sleep on the edge of fires
 - eclipse of sands, magnificat
 - suspended garden and turbulence
 - bronze age
@@ -1948,7 +1943,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} Parliamentarian.
 
-- War it is. Fine. Goodbye, general.
+- Fine. War it is. Goodbye, general.
 
 - {:.sp} Toussaint.
 
@@ -1971,7 +1966,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - {:.sp} Toussaint *(ecstatic.)*
 
 - leaning on the fire ramp,
-- the cries of the sky did not persuade me.
+- unconvinced by the clouds' pleas.
 - bark djembe
 - bark from the top gate, guardian dogs
 - dogs of the void
@@ -2003,17 +1998,17 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} The Chorus.
 
-- Tell Voudou to turn off the solar-yellow of its midnights
-- tell the bothrops that the bets are made
+- Tell the Vodou to put out the sunlight of their midnights
+- tell the bothrops the bets are made
 - we are the fallen race
 - we are the race with no day and no tomorrow.
 
 - {:.sp} The Woman Reciter.
 
-- Arpeggio of sinister guitars a dawn bleeding white
+- Arpeggio of sinister guitars, a dawn bleeding white
 - rises under my eyelids
 - I'm waiting for you, I wait
-- I walk on the eggs of precious moments
+- I walk over the eggs of precious moments
 - Oh, the stubborn fragile paths, and certain
 - of my kingdom which is and is not yet.
 
@@ -2027,7 +2022,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} We reach the moment when the Empress decrees in the caves of empire the uselessness of reparations, and tattoos her thighs with a shower of daturas where a flaming spear rattles.
+- {:.pr} We reach the moment when, within the grottos of empire, the Empress decrees the uselessness of reparations and tattoos her thighs with a shower of daturas where a flaming spear rattles.
 
 - {:.sp} Toussaint *(to the crowd.)*
 
@@ -2057,7 +2052,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - {:.sp} Toussaint.
 
 - {:.pr.i} "To arms." That's what your brothers cried in Guadeloupe when they learned what the tyrants had in store for them.
-- {:.pr.i} "To arms." And Delgrès preferred to blow himself up than to surrender ...
+- {:.pr.i} "To arms." And Delgrès preferred to blow himself up rather than surrender ...
 
 - {:.sp} The Crowd.
 
@@ -2077,7 +2072,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I will communicate my orders to you later. For now, let them find only rubble and ruins when they get here: three cannon shots will give you the signal for systematic, implacable destruction. Fire and ashes. Let Saint-Domingue perish before our freedom: Freedom or death.
+- {:.pr.i} I will communicate my orders to you later. For now, let them find nothing but rubble and ruins when they get here: three cannon shots will give you the signal for systematic, implacable destruction. Fire and ashes. Let Saint-Domingue perish before our freedom: Freedom or death.
 
 - {:.sp} The Crowd.
 
@@ -2113,7 +2108,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - {:.sp} Toussaint.
 
 - Blow up the city;
-- I will kill, I will shred to pieces
+- I will kill. I will shred to pieces
 - fever,
 - plague
 
@@ -2127,7 +2122,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - my warm fur, spilled blood
 - my ears, my arteries carry a charge
 - that makes the rut of a woman in heat
-- feel like the weak gesture of a child;
+- look like the weak gesture of a child;
 - Oh, beloved face of the light
 - I fought ten years for a smile
 - your smile grown to full complicity
@@ -2174,9 +2169,9 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - riding out my hate and my hope.
 - I still have ravines
 - I still have mountains ...
-- at the bottom of a hole protected from the winds, I will still watch the secret tides
+- at the bottom of a pit, protected from the winds, I will keep my watch for the secret tides
 - the revolts of silt and black earth.
-- onward, my friends.
+- onward, friends.
 
 - {:.sp} 1st Horse Rider.
 
@@ -2199,7 +2194,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - {:.sp} Toussaint.
 
 - Guide us
-- O guide us
+- Oh, guide us
 - blind aloe, vengeance, thunderous army
 - for a century.
 
@@ -2216,11 +2211,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - and became sumptuary law on the cobblestones
 - Soon the roads were surprised by strange disasters
 - the bitten crowds sought passage
-- the bitten crowds bit instead the crossroads' hidden blockades 
+- the bitten crowds bit the crossroads' hidden blockades instead
 - and the crowds wavered there.
-- The crowds were trampled underfoot
+- And the crowds were trampled underfoot
 - and the red eagles gave signals mid-flight
-- the signals of death.
+- death signals.
 
 *(A desolate heath: The glow of wildfires.)*
 
@@ -2229,13 +2224,13 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - {:.i2} Again. Again
 - labyrinths of wine and sea
 - the indisputable storm barbecues
-- the isthmus the angles the diamond the day
+- the isthmus, the angles, the diamond, the day
 - I don't recant a thing
 - his silver dishes: My laughter
 - {:.pr} his oriflammes of shellfish: My sadness, my jungle, my curse flaring up ...
 - alas.
 - Everything disappears, everything falls apart.
-- nothing matters anymore but the skies I remember
+- nothing matters anymore, but the skies I remember
 - nothing is left but to go down one staircase, step by step
 - nothing is left but one little stolen cinder rose
 - but one aroma of naked women
@@ -2243,7 +2238,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - but one burst of pack-ice laughter
 - but one desperate pearl necklace
 - but one outdated calendar
-- but the taste the vertigo the luxury of the intoxicating sacrilege.
+- but the taste, the vertigo, the luxury of intoxicating sacrilege.
 
 ---
 
@@ -2252,7 +2247,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - Three wise men
 - Eyes protected by three rows of embossed eyelids
 - floor of gray noons
-- distilling bramble by bramble a thin path
+- distilling a thin path bramble by bramble
 - a wild track
 - deposit of regrets and expectations
 - ghosts caught in somber circles and crazy rocks of black blood
@@ -2266,7 +2261,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Curses crushed on the stones throb across the road with heavy toad eyes; a loud insane noise shakes the island by the sky, the tragic bones unfold against nature
+- {:.pr.i} Curses crushed on the stones throb across the road with heavy toad eyes; a loud insane noise shakes the island next to the sky, the tragic bones unfold against nature
 - conchs, avalanches, heart
 - a poorly drained and unhealthy night goes around the world.
 
@@ -2274,11 +2269,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.i2} I remember the islands' morning.
 - The morning-kneaded almond and glass.
-- The thrushes would laugh in the breadfruit tree.
+- The thrushes would laugh on the breadfruit tree.
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I'm looking for traces of my power as one in the bush for the lost tracks
+- {:.pr.i} I'm looking for traces of my power, as one in the bush for the lost tracks
 
 ---
 
@@ -2287,13 +2282,13 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - {:.pr} of a large herd, and I dig, knee-deep, in the high grass of blood. Poor gods, good-natured faces, arms too long, driven out of a rum paradise---ashen palms visited by bats and packs of sleepwalkers---the cadaverous decomposition lights its worm and herb candles.
 - Rise, rockets, illuminate the disaster ...
 - {:.pr} I bled in the secret corridors---on the grand open field of battle and,
-- I advance, spalled-fly grand-insect tough-horned and voracious
-- {:.pr} attracted by the succulence of my own sawtooth skeleton, legacy of my body murdered violently traversing the bars of the sun.
+- I advance, spalled-fly, grand-insect, tough-horned and voracious
+- {:.pr} attracted by the succulence of my own sawtooth skeleton, legacy of my body murdered violently while crossing the bars of the sun.
 
 - {:.sp} The Man Reciter.
 
-- scattered skinned
-- in the terrains in the thickets
+- scattered, skinned
+- in the terrains, in the thickets
 - disemboweled poem
 - migration of burnt doves dipped in hard liquor ...
 
@@ -2314,7 +2309,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - the cayman! the torches! the flags!
 - and The Amazon erect with rubber trees
 - and the moons fall like samara in the warm humus of the sky
-- oh, hand of the strangler,
+- oh, strangler's hand,
 - my soul swims in the heart of the maelstrom
 - where strange monograms sprout:
 - a drowned phallus, a tibia, a sternum
@@ -2344,7 +2339,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} Toussaint Louverture.
 
-- do they think they could possess me like a sow and her farrow?
+- do they think they can own me like a sow and her farrow?
 - to yank me out clean like a root?
 - defeated,
 - Africa, America, Europe
@@ -2366,7 +2361,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - No need to contradict me
 - I hear nothing
-- but disasters eager to replace the cities
+- but disasters eager to replace cities
 
 ---
 
@@ -2379,7 +2374,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 - my Black people, of all colors,
 - carved in fresh butter
 - carved in achiote
-- carved, oh joy, in full on white
+- carved, oh joy, in full-on white
 - and we will not recognize them there, poets or Antichrists,
 - famous executioners
 - the blackest night is coming
@@ -2417,19 +2412,19 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} 1st God.
 
-- What a time. My children, you have made a beautiful butcher's shop.
+- What a time. My children, you have erected a beautiful butcher's shop.
 
 *(He sits down on his throne)*
 
 - {:.sp} 2nd God.
 
-- {:.pr} An astonishing time, my brothers: the Newfoundland cod throws itself on the lines of its own accord.
+- {:.pr} A shocking time, my brothers: the Newfoundland cod throws itself on the lines of its own accord.
 
 *(He sits down on his throne)*
 
 - {:.sp} 3rd God.
 
-- I say it's a dizzying or an amazing time, take your pick.
+- I say it's either a dizzying or an amazing time, take your pick.
 
 *(He sits down on his throne)*
 
@@ -2441,7 +2436,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} The Archbishop.
 
-- Come on, I like animals with beautiful furs: do not kill the cats.
+- Come on, I like pretty furry animals: please don't kill the cats.
 - Ooha. Brrooha. Oo-oo-ah.
 
 *(The gods all touch their foreheads and point to the archbishop to indicate that he has lost his mind.)*
@@ -2459,7 +2454,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} The Woman Reciter.
 
-- Oh, I'm waiting passionately: I'm surrounded ...
+- Oh, I'm waiting passionately. I'm surrounded ...
 
 - {:.sp} The Man Reciter.
 
@@ -2485,7 +2480,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} The Traveler.
 
-- Oof, I come from afar.
+- Whew, I come from afar.
 
 - {:.sp} The Good People.
 
@@ -2529,7 +2524,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} The Traveler.
 
-- {:.pr} Yes, anyway ... an amazing man ... with deep bites ... He traveled the country at the rapid speed of lightning and freedom, printing sodden corpses on the ground, his steps fertile.
+- {:.pr} Yes, anyway ... an amazing man ... with deep bites ... He traveled the country at the speed of lightning and freedom, printing sodden corpses on the ground, his steps fertile.
 
 - {:.sp} The Good People.
 
@@ -2587,7 +2582,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 - {:.sp} The Stone Diggers.
 
-- Can we help you ?
+- Can we help you?
 
 - {:.sp} Toussaint.
 
@@ -2601,13 +2596,13 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... and hide i
 
 *(He nears his ear close to the ground.)*
 
-Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Confluence. Puddles. Languages. Safe hands of the blind. I hurt. Oh. Oh, I hurt.
+Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Confluence. Puddles. Languages. Safe hands of the blind. I hurt. Oh, how I hurt.
 
-*(He stands up; at this moment the moon shines brightly in the sky. Toussaint fades into the night. He stops, turns around, and shouts from a distance.)*
+*(He stands up; at this moment, the moon shines brightly in the sky. Toussaint fades into the night. He stops, turns around, and shouts from a distance.)*
 
 - {:.sp} Toussaint.
 
-- {:.pr} To the irresponsible bid, at my expense, at my own risk and peril ...
+- {:.pr} On to the reckless gambit, at my expense, at my own risk and peril ...
 
 *(Toussaint is gone.)*
 

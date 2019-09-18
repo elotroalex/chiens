@@ -1439,7 +1439,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - je me laisse dériver dans la nuit d'épices de tornade et de saintes images
 - et le varech
 - agrippe de ses petits doigts d'enfant
-- mon barissement  futur
+- mon barrissement futur
 - d'épave&nbsp;!
 
 ---
