@@ -1165,11 +1165,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} It rises ... From the depths of the earth, it rises ... The black surge rises ... waves of screams ... swamps of animal scent ... the storm foaming up bare feet ... and it teems with others running down mountain trails, climbing the ravine escarpments, obscene torrents and wild feeders of chaotic rivers, of rotten seas, of convulsive oceans with the smoky laughter of machetes and cheap booze ...
+- {:.pr.i} It rises ... From the depths of the earth, it rises ... The Black surge rises ... waves of screams ... swamps of animal odors ... the storm foaming up bare feet ... and it teems with others running down mountain trails, climbing the ravine escarpments; obscene and wild torrents, feeders of chaotic rivers, of rotten seas, of convulsive oceans with the sooty laughter of machetes and cheap booze ...
 
 - {:.sp} The Chorus.
 
-- {:.i2} In my black and red hand, a white elderberry's dawn.
+- {:.i2} In my black and red hand, a white elderberry's dawn loses its breath.
 
 ---
 
@@ -1177,7 +1177,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.i2} In the beginning, there was nothing ...
+- {:.i2} In the beginning there was nothing ...
 
 - {:.sp} The Woman Reciter.
 
@@ -1189,14 +1189,14 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} The night and misery, comrade, misery and animal consent; the rustling night of slave breaths, dilating on the steps of the Christophorus, the great sea of miseries and dividends, the great sea of black blood, the great swell of sugar cane, the great ocean of horrors and desolation.
+- {:.pr.i} The night and misery, comrade, misery and animal consent; the rustling night of enslaved breathing, dilating by the steps of the Christophorus, the great sea of miseries and dividends, the great sea of black blood, the great swell of sugarcane, the great ocean of horrors and desolation.
 - {:.i2} In the end, there is, in the end ...
 
 *(She covers her eyes.)*
 
 - {:.sp} The Man Reciter *(in a scathing voice.)*
 
-- {:.pr.i} In the end, let me tell you, what I see in the end: in the end ... ah yes, at the very end: the fall of Europe, to end as the runny shit of chomping ghouls, its limping haunted by devils, its insolence crushed by prayers, and, on its wounds, the pepper of my laughter and the salt of my tears.
+- {:.pr.i} In the end, let me tell you what I see in the end: in the end ... ah yes, at the very end: the fall of Europe, landing on the runny shit of chomping ghouls, its limping haunted by devils, its insolence crushed by prayers, and, on its wounds, the pepper of my laughter and the salt of my tears.
 
 ---
 
@@ -1335,27 +1335,27 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr} What a great day, monstrously great. Wave forward, weeks, scruples of dying worlds; wave forward, big girls; foam against my scabrous wait.
+- {:.pr} What a great day, monstrously great. Unfurl, weeks, scruples of dying worlds; unfurl, big girls; foam against my scabrous wait.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} Here I am, the merchantman with empty hands, naked eye beckoning the spectacle, throat stirring to life the words hatched against my teeth.
+- {:.pr} Here I am, the merchant with empty hands, naked eye beckoning the spectacle, throat stirring life on words hatched against my teeth.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr} Here I am, me, me: the woman obsessed with grand words, and I swim among the gladioli and roses of Jericho towards the simple smell of corpses.
+- {:.pr} Here I am, me, me: the woman obsessed with big words, and I swim among the gladioli and roses of Jericho towards the simple smell of corpses.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} Can't be true ... No more fights. No more killings, right? No more flaming crimes? The Barbary organ blindly purrs minutes of silence and silence and silence, sawdust of time without dust. Ho. Ho. A smell of corpses ... blood sparkling like a large vat of wine.
+- {:.pr} Can't be true ... no more battles. No more killings, is that right? No more extravagant crimes? The barrel organ blindly purrs the minutes of silence upon silence upon silence, dustless sawdust of time. Ho. Ho. A smell of corpses ... blood sparkling like a large vat of wine.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr} Nothing left to do but bang on the window of the sun, break the sun's ice. Nothing left but discover in the sun's tinderbox the red tassel of poisonous ants, blasted to the winds. Ha, ha, you can't put lipstick on Fate.
+- {:.pr} Nothing left to do but bang on the window of the sun and break the glass. Nothing left to do but find the red tassel of poisonous ants in the tinderbox of the sun and blast them to the wind. Ha, ha, you can't put lipstick on Fate.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} What a great day, a gerbera, nuder than a woman under the sun, plays on its way to the sun, and the sun crackles in the shuttered brains, mined diadem, traveler's tree, braided heart, beautiful water blown to high frost.
+- {:.pr} What a great day, a gerbera, more naked than a woman in the sun, plays on its way to the sun, and the sun pops inside the closed brains: a mined diadem, the traveler's tree, a braided heart, fine water blown to high frost.
 
 - {:.sp} The Man Reciter.
 
@@ -1671,7 +1671,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I cannot drive this image away from my eyes: earth eaters on a field of clay.
+- {:.pr.i} I cannot drive away this image: dirt eaters on a field of clay.
 
 - {:.sp} The Chorus.
 
@@ -1679,7 +1679,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} All the bitterness and all the hope on the backs of my hands, in the palms of my caimito hands, will not console me.
+- {:.pr.i} All the bitterness and all the hope on the back of the hands, in the palms of those caimito hands, will not console me.
 
 ---
 
@@ -1709,9 +1709,9 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- ... a grand blaze of red eyes and crabs ...
-- {:.i2} a seeding to reap flies, palaver, bad memories
-- {:.i2} tracks, termites, fevers-to-heal, wrongs-to-straighten,
+- ... a grand blaze of red plums and crabs ...
+- {:.i2} a seeding---to see---of flies, of palaver, of bad memories
+- {:.i2} of tracks, of termites, of fevers to heal, wrongs to straighten,
 - {:.i2} an alligator yawn
 - {:.i2} a gargantuan injustice.
 
@@ -1951,7 +1951,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} We are at the moment when 9 scorpions strike each other guided by the malediction of souls.
+- {:.pr} We reach the moment when 9 scorpions strike each other guided by the malediction of souls.
 
 ---
 
@@ -2005,11 +2005,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Woman Reciter.
 
-- Arpeggio of sinister guitars, a dawn bleeding white
+- Arpeggio of sinister guitars, a dawn bleeding blanks
 - rises under my eyelids
-- I'm waiting for you, I wait
-- I walk over the eggs of precious moments
-- Oh, the stubborn fragile paths, and certain
+- I am pure waiting, I wait
+- I walk on the eggshells of precious moments
+- Oh, fragile paths, stubborn and certain,
 - of my kingdom which is and is not yet.
 
 ---
@@ -2022,7 +2022,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} We reach the moment when, within the grottos of empire, the Empress decrees the uselessness of reparations and tattoos her thighs with a shower of daturas where a flaming spear rattles.
+- {:.pr} We reach the moment when, within the grottos of empire, where the flamed spear rattles, the Empress decrees the uselessness of reparations and tattoos her thighs with a shower of daturas.
 
 - {:.sp} Toussaint *(to the crowd.)*
 
@@ -2042,7 +2042,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} For those of you who still harbor any illusions, I tell you that the Whites are no longer hiding their plans. My friends, listen well: They restored slavery to Martinique, to Guadeloupe. Martinique, slavery; Guadeloupe, slavery: do you understand? So I tell you, there's no longer any doubt. All they bring
+- {:.pr.i} For those of you who still harbor any illusions, I tell you that the Whites no longer hide their intentions. My friends, listen well: They restored slavery to Martinique, to Guadeloupe. Martinique, slavery; Guadeloupe, slavery: do you understand? So I tell you, let there be no doubt. All they bring
 - {:.pr.i} is decay, servitude without hope, for us and our children.
 
 - {:.sp} The Crowd.
@@ -2175,7 +2175,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} 1st Horse Rider.
 
-- {:.i2} Prickly ferns, guide us.
+- {:.i2} Stuttering ferns, guide us.
 
 - {:.sp} 2nd Horse Rider.
 
@@ -2418,19 +2418,19 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} 2nd God.
 
-- {:.pr} A shocking time, my brothers: the Newfoundland cod throws itself on the lines of its own accord.
+- {:.pr} Shocking times, my brothers: the Newfoundland cod throws itself on the lines of its own accord.
 
 *(He sits down on his throne)*
 
 - {:.sp} 3rd God.
 
-- I say it's either a dizzying or an amazing time, take your pick.
+- I say these are either dizzying or amazing times, take your pick.
 
 *(He sits down on his throne)*
 
 - {:.sp} 4th God.
 
-- A phallic time, rife with miracles.
+- Phallic times, rife with miracles.
 
 *(He laughs idiotically and sits on his throne. The first three gods touch their foreheads and point to the fourth god to imply he is mad.)*
 
@@ -2443,10 +2443,10 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Archbishop.
 
-- Come on, I hear the toads' pearly flute and the rough crunch of
+- Come on, I hear the toads' pearly flute and the rough chirp of
 - night crickets. Ooha. Brrooha.
 
-*(The gods get up. The group goes out slowly, each trailing behind a buckling attached to the end of a wire.)*
+*(The gods stand up. They exit slowly, each trailing behind a buckling hooked to the end of a wire.)*
 
 ---
 
