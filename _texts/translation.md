@@ -463,13 +463,13 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} I'll bring this country to the knowledge of self
 - I'll acquaint this land with its secret demons
-- I'll light up the craters with cymbals and heloderma
-- the symphonies of an unknown, splendid hell
+- I'll light up the craters of cymbals and heloderma
+- with the symphonies of an unknown, splendid hell
 - infested with haughty nostalgias ...
 
 - {:.sp} The Chorus.
 
-- Oh, the king stands.
+- Oh, the king rises.
 
 - {:.sp} Toussaint.
 
@@ -816,7 +816,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint
 
-- {:.pr.i} That's alright, gentlemen. Can you now repeat to my troops all that you have proposed to us?
+- {:.pr.i} That's fine, gentlemen. Can you now repeat to my troops all that you have proposed to us?
 
 *(Assembly. The sound of djembe.)*
 
@@ -833,7 +833,7 @@ Please note that the following text contains violence in many guises, including 
 
 - The beautiful, blind eyes of the earth sing for themselves
 - the skipped school, the joint eyebrows of great plows
-- {:.pr} the scholarly ruses of conferences held on quicksand, with no rhyme or reason.
+- {:.pr} the scholarly ruses of conferences held on quicksand without rhyme or reason.
 - The wrecker's cow, the Calvary rains and the waves
 - bewitch the disjointed lighthouse with snakes, with palaver, with kelp
 - with eagle blood.
@@ -885,7 +885,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Comrades, you heard them; with your own ears you heard them. They are so gentle and benevolent; they offered your leaders to abandon you; they have come to bribe us ... they have come to ask us to betray you. 
+- {:.pr.i} Comrades, you heard them; with your own ears you heard them. They are so gentle and benevolent; they proposed your leaders abandon you; they have come to bribe us ... they have come to ask us to betray you. 
 
 - {:.sp} The Crowd.
 
@@ -921,19 +921,19 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} We are not done here, comrades ... Who will bring to the rest of the Whites our elegant response? ... Yes ... Deaf and blind, their ambassadors sail through hell. Who then, and with what words, will stitch the earth's terror on the remaining guts?
+- {:.pr.i} We are not done here, comrades ... Who will bring our splendid response to the rest of them? ... Yes ... Deaf and blind, their ambassadors sail through hell. And now who, and with what words, will stitch the earth's terror on the rest of their guts?
 
 - {:.sp} Voices.
 
-- {:.i2} Ourselves, all of us.
+- {:.i2} We will, all of us.
 
 - {:.sp} The Crowd.
 
-- {:.i2} Ourselves, all of us.
+- {:.i2} We will, all of us.
 
 - {:.sp} Toussaint.
 
-- Good, friends ... right away ... All of us, onward, and no mercy.
+- Good, friends ... let's do it ... All of us, onward, and no mercy.
 
 *(The detachments break off with frantic cries)*
 
@@ -951,7 +951,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} The hill bursts with yells. Corpses roll down to the breadfruit trees.
+- {:.pr.i} The hill bursts with yells. Corpses pile up by the breadfruit trees.
 
 - {:.sp} The Woman Reciter.
 
@@ -967,7 +967,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} And they sold us like beasts, and counted our teeth ... and tested our testicles, and examined the tear-and-wear of our skins, and pinched us and weighed us and double-checked, and hung the collar of servitude and insult on our necks like tamed beasts.
+- {:.pr.i} And they sold us like beasts, and counted our teeth ... and tested our testicles, and examined the tear-and-wear of our skin, and pinched us and weighed us and double-checked, and hung the collar of servitude and insult on our necks like tamed beasts.
 
 - {:.sp} The Man Reciter.
 
@@ -983,7 +983,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.i2} In the name of all those desires crushed in the pool of your souls,
+- {:.i2} In the name of all those desires crushed in the pool of your souls.
 
 - {:.sp} The Woman Reciter.
 
@@ -991,7 +991,8 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} I sing the salty throw of the harpooner, and the whale blows for the last time ...
+- {:.pr.i} I sing the salty throw of the harpooner, and the whale blows 
+- for the last time ...
 
 - {:.sp} The Chorus.
 
@@ -1001,7 +1002,7 @@ Please note that the following text contains violence in many guises, including 
 
 [31]({{site.baseurl}}/chiens/p031.html){:.pagetitle}
 
-*(At Cap-Haïtien. An assembly of planters presided by The Governor.)*
+*(At Cap-Haitien. An assembly of planters presided by The Governor.)*
 
 - {:.sp} 1st Deputy.
 
@@ -1081,7 +1082,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 1st Group: A Voice.
 
-- {:.pr.i} You are right, my friend, you are right. We are losing these colonies because of bad politics. The battle plans, the combat. Let's stop this nonsense. With the Negroes, there's only one way: terror. On the first day of the insurrection, I, this guy right here, planted 50 heads on both sides of the avenue in front of my plantation, like palm trees, and I guarantee you that the flock has not moved. You see ...
+- {:.pr.i} You are right, my friend, you are right. We are losing these colonies because of bad politics. The battle plans, the combat. Let's stop this nonsense. With the Negroes, there's only one way: terror. Just like I'm standing here, on the first day of the insurrection, I planted 50 heads on both sides of the avenue in front of my plantation, like palm trees, and I guarantee you that the flock has not moved a muscle. You see ...
 
 *(The voice fades into the night.)*
 
@@ -1100,7 +1101,7 @@ Please note that the following text contains violence in many guises, including 
 
 - Silence, Gentlemen, silence.
 
-- {:.sp} 1st Freak.
+- {:.sp} 1st Zealot.
 
 - {:.pr.i} Forget silence. We are free and have equal rights. Don't forget that.
 
@@ -1108,7 +1109,7 @@ Please note that the following text contains violence in many guises, including 
 
 [34]({{site.baseurl}}/chiens/p034.html){:.pagetitle}
 
-- {:.sp} 2nd Freak.
+- {:.sp} 2nd Zealot.
 
 - {:.pr.i} And I say: Woe to those who have not seen inscribed on the wall of our honorable faces the *Mene*, *Tekel*, *Upharsin* of tyranny.
 
@@ -1116,7 +1117,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} The proceedings are now open, Gentlemen.
 
-- {:.sp} 3rd Freak.
+- {:.sp} 3rd Zealot.
 
 - {:.pr.i} Do tell, kind Sir, by what right do you open proceedings that nobody closed?
 
@@ -1189,7 +1190,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} The night and misery, comrade, misery and animal consent; the rustling night of enslaved breathing, dilating by the steps of the Christophorus, the great sea of miseries and dividends, the great sea of black blood, the great swell of sugarcane, the great ocean of horrors and desolation.
+- {:.pr.i} The night and misery, comrade, misery and animal consent; the night rustled with the breathing of slaves, dilating on the trail of the Christophorus, the great sea of miseries and dividends, the great sea of black blood, the great swell of sugarcane, the great ocean of horrors and desolation.
 - {:.i2} In the end, there is, in the end ...
 
 *(She covers her eyes.)*
@@ -1228,15 +1229,15 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} 1st Slave *(singing.)*
 
-- {:.i2} The earth is all fatigue; my fatigue is even more.
+- {:.i2} The earth sure is tired; we gonna work it more.
 
 - {:.sp} 2nd Slave *(singing.)*
 
-- {:.i2} The sun is all fatigue; my fatigue is even more.
+- {:.i2} The sun sure is tired; we gonna work it more.
 
 - {:.sp} 3rd Slave *(singing.)*
 
-- {:.i2} The rain is all fatigue; my fatigue is even more.
+- {:.i2} The rain sure is tired; we gonna work it more.
 
 ---
 
@@ -1248,11 +1249,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} 2nd Slave.
 
-- {:.i2} My fatigue is a hole, and no sleep could fill it up.
+- {:.i2} My fatigue is a deep hole, no sleep could fill it up.
 
 - {:.sp} 3rd Slave.
 
-- {:.pr.i} My fatigue is a thirst, ho, and no drink could quench.
+- {:.pr.i} My fatigue is a thirst, ho, no drink could quench it up.
 
 - {:.sp} The Chorus of Slaves.
 
@@ -1262,7 +1263,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter *(dismal.)*
 
-- {:.pr.i} Saint-Domingue melts, drowned in the throat acid of the Revolution.
+- {:.pr.i} Saint-Domingue melts, drowned in the acid reflux of the Revolution.
 
 - {:.sp} The Woman Reciter.
 
@@ -1305,7 +1306,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} ... The city collapses on its hocks ... In the slow vertigo of rape ... among the tickling of a bed of smoke and screams ...
+- {:.pr.i} ... The city collapses on its hocks ... In the slow vertigo of rape ... among the tickling of a bed of smoke and of screams ...
 
 - {:.sp} The Chorus.
 
@@ -1406,7 +1407,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} The Grand Master of the University.
 
 - {:.pr} Glory and recognition to Toussaint Louverture, educator of the people! The opposite of a Villaret, who eagerly closed down the schools of our neighbor, Martinique, and declared cynically:
-- {:.pr.i} "Ignorance is a necessary bond for men chained by violence or withered by prejudices." Here, in our free Haiti, thanks to the impetuous genius of Toussaint Louverture, the unholy system that wanted ignorance to be a policy, a police, a dogma, dies on the vine.
+- {:.pr.i} "Ignorance is a necessary bond for men chained by violence or withered by prejudices." 
+- {:.pr} Here, in our free Haiti, thanks to the impetuous genius of Toussaint Louverture, the unholy system that wanted ignorance to be a policy, a police, a dogma, dies on the vine.
 
 - {:.sp} The Crowd.
 
@@ -1438,7 +1440,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - Queen's gardens
 - I let myself drift in the night of spices, tornado and holy images
 - and the kelp
-- grabs with its kiddy fingers
+- grabs with its infant fingers
 - my future trumpeting
 - of shipwrecks!
 
@@ -1581,7 +1583,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - broken wings and branches
 - the victims take turns at the falls
-- hey there on the fore top
+- hey there on the foretop
 - start the fire, keep it going, on the shade and the ditch
 - A thousand excuses, we have the best to offer you
 - a blazing fire saluting the darkness with flares
@@ -1644,7 +1646,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} 2nd Passerby.
 
-- {:.pr.i} Still though! The English and the Spaniards forced us, right, and we sent back Master Gilles. Still, it annoys me to call that old ass "my general," and to have to stand at attention in front of him.
+- {:.pr.i} Still though! The English and the Spaniards forced us, right, and we sent back Master Gilles. Still, it annoys me to call that old ass "my General," and to have to stand at attention in front of him.
 
 - {:.spGroup} 2nd Group of Passersby.
 
@@ -1730,23 +1732,23 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} Toussaint.
 
 - {:.pr} Enough happiness! The strange beggars with vintage faces who now threaten, now salute the dawns
-- They are me
+- they are me
 - a hunger wakes them up every night among the madrepora
-- a strong hunger for the sun and very ancient coins.
+- a hunger for a larger sun and very ancient coins.
 - I turn to the unknown wind bursting with pursuits
 - I'm leaving
 - don't speak, don't laugh
 - Africa sleeps---don't speak, don't laugh. Africa bleeds, my mother
-- Africa splits open, shattered by drains of vermin,
+- Africa splits open, shattered on a ditch of vermin,
 - to the sterile invasion of spermatozoa of rape!
 
 - {:.sp} The Chorus.
 
-- {:.pr} What a thread stretched along the forests, rivers, swamps, tongues and big cats!
+- {:.pr} What a stretch along the forests, rivers, swamps, tongues and big cats!
 - I do not have the gift of theft.
 - I have no mother---I have no past.
-- I filled up the well with dust and insults, all the way to oblivion, 
-- my navel's stepmother.
+- I've filled up with countless insults and dust
+- my navel's stepmothered hollow.
 
 - {:.sp} Toussaint.
 
@@ -1905,13 +1907,13 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} The Man Reciter.
 
 - slash-and-burn cassava
-- campfire
+- camp fires
 - listen to me
 - I crave your incendiary arrows
 - your pepper-red choking fumes
 - your whistles prodding at the hamstrings of dawn
 - your curare
-- your genipa.
+- your quenepa.
 
 ---
 
@@ -1919,7 +1921,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Parliamentarian.
 
-- Let's face it, time is running out: what are your intentions, general?
+- Let's face it, time is running out: what are your intentions, General?
 
 - {:.sp} Toussaint.
 
@@ -1943,7 +1945,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Parliamentarian.
 
-- Fine. War it is. Goodbye, general.
+- Fine. War it is. Goodbye, General.
 
 - {:.sp} Toussaint.
 
@@ -2298,7 +2300,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- Haïti bleeds.
+- Haiti bleeds.
 
 - {:.sp} The Woman Reciter.
 
@@ -2340,7 +2342,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} Toussaint Louverture.
 
 - do they think they can own me like a sow and her farrow?
-- to yank me out clean like a root?
+- yank me out clean like a root?
 - defeated,
 - Africa, America, Europe
 - I keep frenzy hiding under leaves,
@@ -2544,7 +2546,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - Nope, we don't know you.
 
-*(Toussaint beats them nervously.)*
+*(Toussaint hits them nervously.)*
 
 - {:.sp} Toussaint.
 
@@ -2813,7 +2815,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Who's calling me? I listen. I don't listen.
 - {:.pr} There is in my head a river of mud, of bleak, of green and troubled things 
 - of dead birds, yellow bellies
-- crisscrossed miaowings, squirts very close to the gag
+- crisscrossed meaowings, squirts very close to the gag
 - my convulsed years painted on fire
 - revolving plaques of swamps, craters, raped girls
 - there in my ears, the firing squad in the morning caponiers.
@@ -2848,7 +2850,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.sp} Toussaint.
 
 - Well, here you are, worthy messenger of the superior race
-- {:.pr} Full of flair, having smelled the scent of nearby treasure, our masters here have asked you to receive the revelation of our little secrets ... It's all good ... The civet does not hasten on the steps of the gazelle.
+- {:.pr} Full of flair, having smelled the scent of nearby treasure, our masters here have asked you to receive the revelation of our little secrets ... It's fine ... The civet does not hasten on the steps of the gazelle.
 
 - {:.sp} The Messenger.
 
@@ -3009,11 +3011,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - larvae laughter
 - egg laughter
 - your straw laughter in their steel
-- your lizard laughter in the wall
+- your lizard laughter on their walls
 - your laughter of heresy in their dogma
 - your laughter tattooing their currencies under their noses
 - your irrepressible laughter
-- your laughter of vertigo where the fascinated cities will be ruined 
+- your laughter of vertigo wherein spellbound cities will sink 
 - your bomb laughter late on their master's feet
 
 ---
@@ -3121,7 +3123,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - like tender papaya
 - hardly a hair on his face
 - and yet, there he is, elected by all the arrows of the carbet
-- {:.pr} his milk flows out of a thousand wounds, and his bush heart can no longer push to his arms and feet the strong blood that defended him against the arid sands.
+- {:.pr} his milk flows out of a thousand wounds, and his bush heart can no longer pump to his arms and feet the strong blood that defended him against the arid sands.
 
 - {:.sp} The Son.
 
@@ -3224,7 +3226,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - the past hails like a banana leaf.
 - Isaac, Isaac
 - {: .pr} cataclysms on the scalped head, on the brains of larva, of wheels and hand watches
-- ramdom fables,
+- Ramdom fables,
 - ramdom expiatory victims
 - await
 - your eyes sunk by magnetic palaver.
@@ -3393,7 +3395,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 [93]({{site.baseurl}}/chiens/p093.html){:.pagetitle}
 
 - Help! Help! Murder!
-- they killed the sun! the sun is gone! the bulls of Bashan remain, a torch attached to their furious tail ... The bulls trample the unfurnished savanna
+- They killed the sun! the sun is gone! only the bulls of Bashan remain, torches hanging from their furious tails ... The bulls trample the unfurnished savanna
 - the riders remain too.
 - They hung the sun like a shield on the gates of heaven
 - assassins! murderers!
@@ -3418,8 +3420,8 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - get'im! get'im! they utter their terrible cries
 - full on bite of mastiff of mastiff of mastiff
 - torches lit under the forest vaults. It's over, everything is over.
-- {:.i2} No point in filing a claim; justice is over.
-- Look, they tore it to shreds. To shreds, like a wild pig.
+- {:.i2} No point in filing a claim; their justice has been served.
+- Look, they tore him to pieces. To pieces, like a wild pig.
 
 ---
 
@@ -3433,8 +3435,8 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Them
 - them dogs
 - them men with the bloody smiles, with steely eyes.
-- {:.pr} And you know, their justice may be over, yes, over, but the glow of their eyes never dies.
-- assassins! murderers! murderers!
+- {:.pr} And you know, their justice may have been served, yes, done and over with, but the glint in their eyes never dies.
+- Assassins! Murderers! Murderers!
 
 - {:.sp} The Guard Man.
 
@@ -3442,7 +3444,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {: .pr} Come on! good people ... I know I annoy you ... and you would prefer it if I just shut up ... Go on, make me afraid, make me very afraid, I am very cowardly you know: I have trembled with all the fears since the first fear ...
+- {: .pr} Come on! Good people ... I know I annoy you ... and you would prefer it if I just shut up ... Go on, make me afraid, make me very afraid, I am very cowardly you know: I have trembled with all the fears since the first fear ...
 
 - {:.sp} The Guard Man.
 
@@ -3653,7 +3655,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.sp} Toussaint.
 
 - {: .pr.i} Ah! you needed a naked son, a son betrayed and sold, a son covered in spit ... and you chose me ... Thanks! So you needed man's sweat, man's blood, man's moans ... man's despair and you asked us! Thanks ...
-- {: .pr.i} And when we were tired, broken, exhausted, crushed, our only julep and balm was the sneer of the whip, the barking whip and the wild bite, and acid dripping on our flesh, brutalized with humiliation. Thanks, mom. 
+- {: .pr.i} And when we were tired, broken, exhausted, crushed, our only julep and balm the sneer of the whip, the barking whip and the wild bite, and acid dripping on our flesh, brutalized with humiliation. Thanks, mom. 
 - {: .pr.i} And they needed---didn't they?---those who sent you, they needed more than my defeat, more than my breasts breaking, more than my blood decomposing, they needed my acceptance ... they needed my yes, and then they sent you ... go away, stepmother ... I despise you, go away ... leave empty handed ... or rather, take this bag of words ... the words of Toussaint, the last perhaps, the last ... no doubt, and bring them to your filthy brood.
 - {: .i2} O white men, my brothers
 - our twisted specters will come to haunt your banquets
@@ -3701,7 +3703,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
- - {: .pr.i} The caterpillars seek refuge in the cotton caps ... The Earth's firepit is doused ... it's all good ... But the sky chews betel ... Ha ha! The sky sucks daggers ... King of Malaysia and fevers full of insects, chew your kris and your betel ... Isaac, Isaac, a bullet rusts on your White smile ... Ouch! I walk on starfish thorns. I walk ... I assume ... I embrace ...
+ - {: .pr.i} The caterpillars seek refuge in the cotton caps ... The Earth's firepit is doused ... it's fine ... But the sky chews betel ... Ha ha! The sky sucks daggers ... King of Malaysia and fevers full of insects, chew your kris and your betel ... Isaac, Isaac, a bullet rusts on your White smile ... Ouch! I walk on starfish thorns. I walk ... I assume ... I embrace ...
 
 *(Toussaint collapses, arms outstretched, chest against the ground.)*
 
