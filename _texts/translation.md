@@ -2546,7 +2546,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - Nope, we don't know you.
 
-*(Toussaint hits them nervously.)*
+*(Toussaint smacks them nervously.)*
 
 - {:.sp} Toussaint.
 
@@ -2644,7 +2644,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} Look at him, quite the caricature, that crestfallen and scrawny face, a shabby face, chilly hands, the hypocritical chief of a tribe of savages, the sad leader of a demonic race; sneaky schemer, lost with his fanatics.
 - {:.pr.i} Ladies and Gentlemen, listen carefully ... In 1793 we learned that in the name of human rights, we learned, I repeat, that the most vile of all races was going to sit side by side with us at the banquet of a laughable fraternity.
-- {:.pr.i} Ah, we didn't have to wait long to see the results. There was comedy. There was a bit of tragedy. There was horror. Cannibals could be seen entering the towns swollen with pride; we lived the Te Deum. We saw constitutions being drafted. We saw all of that, good people in the audience. What else did we see? The smoke rising at noon; the fire of innumerable Aurora Borealis in the midnight sky, reflecting the images of crime and absurdity far in the distance.
+- {:.pr.i} Ah, we didn't have to wait long to see the results. There was comedy. There was a bit of tragedy. There was horror. Cannibals could be seen entering the towns swollen with pride; we lived the Te Deum. We saw constitutions being drafted. We saw all of that, good people in the audience. And what else did we see? The smoke rising at noon; the fire of innumerable Aurora Borealis in the midnight sky, reflecting scenes of crime and absurdity from afar.
 
 ---
 
@@ -2840,7 +2840,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.sp} Toussaint.
 
 - I fear nothing. I have nothing to fear, friends.
-- {:.pr} Today is a day of connivance. There are bitter days on my lips, and the small mango that falls, falls lugubriously, and the flowers look like burials that respond more and more feebly, but I am at peace today, and the blind she-oak signals me, and the sea smiles at me with all its dimples and every manchineel doubles up and commits suicide from the propitious olive tree.
+- {:.pr} Today is a day of connivance. There are bitter days on my lips, and the small mango that falls, falls lugubriously, and the flowers look like burials that respond more and more feebly, but I am at peace today, and the blind she-oak signals me, and the sea smiles at me with all its dimples, and every manchineel bends and commits suicide from the propitious olive tree.
 - {:.i2} Welcome, day of trials.
 
 - {:.sp} The Messenger.
@@ -3831,7 +3831,8 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - a world of little spoons
 - velvet
 - gold fabrics
-- hilltops, valleys, of petals, of cries, of frightened fawns
+- of hilltops and valleys
+- of petals, of cries and startled fawns
 - Some day
 - once upon a time
 - sisters, equals, will take each others' hands in the torture chambers
@@ -3869,15 +3870,15 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - at the red hour of nostalgia
 - at the hour undone red
 - at the red hour of crowds
-- shoulders of boiling water, our scarred asses began to cry out revenge;
+- shoulders of boiling water, our scarred asses began to call for revenge;
 - at the red hour of miracles
-- beautiful night liberty hatched at the duckboard and manure of cut legs
+- gorgeous nocturnal liberty, hatched from the duckboard and manure of cut legs
 - caterpillars roared on the bridge
 - and our legs screamed victory
 - and the broken moats answered with revenge
-- by her barbs of stars
-- by her eyes of stars, by her breasts of stars
-- the cherries made of stars she poured on us
+- with her barbs of stars
+- with her eyes of stars, her breasts of stars
+- and she made her star-born cherries rain down on us
 - wide open floodgate
 - and death was not surly
 - but sweet
@@ -3905,10 +3906,10 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - on the tip of your love, on the tip of your delays
 - on the tip of your hymns
 - of your lamps
-- on your tips of insects and roots
+- on your tip of insects and roots
 - large spawning ramp drunk with mongrels and wild boars
 - lanceolate butrops and fires
-- the rout of the scrofulous example of poultice.
+- the rout of scrofulous cases of poultice.
 
 ---
 
@@ -3991,6 +3992,6 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - I am one with you, islands.
 
-*(The Reciter and the narrator wobble on their legs and then collapse. The chorus retreats and exits.)*
+*(The Reciter and the narrator wobble on their legs until they collapse. The chorus recedes and exits.)*
 
 - {:.centered} FIN
