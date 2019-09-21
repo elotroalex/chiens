@@ -388,12 +388,12 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} You won't stop me from speaking to my friends without eclipse
 - Fat moon, bad weed, sycamore, sycamore ...
-- Those are my loves, here are my hates
+- Those are my loves, here are my hatreds
 - and my voice a wise child at the edge of your alcove.
 
 - {:.sp} The Chorus *(distant.)*
 
-- {:.i2} Oh, the king stands.
+- {:.i2} Oh, the king rises.
 
 ---
 
@@ -401,19 +401,18 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.i2} The river without idiom grows tired of the maneuvers of ash;
+- {:.i2} The idiomless river tires of the maneuvers of ash;
 - the cape and the filings
 - the birds and days
 - turn with a doorknob's creak;
 - fantastic animals on the infantile horizon
 - brain grazers
-- have averted
-- their eyes
+- rest their eyes now
 - giddy after drinking the night
 
 - {:.sp} The Chorus *(distant.)*
 
-- {:.i2} Oh, the king stands.
+- {:.i2} Oh, the king rises.
 
 - {:.sp} Toussaint.
 
@@ -421,7 +420,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus *(distant.)*
 
-- Oh, the king stands.
+- Oh, the king rises.
 
 - {:.sp} Toussaint.
 
@@ -429,7 +428,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus *(farther away.)*
 
-- Oh, the king stands.
+- Oh, the king rises.
 
 - {:.sp} Toussaint.
 
@@ -437,7 +436,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus *(even farther away.)*
 
-- ... Oh, the king stands.
+- ... Oh, the king rises.
 
 - {:.sp} Toussaint.
 
@@ -445,7 +444,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus *(almost lost in the distance.)*
 
-- Oh, the king stands.
+- Oh, the king rises.
 
 ---
 
@@ -457,7 +456,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus *(moaning.)*
 
-- Oh, the king stands.
+- Oh, the king rises.
 
 - {:.sp} Toussaint.
 
@@ -485,7 +484,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- Oh, the king stands.
+- Oh, the king rises.
 
 ---
 
@@ -831,7 +830,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- The beautiful, blind eyes of the earth sing for themselves
+- The beautiful, blind eyes of the earth themselves sing
 - the skipped school, the joint eyebrows of great plows
 - {:.pr} the scholarly ruses of conferences held on quicksand without rhyme or reason.
 - The wrecker's cow, the Calvary rains and the waves
@@ -885,7 +884,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Comrades, you heard them; with your own ears you heard them. They are so gentle and benevolent; they proposed your leaders abandon you; they have come to bribe us ... they have come to ask us to betray you. 
+- {:.pr.i} Comrades, you heard them; with your own ears you heard them. They are so gentle and benevolent; they suggested we abandon you; they have come to bribe us ... they have come to ask us to betray you. 
 
 - {:.sp} The Crowd.
 
@@ -947,7 +946,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} The machetes fall. What a harvest. That is not sugar cane on the ground. These are not banana trunks. Bloodstreams and skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
+- {:.pr.i} The machetes fall. What a harvest. That is not sugarcane on the ground. These are not banana trunks. Bloodstreams and skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
 
 - {:.sp} The Man Reciter.
 
@@ -1166,7 +1165,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} It rises ... From the depths of the earth, it rises ... The Black surge rises ... waves of screams ... swamps of animal odors ... the storm foaming up bare feet ... and it teems with others running down mountain trails, climbing the ravine escarpments; obscene and wild torrents, feeders of chaotic rivers, of rotten seas, of convulsive oceans with the sooty laughter of machetes and cheap booze ...
+- {:.pr.i} It rises ... From the depths of the earth, it rises ... The Black surge rises ... howling waves ... swamps of animal odors ... the storm of barefooted foam ... and it spouts even more running down mountain trails, climbing the ravine escarpments; obscene and wild torrents, feeders of chaotic rivers, of rotten seas, of convulsive oceans with the sooty laughter of machetes and cheap booze ...
 
 - {:.sp} The Chorus.
 
@@ -1229,15 +1228,15 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} 1st Slave *(singing.)*
 
-- {:.i2} The earth sure is tired; we gonna work it more.
+- {:.i2} The earth sure is tired; my tired gonna tire it more.
 
 - {:.sp} 2nd Slave *(singing.)*
 
-- {:.i2} The sun sure is tired; we gonna work it more.
+- {:.i2} The sun sure is tired; my tired gonna tire it more.
 
 - {:.sp} 3rd Slave *(singing.)*
 
-- {:.i2} The rain sure is tired; we gonna work it more.
+- {:.i2} The rain sure is tired; my tired gonna tire it more.
 
 ---
 
@@ -1249,16 +1248,16 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} 2nd Slave.
 
-- {:.i2} My fatigue is a deep hole, no sleep could fill it up.
+- {:.i2} My tired is a deep hole, no sleep could fill it up.
 
 - {:.sp} 3rd Slave.
 
-- {:.pr.i} My fatigue is a thirst, ho, no drink could quench it up.
+- {:.pr.i} My tired is a thirst, ho, no drink could quench it up.
 
 - {:.sp} The Chorus of Slaves.
 
 - {:.i2}  Hey, ho. Ho, my friends, ho.
-- My fatigue is a wheelbarrow full of silent sand
+- My tired is a wheelbarrow full of silent sand
 - dumped on the four corners of the stone harvest.
 
 - {:.sp} The Man Reciter *(dismal.)*
@@ -1348,11 +1347,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} Can't be true ... no more battles. No more killings, is that right? No more extravagant crimes? The barrel organ blindly purrs the minutes of silence upon silence upon silence, dustless sawdust of time. Ho. Ho. A smell of corpses ... blood sparkling like a large wine vat.
+- {:.pr} Can't be true ... no more battles. No more killings, is that right? No more extravagant crimes? The barrel organ blindly purrs the minutes of silence upon silence upon silence, dustless sawdust of time. Ho. Ho. A smell of corpses ... blood sparkling like a large vat of wine.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr} Nothing left to do but bang on the window of the sun and break the glass. Nothing left to do but find the red tassel of poisonous ants in the tinderbox of the sun and blast them to the wind. Ha, ha, you can't put lipstick on Fate.
+- {:.pr} Nothing left to do but bang on the window of the sun and break the glass. Nothing left to do but find the red tassel of poisonous ants in the tinderbox of the sun and blast them to the winds. Ha, ha, you can't put lipstick on Fate.
 
 - {:.sp} The Man Reciter.
 
@@ -1770,8 +1769,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- Beware!
-- I sound the alarm from the watchtower.
+- Danger!
+- I raise the alarm on the watchtower.
 - Closer!
 - This way!
 - the soft and slow voice of a bad harvest and unexpected rain
@@ -1782,8 +1781,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Woman Reciter.
 
-- Beware!
-- I sound the alarm from the watchtower.
+- Danger!
+- I raise the alarm on the watchtower.
 - Closer!
 - This way!
 - The canoe of buccaneers loots the fields of azure---just for fun.
@@ -2007,7 +2006,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Woman Reciter.
 
-- Arpeggio of sinister guitars, a dawn bleeding blanks
+- Arpeggio of sinister guitars, a dawn bled with blanks
 - rises under my eyelids
 - I am pure waiting, I wait
 - I walk on the eggshells of precious moments
@@ -2748,7 +2747,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.sp} Toussaint.
 
 - the minutes around me procession
-- like a band of skinny wolves
+- like a pack of bony wolves
 - like a flock of lashes
 - like knots on a ladder of rope and bylaws
 - ungovernable subject, perfect victim
@@ -2757,17 +2756,17 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - I do not heal the possessed
 - I don't know the secret that killed Antiochus Epiphanes
 - nor Herod the Great
-- why wait to spit on me
+- Why wait to spit on me
 - the thick spit of centuries
 - matured
 - over 306 years
-- too late, it's too late
+- Too late, it's too late
 - my friends, I'm not here for anyone
 - for anyone
-- except for the flood, too waterlogged to burst the stars
+- except for the flood, too waterlogged to reflect the stars
 - except for the mud with burnt eyes and burnt sex
-- girls run around inside my eyes, jolted with alfalfa
-- clanging their hooves made of rivers
+- girls run around inside my eyes rattled by alfalfa
+- clacking their river clogs
 - their dustless tree voices
 - their long bodice of bread, of plains
 - and here
@@ -2796,7 +2795,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I remember the evenings: dusk was a blue-green hummingbird frolicking in the red hibiscus.
+- {:.pr.i} I remember the evenings: dusk was a blue-green hummingbird frolicking on the red hibiscus.
 
 - {:.sp} The Messenger.
 
@@ -3132,7 +3131,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {: .pr.i} I remember one day in November; you were not yet 6 months old, and the master entered our hut---muddy like a blood moon---and he teased your muscular little limbs, he was a very good master
+- {: .pr.i} I remember one day in November; you were not yet 6 months old, and the master entered our hut---muddy like a blood moon---and he teased your small brawny limbs, he was a very good master
 - {: .pr} he put his big fingers on your small face, full of dimples, to caress it; his blue eyes laughed, and his mouth teased you with sweet words; it will be a good piece, he said; a good piece like his father, he said looking at me, and the mother said that the master was very good, too good, she said; I remember it well, and she said other kind things to the master; it was necessary to think ahead, in 20 years you would make a good slave-driver, keen eyes and firm arm
 
 ---
@@ -3151,10 +3150,10 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Killed ... I killed him ... with my own hands.
 - It was a November night.
 - We crawled through the sugarcane
-- The machetes laughed at the stars. They mocked the stars.
-- The sugar cane scarred our faces with a rush of green blades
+- The machetes laughed at the stars, but we didn't care about no stars.
+- The sugarcane scarred our faces with a rush of green blades
 - We crawled, machetes in hand
-- Suddenly the howl broke the silence.
+- Suddenly, howls broke the silence.
 - {: .pr} We had jumped, we slaves, we dunghill, we beasts with patient hoofs. We ran like madmen. The gunshots rang ... We were striking them down ... The sweat and the blood kept us fresh.
 - {: .pr} We kept striking deep in the screams, and the yelling grew louder, and a great flame rose from the east: the commons were burning, and the flame flickered softly on our cheeks.
 - Then we assaulted the master's house.
@@ -3832,18 +3831,18 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - velvet
 - gold fabrics
 - of hilltops and valleys
-- of petals, of cries and startled fawns
+- of petals, of cries of a startled fawn
 - Some day
 - once upon a time
 - sisters, equals, will take each others' hands in the torture chambers
 - and the world will gently lean down its horned head to die
 
 - days tidy as an orphanage going to Mass
-- days with their polite-assassin tunes
+- days with the airs of a well-mannered assassin
 - robbed of milk, herbs and hours
 - with their mines of wild cherry
 - with their galley curtsies by the swans' route
-- with their familiar castle airs
+- with the airs of a familiar castle
 
 ---
 
@@ -3852,14 +3851,14 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - but in rooms as beautiful as the lie which is nothing less than wonderlust
 - have I not hands?
 - stones and nightfall?
-- ancient truce of God without god days
-- ports always unknown---unknown suns
+- ancient truce of God without god
+- ports never known---unknown suns
 - hands in the holes
 - from living hands to murder
 - the drawbridge lowers on the irremediable
 - and the leap of magic words that calm the forest
 - insurgent, insurgent
-- spider precious days
+- spider of precious days
 - I will not swallow my saliva.
 
 - {:.sp} The Man Reciter.
@@ -3952,7 +3951,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} A Voice in the Air.
 
-- {: .i2} Plow, plow me, battle cry, my people's battle cry;
+- {: .i2} Plow, plow me, battle cry of my people;
 - {:.pr} Plow, warthog, and tread, tread on me until my heart breaks, until my veins burst, until my bones blaze through the midnight of my flesh.
 
 ---
