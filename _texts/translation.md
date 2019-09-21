@@ -382,7 +382,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} You've heard ... You've heard ... Toussaint comes. Toussaint puts his feet on the ground ... Toussaint starts going up the staircase. Toussaint takes the first step. He takes the second. Toussaint is on the perron. Step by step, Toussaint sets foot on the ditch cloaked with slippery smiles ...
+- {:.pr.i} You've heard ... You've heard ... Toussaint comes. Toussaint puts his feet on the ground ... Toussaint goes up the staircase. Toussaint takes the first step. He takes the second. Toussaint is on the perron. Step by step, Toussaint sets foot on the ditch cloaked with slippery smiles ...
 
 - {:.sp} Toussaint.
 
@@ -401,7 +401,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.i2} The river without idiom is exasperated by the maneuvers of the ash;
+- {:.i2} The river without idiom grows tired of the maneuvers of ash;
 - the cape and the filings
 - the birds and days
 - turn with a doorknob's creak;
@@ -441,7 +441,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- ... araucaria fruit, cherry bouquets.
+- ... araucaria cones, cherry bouquets.
 
 - {:.sp} The Chorus *(almost lost in the distance.)*
 
@@ -782,7 +782,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} Young girls, respect the pilgrims who gorge their daily bread on the rich ruts of twilight.
+- {:.pr.i} Young girls, respect the pilgrims who squander their daily bread on the rich ruts of twilight.
 
 *(The girls run away.)*
 
@@ -1081,7 +1081,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 1st Group: A Voice.
 
-- {:.pr.i} You are right, my friend, you are right. We are losing these colonies because of bad politics. The battle plans, the combat. Let's stop this nonsense. With the Negroes, there's only one way: terror. On the first day of the insurrection, I, this guy right here, planted 50 heads on both sides of the avenue in front of my plantation, like palm trees, and I guarantee you that the flock has not moved. You see ...
+- {:.pr.i} You are right, my friend, you are right. We are losing these colonies because of bad politics. The battle plans, the combat. Let's stop this nonsense. There's only one way with these Negroes: terror. On the first day of the insurrection, I, this guy right here, planted 50 heads on both sides of the avenue in front of my plantation, like palm trees, and I guarantee you that the flock has not moved. You see ...
 
 *(The voice fades into the night.)*
 
@@ -1110,7 +1110,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 2nd Freak.
 
-- {:.pr.i} And I say: Woe to those who have not seen inscribed on the wall of our honorable faces the *Mene*, *Tekel*, *Upharsin* of tyranny.
+- {:.pr.i} And I say: Woe to those who have not seen inscribed on the wall of our honorable faces the *Mene*, *Mene*, *Tekel*, *Upharsin* of tyranny.
 
 - {:.sp} The Speaker.
 
@@ -1347,7 +1347,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} Can't be true ... no more battles. No more killings, is that right? No more extravagant crimes? The barrel organ blindly purrs the minutes of silence upon silence upon silence, dustless sawdust of time. Ho. Ho. A smell of corpses ... blood sparkling like a large vat of wine.
+- {:.pr} Can't be true ... no more battles. No more killings, is that right? No more extravagant crimes? The barrel organ blindly purrs the minutes of silence upon silence upon silence, dustless sawdust of time. Ho. Ho. A smell of corpses ... blood sparkling like a large wine vat.
 
 - {:.sp} The Woman Reciter.
 
@@ -1768,8 +1768,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- Warning!
-- I scream a warning from the watchtower.
+- Beware!
+- I sound the alarm from the watchtower.
 - Closer!
 - This way!
 - the soft and slow voice of a bad harvest and unexpected rain
@@ -1780,15 +1780,15 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Woman Reciter.
 
-- Warning!
+- Beware!
 - I sound the alarm from the watchtower.
 - Closer!
 - This way!
 - The canoe of buccaneers loots the fields of azure---just for fun.
-- Drunkenness and debauchery. An immense expanse is gilded;
+- Drunkenness and debauchery. An immense expanse turns to gold;
 - in the depths of the lye lake, a red eagle;
-- {:.pr} fields of corn, indigo, sugar cane, a few fathoms deep;
-- clamors in the hollow rush up the hollow and clog the sky ...
+- {:.pr} fields of corn, indigo, sugarcane, a few fathoms deep;
+- clamors in the hollow rush up the hollow and plug the sky ...
 
 ---
 
