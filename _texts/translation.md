@@ -801,7 +801,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus *(hateful.)*
 
-- {:.pr.i} ...Saint-Domingue the black, where the master's sadism and the groan of the slave, coprophagous by force, completes with vomit streaks the shark bite and the centipede's crawl.
+- {:.pr.i} ...Saint-Domingue the Black, where the master's sadism and the death rattle of the slave, coprophagous by force, completes with vomit streaks the shark bite and the centipede's crawl.
 
 *(At this moment, darkness falls on the scene; gunshots; discordant cries; after these, the ruckus dies down; when the light returns, the decor has changed: a Black war camp in the middle of the forest. A conference of Black leaders and White deputies.)*
 
@@ -832,10 +832,10 @@ Please note that the following text contains violence in many guises, including 
 
 - The beautiful, blind eyes of the earth themselves sing
 - the skipped school, the joint eyebrows of great plows
-- {:.pr} the scholarly ruses of conferences held on quicksand without rhyme or reason.
+- {:.pr} the knowing ruses of conferences with no rhyme or reason on the quicksand.
 - The wrecker's cow, the Calvary rains and the waves
-- bewitch the disjointed lighthouse with snakes, with palaver, with kelp
-- with eagle blood.
+- bewitch with snakes, with palaver, with kelp
+- the lighthouse disjoint with eagle blood.
 
 ---
 
