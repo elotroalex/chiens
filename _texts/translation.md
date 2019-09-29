@@ -835,7 +835,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.pr} the knowing ruses of conferences with no rhyme or reason on the quicksand.
 - The wrecker's cow, the Calvary rains and the waves
 - bewitch with snakes, with palaver, with kelp
-- the lighthouse disjoint with eagle blood.
+- the lighthouse disjoints with eaglet blood.
 
 ---
 
@@ -1841,13 +1841,13 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- A fair dawn was pounding smiles
-- a fair dawn was pounding hopes
-- a dawn was pounding simple words brighter than plowshares ...
+- A just dawn was pounding smiles
+- a just dawn was pounding hopes
+- a dawn was pounding simple words, clearer than plowshares ...
 - and still for us the season of rain
 - and of poisonous beasts
 - and of knocked-down war cries 
-- and of women who collapse pregnant with wait ...
+- and of women who collapse, pregnant from having hoped ...
 
 - {:.sp} Soldier.
 
@@ -2157,7 +2157,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - defeat.
 - they advance
-- {:.pr} the massacres, my massacres, the fumes, my fumes build a road, hardly clear, of water jets gushing from the blaze
+- {:.pr} the massacres, my massacres, the smoke, my smoke builds a road, hardly clear, of water jets gushing from the blaze
 
 ---
 
@@ -2695,11 +2695,11 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- The earth race, the downtrodden race is well acquainted with feet.
+- The earth race, the downtrodden race has known feet.
 - Congo and Mississippi, strain out gold
 - strain out blood
-- the race of earth, the race of ash walks
-- the road's feet spit saltpeter wads.
+- the race of earth, the race of ash is on the move
+- chewing-saltpeter explodes feet on the road.
 
 - {:.sp} The Guard Man.
 
@@ -2721,9 +2721,9 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Ah. Here is the worthy messenger of this greedy race.
 - Gold and silver have woven their pale complexion
-- waiting for prey has carved their tawny noses
-- the brilliance of steel nests in their cold eyes.
-- Ah. A breed without velvet.
+- the prospect of prey has hooked their beastly noses
+- the glimmer of steel nests in their cold eyes.
+- Ah. A race without velvet.
 
 - {:.sp} The Messenger.
 
@@ -2731,7 +2731,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- O my limbs of cob wall
+- Oh, my limbs of shattered wall
 - you will not quit from fatigue or cold
 - my smoking cry
 - my trapped-animal cry, intact.
@@ -3131,7 +3131,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {: .pr.i} I remember one day in November; you were not yet 6 months old, and the master entered our hut---muddy like a blood moon---and he teased your small brawny limbs, he was a very good master
+- {: .pr.i} I remember that day in November; you were almost 6 months old, and the master entered our hut---muddy like a blood moon---and he teased your small brawny limbs, he was a very good master
 - {: .pr} he put his big fingers on your small face, full of dimples, to caress it; his blue eyes laughed, and his mouth teased you with sweet words; it will be a good piece, he said; a good piece like his father, he said looking at me, and the mother said that the master was very good, too good, she said; I remember it well, and she said other kind things to the master; it was necessary to think ahead, in 20 years you would make a good slave-driver, keen eyes and firm arm
 
 ---
@@ -3150,7 +3150,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Killed ... I killed him ... with my own hands.
 - It was a November night.
 - We crawled through the sugarcane
-- The machetes laughed at the stars, but we didn't care about no stars.
+- The machetes laughed at the stars, but we weren't thinking about the stars.
 - The sugarcane scarred our faces with a rush of green blades
 - We crawled, machetes in hand
 - Suddenly, howls broke the silence.
@@ -3196,7 +3196,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} Toussaint.
 
-- {: .pr} and me, the landscape poisons me with aconites from its alphabet. I too can read, like the cloud over that old Negro I saw on the breaking wheel on a square in Cape Town; he slapped a White, I was 10 years old; the low sky is a damper, the wind swells with burdens and the sobs of sweating skin, the wind is contaminated with whips and casks, and hung men populate the sky with orchis, and I see the mastiffs with bloody hair and ears ... ears ... boats
+- {: .pr} not so for me, the landscape poisons me with aconites from its alphabet. I too can read and the cloud is shaped like the head of that old Negro I saw on the breaking wheel in a square in Cape Town; he slapped a White man, I was 10 years old; the low sky is a damper, the wind swells with burdens and the sobs of sweating skin, the wind is contaminated with whips and casks, and hung men populate the sky with orchis, and I see the mastiffs with bloody hair and ears ... ears ... boats
 
 ---
 
@@ -3211,8 +3211,8 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {:.sp} Toussaint.
 
 - Who asks for grace?
-- who tries by this incongruous word to erase the blackboard and fire? Who is asking
-- grace?
+- who tries by this incongruous word to erase the blackboard and fire? 
+- Who asks for grace?
 - Do I ask for grace from my irritated eyes?
 - don't I suffer my irreparable visions?
 - and I don't need a harpoon. And I don't need a sledge axe.
@@ -3656,7 +3656,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - {: .pr.i} Ah! you needed a naked son, a son betrayed and sold, a son covered in spit ... and you chose me ... Thanks! So you needed man's sweat, man's blood, man's moans ... man's despair and you asked us! Thanks ...
 - {: .pr.i} And when we were tired, broken, exhausted, crushed, our only julep and balm the sneer of the whip, the barking whip and the wild bite, and acid dripping on our flesh, brutalized with humiliation. Thanks, mom. 
 - {: .pr.i} And they needed---didn't they?---those who sent you, they needed more than my defeat, more than my breasts breaking, more than my blood decomposing, they needed my acceptance ... they needed my yes, and then they sent you ... go away, stepmother ... I despise you, go away ... leave empty handed ... or rather, take this bag of words ... the words of Toussaint, the last perhaps, the last ... no doubt, and bring them to your filthy brood.
-- {: .i2} O white men, my brothers
+- {: .i2} Oh, white men, my brothers
 - our twisted specters will come to haunt your banquets
 - {: .pr} dressed in rags, obscene, in the midst of your celebration, our scandalous faces,
 - our shouts will disturb your victories
@@ -3696,7 +3696,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Woman Reciter.
 
-- {: .pr.i} O the dance of the nameless stars ... the savannas come alive ... the rains smoke ... unknown trees fall reduced by lightning.
+- {: .pr.i} Oh, the dance of the nameless stars ... the savannas come alive ... the rains smoke ... unknown trees fall reduced by lightning.
 
 *(At this moment Toussaint straightens up.)*
 
@@ -3829,7 +3829,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - with wind, sun, moon, rain, full moon
 - a world of little spoons
 - velvet
-- gold fabrics
+- gold lamé
 - of hilltops and valleys
 - of petals, of cries of a startled fawn
 - Some day
@@ -3838,9 +3838,9 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - and the world will gently lean down its horned head to die
 
 - days tidy as an orphanage going to Mass
-- days with the airs of a well-mannered assassin
-- robbed of milk, herbs and hours
-- with their mines of wild cherry
+- days with the swing of a well-mannered assassin
+- will be robbed of milk, of herbs and hours
+- with their demeanor of wild cherry
 - with their galley curtsies by the swans' route
 - with the airs of a familiar castle
 
