@@ -99,7 +99,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} Saint-Marc yields... the proud... its walls crumble... our horses sense the blend of gunpowder and drum in the air. 
+- {:.pr.i} Saint-Marc yields... the proud... its walls crumble... our horses sniff the blend of gunpowder and drum in the air. 
 
 - {:.sp} The Woman Reciter.
 
@@ -121,24 +121,24 @@ Please note that the following text contains violence in many guises, including 
 - my voice exhales umbels of feather,
 - my evergreen voice can dig a thousand harmonious songs
 - from the hollow basins
-- my voice of eyelashes hones a thousand victorious insects
-- my voice, a pretty flamboyant golden bird
-- of sky muslin, of irresistible desires,
-- my moist voice rolls out in streams
-- of fearless doves over pebbles
+- my eyelashed voice hones a thousand triumphant insects
+- my voice, a pretty bird aflame with gold
+- with muslin divine, with irresistible desires,
+- my moist voice flows in streams
+- of valorous doves over pebbles
 - of jasper and ecbatana...
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Who hides there, piercing me with silver and gold, besieging me with dangers and strange caresses?
+- {:.pr.i} Who goes there, piercing me with silver and gold, besieging me with dangers and strange caresses?
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} I've consulted the sacred dice. I say, a royal being slumbers in you on a narrow bed.
+- {:.pr.i} I've consulted the sacred dice. I say that a royal being slumbers on a narrow bed inside of you.
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I say, the Republic has belled the world a new swing by hammering three golden words...
+- {:.pr.i} I say that the Republic has hammered the world a new swing with three golden words...
 
 - {:.sp} Second Voice of Temptation.
 
@@ -152,8 +152,8 @@ Please note that the following text contains violence in many guises, including 
 
 - I take one step
 - Ah. I take another.
-- spare me the insult of your promises and go, for me to dislodge
-- the carrion and mud. 
+- Allow me to dislodge the carrion and mud
+- without the insult of your promises.
 
 - {:.sp} Third Voice of Temptation.
 
@@ -163,9 +163,9 @@ Please note that the following text contains violence in many guises, including 
 
 - Night feast
 - wine cellar, meat
-- the cleaved houses stitch a serpent motif
+- the cleaved houses stitch together a serpent motif
 - fer-de-lance and rose window
-- towns bounce, lambs with yellow fever
+- towns jump like sheep from yellow fever
 - the swollen Artibonite plays the peacock;
 - on the broken dike
 - windows open up ever after.
@@ -253,7 +253,7 @@ Please note that the following text contains violence in many guises, including 
 
 [8]({{site.baseurl}}/chiens/p008.html){:.pagetitle}
 
-- {:.pr.i} and I am young. I am plush with youth, with a childhood prior to doors and windows, with a childhood of libations and offerings over my eyes, over the hours. On my cheek hangs a dry lake, weeping for the trees of Judea bathed in crocuses and
+- {:.pr.i} and I am young. I am plush with youth, with a childhood prior to doors and windows, with a childhood of libations and offerings over my eyes, over the hours. A dry lake hangs on my cheek, weeping for the trees of Judea bathed in crocuses and
 - anemones
 - I am naked.
 - I am naked on the stones.
@@ -308,7 +308,7 @@ Please note that the following text contains violence in many guises, including 
 - Blind by the grace of god and fear.
 - Do you see nothing in the new grass?
 - Nothing in the ground's churn and the
-- Convulsive frolic of plants?
+- convulsive frolic of plants?
 - Nothing in the sea, really?
 - I see ... I hear ... I will talk ...
 - Oh, the vampire sun sucks my blood once more,
@@ -346,7 +346,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} There are no roses: only peppers stitching red tears together. 
+- {:.pr.i} There are no roses: only peppers embroidering red tears. 
 
 - {:.sp} The Chorus.
 
@@ -807,7 +807,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 1st Deputy.
 
-- {:.pr.i} Our presence alone signals our earnest desire to seek a resolution. We have silenced in our hearts the natural indignation aroused by the memory of so many acts of cruelty. And we have swept under the rug all of our revulsion and repulsion, all the dispositions that our philosophical minds call prevention or prejudice, as required as these are in our colonial societies ...
+- {:.pr.i} Our presence alone signals our earnest desire to seek a resolution. We have silenced in our hearts the natural indignation aroused by the memory of so many acts of cruelty. And we have swept under the rug all of our revulsion and repulsion, all the dispositions that our philosophical minds call prevention or prejudice, as necessary as these may be in our colonial societies ...
 
 ---
 
@@ -815,7 +815,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint
 
-- {:.pr.i} That's fine, gentlemen. Can you now repeat to my troops all that you have proposed to us?
+- {:.pr.i} That's fine, gentlemen. Can you now repeat everything you just proposed to us to my troops?
 
 *(Assembly. The sound of djembe.)*
 
@@ -830,12 +830,12 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- The beautiful, blind eyes of the earth themselves sing
+- The beautiful, blind eyes of the very earth sing
 - the skipped school, the joint eyebrows of great plows
 - {:.pr} the knowing ruses of conferences with no rhyme or reason on the quicksand.
 - The wrecker's cow, the Calvary rains and the waves
 - bewitch with snakes, with palaver, with kelp
-- the lighthouse disjoints with eaglet blood.
+- The lighthouse disjoints with eaglet blood.
 
 ---
 
@@ -910,7 +910,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr} Kiss of precious stones, oblivion of blood, beautiful as the unleashed memory of fresh forgetting, revenge rose up with the ear of the day, and all the vanilla dust weaving the nights' flesh, and all the wasps salivating the nights' cassava, and all the barracudas signing the back of the night, have been forced to see through their keyhole eye.
+- {:.pr} Kiss of precious stones, oblivion of blood, beautiful as the unleashed memory of fresh forgetting, revenge rose up with the day's ear, and all the vanilla dust weaving the nights' flesh, and all the wasps salivating the nights' cassava, and all the barracudas signing the night's backside have been forced to see through their keyhole eye.
 
 ---
 
@@ -3206,32 +3206,32 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.sp} The Son.
 
-- Grace, I ask for grace.
+- Mercy, I ask for mercy.
 
 - {:.sp} Toussaint.
 
-- Who asks for grace?
+- Who asks for pity?
 - who tries by this incongruous word to erase the blackboard and fire? 
-- Who asks for grace?
-- Do I ask for grace from my irritated eyes?
+- Who asks for mercy?
+- Do I ask for mercy from my red eyes?
 - don't I suffer my irreparable visions?
 - and I don't need a harpoon. And I don't need a sledge axe.
 - No forgiveness.
-- {: .pr} My heart goes back to the ancient flint, the old tinder Africa deposited inside my heart.
-- I hate you. I hate you.
+- {: .pr} I've brought my heart back to the ancient flint, the old amadou that Africa deposited deep inside of me.
+- I hate you. I hate you all.
 - And my hate will not die.
-- As long as the obese sun straddles the old nag of the Earth ...
-- And now the past leafs through alive
-- the past hails like a banana leaf.
+- As long as the fat sun rides the old nag Earth ...
+- And now the living past gets back its leaves
+- the past rips like a banana leaf.
 - Isaac, Isaac
-- {: .pr} cataclysms on the scalped head, on the brains of larva, of wheels and hand watches
-- Ramdom fables,
-- ramdom expiatory victims
+- {: .pr} cataclysms on that scalped head, on that brain of larva, of cogs and clocks
+- random fables,
+- ramdom scapegoats
 - await
-- your eyes sunk by magnetic palaver.
+- your eyes capsized by sweet-talk.
 - Isaac, Isaac
-- poisonous, my eyelids open in the heart of coconut trees ...
-- the parade of living bushes has a strong pull;
+- my eyelids open, poisonous, in the heartwood of coconuts ...
+- the parade of living bushes have a strong pull;
 - Oh, plant children stumbling on the uneven cobblestones of disquiet
 - Freedom, freedom,
 - I dare to bear alone the light of your wounded head.
@@ -3240,26 +3240,26 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 [89]({{site.baseurl}}/chiens/p089.html){:.pagetitle}
 
-*(At this moment, a vision: in a tropical field, the innenarrable silhouette of The Great Prohibiter trembles and convulses. The Herald, "his mouth," is lying under a tree. He is snoring.)*
+*(At this moment, a vision: in a tropical field, the innenarrable silhouette of The Great Prohibitor trembles and convulses. The Herald, "his mouth," is lying under a tree. He is snoring.)*
 
-- {:.sp} The Great Prohibiter.
+- {:.sp} The Great Prohibitor.
 
-- {: .pr} Come on. Come on; wake up, mouth, you rude, stupid and sleepy creature which wretched fate has foisted upon me.
+- {: .pr} Come on. Come on. Wake up, mouth, you rude, stupid and sleepy creature. What have I done to deserve this mouth?
 - My mouth
 - Oh, my tardigrade mouth
 - my shame
-- {: .pr} I have a flood of words, of orders, of counter-orders awaiting impatiently in the recesses of my saliva
-- Come on, quickly, quickly, the animal snores
-- but maybe you do not know who I am: veto, veto, not bad
-- No, it's veto, veto
-- {: .pr} not ringing any bells? I see that nothing comes to mind. And yet, at my bark, mouths stop talking, legs cease their wandering, the world is scarred with borders, brims with obstacles, veto, veto
+- {: .pr} I have a flood of words, of orders, of counter-orders awaiting impatiently in the recesses of my saliva.
+- Come on, hurry up, hurry up. The animal snores.
+- Oh, but maybe you do not know who I am. I am veto, veto ... 
+- No, not a dog bark. No, it's veto, veto.
+- {: .pr} Not ringing any bells? Nothing comes to mind, eh? And yet, when I shout, mouths stop talking, legs stop walking, the world is gashed with borders, and obstacles crop up all over, veto, veto.
 - I am the compressor, the suppressor, the stage manager
-- I'm The Great Prohibiter
+- I'm The Great Prohibitor
 - let me explain
-- {:.pr} Well, higher ups had ascertained that a dreadful, absurd squandering had been taking place for far too long, shocking, insane gifts, an excess of liberality, indulgences and permissions, all of which undoubtedly disturbed our fragile economy, so fragile, a threat to the bound universe
+- {:.pr} So, higher ups had ascertained that a dreadful, absurd squandering had been taking place for far too long, shocking, insane gifts, an excess of liberality, indulgences and permissions, all of which undoubtedly disturbed our fragile economy, so fragile, a threat to the bound universe
 - bound
-- and it was then that I was summoned. Prohibiter, The Great Prohibiter
-- I am The Great Prohibiter, you understand?
+- and it was then that I was summoned. Prohibitor, the Great Prohibitor
+- I am the Great Prohibitor, do you understand now?
 - He who reigns, reins, restraints, retains and constraints.
 - {:.pr} the negative order, defense personified, the eloquent handcuff, the jail lock, the gag on the well-hung tongue, the less which is the contrary of more, the stop which is the exact opposite of true movement, not the station,
 
@@ -3279,7 +3279,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - But I don't see anyone. Just trees and the savanna.
 
-- {:.sp} The Great Prohibiter.
+- {:.sp} The Great Prohibitor.
 
 - Fool! Well then, yell the law at the trees, at the savanna.
 
@@ -3287,7 +3287,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.i2} At the trees? at the savanna?
 
-- {:.sp} The Great Prohibiter.
+- {:.sp} The Great Prohibitor.
 
 - {: .pr} I say: at the trees and the savanna, at the rain and the sun ... As if, on this continent of fugitive Indians, the accents of the law had not been engraved first and foremost on the steady ears of the trees and the savanna.
 
@@ -3295,7 +3295,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - Really! on the trees! on the savanna! laws!
 
-- {:.sp} The Great Prohibiter.
+- {:.sp} The Great Prohibitor.
 
 - {: .pr} Ignorant is he who knows the name of Don Cristóbal Colón, Admiral of the Ocean Sea, and ignores that of Rodrigo de Escovedo, Royal Notary. So learn, my friend, that the caravels which traveled here were not only pregnant with arms, food, horses, riders ... They had, first and foremost, bellies chuck-full of roaring and repressive laws.
 
@@ -3311,7 +3311,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.i2} Laws, bellies full of laws; repressive laws.
 
-- {:.sp} The Great Prohibiter.
+- {:.sp} The Great Prohibitor.
 
 - {: .pr} And while we're on this lesson, I wouldn't want you to ignore the name of my genius precursor here in Hispaniola: Alonzo de Hojeda. Remember that name, Don Alonzo de Hojeda; just as history remembers his iconic gesture: offering the cacique Caonabo the most valuable thing in the world. Can you guess what he offered the wide-eyed Caonabo? A *turey*, a sacred *turey*, i.e. a nice pair of handcuffs. He-he, you understand now, herald. Come on. Let's go.
 
@@ -3319,7 +3319,7 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 
 - {:.pr} *(After a trumpet blast)* To the wind, to the rain, to the sun, to the trees of the new world, hello. *(Trumpet blast.)*
 
-- {:.sp} The Great Prohibiter *(yelping.)*
+- {:.sp} The Great Prohibitor *(yelping.)*
 
 - {:.pr} Veto, veto, veto. 
 
