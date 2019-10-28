@@ -52,7 +52,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- Woe to those who come in contact with its resin.
+- I warn you: woe to those who come in contact with its resin.
 
 - {:.sp} The Man Reciter.
 
@@ -61,27 +61,27 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} The Woman Reciter.
 
 - This country is cursed.
-- {:.pr} This land yawns: a mouth of empty cries, coughing up Cuba the hookworm. 
+- {:.pr} This country yawns: a mouth of empty cries, having coughed up Cuba the hookworm. 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} This country bites: the gaping mouth of a fire throat, fire fangs looming over America's evil ass.
+- {:.pr} This country bites: gaping mouth of a flaming throat, flaming fangs converging on America's evil rump.
 
 ---
 
 [2]({{site.baseurl}}/chiens/p002.html){:.pagetitle}
 
-- {:.pr.i} By the bounding tides, I march on the waters of spinning Springs; I see my sentinel eyes on high. The insomnia grows steadfast like a disobedience along the free temples of the woman with amphora---water jug, sprouting tempest Aquarius, kettle.
+- {:.pr.i} On the margins of bounding tides, I walk on the waters of spinning Springs; I see my sentinel eyes on high. The insomnia grows steadfast like a disobedience along the free temples of the amphora woman---water jug, sprouting tempest jug, kettle.
 
 - {:.sp} Toussaint.
 
-- My hands dig out my thoughts, creepers
-- loosened
-- and I salute my fraternity whole.
+- My hands untangle my thoughts, creepers without
+- contracture
+- and I salute my brotherhood whole.
 - Saint-Domingue, your rivers sink into my flesh
 - their tamarind snout,
 - forests grow mangles from my muscles,
-- my blood sings for the cays in waves,
+- the waves of my blood sing for the cays,
 - I close my eyes,
 - all my riches at hand,
 - all my wetlands,
@@ -95,15 +95,15 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} Toussaint stands by the river's rumble... from the golden shore, a hundred warriors throw a hundred spears at him... Toussaint's chest is moonlit with scars...  
+- {:.pr.i} Toussaint is standing by the river's rumble... from the golden shore, a hundred warriors throw a hundred spears at him... Toussaint's chest is moonlit with scars...  
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} Saint-Marc yields... the proud... its walls crumble... our horses sniff the blend of gunpowder and drum in the air. 
+- {:.pr.i} Saint-Marc yields... proud... its walls crumble... our horses sniff the blend of gunpowder and drum in the air. 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Toussaint, Toussaint, the day of trials has arrived... He comes... the King's messenger comes... he glides... mouth full of promises... the serpent hisses... hisses... He holds Toussaint on the tip of his tongue...
+- {:.pr.i} Toussaint, Toussaint, the day of trials has arrived... He comes... the King's messenger comes... he glides... his mouth full of promises... the serpent hisses... hisses... He holds Toussaint on the tip of his tongue...
 
 - {:.sp} The Chorus.
 
