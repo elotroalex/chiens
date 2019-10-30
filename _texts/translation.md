@@ -107,9 +107,9 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} Toussaint alone has taken the path of war. Everything else was quiet. The canons and muskets are quiet. Toussaint is naked... The shield of braided straw on his left hand... He stops... He crawls... He freezes, a knee on the ground... His torso unfolds like a wall... The spear is raised...
+- {:.pr.i} Toussaint alone has taken the path of war. All else was quiet. The canons and muskets were quiet. Toussaint is naked... The shield of braided straw in his left hand... He stops... He crawls... He freezes, a knee on the ground... His torso unfolds like a wall... The spear is raised...
 
-*(At this moment an extravagant procession invades the scene: pilgrims, horses, dogs. Scents of musk and benzoin.)*
+*(At this moment a magnificent procession crowds the stage: pilgrims, horses, dogs. Scents of musk and benzoin.)*
 
 ---
 
@@ -157,7 +157,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Third Voice of Temptation.
 
-- {:.pr.i} ... A king. What an adventure. And it's true that something in you could never be subjected: a rage, a desire, a sadness, an impatience, a contempt; in a nutshell, a violence ... And here your veins carry gold, not mud; pride, not servitude. King, you were once king ...
+- {:.pr.i} ... A king. What an adventure. And it's true that something in you could never be subdued: a rage, a desire, a sadness, an impatience, a contempt; in a nutshell, a violence ... And here your veins carry gold, not mud; pride, not servitude. King, you were once king ...
 
 - {:.sp} Toussaint.
 
@@ -183,11 +183,11 @@ Please note that the following text contains violence in many guises, including 
 - I was a slave for 50 years
 - and I cut the cane, and I waxed the shoes, and
 - the smallest child, the master's kid,
-- dragged this old slave around, chained to obedience
+- led this gray-haired slave, bound to obedience
 - and respect;
 - and I tell you,
-- that which lights the old night of my skull,
-- is certainly not the image of ambition, no,
+- that which illuminates the old night of my skull,
+- they are not the images of ambition, no,
 - but the laughter of fire, the laughter of flowers and rivers
 - your image
 - more violent than a heart, more brutal than a thoroughbred
@@ -197,7 +197,7 @@ Please note that the following text contains violence in many guises, including 
 
 - Bornou Sokoto, Benin and Dahomey Sikasso
 - Sikasso
-- I call to assembly: breasts and sky, drizzle
+- I call to assembly: breasts and sky, mist
 - and pearls, the sowing, the golden keys.
 
 - {:.sp} Toussaint.
@@ -205,8 +205,8 @@ Please note that the following text contains violence in many guises, including 
 - Martinique, Jamaica
 - no mirage or mountaingem
 - can lull to amnesia
-- the fire blast, the spoils of blood, the steel song
-- fraternal abysms of Jericho roses  ... 
+- the fire blast, the rotten blood, the steel song
+- fraternal depths of Jericho roses  ... 
 
 ---
 
@@ -218,7 +218,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} My law is to run from the unbroken chain, as far as the confluence of fire that detonates me, where my own alloyed gift distills and ignites me.
+- {:.pr.i} My law is to run from the unbroken chain, as far as the confluence of fire that vaporizes me, that purifies me and sets me ablaze with my own amalgamated gift.
 
 - {:.sp} The Chorus.
 
@@ -226,7 +226,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I don't want to be the grain of perfume where the innumerable sacrifices of unarmed roses is distilled and celebrated.
+- {:.pr.i} I don't want to be the grain of perfume wherein the innumerable sacrifices of disarmed roses is summed up and celebrated.
 
 - {:.sp} The Man Reciter.
 
@@ -239,21 +239,21 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - {:.i2} So be it, I will die. But naked. Intact.
-- My hand in my hands, my feet on the ground,
+- My hand in my own hand, my feet on the ground,
 - {:.pr} what is this dark collapse past drownings and crowds towards the sunset? The world sinks, murdered with smokescreens, caught in the net of its own parentheses.
 - Naked like water,
 - naked like the unicorn gaze of noon,
 - like the scream and the bite, I cleared the low fog
-- from the world, without gratitude or ingratitude,
-- where thought does not equivocate, a flower with the heart of a butterfly.
-- I want a naked world and an unstamped universe.
-- A young Fouta girl gnaws at a chandelier bone
+- from the world without recognition and without ingratitude,
+- where thought does not equivocate, a flower at the heart of a butterfly.
+- I want the naked world of an unstamped universe.
+- A young Fouta girl gnaws at a candelabra bone
 
 ---
 
 [8]({{site.baseurl}}/chiens/p008.html){:.pagetitle}
 
-- {:.pr.i} and I am young. I am plush with youth, with a childhood prior to doors and windows, with a childhood of libations and offerings over my eyes, over the hours. A dry lake hangs on my cheek, weeping for the trees of Judea bathed in crocuses and
+- {:.pr.i} and I am young. I am plush with youth, with a childhood from long before doors and windows, with a childhood of libations and burnt offerings across my eyes, over the hours. A dry lake hangs on my cheek, but it weeps for the trees of Judea bathed in crocuses and
 - anemones
 - I am naked.
 - I am naked on the stones.
