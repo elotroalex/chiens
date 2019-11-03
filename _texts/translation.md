@@ -262,16 +262,16 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} The Woman Reciter.
 
 - {:.i2} Patience, I'm looking.
-- {:.pr} My polar head swallows the glimmer of corpses, the broken helmets, the inconsolable debris, suns oozing the beefy scent of venison.
+- {:.pr} My polar head swallows the glimmer of corpses, the broken helmets, the inconsolable debris, suns fat with the carnal scent of venison.
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I am not an octopus. I won't spit night and ink on the face of the night.
+- {:.pr.i} I am not a squid. I won't spit night and ink on the night's face.
 - Can you see already? ...
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} A terrible, beautiful girl breaks her shell of disasters. Coyote hunters wake up in a merry hut of absinthe.
+- {:.pr.i} A terrible, beautiful girl breaks her shell of disasters. Coyote shooters wake up in a merry hut of absinthe.
 
 - {:.sp} Toussaint.
 
@@ -288,12 +288,12 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Thank you, my sister ... a prayer that he won't sell ... my cobra prayer ... my eel prayer in the forests of the sea ... my cactus milk prayer in the halls of heaven.
+- {:.pr.i} Thank you, my sister ... a prayer that he won't sell ... my cobra prayer ... my eel prayer in the forests of the sea ... my cactus milk prayer in the thickets of heaven.
 
 - {:.sp} The Woman Reciter.
 
-- {:.i2} ... I see, the bridges have fallen ...
-- The stars have unleashed their scars of sand.
+- {:.i2} ... I looked, and the bridges are severed ...
+- The stars have unleashed their sandy scars.
 
 ---
 
@@ -309,24 +309,25 @@ Please note that the following text contains violence in many guises, including 
 - Do you see nothing in the new grass?
 - Nothing in the ground's churn and the
 - convulsive frolic of plants?
-- Nothing in the sea, really?
+- Nothing in the sea, right?
 - I see ... I hear ... I will talk ...
-- Oh, the vampire sun sucks my blood once more,
-- Oh, the corsair night assaults my rock
-- and my dawn farts below their faces
+- Oh, new suction of my blood by the sun
+- vampire,
+- Oh, assault of my rock by the corsair night
+- and my dawn blasted below their maws
 - its crash of midday and gulls
-- Tie me.
+- Tie me up.
 - Trample me. Assassinate me. Too late.
-- The flushed out hours ring on the lulls 
+- The flushed out hours strike on the lulls 
 - and the mooring lanterns;
 - sniffling
-- the hours ring
-- and spread out while I pet them,
-- the flames spread out.
+- the hours strike
+- and lengthen with my hands' caresses,
+- the flames lengthen.
 - Me too, I am a flame.
-- I spread out. I am the hour.
+- I lengthen. I am the hour.
 - I wait for the wind to speak
-- the firebrand tongue in my deep-dried throat.
+- the firebrand tongue in my parched throat.
 
 ---
 
@@ -338,7 +339,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- It rains ...
+- It's raining ...
 
 - {:.sp} The Chorus.
 
@@ -346,11 +347,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} There are no roses: only peppers embroidering red tears. 
+- {:.pr.i} There are no roses: only peppers fasten their red tears. 
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} Toussaint is king ... He may not have the title, but he is surely king ... a true Lamido ... here is his guard ... the silver helmets ignite at dusk.
+- {:.pr.i} Toussaint is king ... He may not have the title, but he is surely king ... a true Lamido ... here is his Guard ... the silver helmets ignite at dusk.
 
 - {:.sp} The Man Reciter.
 
@@ -358,7 +359,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Alas. Alas. Spider Europe stirs its legs and the phalanges of ships ... Alas. Alas.
+- {:.pr.i} Alas. Alas. Spiderlike Europe stirs its legs and the phalanges of ships ... Alas. Alas.
 
 - {:.sp} The Chorus.
 
@@ -370,7 +371,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} My memories bellow the kidnapping ... the shackle ... the trail in the forest ... the barracks ... the slave ship ...
+- {:.pr.i} My memories bellow the kidnapping ... the shackle ... the trail in the forest ... the barracoon ... the slave ship ...
 
 - {:.sp} The Chorus.
 
@@ -382,14 +383,14 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} You've heard ... You've heard ... Toussaint comes. Toussaint puts his feet on the ground ... Toussaint goes up the staircase. Toussaint takes the first step. He takes the second. Toussaint is on the perron. Step by step, Toussaint sets foot on the ditch cloaked with slippery smiles ...
+- {:.pr.i} You've heard ... You've heard ... Toussaint is coming. Toussaint puts his feet on the ground ... Toussaint climbs the staircase. Toussaint takes the first step. He makes the second. Toussaint is on the stoop. Step by step, Toussaint sets foot on the ditch camouflaged by slippery smiles ...
 
 - {:.sp} Toussaint.
 
 - {:.i2} You won't stop me from speaking to my friends without eclipse
 - Fat moon, bad weed, sycamore, sycamore ...
 - Those are my loves, here are my hatreds
-- and my voice a wise child at the edge of your alcove.
+- and my voice a very wise child by your alcove.
 
 - {:.sp} The Chorus *(distant.)*
 
@@ -403,7 +404,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} The idiomless river tires of the maneuvers of ash;
 - the cape and the filings
-- the birds and days
+- the birds and the days
 - turn with a doorknob's creak;
 - fantastic animals on the infantile horizon
 - brain grazers
