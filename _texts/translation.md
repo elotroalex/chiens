@@ -405,11 +405,11 @@ Please note that the following text contains violence in many guises, including 
 - {:.i2} The idiomless river tires of the maneuvers of ash;
 - the cape and the filings
 - the birds and the days
-- turn with a doorknob's creak;
+- turn with a lock's creak;
 - fantastic animals on the infantile horizon
 - brain grazers
 - rest their eyes now
-- giddy after drinking the night
+- giddy from the night drunk whole.
 
 - {:.sp} The Chorus *(distant.)*
 
@@ -463,8 +463,8 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} I'll bring this country to the knowledge of self
 - I'll acquaint this land with its secret demons
-- I'll light up the craters of cymbals and heloderma
-- with the symphonies of an unknown, splendid hell
+- I'll light up on craters of cymbals and heloderma
+- the symphonies of an unknown, splendid hell
 - infested with haughty nostalgias ...
 
 - {:.sp} The Chorus.
@@ -476,9 +476,9 @@ Please note that the following text contains violence in many guises, including 
 - And now
 - alone.
 - Everything is alone
-- I sharpen my voice
-- all is abandon
-- save my voice,
+- might as well sharpen my voice
+- all forsakes all
+- my voice toils,
 - my voice sways in the cornet of mists without crossroads 
 - and I have no mother
 - and I have no son.
@@ -518,7 +518,7 @@ Please note that the following text contains violence in many guises, including 
 - Beautiful as the shadow lattice of two pythons at noon
 - the archipelago
 - turbulence of prostrate organs
-- sacrifice of glass of lamps hooked on the mouth
+- sacrifice of glass of lamps crossed on the mouth
 - of tempests
 - virulent battle siren, absurdly caught in the motion
 - of palms and scolopendra
@@ -536,7 +536,7 @@ Please note that the following text contains violence in many guises, including 
 
 - Kill Toussaint. Kill Toussaint.
 
-- {:.sp} The Voices of Women.
+- {:.sp} Women's Voices.
 
 - Kill him, executioner.
 
@@ -546,22 +546,22 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Voice.
 
-- He will bring their fury down on us.
+- He will bring the fury of the Whites down on us.
 
 - {:.sp} Voices.
 
 - Kill Toussaint. Kill Toussaint.
-- Bring him to the stake. To the stake.
+- To the stake, Toussaint, to the stake.
 
- *(A group frenetically prepares a blaze)*
+ *(A group makes a fire frenetically)*
 
 - {:.sp} The Crowd.
 
-- Bring Toussaint to the stake. To the stake. To the stake. Bring him to the stake.
+- To the stake, Toussaint. To the stake. To the stake. To the stake, Toussaint.
 
 - {:.sp} An Orator.
 
-- {:.pr.i} Comrades, I'm here to tell you that Toussaint is an enemy of the people and a troublemaker. We have enough troubles as it is. We are not happy, you say? Comrades, will we be happy with freedom and war and the vengeance of White people coming down on us? I tell you that Toussaint is a traitor. Kill him.
+- {:.pr.i} Comrades, I'm here to tell you that Toussaint is an enemy of the people and a troublemaker. As if we didn't have enough troubles already. We are not happy, you say? Comrades, will we be happy with freedom and war and the vengeance of White people to deal with? I tell you, Toussaint betrays us. Kill him.
 
 - {:.sp} Voices.
 
@@ -574,7 +574,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} The Crowd.
 
 - To the stake.
-- Bring him to the stake.
+- To the stake, Toussaint.
 
 - {:.sp} Toussaint.
 
@@ -602,7 +602,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- In your jackal voices, the self-care of muzzles.
+- In your jackal voices, the wellness of muzzles.
 
 - {:.sp} The Crowd.
 
@@ -622,7 +622,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Ah. I pity you, lost souls. The world's centuries over your cannibal youth, devoid of hope or despair.
+- {:.pr.i} Ah. I pity you, lost souls. All the world's antiquity over your cannibal youth, devoid of hope or despair.
 
 - {:.sp} The Crowd.
 
