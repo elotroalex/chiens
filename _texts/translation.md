@@ -648,7 +648,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - {:.i2} Long live Vengeance. Long live Freedom.
-- {:.pr} The mountains will tremble like a tooth caught between a pair of forceps; the stars will crash their pregnant faces on the land.
+- {:.pr} The mountains will tremble like a tooth caught between a pair of forceps; the stars will crash their faces of pregnant women on the land.
 
 - {:.sp} The Crowd.
 
@@ -656,7 +656,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr} ... the still suns will become night, massive, catastrophic coconut trees.
+- {:.pr} ... the still suns will grow at night massive, catastrophic coconut trees.
 
 ---
 
@@ -668,16 +668,16 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Ah! You won't get rid of me so easily, not without first hearing the bite of my tongue on your imbecile souls.
-- You can be certain of it, I track you like pray ...
+- {:.pr.i} Ah! You won't leave before hearing the bite of my tongue on your imbecile souls.
+- Know this, I watch you like pray ...
 - and I see you, and I catch you in the middle of your
 - lies and your cowardice;
 - proud minions
-- little hypocrites, sweet spinning
+- little hypocrites, sneaking away
 - slaves and children of slaves,
-- and you don't even have the strength to protest, to be outraged,
+- and you don't have the strength to protest anymore, to be outraged,
 - to moan;
-- condemned to live toe-to-toe with rank stupidity
+- condemned to live side by side with rank stupidity
 - with nothing to make your blood boil
 - other than chugging half a glass of your Caribbean
 - rum ...
@@ -704,7 +704,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - {:.i2} My friends, I hoisted my flag of lopped-off hands,
-- I shot my yellow-fever flares
+- I launched my yellow-fever flares
 
 - {:.sp} The Crowd.
 
@@ -713,12 +713,11 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} Toussaint.
 
 - {:.i2} ... And there it is, winded catacombs of the End and the Beginning
-- Death will pounce on them like a torrent of wild horses, like a flight of mosquitoes ...
+- Death springs on them like a torrent of wild horses, like a flight of mosquitoes ...
 - Columbus, Columbus
-- you
-- the calm
+- you, so calm
 - when you first set foot on this island, snapped shut like a mousetrap,
-- {:.pr} among the new signs, among the gods your pride refused to confess---I know it, I feel it---you did not feel overcome with triumph, no, but with anguish, with uneasy anxiety, you the impregnable, caught pierced and bound up with the great silent creepers of fear, the great silent creepers of Repentance.
+- {:.pr} among the new signs, among the gods your pride refused to confess---I know it, I feel it---you did not feel overcome with triumph, no, but with anguish, with a fine anxiety, you the unassailable, caught pierced and bound up with the great silent creepers of fear, the great silent creepers of Repentance.
 
 - {:.sp} The Crowd.
 
@@ -732,7 +731,7 @@ Please note that the following text contains violence in many guises, including 
 
 [22]({{site.baseurl}}/chiens/p022.html){:.pagetitle}
 
-*(The scene fades away slowly.)*
+*(The scene progressively and slowly fades away.)*
 
 - {:.sp} The Woman Reciter.
 
@@ -740,17 +739,17 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter *(very calm.)*
 
-- {:.i2} ... The Great Revolution of Saint-Domingue has begun.
+- {:.i2} ... The Great Revolution of Saint-Domingue has just begun.
 
 ---
 
 [23]({{site.baseurl}}/chiens/p023.html){:.pagetitle}
 
-*(In Saint-Domingue, young white girls play in front of a rich mansion, 18th century style. Enter The Chorus and The Reciters.)* 
+*(In Saint-Domingue, young white girls play in front of a luxurious colonial mansion, 18th century style. Enter The Chorus and The Reciters.)* 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Go back inside girls. This is no time to play; the orbits of death push their dazzling eyes through the pale mica.  
+- {:.pr.i} Go back inside girls. This is no time to play; the orbits of death push their __flashing__ eyes through the pale mica.  
 
 - {:.sp} 1st Girl *(seriously.)*
 
@@ -758,7 +757,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.i2} The season of burning stars is about to begin.
+- {:.i2} The season of burning stars that begin.
 
 - {:.sp} 2nd Girl *(laughing.)*
 
@@ -778,7 +777,7 @@ Please note that the following text contains violence in many guises, including 
 
 *(The mother appears at the front door, very pale)*
 
-- {:.pr.i} Children ... come inside ... come inside ... I'm scared.
+- {:.pr.i} Children ... come inside ... come inside ... I'm afraid.
 
 - {:.sp} The Man Reciter.
 
@@ -790,7 +789,7 @@ Please note that the following text contains violence in many guises, including 
 
 [24]({{site.baseurl}}/chiens/p024.html){:.pagetitle}
 
-*(The Reciters pretend to put down a stretcher; The Chorus to dig a grave. They bury an imaginary corpse on the grave—a scene of homeopathic magic.)*
+*__(The Reciters pretend to put down a stretcher; The Chorus to dig a grave. They bury an imaginary corpse on the hole—a scene of homeopathic magic.)__*
 
 - {:.sp} The Man Reciter *(collected.)*
 
@@ -802,13 +801,13 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus *(hateful.)*
 
-- {:.pr.i} ...Saint-Domingue the Black, where the master's sadism and the death rattle of the slave, coprophagous by force, completes with vomit streaks the shark bite and the centipede's crawl.
+- {:.pr.i} ...Saint-Domingue the Black, __where the master's sadism and the death rattle of the slave, coprophagous by force, completes with vomit streaks the shark bite and the centipede's crawl__.
 
-*(At this moment, darkness falls on the scene; gunshots; discordant cries; after these, the ruckus dies down; when the light returns, the decor has changed: a Black war camp in the middle of the forest. A conference of Black leaders and White deputies.)*
+*(At this moment, darkness falls on the scene; gunshots; discordant cries; then the ruckus dies down; when the light returns, the decor has changed: a Black war camp in the middle of the forest. A conference of Black leaders and White deputies.)*
 
 - {:.sp} 1st Deputy.
 
-- {:.pr.i} Our presence alone signals our earnest desire to seek a resolution. We have silenced in our hearts the natural indignation aroused by the memory of so many acts of cruelty. And we have swept under the rug all of our revulsion and repulsion, all the dispositions that our philosophical minds call prevention or prejudice, as necessary as these may be in our colonial societies ...
+- {:.pr.i} Our very presence here is enough to show how great our desire is to seek a resolution. We have silenced in our hearts the natural indignation aroused by the memory of so many acts of cruelty. And we have swept under the rug all of our revulsion and repulsion, all the dispositions that our philosophical minds call prevention or prejudice, __as necessary as these may be__ in our colonial societies ...
 
 ---
 
@@ -816,14 +815,14 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint
 
-- {:.pr.i} That's fine, gentlemen. Can you now repeat everything you just proposed to us to my troops?
+- {:.pr.i} That's fine. Gentlemen, can you now repeat everything you just proposed to us to my troops?
 
 *(Assembly. The sound of djembe.)*
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} The hostile collapse of the tower, the mountain, the lighthouse stops to hesitate by the trigger's edge.
-- A necklace of convenient pearls no longer numbs the anxiety
+- {:.pr} The hostile collapse of the tower, the mountain, __the lighthouse stops to hesitate by the trigger's edge__.
+- A necklace of __convenient__ pearls no longer numbs the anxiety
 - {:.pr} Sprawling apostrophes come to life in the distance, like cataclysms
 - Silence already poisons every fiber
 - Half-swallowed hieroglyphic gestures signal
@@ -832,9 +831,9 @@ Please note that the following text contains violence in many guises, including 
 - {:.sp} The Woman Reciter.
 
 - The beautiful, blind eyes of the very earth sing
-- the skipped school, the joint eyebrows of great plows
+- the truancy, the furrowed eyebrows of laborious tasks
 - {:.pr} the knowing ruses of conferences with no rhyme or reason on the quicksand.
-- The wrecker's cow, the Calvary rains and the waves
+- The wrecker's cow, the rains of waves and wayside crosses
 - bewitch with snakes, with palaver, with kelp
 - The lighthouse disjoints with eaglet blood.
 
