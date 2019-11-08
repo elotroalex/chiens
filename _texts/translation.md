@@ -314,7 +314,7 @@ Please note that the following text contains violence in many guises, including 
 - Oh, new suction of my blood by the sun
 - vampire,
 - Oh, assault of my rock by the corsair night
-- and my dawn blasted below their maws
+- and my dawn farted below their snouts
 - its crash of midday and gulls
 - Tie me up.
 - Trample me. Assassinate me. Too late.
@@ -749,7 +749,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Go back inside girls. This is no time to play; the orbits of death push their __flashing__ eyes through the pale mica.  
+- {:.pr.i} Go back inside girls. This is no time to play; the orbits of death push their radiant eyes through the pale mica.  
 
 - {:.sp} 1st Girl *(seriously.)*
 
@@ -789,7 +789,7 @@ Please note that the following text contains violence in many guises, including 
 
 [24]({{site.baseurl}}/chiens/p024.html){:.pagetitle}
 
-*__(The Reciters pretend to put down a stretcher; The Chorus to dig a grave. They bury an imaginary corpse on the hole—a scene of homeopathic magic.)__*
+*(The Reciters pretend to set down a stretcher on the ground; The Chorus to dig a pit. They bury an imaginary corpse on the pit—a scene of imitative magic.)*
 
 - {:.sp} The Man Reciter *(collected.)*
 
@@ -801,13 +801,13 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus *(hateful.)*
 
-- {:.pr.i} ...Saint-Domingue the Black, __where the master's sadism and the death rattle of the slave, coprophagous by force, completes with vomit streaks the shark bite and the centipede's crawl__.
+- {:.pr.i} ...Saint-Domingue the Black, where the master's sadism and the death rattle of the slave, coprophagous by force, completes in vomit streaks the shark bite and the centipede's crawl.
 
 *(At this moment, darkness falls on the scene; gunshots; discordant cries; then the ruckus dies down; when the light returns, the decor has changed: a Black war camp in the middle of the forest. A conference of Black leaders and White deputies.)*
 
 - {:.sp} 1st Deputy.
 
-- {:.pr.i} Our very presence here is enough to show how great our desire is to seek a resolution. We have silenced in our hearts the natural indignation aroused by the memory of so many acts of cruelty. And we have swept under the rug all of our revulsion and repulsion, all the dispositions that our philosophical minds call prevention or prejudice, __as necessary as these may be__ in our colonial societies ...
+- {:.pr.i} Our very presence here is enough to show the magnitude of our desire to seek a resolution. We have silenced the natural indignation in our hearts that the memory of so many acts of cruelty has aroused. And we have swept under the rug all of our revulsion and repulsion, all the customs that our philosophical minds call bias or prejudice, even though these are the binding forces of our colonial societies ...
 
 ---
 
@@ -821,8 +821,8 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} The hostile collapse of the tower, the mountain, __the lighthouse stops to hesitate by the trigger's edge__.
-- A necklace of __convenient__ pearls no longer numbs the anxiety
+- {:.pr} The hostile collapse of the tower, the mountain, the lighthouse stops to hesitate on the edge of the click.
+- A necklace of favorable pearls no longer numbs the anxiety
 - {:.pr} Sprawling apostrophes come to life in the distance, like cataclysms
 - Silence already poisons every fiber
 - Half-swallowed hieroglyphic gestures signal
@@ -841,7 +841,7 @@ Please note that the following text contains violence in many guises, including 
 
 [26]({{site.baseurl}}/chiens/p026.html){:.pagetitle}
 
-*(The scene is overrun with the insurgency: a mass of men and women armed with machetes.)*
+*(The scene is overrun by the crowds of insurgents: a mass of men and women armed with cutlasses.)*
 
 - {:.sp} Toussaint.
 
@@ -853,7 +853,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 1st Deputy.
 
-- {:.pr.i} My dear friends ... I know that you are tired of this war. Your children are hungry.
+- {:.pr.i} My dear friends ... I know that you have had enough of this war. Your children are hungry.
 
 - {:.sp} Voices.
 
@@ -869,7 +869,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 1st Deputy.
 
-- {:.pr.i} Return to your homes. Return to work. We are ready to grant the best among you their freedom, and we guarantee the rest of you our paternal kindness. 
+- {:.pr.i} Return to the fields. Return to work. We are ready to recognize the freedom of the best among you, and we guarantee the rest of you our paternal kindness. 
 
 *(Contradictory cries from the crowd)*
 
@@ -884,7 +884,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Comrades, you heard them; with your own ears you heard them. They are so gentle and benevolent; they suggested we abandon you; they have come to bribe us ... they have come to ask us to betray you. 
+- {:.pr.i} Comrades, you heard them; with your own ears, you heard them. They are so gentle and benevolent; they suggested we abandon you; they have come to ask your leaders to sell out ... they have come to ask us to betray you. 
 
 - {:.sp} The Crowd.
 
@@ -892,13 +892,13 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} And having heard, you understand, comrades, that the Whites have not yet given up their hateful privileges; that White people are not ready to stop feasting on the blood and tears of Black people.
+- {:.pr.i} And hearing them, you have understood, comrades, that the Whites have not yet given up their hateful privileges; that the White man is not ready to stop feasting on the blood and tears of Black people.
 
 - {:.sp} The Crowd.
 
 - {:.i2} Kill them! Kill! Kill!
 
-*(The crowd snaps shut like a jaw.)*
+*(The crowd clenches like a jaw.)*
 
 - {:.sp} The Man Reciter.
 
@@ -906,21 +906,21 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Here begins the meal of vengeance. Here we bind our blood in solidarity, and here we run the great communion of war.
+- {:.pr.i} Here begins the meal of vengeance. Here we bind our blood in solidarity. Here takes place the great communion of war.
 
 - {:.sp} The Chorus.
 
-- {:.pr} Kiss of precious stones, oblivion of blood, beautiful as the unleashed memory of fresh forgetting, revenge rose up with the day's ear, and all the vanilla dust weaving the nights' flesh, and all the wasps salivating the nights' cassava, and all the barracudas signing the night's backside have been forced to see through their keyhole eye.
+- {:.pr} Kiss of precious stones, oblivion of blood, beautiful as the unleashed memory of fresh forgetting, revenge rose up with the day's ear, and all the vanilla dust that weaves the nights' flesh, and all the wasps that salivate the nights' cassava, and all the barracudas that sign the night's backside have pushed until they saw their keyhole eye.
 
 ---
 
 [28]({{site.baseurl}}/chiens/p028.html){:.pagetitle}
 
-*(The warriors parade by the corpses brandishing their machetes.)*
+*(The warriors parade by the corpses brandishing their cutlasses.)*
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} We are not done here, comrades ... Who will bring our splendid response to the rest of them? ... Yes ... Deaf and blind, their ambassadors sail through hell. And now who, and with what words, will stitch the earth's terror on the rest of their guts?
+- {:.pr.i} We are not done here, comrades ... Who will bring our splendid response to the rest of them? ... Yes ... Deaf and blind, their ambassadors sail through hell. And now who, and with what words, will stitch earthy fear in other entrails?
 
 - {:.sp} Voices.
 
@@ -934,7 +934,7 @@ Please note that the following text contains violence in many guises, including 
 
 - Good, friends ... let's do it ... All of us, onward, and no mercy.
 
-*(The detachments break off with frantic cries)*
+*(The detachments break off with frenzied cries)*
 
 ---
 
@@ -942,11 +942,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} A whistle ... The Blacks come out of the bushes with a great clamor. The machetes fall and rise, and fall again in the reel of exasperation.
+- {:.pr.i} A sharp whistle ... The Blacks come out of the bushes with a great clamor. The cutlasses fall and rise, and fall again in the windmill of exasperation.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} The machetes fall. What a harvest. That is not sugarcane on the ground. These are not banana trunks. Bloodstreams and skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
+- {:.pr.i} The cutlasses fall. What a harvest. That is not sugarcane on the ground. These are not banana trunks. Bloodstreams and skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
 
 - {:.sp} The Man Reciter.
 
@@ -1165,7 +1165,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} It rises ... From the depths of the earth, it rises ... The Black surge rises ... howling waves ... swamps of animal odors ... the storm of barefooted foam ... and it spouts even more running down mountain trails, climbing the ravine escarpments; obscene and wild torrents, feeders of chaotic rivers, of rotten seas, of convulsive oceans with the sooty laughter of machetes and cheap booze ...
+- {:.pr.i} It rises ... From the depths of the earth, it rises ... The Black surge rises ... howling waves ... swamps of animal odors ... the storm of barefooted foam ... and it spouts even more running down mountain trails, climbing the ravine escarpments; obscene and wild torrents, feeders of chaotic rivers, of rotten seas, of convulsive oceans with the sooty laughter of cutlasses and cheap booze ...
 
 - {:.sp} The Chorus.
 
@@ -3150,9 +3150,9 @@ Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Con
 - Killed ... I killed him ... with my own hands.
 - It was a November night.
 - We crawled through the sugarcane
-- The machetes laughed at the stars, but we weren't thinking about the stars.
+- The cutlasses laughed at the stars, but we weren't thinking about the stars.
 - The sugarcane scarred our faces with a rush of green blades
-- We crawled, machetes in hand
+- We crawled, cutlasses in hand
 - Suddenly, howls broke the silence.
 - {: .pr} We had jumped, we slaves, we dunghill, we beasts with patient hoofs. We ran like madmen. The gunshots rang ... We were striking them down ... The sweat and the blood kept us fresh.
 - {: .pr} We kept striking deep in the screams, and the yelling grew louder, and a great flame rose from the east: the commons were burning, and the flame flickered softly on our cheeks.
