@@ -1013,15 +1013,15 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 1st Deputy.
 
-- {:.i2} Sir, allow me to remind you of the traitors' goals.
+- {:.i2} Sir, allow me to remind you of the fate reserved for traitors.
 
 - {:.sp} 2nd Deputy.
 
-- {:.i2} And I, sir, of those who bow to the henchmen of tyranny.
+- {:.i2} And I, sir, of the one for those who bow to the henchmen of tyranny.
 
 - {:.sp} The Governor.
 
-- {:.pr.i} Hey, Gentlemen, common sense, please. What the hell. You know what's going on: a full-blown slave rebellion; half of the North province is on fire. Toussaint has built an army with the Blacks from the plantations in Turpin, Flaville, Trêmes, and Noé. And what an army! Makes you shudder. Our women are suffering the latest outrages; they are impaling the children; planters are being sewn alive on planks.
+- {:.pr.i} Hey, Gentlemen, a bit of common sense, please. What the hell. You know what's going on: a full-blown slave rebellion; half of the northern provinces are on fire. Toussaint has constituted an army made up of Blacks from the plantations in Turpin, Flaville, Trêmes, and Noé. And what an army! Makes you shudder. Our women are suffering the __latest__ outrages; they are impaling the children; planters are being __sewn__ alive on planks.
 
 - {:.sp} A Voice.
 
@@ -1037,7 +1037,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Governor.
 
-- {:.pr.i} Silence, gentlemen. Sadly, this is not all. While the rebellion consumes the province in fire and screams and Voudou, you ignore the voice of wisdom here in the city. We attacked the slaves who remained faithful. We attacked the free men of color. Several of them have already been massacred.
+- {:.pr.i} Silence, gentlemen. Sadly, this is not all. While the rebellion consumes the province in fire and screams and Voudou, you ignore the voice of wisdom here in the city. We're attacking the slaves who remained faithful. We're attacking the free men of color. Many of them have been massacred.
 
 ---
 
@@ -1061,7 +1061,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 1st Deputy.
 
-- {:.pr.i} Distinguished Governor, before we go any further, I propose to solemnly censure the Constituent Assembly, who by their foolish decrees, have brought us here: utter ruin.
+- {:.pr.i} Distinguished Governor, before we go any further, I propose to solemnly censure the Constituent Assembly who by their foolish decrees have brought us here: to utter ruin.
 
 - {:.sp} 2nd Deputy.
 
@@ -1069,9 +1069,9 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Governor.
 
-- {:.pr.i} I see, gentlemen, that you haven't understood. The time for deliberation is over. I've made my decision. Our priority now is to stop the Blacks from the West province from communicating with the northern rebels. I've set up war camps at Trou, Vallières, Morne, Dondon, la Marmelade and Fort Dauphin. As far you're concerned, Gentlemen, prepare for battle, and long live the French colony of Saint-Domingue.
+- {:.pr.i} I see, gentlemen, that you haven't understood. The time for deliberation is over. I've made my decision. Our priority now is to stop the Blacks from the western provinces from communicating with the northern rebels. I've set up war camps at Trou, Vallières, Morne, Dondon, la Marmelade and Fort Dauphin. As far you're concerned, Gentlemen, prepare for battle, and long live the French colony of Saint-Domingue.
 
-*(Prolonged vivats. The deputies exit. Some stragglers continue to argue.)*
+*(Prolonged __vivats__. The deputies exit. Some stragglers continue to argue.)*
 
 ---
 
