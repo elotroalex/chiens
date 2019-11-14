@@ -946,19 +946,19 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} The cutlasses fall. What a harvest. That is not sugarcane on the ground. These are not banana trunks. Bloodstreams and skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
+- {:.pr.i} The cutlasses fall. What a harvest. That is not sugarcane on the ground. These are not banana trunks. The blood streams, the skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} The hill bursts with yells. Corpses pile up by the breadfruit trees.
+- {:.pr.i} The hill bursts with yells. Corpses roll down to the foot of breadfruit trees.
 
 - {:.sp} The Woman Reciter.
 
-- {:.i2} The ravine bursts with corpses.
+- {:.i2} The ravine sprouts corpses.
 
 - {:.sp} Half Chorus.
 
-- {:.i2} They knived our hamstrings.
+- {:.i2} They cut our hamstrings.
 
 - {:.sp} Half Chorus.
 
@@ -966,15 +966,15 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} And they sold us like beasts, and counted our teeth ... and tested our testicles, and examined the tear-and-wear of our skin, and pinched us and weighed us and double-checked, and hung the collar of servitude and insult on our necks like tamed beasts.
+- {:.pr.i} And they sold us like beasts, and counted our teeth ... and tested our testicles, and examined the polish and finish of our skin, and felt us up and weighed us and double-checked, and hung the collar of servitude and insult on our tamed-beast necks.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} The wind has lifted. The savannas split in the glory of wild plumes ... I hear the children cry ... in the master's house.
+- {:.pr.i} The wind has lifted. The savannas crack in a glory of wild plumes ... I hear the screams of children ... in the master's house.
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} I hear the children cry in the black hut ... and their small stony bellies, punctuated in the center by enormous navels, swollen with famine and black porridge made of earth and tears and snot and urine.
+- {:.pr.i} I hear the screams of children in the black hut ... and their small stony bellies, punctuated in the center by enormous navels, swollen with famine and black porridge made of earth and tears and snot and urine.
 
 ---
 
@@ -982,11 +982,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Man Reciter.
 
-- {:.i2} In the name of all those desires crushed in the pool of your souls.
+- {:.i2} In the name of all the desires crumbled in the pool of your souls.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} In the name of all the lazy dreams in your hearts, I sing the steely moves of the matador.
+- {:.pr.i} In the name of all the lazy dreams in your hearts, I sing the steel movement of the matador.
 
 - {:.sp} The Man Reciter.
 
@@ -995,7 +995,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Chorus.
 
-- {:.pr.i} A bird and its smile ... a ship and its roots ... the horizon and its precious gemstones ... a girl with a grassy smile shreds into fine larks the wine of days, the stone of nights. 
+- {:.pr.i} A bird and its smile ... a ship and its roots ... the horizon and its precious stones ... a girl, with a smile of grass, shreds into fine paupiettes the wine of days, the stone of nights. 
 
 ---
 
