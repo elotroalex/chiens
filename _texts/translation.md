@@ -1021,7 +1021,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Governor.
 
-- {:.pr.i} Hey, Gentlemen, a bit of common sense, please. What the hell. You know what's going on: a full-blown slave rebellion; half of the northern provinces are on fire. Toussaint has constituted an army made up of Blacks from the plantations in Turpin, Flaville, Trêmes, and Noé. And what an army! Makes you shudder. Our women are suffering the __latest__ outrages; they are impaling the children; planters are being __sewn__ alive on planks.
+- {:.pr.i} Hey, Gentlemen, a bit of common sense, please. What the hell. You know what's going on: a full-blown slave rebellion; half of the northern provinces are on fire. Toussaint has constituted an army made up of Blacks from the plantations in Turpin, Flaville, Trêmes, and Noé. And what an army! Makes you shudder. Our women are suffering the most brutal outrages; they are impaling the children; planters are being sawn alive on planks.
 
 - {:.sp} A Voice.
 
@@ -1061,7 +1061,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 1st Deputy.
 
-- {:.pr.i} Distinguished Governor, before we go any further, I propose to solemnly censure the Constituent Assembly who by their foolish decrees have brought us here: to utter ruin.
+- {:.pr.i} Distinguished Governor, before we go any further, I propose to solemnly censure the Constituent Assembly, who by their foolish decrees have brought us where we are: to utter ruin.
 
 - {:.sp} 2nd Deputy.
 
@@ -1071,7 +1071,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} I see, gentlemen, that you haven't understood. The time for deliberation is over. I've made my decision. Our priority now is to stop the Blacks from the western provinces from communicating with the northern rebels. I've set up war camps at Trou, Vallières, Morne, Dondon, la Marmelade and Fort Dauphin. As far you're concerned, Gentlemen, prepare for battle, and long live the French colony of Saint-Domingue.
 
-*(Prolonged __vivats__. The deputies exit. Some stragglers continue to argue.)*
+*(Prolonged cheers. The deputies exit. Some stragglers continue to argue.)*
 
 ---
 
@@ -1081,20 +1081,20 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 1st Group: A Voice.
 
-- {:.pr.i} You are right, my friend, you are right. We are losing these colonies because of bad politics. The battle plans, the combat. Let's stop this nonsense. There's only one way with these Negroes: terror. Just like I'm standing here, on the first day of the insurrection, I planted 50 heads on both sides of the avenue in front of my plantation, like palm trees, and I guarantee you that the flock has not moved a muscle. You see ...
+- {:.pr.i} You are right, my friend, you are right. We are losing these colonies because of bad politics. The battle plans, the combat. Let's stop this nonsense. There's only one way with these Negroes: terror. Just like I'm standing here, on the first day of the insurrection, I planted 50 heads on both sides of the avenue in front of my plantation, like palm trees, and I guarantee you that the herd has not moved a muscle. You see ...
 
 *(The voice fades into the night.)*
 
 - {:.sp} 2nd Group: A Voice.
 
-- {:.pr.i} Huh? Everything will be fine. I trust this governor; quite a guy that Blanchelande. And also, I know these islands. The Caribbean, you see, very sweet islands, very sweet ... real soft ... sweet-mulatta islands, you see. So, this Revolution, bye-bye.
+- {:.pr.i} Ahem! Everything will be fine. I trust this governor; quite a guy that Blanchelande. And also, I know these islands. The Caribbean, you see, very gentle islands, very gentle ... real mild ... sweetie islands, you see. And so, good evening, Revolution.
 
 *(The voice hums:*
 
 - {:.i2} Baby look a here, look a here, look a here
 - {:.i2} Coons from ev'ry city ...)
 
-*(After a few seconds, screams break out; a monotone and brutal choir begins, grows, approaches. Hoots. Sneers. A confused trampling. A frenzied Black crowd invades the town hall, slapping and jeering some white deputies. A grotesque Black man gesticulates on the podium. We will call him The Speaker. The Black crowds sit in indescribable confusion. Thus begins a sinister and buffoonish session full of vehemence and cruelty.)*
+*(For a few seconds, screams break out; a monotone and brutal song begins, grows, approaches. Hoots. Sneers. A confused trampling. A frenzied Black crowd invades the town hall, slapping and jeering some white deputies. A grotesque Black man gesticulates on the podium. We will call him The Speaker. The Black crowds sit down in indescribable confusion. Thus begins a sinister and buffoonish session full of vehemence and cruelty.)*
 
 - {:.sp} The Speaker.
 
@@ -1136,7 +1136,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Flag Bearer *(in a nasal voice.)*
 
-- {:.pr.i} Alright. Alright. I will speak. You see, Gentlemen, the time for deliberation is over. I have made my decision. There's only one way with the Negroes: terror. Gentlemen, on today's agenda: terror ... 
+- {:.pr.i} Allright. Allright. I will speak. You see, Gentlemen, the time for deliberation is over. I have made my decision. There's only one way with the Negroes: terror. Gentlemen, terror is open for discussion ... 
 
 *(Applause. Laughter.)*
 
@@ -1161,15 +1161,15 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} Baby look a here, look a here, look a here
 
-*(Silence falls stiff, funereal.)*
+*(Silence drops dead, funereal.)*
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} It rises ... From the depths of the earth, it rises ... The Black surge rises ... howling waves ... swamps of animal odors ... the storm of barefooted foam ... and it spouts even more running down mountain trails, climbing the ravine escarpments; obscene and wild torrents, feeders of chaotic rivers, of rotten seas, of convulsive oceans with the sooty laughter of cutlasses and cheap booze ...
+- {:.pr.i} It rises ... From the depths of the earth, it rises ... The Black surge rises ... howling waves ... swamps of animal odors ... the storm foaming up bare feet ... and it swarms with many more running down the mountain trails, climbing the ravine escarpments; obscene torrents and wild amplifiers of chaotic rivers, of rotten seas, of convulsive oceans with the sooty laughter of cutlasses and cheap booze ...
 
 - {:.sp} The Chorus.
 
-- {:.i2} In my black and red hand, a white elderberry's dawn loses its breath.
+- {:.i2} In my black and red hand, a dawn of white elderberry loses its breath.
 
 ---
 
@@ -1189,7 +1189,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} The night and misery, comrade, misery and animal consent; the night rustled with the breathing of slaves, dilating on the trail of the Christophorus, the great sea of miseries and dividends, the great sea of black blood, the great swell of sugarcane, the great ocean of horrors and desolation.
+- {:.pr.i} The night and misery, comrade, the animal misery and consent; the night rustled with the breathing of slaves, dilating on the trail of the Christophorus, the great sea of miseries and dividends, the great sea of black blood, the great swell of sugarcane, the great ocean of horrors and desolation.
 - {:.i2} In the end, there is, in the end ...
 
 *(She covers her eyes.)*
