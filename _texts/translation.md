@@ -1525,10 +1525,10 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Woman Reciter.
 
-- ... a swell of frigate marines
+- ... a swell of naval infantry of frigates
 - vanguard of funeral singers and gravediggers.
 
-*(The scene is invaded by all kinds of clergy giving out blessings, frantically)*
+*(The stage is overrun with all kinds of clergy giving out blessings, frantically)*
 
 - {:.sp} The Cantors.
 
@@ -1537,9 +1537,9 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} Toussaint.
 
 - Oh, for heaven's sake!
-- leave the camp already, goddammit!
-- don't you see the executioners practicing their swing on the block?
-- the birds of prey cocking their puffy eyes?
+- Get the hell out, goddammit!
+- aren't the executioners practicing their swing on the block?
+- aren't the birds of prey cocking their puffy eyes?
 
 ---
 
@@ -1548,14 +1548,14 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - was it really to see you that the pyramids
 - have
 - stood
-- on tiptoe tonight?
+- on their tiptoes tonight?
 
-*(At this moment a rain of stones thrown by invisible hands falls on the delegations; disarray.)*
+*(At this moment a hail of stones thrown by invisible hands falls on the delegations; disarray.)*
 
 - {:.sp} Toussaint.
 
 - Ha! ha!
-- they didn't like that. Funny.
+- they don't like that. That's funny.
 - Crawl, crawl all the way back to oblivion, river of filth
 
 *(Mad dash for safety; exit the clergy giving out blessings, fearfully.)*
@@ -1565,14 +1565,14 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - Salvum fac imperatorem
 - salvum fac gubernatorem.
 
-*(The scene remains empty for a few instants. Enter the nanny, an old black woman laden with medals.)*
+*(The stage remains empty for a few instants. Enter the nanny, an old black woman laden with medals.)*
 
 - {:.sp} The Chorus.
 
-- {:.pr} I am the nurse. Toussaint Louverture, of course, had no nurse; sure, he never fell from my arms; we all know that he drank the milk of the earth, and that he suckled on the earth's bosom, and that he ate dirt bread, but not from a nurse. Well, imagine that I am the earth.
+- {:.pr} I am the wet nurse. Toussaint Louverture, of course, had no wet nurse; of course, he never fell from my arms; we all know that he drank the milk of the earth, and that he suckled on the earth's bosom, and that he ate dirt bread, but not from a wet nurse. Well, imagine that I am the earth.
 - So, I came to ask you to forgive him.
-- {:.pr} My child is weird, my child is violent; my child makes demands: rights. All kinds of rights. Rights that are not made for us.
-- {:.pr} But I say it's not his fault. Humph! I say that his blood is stronger than him; it overcomes him, and plays nasty tricks on him. Humph. And I see that he has infected a bunch of young people with his madness. And it's very unfortunate. A bunch of young protesters. Negroes: they are wrong to demand so much. And no doubt it will bring misfortune. In my day we were sweeter, more accepting, more consenting. Humph.
+- {:.pr} My child is weird, my child is violent; my child wants more; rights. All kinds of rights. Rights that are not made for us.
+- {:.pr} I say it's not his fault. Humph! I say that his blood is stronger than him; it overcomes him, and plays nasty tricks on him. Humph. And I see that he has infected a bunch of young people with his madness. And it's very unfortunate. A bunch of young protesters. Negroes: they are wrong to demand so much. And no doubt it will bring misfortune. In my day we were sweeter, more accepting, more consenting. Humph.
 
 ---
 
