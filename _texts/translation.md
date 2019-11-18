@@ -1480,15 +1480,15 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- A monkey, I am a monkey who with his grimaces brings
-- layovers of dust puddles, despair, famine
+- A monkey, I am a monkey who with his grimaces gathers
+- the stopovers of dust puddles, of despair, of famine
 - vengeance returned, nuclear distress, unspeakable devotions
 - and I ask you
 - oh, wind
 - calm face, painted with the guano of contortion
-- wind deserts, cactus and sphinx standing
+- Headwind of the deserts, of cactus and of sphinx
 - calamitously
-- have you still not understood?
+- did you understand anything?
 
 ---
 
@@ -1504,9 +1504,9 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} The Woman Reciter.
 
 - Oh! the bastards rise!
-- an agony on the waters
-- a strong voice in the reservoir
-- a strong voice of rainmaking cheetahs
+- death throes on the waters
+- a fat voice in the reservoir
+- a fat voice of rainmaking cheetahs
 - in the forest of the ocean.
 
 - {:.sp} Toussaint.
@@ -1520,7 +1520,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- On a branch of blooming waves, a line of white herons
+- On a branch of waves blossomed a line of white herons
 - ...
 
 - {:.sp} The Woman Reciter.
