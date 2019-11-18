@@ -1297,7 +1297,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- {:.i2} The fire smashes open the night with its savage spikes.
+- {:.i2} The fire smashes the night open with its savage spikes.
 
 - {:.sp} The Woman Reciter.
 
@@ -1339,7 +1339,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} Here I am, the merchant with empty hands, naked eye beckoning the spectacle, throat stirring life on words hatched against my teeth.
+- {:.pr} Here I am, the merchant with empty hands, naked eye arousing the spectacle, throat stirring life on words hatched against my teeth.
 
 - {:.sp} The Woman Reciter.
 
@@ -1347,15 +1347,15 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} Can't be true ... no more battles. No more killings, is that right? No more extravagant crimes? The barrel organ blindly purrs the minutes of silence upon silence upon silence, dustless sawdust of time. Ho. Ho. A smell of corpses ... blood sparkling like a large vat of wine.
+- {:.pr} It is not true ... there are no more battles. No more killings, is that right? No more extravagant crimes? The barrel organ blindly purrs the minutes of silence upon silence upon silence, dustless sawdust of time. Ho. Ho. The smell of corpses ... blood sparkling like a large vat of wine.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr} Nothing left to do but bang on the window of the sun and break the glass. Nothing left to do but find the red tassel of poisonous ants in the tinderbox of the sun and blast them to the winds. Ha, ha, you can't put lipstick on Fate.
+- {:.pr} Nothing left to do but bang on the window pane of the sun. Nothing left to do but break the mirror of the sun. Nothing left to do but find the red tassel of poisonous ants in the tinderbox of the sun and blast them to the winds. Ha, ha, you can't put lipstick on Fate.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} What a great day, a gerbera, more naked than a woman in the sun, plays on its way to the sun, and the sun pops inside the closed brains: a mined diadem, the traveler's tree, a braided heart, fine water blown to high frost.
+- {:.pr} What a great day a gerbera more naked than a woman in the sun plays towards the sun and the sun pops inside the closed brains a mined diadem the traveler's tree a braided heart fine water blown to high frost.
 
 - {:.sp} The Man Reciter.
 
