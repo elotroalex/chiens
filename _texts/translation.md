@@ -1359,7 +1359,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- Island, I love that fresh word, pricked with Caribs and sharks. I wait.
+- Island, I love that fresh word witnessed by Caribs and sharks. I wait.
 
 ---
 
