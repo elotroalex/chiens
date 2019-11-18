@@ -1202,21 +1202,21 @@ Please note that the following text contains violence in many guises, including 
 
 [37]({{site.baseurl}}/chiens/p037.html){:.pagetitle}
 
-*(Enter a mother and her two daughters. Tired, worried. White ... They turn their heads from time to time to see if they are being followed ... Half reassured, they lay down their bundles.)*
+*(Enter two girls and one woman. Tired, worried. They are white ... They turn their heads from time to time to see if they are being followed ... Half reassured, they lay down their bundles.)*
 
 - {:.sp} 1st Girl.
 
-- {:.i2} My teeth are clacking.
+- {:.i2} My teeth are chattering.
 
 - {:.sp} 2nd Girl.
 
-- {:.pr.i} Sigh. So fatigued ... We are soaked ... there's fog on the hill ... My bones are scared and cold.
+- {:.pr.i} Sigh. Such fatigue ... We are soaked ... there's fog on the mountain ... My bones weep from fear and cold.
 
 - {:.sp} The Mother.
 
-Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in the sharp sugarcanes ... then run some more ... Ouch. My legs ...
+Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in the sugarcanes quickly ... then run some more ... Ow! My legs ...
 
-*(The mother and her girls have disappeared; same decor. A hoe slashes the scene. Hoes, then hands ... They are slaves plowing at dusk.)*
+*(The mother and her girls have disappeared; same decor. A hoe slashes the stage. Hoes, then hands ... They are slaves plowing at dusk.)*
 
 - {:.sp} 1st Slave *(singing.)*
 
@@ -1257,27 +1257,27 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} The Chorus of Slaves.
 
 - {:.i2}  Hey, ho. Ho, my friends, ho.
-- My tired is a wheelbarrow full of silent sand
-- dumped on the four corners of the stone harvest.
+- My tired is a cartload of silent sand
+- on the four corners of the stone harvest.
 
 - {:.sp} The Man Reciter *(dismal.)*
 
-- {:.pr.i} Saint-Domingue melts, drowned in the acid reflux of the Revolution.
+- {:.pr.i} Saint-Domingue dissolves like a victim drowned on the acid reflux of the Revolution.
 
 - {:.sp} The Woman Reciter.
 
-- {:.i2} Death cries sweetly on the neck of the night ...
+- {:.i2} Death gently weeps on the neck of the night ...
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} 3000 royal poincianas crumble in the night's nothingness, and the night forgets.
+- {:.pr.i} 3000 royal poincianas crumble in the void of the night, in the night's oblivion.
 
 *(Gunfire ...)*
 
 - {:.sp} The Man Reciter *(feverish.)*
 
-- {:.i2} Sonthonax opens the prisons ... Sonthonax arms the slaves ...
-- Sonthonax opens the gates of Le Cap to Pierrot and Macaya ...
+- {:.i2} Sonthonax is opening the prisons ... Sonthonax is arming the slaves ...
+- Sonthonax is opening the gates of Le Cap to Pierrot and Macaya ...
 
 ---
 
@@ -1285,27 +1285,27 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Woman Reciter *(doleful.)*
 
-- {:.pr.i} 300,000 men, harnesses shattered, rush into the city with piercing howls ... The seaport swarms with Whites reaching for the stranded vessels ... Oh, the boats capsize ...
+- {:.pr.i} 300,000 men, harnesses shattered, are rushing into the city with piercing howls ... The seaport is swarming with Whites trying to reach the stranded vessels ... Oh, the boats are capsizing ...
 
 - {:.sp} The Man Reciter *(fierce.)*
 
-- {:.i2} Heads roll like cocoa pods.
+- {:.i2} Heads are rolling like cocoa pods.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} The djembe gasps; the djembe erupts ... the djembe spits grasshoppers of fire and blood.
+- {:.pr.i} The djembe gasps; the djembe erupts ... the djembe spits locusts of fire and blood.
 
 - {:.sp} The Man Reciter.
 
-- {:.i2} The fire knocks the Kanak cobs out of the night.
+- {:.i2} The fire smashes open the night with its savage spikes.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} ... the fire hangs its rapacious top leaves on the captive rooftops ...
+- {:.pr.i} ... the fire hangs its rapacious dead leaves on the transfixed rooftops ...
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} ... The city collapses on its hocks ... In the slow vertigo of rape ... among the tickling of a bed of smoke and of screams ...
+- {:.pr.i} ... The city collapses on its hocks ... In the slow vertigo of the rape ... among the tickling of a bed of smoke and of screams ...
 
 - {:.sp} The Chorus.
 
@@ -1321,7 +1321,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.i2} Haiti. Haiti.
 
-*(The Reciters approach the front of the stage, fumbling in the dark.)*
+*(The Reciters approach the front of the stage, feeling their way in the dark.)*
 
 - {:.sp} The Man Reciter *(crying.)*
 
