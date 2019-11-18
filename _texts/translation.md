@@ -1365,11 +1365,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 [42]({{site.baseurl}}/chiens/p042.html){:.pagetitle}
 
-*(A Haitian town, public plaza: troops, crowds, flags. Sudden cheers and fanfare. Enter Toussaint and his entourage. Toussaint stands on the dais: the delegations approach in succession.)*
+*(A Haitian town, public square: troops, crowds, flags. Sudden cheers and fanfare. Enter Toussaint and his entourage. Toussaint stands at the dais: the delegations approach in succession.)*
 
 - {:.sp} 1st Delegation: 1st Orator
 
-- {:.pr.i} Glory to Toussaint Louverture: He has purged the colonies from the tyrannical British hordes.
+- {:.pr.i} Glory to Toussaint Louverture: He has purged the colonies of the tyrannical British hordes.
 
 - {:.sp} The Crowd.
 
@@ -1407,11 +1407,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.pr} Glory and recognition to Toussaint Louverture, educator of the people! The opposite of a Villaret, who eagerly closed down the schools of our neighbor, Martinique, and declared cynically:
 - {:.pr.i} "Ignorance is a necessary bond for men chained by violence or withered by prejudices." 
-- {:.pr} Here, in our free Haiti, thanks to the impetuous genius of Toussaint Louverture, the unholy system that wanted ignorance to be a policy, a police, a dogma, dies on the vine.
+- {:.pr} Here, in our free Haiti, thanks to the impetuous genius of Toussaint Louverture, the unholy system that made of ignorance a policy, a police, a dogma nears its death.
 
 - {:.sp} The Crowd.
 
-- Hurray!
+- Hurrah!
 
 - {:.sp} The French Representative.
 
@@ -1456,8 +1456,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - A tower
 - with cracks in the wall;
 - a forest full of wolves
-- and they walk inside with mitered heads;
-- a dish of venomous mushrooms
+- and they stroll around in there wearing miters;
+- a plate of venomous mushrooms
 - and they throw themselves on it greedily.
 
 - {:.sp} The Cantors *(bawling stronger.)*
@@ -1480,7 +1480,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- A monkey, I am a monkey who can bring with a grimace
+- A monkey, I am a monkey who with his grimaces brings
 - layovers of dust puddles, despair, famine
 - vengeance returned, nuclear distress, unspeakable devotions
 - and I ask you
