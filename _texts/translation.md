@@ -1572,7 +1572,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.pr} I am the wet nurse. Toussaint Louverture, of course, had no wet nurse; of course, he never fell from my arms; we all know that he drank the milk of the earth, and that he suckled on the earth's bosom, and that he ate dirt bread, but not from a wet nurse. Well, imagine that I am the earth.
 - So, I came to ask you to forgive him.
 - {:.pr} My child is weird, my child is violent; my child wants more; rights. All kinds of rights. Rights that are not made for us.
-- {:.pr} I say it's not his fault. Humph! I say that his blood is stronger than him; it overcomes him, and plays nasty tricks on him. Humph. And I see that he has infected a bunch of young people with his madness. And it's very unfortunate. A bunch of young protesters. Negroes: they are wrong to demand so much. And no doubt it will bring misfortune. In my day we were sweeter, more accepting, more consenting. Humph.
+- {:.pr} But I'm saying it's not his fault. Humph! I'm saying that his blood is stronger than him; it overcomes him, and plays nasty tricks on him. Humph. And I see that he has infected a bunch of young people with his madness. And it's very unfortunate. A bunch of young protesters. Negroes: they are wrong to demand so much. And no doubt it will bring misfortune. In my day we were more gentle, more accepting, more consenting. Humph.
 
 ---
 
@@ -1581,7 +1581,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} Toussaint.
 
 - broken wings and branches
-- the victims take turns at the falls
+- the victims take turns at falling
 - hey there on the foretop
 - start the fire, keep it going, on the shade and the ditch
 - A thousand excuses, we have the best to offer you
