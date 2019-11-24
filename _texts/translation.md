@@ -1702,7 +1702,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} Toussaint.
 
 - I've caught extraordinary messages in the void ... full
-- {:.pr} of daggers, nights, moans; I hear above the praises a vast improvisation of tornadoes, sunbursts, curses, cooking stones, strange little days, numbness drunk in small sips, the red sex, the yellow sex, devouring, devourer ...
+- {:.pr} of daggers, nights, moans; I hear above the praises a vast improvisation of tornadoes, sunbursts, curses, cooking stones, strange little days, numbness drunk in sips, the red sex, the yellow sex, devouring, devourer ...
 
 - {:.sp} The Chorus.
 
@@ -1711,8 +1711,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} Toussaint.
 
 - ... a grand blaze of red plums and crabs ...
-- {:.i2} a sowing---to see---of flies, of palaver, of bad memories
-- {:.i2} of tracks, of termites, of fevers to heal, wrongs to straighten,
+- {:.i2} a sowing to see of flies, of palaver, of bad memories
+- {:.i2} of tracks, of termites, of fevers to heal, wrongs to right,
 - {:.i2} an alligator yawn
 - {:.i2} a gargantuan injustice.
 
@@ -1725,29 +1725,29 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 [52]({{site.baseurl}}/chiens/p052.html){:.pagetitle}
 
 - water lilies.
-- {:.i2} We will muzzle the sea while listening to the farmers toil towards the rump
-- of fabulous mornings, in a sweetness of scandals and foam.
+- {:.i2} We will muzzle the sea while listening to the farmers toil towards the fabulous knoll
+- of mornings, in a gentleness of scandals and foam.
 
 - {:.sp} Toussaint.
 
-- {:.pr} Enough happiness! The strange beggars with vintage faces who now threaten, now salute the dawns
+- {:.pr} Enough happiness! The strange beggars with vintage faces who sometimes threaten, sometimes salute the dawns
 - they are me
 - a hunger wakes them up every night among the madrepora
-- a hunger for a larger sun and very ancient coins.
-- I turn to the unknown wind bursting with pursuits
+- __a hunger for a larger sun and very ancient coins__.
+- I turn once again to the unknown wind bursting with pursuits
 - I'm leaving
 - don't speak, don't laugh
 - Africa sleeps---don't speak, don't laugh. Africa bleeds, my mother
-- Africa splits open, shattered on a ditch of vermin,
-- to the sterile invasion of spermatozoa of rape!
+- Africa splits open, shattered on a trough of vermin,
+- to the sterile invasion of __sperm of the rape__!
 
 - {:.sp} The Chorus.
 
-- {:.pr} What a stretch along the forests, rivers, swamps, tongues and big cats!
+- {:.pr} What a stretch above the forests, rivers, swamps, tongues and big cats!
 - I do not have the gift of theft.
 - I have no mother---I have no past.
-- I've filled up with countless insults and dust
-- my navel's stepmothered hollow.
+- I've filled all the way to oblivion, with insults and with dust, the well
+- stepmother of my navel.
 
 - {:.sp} Toussaint.
 
@@ -1756,13 +1756,13 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - Africa, my nudity ...
 - Make cities fall. Make laws or break them.
 - Kill or adore.
-- I'm out. Innocent, clean hands. I'm out.
+- I'm outside. Innocent, clean hands. I'm outside.
 
 ---
 
 [53]({{site.baseurl}}/chiens/p053.html){:.pagetitle}
 
-- Hippos blow their nightmares
+- Hippos blow their bad dreams
 - Rhinos charge in the wind grown too quickly
 - a round of adobe, my mature innocence laughs its loud laughter
 - of fresh earth ...
@@ -1785,9 +1785,9 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - I raise the alarm on the watchtower.
 - Closer!
 - This way!
-- The canoe of buccaneers loots the fields of azure---just for fun.
+- The dinghy of pirates pillages on fields of azure---just for fun.
 - Drunkenness and debauchery. An immense expanse turns to gold;
-- in the depths of the lye lake, a red eagle;
+- in the depths of the washing lake, a vermillion eagle;
 - {:.pr} fields of corn, indigo, sugarcane, a few fathoms deep;
 - clamors in the hollow rush up the hollow and plug the sky ...
 
@@ -1841,9 +1841,9 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- A just dawn was pounding smiles
-- a just dawn was pounding hopes
-- a dawn was pounding simple words, clearer than plowshares ...
+- A just dawn pounded smile
+- a just dawn pounded hopes
+- a dawn pounded with simple words, clearer than plowshares ...
 - and still for us the season of rain
 - and of poisonous beasts
 - and of knocked-down war cries 
@@ -1867,10 +1867,10 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Woman Reciter.
 
-- Waters supervised by Griffins
+- Waters supervised by griffins
 - sleep on the edge of fires
-- eclipse of sands, magnificat
-- suspended garden and turbulence
+- eclipse of sands, Magnificat
+- hanging garden and turbulence
 - bronze age
 - stone age
 - ground level.
