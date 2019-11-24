@@ -1666,13 +1666,13 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - humiliating, I don't deny it,
 - {:.pr} But see here, young man ... dangerous above all else. And I'm going to tell you why ...
 - {:.pr.i} You know the white version---our version---of the story of the slave ship: Cinquez the Negro gives the signal to revolt. Revolt triumphs. And there you have it, Cinquez the Negro doesn't know how to sail the ship ... Ha, ha! Would you look at that ... What a revenge for the Whites! ... The untamed sea, the grimoire of stars ... the famine ... the despair ... But imagine this for a moment, my friends: Cinquez the Negro knows how to sail the ship! Cinquez the Negro can read the stars! Cinquez the Negro has calculated right and is headed for land.
-- {:.pr.i} And here it is: one day, Cinquez the Negro arrives with his crew, his people, I would say in a beautiful country, full of sun, parrots, fruits, fresh water, breadfruit ...
-- {:.i2} Huh! What do you say?
+- {:.pr.i} And here it is: one fine day, Cinquez the Negro arrives with his crew, his people, I would say in a beautiful country, full of sun, parrots, fruits, fresh water, breadfruit trees ...
+- {:.i2} Huh! What do you say now?
 - {:.i2} What a slap in the face!
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I cannot drive away this image: dirt eaters on a field of clay.
+- {:.pr.i} I cannot drive away this image from my eyes: dirt devourers on a field of clay.
 
 - {:.sp} The Chorus.
 
@@ -1692,12 +1692,12 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} My palaces, I hate them. My island limit is a prison, and I am a prisoner.
+- {:.pr.i} My palaces, I hate them. My limit-island is a prison, and I am a prisoner.
 
 - {:.sp} The Chorus.
 
 - {:.i2} I hear a whole people offer hymns to you.
-- {:.i2} Your glory is sung all along the ramparts.
+- {:.i2} Your glory is sung below the ramparts.
 
 - {:.sp} Toussaint.
 
@@ -1711,7 +1711,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} Toussaint.
 
 - ... a grand blaze of red plums and crabs ...
-- {:.i2} a seeding---to see---of flies, of palaver, of bad memories
+- {:.i2} a sowing---to see---of flies, of palaver, of bad memories
 - {:.i2} of tracks, of termites, of fevers to heal, wrongs to straighten,
 - {:.i2} an alligator yawn
 - {:.i2} a gargantuan injustice.
