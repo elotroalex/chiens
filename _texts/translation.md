@@ -1583,14 +1583,14 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - broken wings and branches
 - the victims take turns at falling
 - hey there on the foretop
-- start the fire, keep it going, on the shade and the ditch
-- A thousand excuses, we have the best to offer you
-- a blazing fire saluting the darkness with flares
-- armed with blue shadows
+- continuous fire start the fire in the shade and the ditch
+- A thousand excuses, that's what we have better offer you
+- a flickering blaze saluting with its breaths the darkness armed
+- with blue shadows
 - what is that? what is that?
-- through my hand I see stars
+- through my hand I'm seeing stars
 - obsolete freedoms
-- a repulsed face caught in the frost and the overhang and the dotted yaws.
+- a revolted face caught in the frost and the overhang and the dotted yaws.
 
 - {:.sp} The Man Reciter.
 
@@ -1600,8 +1600,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - Mass without community or communion
 - a church burns in the coffers of the twisted forest
-- the debris of firecrackers shout hurrah
-- the flesh flies in swarfs of dark Africa.
+- the debris of rockets shout hurrah
+- the flesh flies in shavings of dark Africa.
 
 - {:.sp} The Woman Reciter.
 
@@ -1612,8 +1612,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - Princess palm cutters,
 - snake charmers
 - you will not charm my unstoppable hourglass hands
-- and I come to this land where nothing rocks the boat
-- from fear that things won't find their sleep.
+- and I come to this land where __nothing rocks the boat__
+- __from fear that things won't find their sleep__.
 
 ---
 
@@ -1625,11 +1625,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} 1st Passerby.
 
-- You saw the pilgrim's mouth: a real macaque mouth.
+- You saw the pilgrim's snout: a real macaque's snout.
 
 - {:.sp} 2nd Passerby.
 
-- A macaque head making a mockery of a general's bicorne.
+- A macaque's head making a mockery of a general's bicorne.
 
 - {:.sp} 3rd Passerby.
 
@@ -1637,22 +1637,22 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} 2nd Passerby.
 
-- {:.pr} Still, it bugs me to see a French general's bicorne on a macaque head.
+- {:.pr} Still, it bugs me to see a French general's bicorne on a macaque's head.
 
 - {:.sp} 1st Passerby.
 
-- {:.pr.i} You shouldn't worry about it too much, madame! The English and the Spaniards forced us: the necessity, you understand.
+- {:.pr.i} You shouldn't worry about it too much, lady! The English and the Spaniards forced us: the necessity, you understand.
 
 - {:.sp} 2nd Passerby.
 
-- {:.pr.i} Still though! The English and the Spaniards forced us, right, and we sent back Master Gilles. Still, it annoys me to call that old ass "my General," and to have to stand at attention in front of him.
+- {:.pr.i} Still though! The English and the Spaniards brought to their senses, we sent back Master Gilles. Still, it annoys me to call that old ass "my General," and to have to stand at attention in front of him.
 
 - {:.spGroup} 2nd Group of Passersby.
 
 - {:.sp} 1st Passerby.
 
-- {:.pr.i} A Negro, Captain General of Saint-Domingue! It's ridiculous, humiliating, dangerous! What is a Negro, my friends?
-- {:.pr.i} A barely trimmed monkey; a chimpanzee, an orangutan, a marmoset, a sapajou. What do I know?
+- {:.pr.i} A Negro, Captain General of Saint-Domingue! It's all ridiculous, humiliating, dangerous! What is a Negro, my friends?
+- {:.pr.i} A mere rough-hewn monkey; a chimpanzee, an orangutan, a marmoset, a sapajou. What do I know?
 - {:.i2} All scholars will tell you the same.
 
 ---
@@ -1661,11 +1661,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} 2nd Passerby.
 
-- {:.pr} You're missing the point, my dear cousin ... You're getting carried away, and passion is worthless in politics. A Negro, Captain General of Saint-Domingue
+- {:.pr} You're not seeing things clearly, my dear cousin ... And you're not seeing things clearly because you're getting emotional, and emotions are worthless in politics. A Negro, Captain General of Saint-Domingue
 - ridiculous, I agree with you,
 - humiliating, I don't deny it,
 - {:.pr} But see here, young man ... dangerous above all else. And I'm going to tell you why ...
-- {:.pr.i} You know the White version---our version---of the story of the slave: Cinquez the Negro gives the signal to revolt. Revolt triumphs. But here is Cinquez the Negro who can't sail the ship ... Ha, ha! Do you see ... What a revenge for the Whites! ... The untamed sea, the grimoire of stars ... the famine ... the despair ... But imagine this for a moment, my friends: Cinquez the Negro can sail the ship! Cinquez the Negro can read the stars! Cinquez the Negro has calculated right and is headed for land.
+- {:.pr.i} You know the white version---our version---of the story of the slave ship: Cinquez the Negro gives the signal to revolt. Revolt triumphs. And there you have it, Cinquez the Negro doesn't know how to sail the ship ... Ha, ha! Would you look at that ... What a revenge for the Whites! ... The untamed sea, the grimoire of stars ... the famine ... the despair ... But imagine this for a moment, my friends: Cinquez the Negro knows how to sail the ship! Cinquez the Negro can read the stars! Cinquez the Negro has calculated right and is headed for land.
 - {:.pr.i} And here it is: one day, Cinquez the Negro arrives with his crew, his people, I would say in a beautiful country, full of sun, parrots, fruits, fresh water, breadfruit ...
 - {:.i2} Huh! What do you say?
 - {:.i2} What a slap in the face!
