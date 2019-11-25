@@ -1738,8 +1738,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - I'm leaving
 - don't speak, don't laugh
 - Africa sleeps---don't speak, don't laugh. Africa bleeds, my mother
-- Africa splits open, shattered on a trough of vermin,
-- to the sterile invasion of __sperm of the rape__!
+- Africa spreads herself open, broken to a stream of vermin,
+- to the sterile invasion of the sperm of rape!
 
 - {:.sp} The Chorus.
 
