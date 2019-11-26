@@ -1885,11 +1885,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- Is it my choice? Attack; I will defend myself.
+- Is it my choice? If attacked, I will defend myself.
 
 - {:.sp} Parliamentarian.
 
-- The Republic is hoping to find in you a submissive and devoted son. 
+- The Republic was hoping to find in you a submissive and devoted son. 
 
 - {:.sp} Toussaint.
 
@@ -1897,7 +1897,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Parliamentarian.
 
-- {:.pr} I will be frank, the Republic intends to take back control of its most beautiful colony: Saint-Domingue.
+- {:.pr} I'll be frank, the Republic intends to take back control of its most beautiful colony: Saint-Domingue.
 
 - {:.sp} Toussaint.
 
@@ -1944,11 +1944,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Parliamentarian.
 
-- Fine. War it is. Goodbye, General.
+- Fine. War it is. Farewell, General.
 
 - {:.sp} Toussaint.
 
-- War it is. Goodbye.
+- War it is. Farewell.
 
 - {:.sp} The Man Reciter.
 
@@ -1967,8 +1967,8 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} Toussaint *(ecstatic.)*
 
 - leaning on the fire ramp,
-- unconvinced by the clouds' pleas.
-- bark djembe
+- the clouds' screams are not enough for me.
+- bark, djembe
 - bark from the top gate, guardian dogs
 - dogs of the void
 - bark of weary war
@@ -2002,12 +2002,12 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - Tell the Vodou to put out the sunlight of their midnights
 - tell the bothrops the bets are made
 - we are the fallen race
-- we are the race with no day and no tomorrow.
+- we are the race without day and without tomorrow.
 
 - {:.sp} The Woman Reciter.
 
-- Arpeggio of sinister guitars, a dawn bled with blanks
-- rises under my eyelids
+- Arpeggio of sinister guitars it rises beneath my eyelids 
+- a dawn bled dry
 - I am pure waiting, I wait
 - I walk on the eggshells of precious moments
 - Oh, fragile paths, stubborn and certain,
