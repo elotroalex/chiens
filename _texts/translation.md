@@ -2710,12 +2710,12 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - Just like me, your master will bleed one day:
 - shipwrecked
 - prisoner of my Africa as I am of his Europe.
-- Africa is now linked to its destiny ...
-- Africa has a share with him
-- Toussaint a share with him, whether he likes it or not.
-- I say that Africa will not let go ...
+- Africa is from now on linked to his destiny ...
+- Africa is a part of him
+- Toussaint is a part of him, whether he likes it or not.
+- I say that Africa will not let him go ...
 
-*(At this moment, enters The Messenger through the other side of the stage.)*
+*(At this moment, The Messenger enters through the other side of the stage.)*
 
 - {:.sp} Toussaint.
 
@@ -2731,8 +2731,8 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Toussaint.
 
-- Oh, my limbs of shattered wall
-- you will not quit from fatigue or cold
+- Oh, my limbs of wrecked wall
+- you will not extinguish from fatigue or cold
 - my smoking cry
 - my trapped-animal cry, intact.
 
@@ -2746,9 +2746,9 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Toussaint.
 
-- the minutes around me procession
+- the minutes march around me
 - like a pack of bony wolves
-- like a flock of lashes
+- like a herd of whiplashes
 - like knots on a ladder of rope and bylaws
 - ungovernable subject, perfect victim
 - defiance glued to the waterfront
@@ -2811,13 +2811,13 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Toussaint.
 
-- Who's calling me? I listen. I don't listen.
-- {:.pr} There is in my head a river of mud, of bleak, of green and troubled things 
+- Who's calling me? I listen. I do not listen.
+- {:.pr} There's a river in my head of mud, of bleak, of green and troubled things 
 - of dead birds, yellow bellies
 - crisscrossed meaowings, squirts very close to the gag
-- my convulsed years painted on fire
+- my convulsed years painted with fire
 - revolving plaques of swamps, craters, raped girls
-- there in my ears, the firing squad in the morning caponiers.
+- in my ears there is the firing squad in the morning caponiers.
 
 - {:.sp} The Man Reciter.
 
@@ -2829,7 +2829,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} The Man Reciter.
 
-- Monkeys frolicking around the Lion with a man's face.
+- Monkeys frolicking around the Lion with a human face.
 - Toussaint, Toussaint, the day of trials is here.
 
 ---
@@ -2838,8 +2838,8 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Toussaint.
 
-- I fear nothing. I have nothing to fear, friends.
-- {:.pr} Today is a day of connivance. There are bitter days on my lips, and the small mango that falls, falls lugubriously, and the flowers look like burials that respond more and more feebly, but I am at peace today, and the blind she-oak signals me, and the sea smiles at me with all its dimples, and every manchineel bends and commits suicide from the propitious olive tree.
+- I'm not afraid of anything. I'm not afraid of anything, my friends.
+- {:.pr} Today is a day of connivance. There are bitter days on my lips, and the small mango that falls, falls lugubriously, and the flowers look __like the buried__ who respond more and more feebly, but I am at peace today, and the blind she-oak signals me, and the sea smiles at me with all its dimples, and every manchineel bends and commits suicide from the propitious olive tree.
 - {:.i2} Welcome, day of trials.
 
 - {:.sp} The Messenger.

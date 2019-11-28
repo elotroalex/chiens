@@ -1769,7 +1769,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - Les hippopotames soufflent leurs mauvais rêves
 - les Rhinocéros chargent dans le vent trop vite grandi
 - rond de pisé mûr mon innocence rit son grand rire
-- de terre fraiche...
+- de terre fraîche...
 
 - {:.sp} Le Récitant.
 
@@ -2397,7 +2397,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - {:.sp} Chœur *(souterrain.)*
 
 - {:.i2} Voici ma main. Voici ma main.
-- Ma main fraiche, ma main de jet d'eau de sang
+- Ma main fraîche, ma main de jet d'eau de sang
 - ma main de varech et d'iode
 - ma main de lumière et de vengeance...
 - Toussaint Louverture. Toussaint Louverture.
@@ -2660,7 +2660,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 - {:.sp} Récitante.
 
-- {:.pr.i} Saint-Domingue... Saint-Domingue aux yeux d'antimoine, à la bouche de Kola fraiche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
+- {:.pr.i} Saint-Domingue... Saint-Domingue aux yeux d'antimoine, à la bouche de Kola fraîche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
 
 - {:.sp} Toussaint.
 
