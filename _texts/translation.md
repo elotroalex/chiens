@@ -2629,7 +2629,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Toussaint.
 
-- Hello, dungeon's darkness.
+- Dungeon's darkness, I say hello.
 
 - {:.sp} 1st Specter.
 
@@ -2639,22 +2639,22 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - I will dance the scalp dance around my victim.
 
-- {:.sp} The Guard Man *(addressing the public.)*
+- {:.sp} The Jailer Man *(addressing the public.)*
 
-- {:.pr} Look at him, quite the caricature, that crestfallen and scrawny face, a shabby face, chilly hands, the hypocritical chief of a tribe of savages, the sad leader of a demonic race; sneaky schemer, lost with his fanatics.
-- {:.pr.i} Ladies and Gentlemen, listen carefully ... In 1793 we learned that in the name of human rights, we learned, I repeat, that the most vile of all races was going to sit side by side with us at the banquet of a laughable fraternity.
-- {:.pr.i} Ah, we didn't have to wait long to see the results. There was comedy. There was a bit of tragedy. There was horror. Cannibals could be seen entering the towns swollen with pride; we lived the Te Deum. We saw constitutions being drafted. We saw all of that, good people in the audience. And what else did we see? The smoke rising at noon; the fire of innumerable Aurora Borealis in the midnight sky, reflecting scenes of crime and absurdity from afar.
+- {:.pr} Look at him, quite the caricature, that crestfallen and scrawny face, a shabby face, chilly hands, the hypocritical chief of a tribe of savages, the sad leader of a demonic race; sneaky schemer, lost among the fanatics.
+- {:.pr.i} Ladies and Gentlemen, listen carefully ... In 1793 we learned that in the name of human rights, we learned, I repeat, that the most vile of all races was going to sit side by side with us at the banquet of a laughable brotherhood.
+- {:.pr.i} Ah, we didn't have to wait long to see the results. There was comedy. There was tragedy. There was horror. Cannibals could be seen entering the towns swollen with pride; we lived the Te Deum. We saw constitutions being drafted. We saw all of that, good people in the audience. And what else did we see? The smoke rising at noon; the fire of innumerable Aurora Borealis in the midnight sky, reflecting scenes of crime and absurdity from afar.
 
 ---
 
 [74]({{site.baseurl}}/chiens/p074.html){:.pagetitle}
 
 - {:.pr.i} Well, I say that this is the work of a supreme justice, and it is she who now transforms Toussaint Louverture the General into old Toussaint, slave Toussaint, a piece of shit forgotten in the latrines of history, a lousy Negro, a fallen Negro ...
-- {:.pr.i} Toussaint, Toussaint, the brood of Ham will never be able to shake off its curse of daily tears.
+- {:.pr.i} Toussaint, Toussaint, the race of Ham will never be able to shake off its curse of daily tears.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Saint-Domingue ... Saint-Domingue with antimony eyes and fresh kola mouth. Saint-Domingue the heavy, the golden, with the bevels of mango and mature woman.
+- {:.pr.i} Saint-Domingue ... Saint-Domingue with antimony eyes and the mouth of early morning kola. Saint-Domingue the cumbersome, the gilded, with the bevels of mango and blackberry woman.
 
 - {:.sp} Toussaint.
 
@@ -2666,25 +2666,25 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Hung like a sign above France, I do not weep ... I call you out.
+- {:.pr.i} Hung like a sign above France, I do not weep ... I call out.
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - We drowned the echo: your words will burn like turds.
 
 - {:.sp} Toussaint.
 
-- Maroon, your flag is my flag: perils and revolt without remorse.
+- Maroon, your flag is my only flag: perils and revolt without remorse.
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - You boast of your crimes.
 
 - {:.sp} Toussaint.
 
-- I planted a tree of sulfur and lava among a vanquished people.
+- I acclimatized a tree of sulfur and lava among a vanquished people.
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - Pathetic.
 
@@ -2695,21 +2695,21 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Toussaint.
 
-- The earth race, the downtrodden race has known feet.
+- The race of earth, the downtrodden race is well acquainted with feet.
 - Congo and Mississippi, strain out gold
 - strain out blood
 - the race of earth, the race of ash is on the move
-- chewing-saltpeter explodes feet on the road.
+- the feet on the road spit saltpeter plugs.
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
-- You will perish, a prisoner of snow, loneliness and desperation.
+- You will perish, a prisoner of snow, loneliness, and desperation.
 
 - {:.sp} Toussaint.
 
 - Just like me, your master will bleed one day:
 - shipwrecked
-- prisoner of my Africa, like me of his Europe.
+- prisoner of my Africa as I am of his Europe.
 - Africa is now linked to its destiny ...
 - Africa has a share with him
 - Toussaint a share with him, whether he likes it or not.
@@ -3437,7 +3437,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - {:.pr} And you know, their justice may have been served, yes, done and over with, but the glint in their eyes never dies.
 - Assassins! Murderers! Murderers!
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - Silence!
 
@@ -3445,7 +3445,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {: .pr} Come on! Good people ... I know I annoy you ... and you would prefer it if I just shut up ... Go on, make me afraid, make me very afraid, I am very cowardly you know: I have trembled with all the fears since the first fear ...
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - This asshole!
 
@@ -3453,7 +3453,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.pr} Make me afraid, make me very afraid, go ahead. And you know the good ways: shake my forehead with a rope, hang me by the armpits, warm my feet with a red-hot shovel.
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - Jesus Christ, shut up!
 
@@ -3461,7 +3461,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - Pierce my mouth with a flaming-red padlock.
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - He's asking for it!
 
@@ -3473,7 +3473,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 [95]({{site.baseurl}}/chiens/p095.html){:.pagetitle}
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - All the devils of hell poke at his black flesh
 
@@ -3481,7 +3481,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - ... or your flowery figures, or a Latin formula.
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - Enough!
 
@@ -3489,7 +3489,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {: .pr} They are scrupulous. Don't be afraid, I assure you: I was absent from the baptism of Christ.
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - We can tell.
 
@@ -3506,7 +3506,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - Tie him up.
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - On it, my dear. On it *(he ties Toussaint)*
 
@@ -3518,7 +3518,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - What do you want from me, despicable creatures?
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - ... This treasure ... where did you hide it ... your booty?
 
@@ -3530,7 +3530,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - Who is this woman insulting me?
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - Answer us, you Black bastard ... there's no time to waste.
 
@@ -3547,7 +3547,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - Ouch! The sexist pig! He insults me, the bastard. He insults me, you hear?
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - Insolent, disgusting, libidinous monkey!
 
@@ -3561,7 +3561,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 [97]({{site.baseurl}}/chiens/p097.html){:.pagetitle}
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - {: .pr.i} Would you look at that. He doesn't give a fuck. This monkey ... Of course he's pretending to be crazy ... harder ... even harder *(he hits Toussaint)*.
 
@@ -3582,7 +3582,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {: .pr} Isaac, Isaac, why stay in the rain ... I had a son ... I managed to protect him from the bites of this race of scorpions ... Isaac, Isaac!
 
-- {:.sp} The Guard Man.
+- {:.sp} The Jailer Man.
 
 - {: .pr} Ah! he is seriously going off the rails ... I could die laughing ... Say, it's weird, the red blood on the black skin. *(They loosen Toussaint.)*
 
