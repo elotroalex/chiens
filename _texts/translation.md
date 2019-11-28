@@ -2469,7 +2469,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - Cataracts, here are the cataracts and the clear, murderous bird songs.
 
-*(A field in the desert, as far from tropical as possible. Farmers. Enter the traveler, head covered with a veil.)*
+*(A desertic field, just as least tropical, as also possible. Peasants. Enter the traveler, head covered with a veil.)*
 
 - {:.sp} The Traveler.
 
@@ -2477,7 +2477,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Good People.
 
-- Huh? What's so good about it?
+- Huh? This is funny? Why good morning? 
 
 - {:.sp} The Traveler.
 
@@ -2489,7 +2489,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Traveler.
 
-- {:.pr} Very far ... Say, I once knew a man named Toussaint, and his nickname had oddly lengthened his name with an aigrette of bold hands ... Toussaint, Toussaint Louverture.
+- {:.pr} Very far ... Say, I once knew a man named Toussaint, and his nickname had oddly added an aigrette of bold hands to his name ... Toussaint, Toussaint Louverture.
 
 - {:.sp} The Good People.
 
@@ -2497,7 +2497,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Traveler.
 
-- {:.pr} And yet it was in this heath that, as a child, he played, Saharan, with your jovial peasantry as his company.
+- {:.pr} And yet it was in this heath that he played as a child, Saharan, with your jovial peasantry as his comrade.
 
 - {:.sp} The Good People.
 
@@ -2509,7 +2509,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Traveler.
 
-- {:.pr} Well, hello stone planters, I am a word planter. Toussaint Louverture, he was a man ... how would I say?
+- {:.pr} Well, hello stone planters, Me, I'm a word planter. Toussaint Louverture, he was a man ... how can I put it?
 
 - {:.sp} The Good People.
 
@@ -2525,7 +2525,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Traveler.
 
-- {:.pr} Yes, anyway ... an amazing man ... with deep bites ... He traveled the country at the speed of lightning and freedom, printing sodden corpses on the ground, his steps fertile.
+- {:.pr} Yes, anyway ... an amazing man ... with deep bites ... He traveled the country at the speed of lightning and freedom, stamping his fertile steps on the ground of sodden corpses.
 
 - {:.sp} The Good People.
 
@@ -2543,13 +2543,13 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Good People.
 
-- Nope, we don't know you.
+- No, we don't know you.
 
 *(Toussaint smacks them nervously.)*
 
 - {:.sp} Toussaint.
 
-- {:.pr} I am Toussaint the Opening, your revenge, your freedom, your anger, your lifted blood, your machete, your woolly head, your paroxysm.
+- {:.pr} I am Toussaint Louverture, your vengeance, your freedom, your anger, your blood raised up, your machete, your woolly head, your paroxysm.
 
 *(The Good People continue to plant stones, then suddenly stop.)*
 
@@ -2561,17 +2561,17 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 [72]({{site.baseurl}}/chiens/p072.html){:.pagetitle}
 
-*(Toussaint goes away: The Good People laugh and flick stones at him.)*
+*(Toussaint goes away: The Good People laugh and throw stones at him.)*
 
 - {:.sp} The Good People.
 
-- {:.pr} That's funny: we don't know him at all.
+- {:.pr} That's funny: we don't know him.
 
-*(Toussaint advances alone in the heath; men dig stones with their nails. Toussaint stops.)*
+*(Toussaint advances alone in the heath; men dig up stones with their nails. Toussaint stops.)*
 
 - {:.sp} Toussaint.
 
-- My children, I am a king without possessions. Hello.
+- My children, I am a king who doesn't possess anything. Hello.
 
 - {:.sp} The Stone Diggers.
 
@@ -2579,7 +2579,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- ... without possessions.
+- ... who doesn't possess anything.
 
 - {:.sp} The Stone Diggers.
 
@@ -2589,15 +2589,15 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.pr} Desert tinkerers, baptize me.
 
-*(Toussaint bends down, face to the ground, arms spread. One of the men pours earth on his head and nape.)*
+*(Toussaint bends down, face to the ground, arms spread. One of the men pours earth on his head and the back of his neck.)*
 
 - {:.sp} Toussaint.
 
-- {:.pr} Mealy land, warm mother's milk on my neck, rich brook, half-darkness, ask me, guide me ...
+- {:.pr} Mealy land, warm mother's milk on my neck, rich brook, half-darkness, demand of me, guide me ...
 
-*(He nears his ear close to the ground.)*
+*(He puts his ear to the ground.)*
 
-Oh, steps; hooves of horses; crawling larvae grown in the valley of my ears. Confluence. Puddles. Languages. Safe hands of the blind. I hurt. Oh, how I hurt.
+Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears. Confluence. Puddles. Languages. Dependable hands of the blind. I am afflicted. Oh, how I am afflicted.
 
 *(He stands up; at this moment, the moon shines brightly in the sky. Toussaint fades into the night. He stops, turns around, and shouts from a distance.)*
 

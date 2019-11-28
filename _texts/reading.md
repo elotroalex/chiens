@@ -2603,7 +2603,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 
 *(Il approche l'oreille du sol.)*
 
- Oh, des pas&nbsp;; des sabots de chevaux&nbsp;; des rampements de larves grossis dans la vallée de mes oreilles. Confluences. Flaques. Langages. Mains sures d'aveugle. Je suis atteint. Oh, Oh, je suis atteint.
+ Oh, des pas&nbsp;; des sabots de chevaux&nbsp;; des rampements de larves grossis dans la vallée de mes oreilles. Confluences. Flaques. Langages. Mains sûres d'aveugle. Je suis atteint. Oh, Oh, je suis atteint.
 
 *(Il se  redresse&nbsp;; à ce moment la lune brille de tout son éclat haut dans le ciel. Toussaint s'enfonce dans la nuit. Il s'arrète, se retourne et crie de loin.)*
 
