@@ -2011,7 +2011,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - I am pure waiting, I wait
 - I walk on the eggshells of precious moments
 - Oh, fragile paths, stubborn and certain,
-- of my kingdom which is and is not yet.
+- of my kingdom which is and is yet not.
 
 ---
 
@@ -2019,15 +2019,15 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Woman Reciter.
 
-- {:.i2} We reach the moment when a volcano scuttles in the cargo hold of coral.
+- {:.i2} We are reaching the moment when a volcano scuttles in the cargo hold of coral.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} We reach the moment when, within the grottos of empire, where the flamed spear rattles, the Empress decrees the uselessness of reparations and tattoos her thighs with a shower of daturas.
+- {:.pr} We are reaching the moment when, within the grottos of empire, where the flamed spear rattles, the Empress decrees the uselessness of reparations and tattoos her thighs with a shower of daturas.
 
 - {:.sp} Toussaint *(to the crowd.)*
 
-- {:.i2} My friends, say it with me: Long live Freedom.
+- {:.i2} My friends, shout it with me: Long live Freedom.
 
 - {:.sp} The Crowd.
 
@@ -2035,7 +2035,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} They are landing ... The Whites are landing ... They come to put the yoke back on us ... They come to restore slavery here on our free Haiti.
+- {:.pr.i} They are landing ... The Whites are landing ... They come to put the yoke back on us ... They come to restore slavery here in our free Haiti.
 
 - {:.sp} The Crowd.
 
@@ -2043,7 +2043,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} For those of you who still harbor any illusions, I tell you that the Whites no longer hide their intentions. My friends, listen well: They restored slavery to Martinique, to Guadeloupe. Martinique, slavery; Guadeloupe, slavery: do you understand? So I tell you, let there be no doubt. All they bring
+- {:.pr.i} For those of you who still harbor any illusions, I tell you that the Whites no longer hide their intentions. My friends, listen well: The Whites restored slavery to Martinique, to Guadeloupe. Martinique, slavery; Guadeloupe, slavery: are you listening? So I tell you, let there be no doubt. All they bring
 - {:.pr.i} is decay, servitude without hope, for us and our children.
 
 - {:.sp} The Crowd.
@@ -2053,7 +2053,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} Toussaint.
 
 - {:.pr.i} "To arms." That's what your brothers cried in Guadeloupe when they learned what the tyrants had in store for them.
-- {:.pr.i} "To arms." And Delgrès preferred to blow himself up rather than surrender ...
+- {:.pr.i} "To arms." And the mulatto Delgrès preferred to blow himself up rather than surrender ...
 
 - {:.sp} The Crowd.
 
@@ -2065,7 +2065,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} Europe itself has taught us that a people fighting for their freedom are invincible ...
+- {:.pr.i} Europe itself has taught us that a people that fights for its freedom are invincible ...
 
 - {:.sp} The Crowd.
 
@@ -2073,7 +2073,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I will communicate my orders to you later. For now, let them find nothing but rubble and ruins when they get here: three cannon shots will give you the signal for systematic, implacable destruction. Fire and ashes. Let Saint-Domingue perish before our freedom: Freedom or death.
+- {:.pr.i} I will communicate my orders to you later. For now, let them find nothing but rubble and ruins when they get here: three cannon shots will give you the signal for systematic, implacable destruction. Fire and ashes. Let Saint-Domingue perish rather than our freedom: Freedom or death.
 
 - {:.sp} The Crowd.
 
@@ -2088,7 +2088,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.i2} To arms. 
 
-*(The crowd disperses running.)*
+*(The crowd disperses.)*
 
 - {:.sp} Voices.
 
@@ -2117,7 +2117,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 [62]({{site.baseurl}}/chiens/p062.html){:.pagetitle}
 
-- all my ideas turn to fireships
+- all my ideas transformed into fireships
 - all my thoughts to Greek fire
 - my two hymns, hatchets
 - my warm fur, spilled blood
@@ -2151,7 +2151,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.i2} Long live Freedom. Long live Toussaint.
 
-*(Troops marching ... a forest at night; fire flares in the distance ... horse riders.)*
+*(Troops marching ... a forest at night; fire glowing in the distance ... cavalry.)*
 
 - {:.sp} Toussaint.
 
@@ -2167,7 +2167,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - the tired eyes? hands chopped off like a maroon?
 - slave?
 - they will not have me.
-- riding out my hate and my hope.
+- my hate and my hope on horseback.
 - I still have ravines
 - I still have mountains ...
 - at the bottom of a pit, protected from the winds, I will keep my watch for the secret tides
@@ -2180,12 +2180,12 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} 2nd Horse Rider.
 
-- Dried herbal words
+- Dried words of herbs
 - guide us.
 
 - {:.sp} 3rd Horse Rider.
 
-- Sore snakes
+- Aching snakes
 - guide us.
 
 - {:.sp} 4th Horse Rider.
@@ -2203,32 +2203,32 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- {:.pr} When night fell on the large islands of spit, the jararacas took their post above the landscape 
+- {:.pr} Towards the dusk of large islands of spit, they grew into sumptuary signs on the cobblestone
 
 ---
 
 [64]({{site.baseurl}}/chiens/p064.html){:.pagetitle}
 
-- and became sumptuary law on the cobblestones
+- and soon, the jararacas took their post above the landscape.
 - Soon the roads were surprised by strange disasters
 - the bitten crowds sought passage
-- the bitten crowds bit the crossroads' hidden blockades instead
-- and the crowds wavered there.
-- And the crowds were trampled underfoot
+- the bitten crowds bit the crossroads' hidden blockades
+- and the crowds ran out of breath there.
+- And the crowds shuffled along
 - and the red eagles gave signals mid-flight
 - death signals.
 
-*(A desolate heath: The glow of wildfires.)*
+*(A desolate heath: The glow of fires.)*
 
 - {:.sp} Toussaint.
 
 - {:.i2} Again. Again
 - labyrinths of wine and sea
-- the indisputable storm barbecues
+- the indisputable storm smokes
 - the isthmus, the angles, the diamond, the day
-- I don't recant a thing
-- his silver dishes: My laughter
-- {:.pr} his oriflammes of shellfish: My sadness, my jungle, my curse flaring up ...
+- I don't disown anything
+- his silver crockery: My laughter
+- {:.pr} his oriflammes of water leak of seafood of shellfish: My sadness, my jungle, my curse whetted ...
 - alas.
 - Everything disappears, everything falls apart.
 - nothing matters anymore, but the skies I remember
