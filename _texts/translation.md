@@ -2231,14 +2231,14 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.pr} his oriflammes of water leak of seafood of shellfish: My sadness, my jungle, my curse whetted ...
 - alas.
 - Everything disappears, everything falls apart.
-- nothing matters anymore, but the skies I remember
-- nothing is left but to go down one staircase, step by step
-- nothing is left but one little stolen cinder rose
-- but one aroma of naked women
-- but one country of fabulous explosions
-- but one burst of pack-ice laughter
-- but one desperate pearl necklace
-- but one outdated calendar
+- nothing matters anymore other than the recollected skies
+- nothing is left but a staircase to descend one step at a time
+- nothing is left but a little stolen cinder rose
+- but an aroma of naked women
+- but a country of fabulous explosions
+- but a burst of pack-ice laughter
+- but a necklace of desperate pearls
+- but an outdated calendar
 - but the taste, the vertigo, the luxury of intoxicating sacrilege.
 
 ---
@@ -2251,36 +2251,36 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - distilling a thin path bramble by bramble
 - a wild track
 - deposit of regrets and expectations
-- ghosts caught in somber circles and crazy rocks of black blood
+- ghosts caught in somber and crazy circles of rocks of black blood
 - I am thirsty
-- oh, how thirsty
+- oh, I am so thirsty
 - in search of peace and green light
-- I dove during the season of pearls
+- I plunged all the season of pearls
 - in the sewers
 - without seeing a thing
 - burning ...
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Curses crushed on the stones throb across the road with heavy toad eyes; a loud insane noise shakes the island next to the sky, the tragic bones unfold against nature
+- {:.pr.i} Curses crushed on the stones throb across the road with heavy toad eyes; a loud insane noise shakes the island by the sky, the tragic bones unfold unnaturally
 - conchs, avalanches, heart
 - a poorly drained and unhealthy night goes around the world.
 
 - {:.sp} The Chorus.
 
 - {:.i2} I remember the islands' morning.
-- The morning-kneaded almond and glass.
-- The thrushes would laugh on the breadfruit tree.
+- The morning kneaded almond and glass.
+- The thrushes laughed on the breadfruit tree.
 
 - {:.sp} Toussaint.
 
-- {:.pr.i} I'm looking for traces of my power, as one in the bush for the lost tracks
+- {:.pr.i} I'm looking for traces of my power, as one searches in the bush for lost tracks 
 
 ---
 
 [66]({{site.baseurl}}/chiens/p066.html){:.pagetitle}
 
-- {:.pr} of a large herd, and I dig, knee-deep, in the high grass of blood. Poor gods, good-natured faces, arms too long, driven out of a rum paradise---ashen palms visited by bats and packs of sleepwalkers---the cadaverous decomposition lights its worm and herb candles.
+- {:.pr} of a large herd, and I dig, knee-deep, in the high grasses of blood. Poor gods, good-natured faces, arms too long, driven out of a rum paradise---ashen palms visited by bats and packs of sleepwalkers---the cadaverous decomposition lights its worm and herb candles.
 - Rise, rockets, illuminate the disaster ...
 - {:.pr} I bled in the secret corridors---on the grand open field of battle and,
 - I advance, spalled-fly, grand-insect, tough-horned and voracious
@@ -2291,7 +2291,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - scattered, skinned
 - in the terrains, in the thickets
 - disemboweled poem
-- migration of burnt doves dipped in hard liquor ...
+- migration of burnt doves dipped in fruit brandy ...
 
 - {:.sp} The Woman Reciter.
 
@@ -2309,9 +2309,9 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - the cayman! the torches! the flags!
 - and The Amazon erect with rubber trees
-- and the moons fall like samara in the warm humus of the sky
+- and the moons fallen like samara in the warm humus of the sky
 - oh, strangler's hand,
-- my soul swims in the heart of the maelstrom
+- my soul swims in the very heart of the maelstrom
 - where strange monograms sprout:
 - a drowned phallus, a tibia, a sternum
 
@@ -2344,7 +2344,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - yank me out clean like a root?
 - defeated,
 - Africa, America, Europe
-- I keep frenzy hiding under leaves,
+- I keep frenzy hidden under leaves,
 - enough for me;
 - I shelter hearts on the side of fury
 - the keys to disruption
@@ -2373,10 +2373,10 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - I'll unleash on you my vengeful hounds
 - and I will awaken thousands of Black people
 - my Black people, of all colors,
-- carved in fresh butter
-- carved in achiote
-- carved, oh joy, in full-on white
-- and we will not recognize them there, poets or Antichrists,
+- carved from fresh butter
+- carved from achiote
+- carved, oh joy, from full-on white
+- and we will not recognize them, poets or Antichrists,
 - famous executioners
 - the blackest night is coming
 - courage.
@@ -2388,20 +2388,20 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - {:.sp} 2nd Celestial Voice.
 
 - {:.i2} Design me new tortures
-- I see the hollyhocks of long peaceful silences explode with trouble.
+- I see the hollyhocks of long peaceful silences explode with bad weather.
 
 - {:.sp} The Chorus *(underground.)*
 
-- {:.i2} This is my hand. Here is my hand.
-- My fresh hand, my blood-sprayed hand
+- {:.i2} Here is my hand. Here is my hand.
+- My daybreak hand, my fountain-of-blood hand 
 - my hand of kelp and iodine
-- my hand of light and revenge ...
+- my hand of light and vengeance ...
 - Toussaint Louverture. Toussaint Louverture.
 
 - {:.sp} Toussaint.
 
 - Gods from below, good gods
-- I place the buzzing of living flesh
+- I carry the buzzing of living flesh
 - in my dilapidated mouth,
 - Here I am ...
 
@@ -2409,7 +2409,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 [69]({{site.baseurl}}/chiens/p069.html){:.pagetitle}
 
-*(Black folks cross the stage, "strung together by the neck, like beads, on a great iron chain, and all with manacles on their hands." Enter the black and red gods grazing under the command of the archbishop)*
+*(Black people cross the stage, "strung together by the neck, like beads, on a great iron chain, and all with manacles on their hands." Enter the black and red gods grazing under the command of the archbishop)*
 
 - {:.sp} 1st God.
 
@@ -2437,7 +2437,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Archbishop.
 
-- Come on, I like pretty furry animals: please don't kill the cats.
+- Come on, I like animals with beautiful fur: don't kill the cats.
 - Ooha. Brrooha. Oo-oo-ah.
 
 *(The gods all touch their foreheads and point to the archbishop to indicate that he has lost his mind.)*
@@ -2447,7 +2447,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - Come on, I hear the toads' pearly flute and the rough chirp of
 - night crickets. Ooha. Brrooha.
 
-*(The gods stand up. They exit slowly, each trailing behind a buckling hooked to the end of a wire.)*
+*(The gods stand up. They exit slowly, each one dragging behind a buckling hooked to the end of a wire.)*
 
 ---
 
@@ -2467,7 +2467,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter.
 
-- Cataracts, here are the cataracts and the fresh, murderous bird songs.
+- Cataracts, here are the cataracts and the clear, murderous bird songs.
 
 *(A field in the desert, as far from tropical as possible. Farmers. Enter the traveler, head covered with a veil.)*
 
