@@ -3367,8 +3367,8 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - {:.sp} Toussaint.
 
 - ... all the violence of the dead world
-- beaten with the rod, exposed to the beasts
-- dragged with little clothes on, rope on the neck
+- beaten with a cane, exposed to the beasts
+- dragged in undergarments with a rope around the neck
 - doused in oil
 - and I waited in San Benito for the auto-da-fé
 - and I drank urine, trampled, betrayed, sold
@@ -3452,7 +3452,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Toussaint.
 
-- {:.pr} Make me afraid, make me very afraid, go ahead. And you know the good ways: shake my forehead with a rope, hang me by the armpits, warm my feet with a red-hot shovel.
+- {:.pr} Make me afraid, make me very afraid, go ahead. And you know how to do it: shake my forehead with a rope, hang me by the armpits, apply heat to my feet with a red-hot shovel.
 
 - {:.sp} The Jailer Man.
 
@@ -3480,7 +3480,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Toussaint.
 
-- ... or your flowery figures, or a Latin formula.
+- ... or your intertwined monograms, or a Latin formula.
 
 - {:.sp} The Jailer Man.
 
@@ -3503,15 +3503,15 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 [96]({{site.baseurl}}/chiens/p096.html){:.pagetitle}
 
-- {:.sp} The Guard Woman.
+- {:.sp} The Jailer Woman.
 
 - Tie him up.
 
 - {:.sp} The Jailer Man.
 
-- On it, my dear. On it *(he ties Toussaint)*
+- On it, my dear. On it *(he ties up Toussaint)*
 
-- {:.sp} The Guard Woman.
+- {:.sp} The Jailer Woman.
 
 - Lousy thief.
 
@@ -3523,7 +3523,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - ... This treasure ... where did you hide it ... your booty?
 
-- {:.sp} The Guard Woman.
+- {:.sp} The Jailer Woman.
 
 - Thief! Thief! ... We have information ...
 
@@ -3535,16 +3535,16 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - Answer us, you Black bastard ... there's no time to waste.
 
-- {:.sp} The Guard Woman.
+- {:.sp} The Jailer Woman.
 
 - Hit him, hit him ... it will do his foul skin some good ...
 
 - {:.sp} Toussaint.
 
-- Who is this woman?
-- {:.pr} I have known women like you; breasts surprised with grazing, elephant children going to mass.
+- Who are you, woman?
+- {:.pr} I have known women; breasts surprised with grazing, elephant children going to mass.
 
-- {:.sp} The Guard Woman.
+- {:.sp} The Jailer Woman.
 
 - Ouch! The sexist pig! He insults me, the bastard. He insults me, you hear?
 
@@ -3570,7 +3570,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {: .pr} Strike ... strike, commander ... strike for blood ... born from the furrow, a race without moan ... strike and tire yourself.
 
-- {:.sp} The Guard Woman.
+- {:.sp} The Jailer Woman.
 
 - {: .pr} Chump! What a chump! This is a chump I tell you ... a strange race, these Negroes ... Do you think our blows hurt him ... in any case, it doesn't leave a mark.
 - ... *(she hits.)* Oh! Oh! He's bleeding!
