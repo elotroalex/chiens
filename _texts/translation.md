@@ -3542,11 +3542,11 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - {:.sp} Toussaint.
 
 - Who are you, woman?
-- {:.pr} I have known women; breasts surprised with grazing, elephant children going to mass.
+- {:.pr} I have known women; breasts caught by surprise on the pastures, young elephants going to mass.
 
 - {:.sp} The Jailer Woman.
 
-- Ouch! The sexist pig! He insults me, the bastard. He insults me, you hear?
+- Ouch! The pig! He insults me, the bastard. He insults me, you hear?
 
 - {:.sp} The Jailer Man.
 
@@ -3556,7 +3556,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Toussaint.
 
-- {: .pr.i} King Toussaint ... Repeat after me: "King Toussaint." King Toussaint defeated the English. King Toussaint overthrew the Spaniards ...
+- {: .pr.i} King Toussaint ... Repeat after me: "King Toussaint." King Toussaint brought down the English. King Toussaint overthrew the Spaniards ...
 
 ---
 
@@ -3564,11 +3564,11 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} The Jailer Man.
 
-- {: .pr.i} Would you look at that. He doesn't give a fuck. This monkey ... Of course he's pretending to be crazy ... harder ... even harder *(he hits Toussaint)*.
+- {: .pr.i} Would you look at that. He doesn't give a fuck, this monkey ... Of course he feigns madness ... harder ... even harder *(he hits Toussaint)*.
 
 - {:.sp} Toussaint.
 
-- {: .pr} Strike ... strike, commander ... strike for blood ... born from the furrow, a race without moan ... strike and tire yourself.
+- {: .pr} Strike ... strike, commander ... strike until you draw blood ... a race without groans was born from the furrow ... strike and tire yourself.
 
 - {:.sp} The Jailer Woman.
 
