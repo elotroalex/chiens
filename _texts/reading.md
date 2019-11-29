@@ -3273,7 +3273,7 @@ The following text is an interpretation of the final authorial stage of the Sain
 - {:.pr} tion, non la station, le retrait qui est le contraire du progrès, l'être  le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le contraire de l'expansion de la propension de la contagion, croc-en jambe, croc-en jambe
 - celui qui à un certain moment rend caduc caduc, caduc
 - *(il jappe)* veto, veto&nbsp;;
-- {:.pr} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications bénévolentes, de mes philantropiques exclamations pour bâiller aux cormeilles.
+- {:.pr} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications bénévolentes, de mes philantropiques exclamations pour bâiller aux corneilles.
 - Allons héraut. Ma bouche, ma bouche. Héraut. Héraut.
 - Allons héráut fais ton office.
 

@@ -3226,13 +3226,13 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - the past rips like a banana leaf.
 - Isaac, Isaac
 - {: .pr} cataclysms on that scalped head, on that brain of larva, of cogs and clocks
-- random fables,
-- ramdom scapegoats
+- fables at random,
+- scapegoats at random
 - await
 - your eyes capsized by sweet-talk.
 - Isaac, Isaac
 - my eyelids open, poisonous, in the heartwood of coconuts ...
-- the parade of living bushes have a strong pull;
+- pulling strongly the parade of living bushes;
 - Oh, plant children stumbling on the uneven cobblestones of disquiet
 - Freedom, freedom,
 - I dare to bear alone the light of your wounded head.
@@ -3241,15 +3241,15 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 [89]({{site.baseurl}}/chiens/p089.html){:.pagetitle}
 
-*(At this moment, a vision: in a tropical field, the innenarrable silhouette of The Great Prohibitor trembles and convulses. The Herald, "his mouth," is lying under a tree. He is snoring.)*
+*(At this moment, a vision: in a tropical land, the innenarrable silhouette of The Great Prohibitor trembles and convulses. The Herald, "his mouth," is lying under a tree. He is snoring.)*
 
 - {:.sp} The Great Prohibitor.
 
-- {: .pr} Come on. Come on. Wake up, mouth, you rude, stupid and sleepy creature. What have I done to deserve this mouth?
+- {: .pr} Let's go. Let's go. Wake up, you rude, stupid, and sleepy creature which wretched destiny imposed on me for a mouth.
 - My mouth
 - Oh, my tardigrade mouth
 - my shame
-- {: .pr} I have a flood of words, of orders, of counter-orders awaiting impatiently in the recesses of my saliva.
+- {: .pr} I have a flood of words, of orders, of counter-orders that hurry and wait in the recesses of my saliva.
 - Come on, hurry up, hurry up. The animal snores.
 - Oh, but maybe you do not know who I am. I am veto, veto ... 
 - No, not a dog bark. No, it's veto, veto.
@@ -3257,23 +3257,23 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - I am the compressor, the suppressor, the stage manager
 - I'm The Great Prohibitor
 - let me explain
-- {:.pr} So, higher ups had ascertained that a dreadful, absurd squandering had been taking place for far too long, shocking, insane gifts, an excess of liberality, indulgences and permissions, all of which undoubtedly disturbed our fragile economy, so fragile, a threat to the bound universe
-- bound
+- {:.pr} So, higher ups had ascertained that a dreadful, absurd squandering had been taking place for far too long, shocking, insane gifts, an excess of liberality, indulgences and permissions, all of which undoubtedly disturbed our fragile economy, so fragile, a threat to the delineated universe
+- delineated
 - and it was then that I was summoned. Prohibitor, the Great Prohibitor
 - I am the Great Prohibitor, do you understand now?
-- He who reigns, reins, restraints, retains and constraints.
-- {:.pr} the negative order, defense personified, the eloquent handcuff, the jail lock, the gag on the well-hung tongue, the less which is the contrary of more, the stop which is the exact opposite of true movement, not the station,
+- He who reigns, who restraints, who retains and constraints.
+- {:.pr} the negative order, defense personified, the eloquent handcuff, the jail lock, the well-hung gag on the tongue, the least which is the contrary of the most, the stop which is the exact opposite of true movement, not the station,
 
 
 ---
 
 [90]({{site.baseurl}}/chiens/p090.html){:.pagetitle}
 
-- {:.pr} not the station, the withdrawal which is the opposite of progress, the most existing being, the one which arises in opposition, the most necessary being, the opposite of expansion, of propensity, of the contagion, trip up, trip up
+- {:.pr} not the station, the withdrawal which is the opposite of progress, the most existing being, the one which positions itself in opposition, the most necessary being, the opposite of expansion, of propensity, of the contagion, trip up, trip up
 - the one who at a certain moment makes obsolete, obsolete
 - *(yapping)* veto, veto;
-- {:.pr} Ah, I see that my servant finally decides to wake up and benefit from my gracious explanations, from my philanthropic exclamations, to ... yawn a mouthful of air.
-- Let's go herald. My mouth, my mouth. Herald. Herald.
+- {:.pr} Ah, I see that my servant, finally awake, benefits from my gracious explanations, from my philanthropic exclamations and stands there gaping.
+- Let's go, herald. My mouth, my mouth. Herald. Herald.
 - Come, time to work.
 
 - {:.sp} The Herald.
@@ -3282,7 +3282,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} The Great Prohibitor.
 
-- Fool! Well then, yell the law at the trees, at the savanna.
+- Fool! Well then, shout the law at the trees, at the savanna.
 
 - {:.sp} The Herald  *(incredulous.)*
 
@@ -3320,7 +3320,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.pr} *(After a trumpet blast)* To the wind, to the rain, to the sun, to the trees of the new world, hello. *(Trumpet blast.)*
 
-- {:.sp} The Great Prohibitor *(yelping.)*
+- {:.sp} The Great Prohibitor *(yapping.)*
 
 - {:.pr} Veto, veto, veto. 
 
@@ -3328,21 +3328,21 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} The Chorus
 
-- Alas, alas, I cry alas
+- Alas, alas, I scream alas
 - The slaver
 - the halter
 - the iron rod
-- the foul ship hold
+- the foul hold
 - sea sickness
 - tightly-wound sausages of dead and alive
-- and the rebellion, a shabby beautiful evening
+- and the rebellion, one shabby beautiful evening
 - and shackles and handcuffs
 - and rattan and drowning
 - {:.pr} alas, alas, towards the morning, the whitening of islands, of continents, of churches, of curses.
 
 - {:.sp} The Man Reciter
 
-- A gulf. My vision cannot sound it.
+- A chasm. My vision cannot sound it.
 
 
 ---
@@ -3351,14 +3351,14 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} The Woman Reciter.
 
-- {: .pr} A gulf of sobs, a hurricane of raucousness, vociferations, a forest of errors, prohibitions, rites, clumsiness, lies, exasperation, no fruits, no fruits, harpies, harpies, bushes of dried souls.
+- {: .pr} A chasm of sobs, a hurricane of raucousness, vociferations, a forest of errors, prohibitions, rites, clumsiness, lies, exasperation, no fruits, no fruits, harpies, harpies, bushes of dried souls.
 
 - {:.sp} The Man Reciter.
 
-- A desert of concrete, camphor, steel, shavings, disinfected marsh
-- {:.pr} a heavy place mined with eyes of flame and mushroom, a perversion of steel
+- A desert of concrete, of camphor, of steel, of shavings, of disinfected swamp
+- {:.pr} a burdensome place, worn down with eyes of flame and mushroom, a perversion of steel
 - {:.pr} of rape, torture, spasm, collapse, slaughter, a mad greyhound,
-- {:.pr} a low thunder, a frenzied spit on the chemical sun, a distressed ocean through the narrow gully of catechism, of a sneeze.
+- {:.pr} a low thunder, a frenetic spit on the chemical sun, an ocean in the distresses of a narrow gully of catechism of sneezing.
 
 - {:.sp} The Woman Reciter.
 
@@ -3368,13 +3368,13 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - ... all the violence of the dead world
 - beaten with the rod, exposed to the beasts
-- dragged in a straight jacket, rope to the neck
-- sprinkled with oil
+- dragged with little clothes on, rope on the neck
+- doused in oil
 - and I waited in San Benito for the auto-da-fé
 - and I drank urine, trampled, betrayed, sold
 - and I ate feces
 - and I gained the strength to speak
-- higher than the rivers
+- louder than the rivers
 - stronger than the disasters.
 
 *(At that moment, a vision of the setting sun, bleeding.)*
@@ -3395,12 +3395,12 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 [93]({{site.baseurl}}/chiens/p093.html){:.pagetitle}
 
 - Help! Help! Murder!
-- They killed the sun! the sun is gone! only the bulls of Bashan remain, torches hanging from their furious tails ... The bulls trample the unfurnished savanna
-- the riders remain too.
+- They killed the sun! the sun is gone! nothing remains but the bulls of Bashan, torches hanging from their furious tails ... The bulls trample the unfurnished savanna.
+- There's also the riders.
 - They hung the sun like a shield on the gates of heaven
 - assassins! murderers!
 - but they get farther away, and I cannot follow them
-- they pursue the poor man! they give him the hunt with loud cries
+- they pursue the poor man! they give hunt him down with loud cries
 - dogs barking
 - their horses are fast
 - they surround the poor man with long fatal circles
@@ -3418,7 +3418,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - Ouch! they whistle, the others whistle
 - they sic the dogs
 - get'im! get'im! they utter their terrible cries
-- full on bite of mastiff of mastiff of mastiff
+- full bite of mastiff of mastiff of mastiff
 - torches lit under the forest vaults. It's over, everything is over.
 - {:.i2} No point in filing a claim; their justice has been served.
 - Look, they tore him to pieces. To pieces, like a wild pig.
@@ -3436,7 +3436,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - them dogs
 - them men with the bloody smiles, with steely eyes.
 - {:.pr} And you know, their justice may have been served, yes, done and over with, but the glint in their eyes never dies.
-- Assassins! Murderers! Murderers!
+- Assassins! Assassins! Assassins!
 
 - {:.sp} The Jailer Man.
 
@@ -3444,7 +3444,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Toussaint.
 
-- {: .pr} Come on! Good people ... I know I annoy you ... and you would prefer it if I just shut up ... Go on, make me afraid, make me very afraid, I am very cowardly you know: I have trembled with all the fears since the first fear ...
+- {: .pr} Come on! Good people ... it's true that I'm bothering you ... and you would prefer it if I just shut up ... Go on, make me afraid, make me very afraid, I am very cowardly you know: I have trembled with all the fears since the first fear ...
 
 - {:.sp} The Jailer Man.
 
