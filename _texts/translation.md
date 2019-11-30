@@ -3585,19 +3585,19 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} The Jailer Man.
 
-- {: .pr} Ah! he is seriously going off the rails ... I could die laughing ... Say, it's weird, the red blood on the black skin. *(They loosen Toussaint.)*
+- {: .pr} Ah! he is seriously going off the rails ... I could die laughing ... Hey, that's funny, the red blood on the black skin. *(They loosen Toussaint.)*
 
 - {:.sp} Toussaint *(jumping up.)*
 
-- cut hands ... brain leak ... soft carrion ... Isaac,
-- Isaac ... why stay in the rain with the poisonous scorpions?
-- {: .pr} the anteaters lost in time lapping aquamarine ants on city pavements. The opossums seek a red tree, a silver tree between the joints of the equinox ... a will convulses in the mastic, muddied by fatalities and the hide-and-seek of glow worms. Isaac! Isaac! 
+- cut hands ... squirting brain ... soft carrion ... Isaac,
+- Isaac ... why stay under the rain of poisonous scorpions?
+- {: .pr} the anteaters lost in time lapping aquamarine ants on city pavements. The opossums seek a red tree, a silver tree between the joints of the equinox ... a drive convulses in the mastic, muddied by fatalities and the hide-and-seek of glow worms. Isaac! Isaac! 
 
 *(He collapses moaning.)*
 
 - {:.sp} The Woman Reciter.
 
-- {: .pr} What a night! the snow! As if the night and the snow were caught in mortal combat: large shadow masses bring down the panel of the sky, and the cavalry of flakes rushes down in the whipped flight of its one hundred thousand burnous.
+- {: .pr} What a night! the snow! As if the night and the snow were caught in mortal combat: large masses of shadow collapse along with the whole panel of the sky, and the cavalry of flakes rushes down in the whipped flight of its one hundred thousand burnous.
 
 ---
 
@@ -3605,13 +3605,13 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} The Man Reciter.
 
-- {: .pr} The snow! it's snowing! first night of snow! the first snow digs the night with its precious fingers, digs death with its vengeful fingers, digs the bowl of nights with its holy milk.
+- {: .pr} The snow! it's snowing! first night of snow! the first snow hollows out the night with its precious fingers, hollows out death with its vengeful fingers, hollows out the bowl of nights with its holy milk.
 
 - {:.sp} The Chorus.
 
 - {: .pr} Amen! the snow bites; the snow sinks its burning fangs on a solemn night.
 
-*(At this moment a vision of an endless white road: a lantern flickers; a form slowly appears. It is The Holy Virgin. She walks forward, stops and looks at Toussaint, who she contemplates at length.)*
+*(At this moment a vision of an endless white road: a lantern flickers; a form slowly appears. It is The Holy Virgin. She walks forward, stops and studies Toussaint, contemplating him at length.)*
 
 - {:.sp} Toussaint.
 
