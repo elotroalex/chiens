@@ -3686,24 +3686,28 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - my friend the kite,
 - my friend the fire
 - every drop of blood explodes in the tubing of my veins
-- and my brother the volcano with the gun gut
+- and my brother the volcano with the pistol belly
 - and my brother the precipice without a balisier ramp
 - and my mother madness with herbs of smoke and heresy
-- by the feet of the Crusade, and the stick
-- on the wintering hands, and the never
-- and the jujube, and the disturbance, and the sun pierced with a bayonet.
+- by the feet of Crusade and of stick
+- by the hands of overwintering and of never
+- and of jujube and of disturbance and of bayonetted sun.
 
-*(Toussaint begins to walk, to crawl, to run in imaginary bushes, naked warriors jump around, a djembe beats in the distance.)*
+*(Toussaint begins to walk, to crawl, to run inside imaginary bushes, naked warriors leap, a djembe beats in the distance.)*
 
 - {:.sp} The Woman Reciter.
 
 - {: .pr.i} Oh, the dance of the nameless stars ... the savannas come alive ... the rains smoke ... unknown trees fall reduced by lightning.
 
+- {:.sp} The Man Reciter.
+
+- {: .pr.i} What is she saying? What is she saying?
+
 *(At this moment Toussaint straightens up.)*
 
 - {:.sp} Toussaint.
 
- - {: .pr.i} The caterpillars seek refuge in the cotton caps ... The Earth's firepit is doused ... it's fine ... But the sky chews betel ... Ha ha! The sky sucks daggers ... King of Malaysia and fevers full of insects, chew your kris and your betel ... Isaac, Isaac, a bullet rusts on your White smile ... Ouch! I walk on starfish thorns. I walk ... I assume ... I embrace ...
+ - {: .pr.i} The caterpillars seek refuge in the cotton caps ... The Earth's firepit is extinguished ... it's fine ... But the sky chews betel ... Ha ha! The sky sucks daggers ... King of Malaysia and fevers full of insects, chew your kris and your betel ... Isaac, Isaac, a bullet rusts on your White smile ... Ouch! I walk on barbed stars. I walk ... I assume ... I embrace ...
 
 *(Toussaint collapses, arms outstretched, chest against the ground.)*
 
@@ -3717,7 +3721,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} The Woman Reciter.
 
-- {:.i2} Dead on a brush of glorybower.
+- {:.i2} Dead on a brush of perfumed glorybower.
 
 - {:.sp} The Man Reciter.
 
@@ -3737,16 +3741,16 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} The Man Reciter.
 
-- {:.pr.i} Saint-Domingue, the secrets locked under a throat turn up in the blood steeple. Possessed women lay their soapy hands in the four corners of the red-heart marsh; the new thirsts flow out, broken moons right on the water loaf, a stone on the forehead.
+- {:.pr.i} Saint-Domingue, the secrets locked under a throat twist rise in the blood steeple. Possessed women lay their soapy hands in the four corners of the red-heart marsh; the new thirsts flow out, broken moons right on the water loaf, a stone on the forehead.
 
 - {:.sp} The Woman Reciter.
 
-- {:.pr.i} Kohol without languor, the jaded, empty-doored atmosphere miraculously holds a sneer of precious achiote. A compass dies of convulsion in the moorlands, a bowl of milk at the end of the world.
+- {:.pr.i} Kohol without languor, the jaded, empty-doored atmosphere miraculously holds a sneer of precious annato. A compass dies of convulsion in the moorlands, a bowl of milk at the end of the world.
 
 - {:.sp} The Man Reciter.
 
-- {:.i2} Killers stream down the forests, gushing with spring laughter
-- unmarked rivers weaving the fleshy adventure of virulent travels
+- {:.i2} Killers stream down the forests, gushing with fountain laughter
+- unmarked rivers plotting the fleshy adventure of virulent travels
 - nomadic blood flirting with death and genesis
 - refuse from the bottom of pierced stones, and from the night of ages
 - the deadly laughter of cavernous mummies
@@ -3755,7 +3759,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - Saint-Domingue! Saint-Domingue!
 
-*(The scene has changed abruptly. We are in Saint-Domingue, the walls of Le Cap are besieged by the Black army of Dessalines ... cannon shots ... fumes ... pieces of collapsed wall ... a Black General on horseback is surrounded by a large number of officers ... armed troops ready to move.)*
+*(The scene has changed abruptly. We are in Saint-Domingue in front of the walls of Le Cap besieged by the Black army of Dessalines ... cannon shots ... smoke ... pieces of collapsed wall ... a Black General on horseback is surrounded by a large number of officers ... armed troops ready to move.)*
 
 ---
 
@@ -3765,13 +3769,13 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} The Negrophobe.
 
-- {: .pr} Bastards! Death to the thieves! (Animals with no souls to save. Only way to get anything resembling a conscience out of them is to whip them good from time to time.) Robbers! Thieves! Arms in hand, I claim my property, my herd, my legitimate possession, my slaves!
+- {: .pr} Bastards! Death to the thieves! (Animals with no souls to save, and to whom the whip lends from time to time the semblance of conscience.) Thieves! Thieves! Arms in hand, I claim my property, my herd, my legitimate possession, my slaves!
 
 *(Noise of musketry; the Negroes fire; The Negrophobe falls, and is immediately replaced by "The Negrophile.")*
 
 - {:.sp} The Negrophile *(gesturing to the void.)*
 
-- {: .pr} Ha! my friends, my dear friends! And the gospel said that he who hates his brother will live in darkness. Oh, my friends who live in the dark, in the darkness of your skin, in the darkness of your hearts, I want to bring down milk, a ray of light ... of love. And I will not stop calling you "my friends," my friends, my brothers.
+- {: .pr} Ha! my friends, my dear friends! And the gospel said that he who hates his brother will live in darkness. Oh, my friends who live in the darkness, in the darkness of your skin, in the darkness of your hearts, I want to bring down milk, a ray of light ... of love. And I will not stop calling you "my friends," my friends, my brothers.
 
 - {:.sp} The Echo.
 
@@ -3785,7 +3789,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - Don't forget, don't forget.
 
-- {:.sp} The Negrophile *(swinging his sword on the water.)*
+- {:.sp} The Negrophile *(striking with his sword in the water.)*
 
 - Peace, peace, love, love.
 
