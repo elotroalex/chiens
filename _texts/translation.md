@@ -3656,12 +3656,12 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {: .pr.i} Ah! you needed a naked son, a son betrayed and sold, a son covered in spit ... and you chose me ... Thanks! So you needed man's sweat, man's blood, man's moans ... man's despair and you asked us! Thanks ...
 - {: .pr.i} And when we were tired, broken, exhausted, crushed, our only julep and balm the sneer of the whip, the barking whip and the wild bite, and acid dripping on our flesh, brutalized with humiliation. Thanks, mom. 
-- {: .pr.i} And they needed---didn't they?---those who sent you, they needed more than my defeat, more than my breasts breaking, more than my blood decomposing, they needed my acceptance ... they needed my yes, and then they sent you ... go away, stepmother ... I despise you, go away ... leave empty handed ... or rather, take this bag of words ... the words of Toussaint, the last perhaps, the last ... no doubt, and bring them to your filthy brood.
+- {: .pr.i} And they needed---didn't they?---those who sent you, they needed more than my defeat, more than my chest breaking, more than my blood decomposing, they needed my acceptance ... they needed my yes, and then they sent you ... go away, cruel mother ... I despise you, go away ... leave empty handed ... or rather, take this bag of words ... the words of Toussaint, the last perhaps, the last ... no doubt, and bring them to your filthy brood.
 - {: .i2} Oh, white men, my brothers
 - our twisted specters will come to haunt your banquets
-- {: .pr} dressed in rags, obscene, in the midst of your celebration, our scandalous faces,
+- {: .pr} null and obscene, we will place our scandalous faces in the midst of your celebration.
 - our shouts will disturb your victories
-- {: .pr} and in the nights of defeat, you will see us standing at your crossroads, Black, terrible, silent ... and you will be ashamed ... and you will be afraid ... 
+- {: .pr} and in the nights of defeat, you will see us standing at your crossroads, Black, terrible, silent ... and you will be ashamed ... and you will be afraid ...
 
 *(The vision gradually disappears.)*
 
@@ -3669,17 +3669,17 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {: .pr} ... A rumor of chains of shackles rises from the sea ... a gurgling of those drowned on the green belly of the sea ... a lash of fire, a crack of the whip, the cries of the murdered ...
 - ... the sea burns
-- or the tow in my blood burns ...
-- {: .pr} Oh, the cry ... always that fanning howl from the mountains ... and the rut of fire and drums, and the wind swells in vain with the soft smells of a musty ravine, of breadfruit trees
+- or it's the tow in my blood that burns ...
+- {: .pr} Oh, the scream ... always that fanning howl from the mountains ... and the rut of fire and drums, and the wind swells in vain with the tender smells of a musty ravine, of breadfruit trees
 
 ---
 
 [100]({{site.baseurl}}/chiens/p100.html){:.pagetitle}
 
-- of sugar mills, bagasse pestered by gnats ...
-- Mother Earth, I understood your cloak and sword language
-- my brothers the brown, the teeth's bite
-- my brothers, feet beyond the starting gate and in the torrent
+- of sugar mills, of bagasse pestered by gnats ...
+- Mother Earth, I understood your cloak and dagger language
+- my brothers the maroons champing at the bit
+- my brothers the feet beyond the fence and in the torrent
 - my sister the shooting star, my brother the crushed glass
 - my brother the blood kiss of the head cut on the silver platter
 - and my sister the epizootic and my sister epilepsy
