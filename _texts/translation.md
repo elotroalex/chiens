@@ -42,28 +42,28 @@ Please note that the following text contains violence in many guises, including 
 
 *(The scene takes place in Saint-Domingue at the time of the French Revolution.)*
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - I say this country is an ulcer.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - I say this land burns.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - I warn you: woe to those who come in contact with its resin.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - I say this country devours, monstrously.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - This country is cursed.
 - {:.pr} This country yawns: a mouth of empty cries, having coughed up Cuba the hookworm. 
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr} This country bites: gaping mouth of a flaming throat, flaming fangs converging on America's evil rump.
 
@@ -93,7 +93,7 @@ Please note that the following text contains violence in many guises, including 
 
 [3]({{site.baseurl}}/chiens/p003.html){:.pagetitle}
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} Toussaint is standing by the river's rumble... from the golden shore, a hundred warriors throw a hundred spears at him... Toussaint's chest is moonlit with scars...  
 
@@ -101,7 +101,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} Saint-Marc yields... proud... its walls crumble... our horses sniff the blend of gunpowder and drum in the air. 
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} Toussaint, Toussaint, the day of trials has arrived... He comes... the King's messenger comes... he glides... his mouth full of promises... the serpent hisses... hisses... He holds Toussaint on the tip of his tongue...
 
@@ -132,7 +132,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} Who goes there, piercing me with silver and gold, besieging me with dangers and strange caresses?
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} I've consulted the sacred dice. I say that a royal being slumbers on a narrow bed inside of you.
 
@@ -228,11 +228,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} I don't want to be the grain of perfume wherein the innumerable sacrifices of disarmed roses is summed up and celebrated.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.i2} You will die.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.i2} Alas. You will die.
 
@@ -259,7 +259,7 @@ Please note that the following text contains violence in many guises, including 
 - I am naked on the stones.
 - I want to die.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.i2} Patience, I'm looking.
 - {:.pr} My polar head swallows the glimmer of corpses, the broken helmets, the inconsolable debris, suns fat with the carnal scent of venison.
@@ -269,7 +269,7 @@ Please note that the following text contains violence in many guises, including 
 - {:.pr.i} I am not a squid. I won't spit night and ink on the night's face.
 - Can you see already? ...
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} A terrible, beautiful girl breaks her shell of disasters. Coyote shooters wake up in a merry hut of absinthe.
 
@@ -281,7 +281,7 @@ Please note that the following text contains violence in many guises, including 
 
 [9]({{site.baseurl}}/chiens/p009.html){:.pagetitle}
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.i2} Nothing remains but a lost man,
 - {:.pr} tragic like a palm stump in the stale uprising and the fields of gunpowder. His dusty eyes dart over a steppe with no shade or water---and he chews shade and water---a prayer he won't sell.
@@ -290,7 +290,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} Thank you, my sister ... a prayer that he won't sell ... my cobra prayer ... my eel prayer in the forests of the sea ... my cactus milk prayer in the thickets of heaven.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.i2} ... I looked, and the bridges are severed ...
 - The stars have unleashed their sandy scars.
@@ -337,7 +337,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} My eye gleams with sovereign visions ... Toussaint makes his solemn entry into Santo Domingo ... The Cabildo hands him the keys to the city.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - It's raining ...
 
@@ -345,7 +345,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} Toussaint's word is law ... He orders and legislates.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} There are no roses: only peppers fasten their red tears. 
 
@@ -353,11 +353,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} Toussaint is king ... He may not have the title, but he is surely king ... a true Lamido ... here is his Guard ... the silver helmets ignite at dusk.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - The king is cold ... The king shivers ... The king coughs.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} Alas. Alas. Spiderlike Europe stirs its legs and the phalanges of ships ... Alas. Alas.
 
@@ -369,7 +369,7 @@ Please note that the following text contains violence in many guises, including 
 
 [12]({{site.baseurl}}/chiens/p012.html){:.pagetitle}
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} My memories bellow the kidnapping ... the shackle ... the trail in the forest ... the barracoon ... the slave ship ...
 
@@ -377,11 +377,11 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} Alas. Alas.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} I was awakened from my grand dream of violet seas and chocolate earth, and I saw a small man arrive near the clove trees. He turned the sky black, his face was a peat bog cut with dragonflies.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} You've heard ... You've heard ... Toussaint is coming. Toussaint puts his feet on the ground ... Toussaint climbs the staircase. Toussaint takes the first step. He makes the second. Toussaint is on the stoop. Step by step, Toussaint sets foot on the ditch camouflaged by slippery smiles ...
 
@@ -733,7 +733,7 @@ Please note that the following text contains violence in many guises, including 
 
 *(The scene progressively and slowly fades away.)*
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} The ash ... the dream ... black water ... famished, famished ... two burning hands on the plate of the sun ...
 
@@ -747,7 +747,7 @@ Please note that the following text contains violence in many guises, including 
 
 *(In Saint-Domingue, young white girls play in front of a luxurious colonial mansion, 18th century style. Enter The Chorus and The Reciters.)* 
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} Go back inside girls. This is no time to play; the orbits of death push their radiant eyes through the pale mica.  
 
@@ -755,7 +755,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} Is that a riddle?
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.i2} The season of burning stars that begin.
 
@@ -779,7 +779,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} Children ... come inside ... come inside ... I'm afraid.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} Young girls, respect the pilgrims who squander their daily bread on the rich ruts of twilight.
 
@@ -795,7 +795,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} Goodbye, Saint-Domingue.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.i2} Goodbye, Saint-Domingue.
 
@@ -819,7 +819,7 @@ Please note that the following text contains violence in many guises, including 
 
 *(Assembly. The sound of djembe.)*
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr} The hostile collapse of the tower, the mountain, the lighthouse stops to hesitate on the edge of the click.
 - A necklace of favorable pearls no longer numbs the anxiety
@@ -828,7 +828,7 @@ Please note that the following text contains violence in many guises, including 
 - Half-swallowed hieroglyphic gestures signal
 - the fallows and the sowing of corpses.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - The beautiful, blind eyes of the very earth sing
 - the truancy, the furrowed eyebrows of laborious tasks
@@ -900,11 +900,11 @@ Please note that the following text contains violence in many guises, including 
 
 *(The crowd clenches like a jaw.)*
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.i2} Here begins the baptism of blood.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} Here begins the meal of vengeance. Here we bind our blood in solidarity. Here takes place the great communion of war.
 
@@ -940,19 +940,19 @@ Please note that the following text contains violence in many guises, including 
 
 [29]({{site.baseurl}}/chiens/p029.html){:.pagetitle}
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} A sharp whistle ... The Blacks come out of the bushes with a great clamor. The cutlasses fall and rise, and fall again in the windmill of exasperation.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} The cutlasses fall. What a harvest. That is not sugarcane on the ground. These are not banana trunks. The blood streams, the skulls yawn like coconuts. Here is the sun. Here is the blood. Here are the flies.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} The hill bursts with yells. Corpses roll down to the foot of breadfruit trees.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.i2} The ravine sprouts corpses.
 
@@ -968,7 +968,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.pr.i} And they sold us like beasts, and counted our teeth ... and tested our testicles, and examined the polish and finish of our skin, and felt us up and weighed us and double-checked, and hung the collar of servitude and insult on our tamed-beast necks.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} The wind has lifted. The savannas crack in a glory of wild plumes ... I hear the screams of children ... in the master's house.
 
@@ -980,15 +980,15 @@ Please note that the following text contains violence in many guises, including 
 
 [30]({{site.baseurl}}/chiens/p030.html){:.pagetitle}
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.i2} In the name of all the desires crumbled in the pool of your souls.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} In the name of all the lazy dreams in your hearts, I sing the steel movement of the matador.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} I sing the salty throw of the harpooner, and the whale blows 
 - for the last time ...
@@ -1163,7 +1163,7 @@ Please note that the following text contains violence in many guises, including 
 
 *(Silence drops dead, funereal.)*
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} It rises ... From the depths of the earth, it rises ... The Black surge rises ... howling waves ... swamps of animal odors ... the storm foaming up bare feet ... and it swarms with many more running down the mountain trails, climbing the ravine escarpments; obscene torrents and wild amplifiers of chaotic rivers, of rotten seas, of convulsive oceans with the sooty laughter of cutlasses and cheap booze ...
 
@@ -1175,11 +1175,11 @@ Please note that the following text contains violence in many guises, including 
 
 [36]({{site.baseurl}}/chiens/p036.html){:.pagetitle}
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.i2} In the beginning there was nothing ...
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.i2} Excuse me, comrade, in the beginning there was the night.
 
@@ -1187,7 +1187,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.i2} Comrade, in the beginning there was the night ...
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} The night and misery, comrade, the animal misery and consent; the night rustled with the breathing of slaves, dilating on the trail of the Christophorus, the great sea of miseries and dividends, the great sea of black blood, the great swell of sugarcane, the great ocean of horrors and desolation.
 - {:.i2} In the end, there is, in the end ...
@@ -1264,11 +1264,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.pr.i} Saint-Domingue dissolves like a victim drowned on the acid reflux of the Revolution.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.i2} Death gently weeps on the neck of the night ...
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} 3000 royal poincianas crumble in the void of the night, in the night's oblivion.
 
@@ -1291,19 +1291,19 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.i2} Heads are rolling like cocoa pods.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} The djembe gasps; the djembe erupts ... the djembe spits locusts of fire and blood.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.i2} The fire smashes the night open with its savage spikes.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} ... the fire hangs its rapacious dead leaves on the transfixed rooftops ...
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} ... The city collapses on its hocks ... In the slow vertigo of the rape ... among the tickling of a bed of smoke and of screams ...
 
@@ -1333,31 +1333,31 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.centered} ACT II
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr} What a great day, monstrously great. Unfurl, weeks, scruples of dying worlds; unfurl, big girls; foam against my scabrous wait.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr} Here I am, the merchant with empty hands, naked eye arousing the spectacle, throat stirring life on words hatched against my teeth.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr} Here I am, me, me: the woman obsessed with big words, and I swim among the gladioli and roses of Jericho towards the simple smell of corpses.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr} It is not true ... there are no more battles. No more killings, is that right? No more extravagant crimes? The barrel organ blindly purrs the minutes of silence upon silence upon silence, dustless sawdust of time. Ho. Ho. The smell of corpses ... blood sparkling like a large vat of wine.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr} Nothing left to do but bang on the window pane of the sun. Nothing left to do but break the mirror of the sun. Nothing left to do but find the red tassel of poisonous ants in the tinderbox of the sun and blast them to the winds. Ha, ha, you can't put lipstick on Fate.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr} What a great day a gerbera more naked than a woman in the sun plays towards the sun and the sun pops inside the closed brains a mined diadem the traveler's tree a braided heart fine water blown to high frost.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - Island, I love that fresh word witnessed by Caribs and sharks. I wait.
 
@@ -1494,14 +1494,14 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 [45]({{site.baseurl}}/chiens/p045.html){:.pagetitle}
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - Toulon, Brest, Lorient, Cádiz
 - a fleet!
 - fleets!
 - the armada of destiny.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Oh! the bastards rise!
 - death throes on the waters
@@ -1518,12 +1518,12 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - Salvum fac ...
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - On a branch of waves blossomed a line of white herons
 - ...
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - ... a swell of naval infantry of frigates
 - vanguard of funeral singers and gravediggers.
@@ -1592,7 +1592,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - obsolete freedoms
 - a revolted face caught in the frost and the overhang and the dotted yaws.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - ... slavery.
 
@@ -1603,11 +1603,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - the debris of rockets shout hurrah
 - the flesh flies in shavings of dark Africa.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr} There will still be eyes like sunflowers and large soybeans in love, blindfolded with birds as beautiful as the sounds of an Adam's apple in the flash of brief furies.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - Princess palm cutters,
 - snake charmers
@@ -1767,7 +1767,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - a round of adobe, my mature innocence laughs its loud laughter
 - of fresh earth ...
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - Danger!
 - I raise the alarm on the watchtower.
@@ -1779,7 +1779,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - draws
 - a noose!
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Danger!
 - I raise the alarm on the watchtower.
@@ -1857,7 +1857,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - The Whites send parliamentarians!
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - At the threshold of the night
 - for the 50th time
@@ -1865,7 +1865,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - the 14 daggers go up the shaded stairs
 - whipped by branches.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Waters supervised by griffins
 - sleep on the edge of fires
@@ -1903,7 +1903,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - I was not aware that Saint-Domingue had declared its independence.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - slash-and-burn cassava
 - camp fires
@@ -1950,7 +1950,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - War it is. Farewell.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr} We reach the moment when 9 scorpions strike each other guided by the malediction of souls.
 
@@ -2004,7 +2004,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - we are the fallen race
 - we are the race without day and without tomorrow.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Arpeggio of sinister guitars it rises beneath my eyelids 
 - a dawn bled dry
@@ -2017,11 +2017,11 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 [60]({{site.baseurl}}/chiens/p060.html){:.pagetitle}
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.i2} We are reaching the moment when a volcano scuttles in the cargo hold of coral.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr} We are reaching the moment when, within the grottos of empire, where the flamed spear rattles, the Empress decrees the uselessness of reparations and tattoos her thighs with a shower of daturas.
 
@@ -2201,7 +2201,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 *(Exit the troops).*
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr} Towards the dusk of large islands of spit, they grew into sumptuary signs on the cobblestone
 
@@ -2260,7 +2260,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - without seeing a thing
 - burning ...
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} Curses crushed on the stones throb across the road with heavy toad eyes; a loud insane noise shakes the island by the sky, the tragic bones unfold unnaturally
 - conchs, avalanches, heart
@@ -2286,22 +2286,22 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 - I advance, spalled-fly, grand-insect, tough-horned and voracious
 - {:.pr} attracted by the succulence of my own sawtooth skeleton, legacy of my body murdered violently while crossing the bars of the sun.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - scattered, skinned
 - in the terrains, in the thickets
 - disemboweled poem
 - migration of burnt doves dipped in fruit brandy ...
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Saint-Domingue bleeds.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - Haiti bleeds.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Dead end of miseries, of loneliness, of smelly grasses.
 
@@ -2453,19 +2453,19 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 [70]({{site.baseurl}}/chiens/p070.html){:.pagetitle}
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Oh, I'm waiting passionately. I'm surrounded ...
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - Surrounded by eyes, nightmares.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Surrounded by children and eyes and the rush of laughter.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - Cataracts, here are the cataracts and the clear, murderous bird songs.
 
@@ -2615,11 +2615,11 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 *(In France. A prison in the Jura Mountains.)*
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - Hello, Toussaint.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Hello, withered leaf.
 
@@ -2652,7 +2652,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - {:.pr.i} Well, I say that this is the work of a supreme justice, and it is she who now transforms Toussaint Louverture the General into old Toussaint, slave Toussaint, a piece of shit forgotten in the latrines of history, a lousy Negro, a fallen Negro ...
 - {:.pr.i} Toussaint, Toussaint, the race of Ham will never be able to shake off its curse of daily tears.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} Saint-Domingue ... Saint-Domingue with antimony eyes and the mouth of early morning kola. Saint-Domingue the cumbersome, the gilded, with the bevels of mango and blackberry woman.
 
@@ -2819,15 +2819,15 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - revolving plaques of swamps, craters, raped girls
 - in my ears there is the firing squad in the morning caponiers.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} Toussaint, a war trumpet flew through the air: it spewed dust and smoke.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.i2} The vampire bats flew around the smooth neck of the sun.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - Monkeys frolicking around the Lion with a human face.
 - Toussaint, Toussaint, the day of trials is here.
@@ -2987,11 +2987,11 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - And me, I just want to scream, scream and let the whole world hear me. *(He screams.)*
 - My son! My son!
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - The son arrives.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - The son arrives ...
 
@@ -3033,11 +3033,11 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - the world
 - {:.pr} big mad flight of crushed chicken *(he laughs frantically.)*
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - The son arrives.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - The son arrives.
 
@@ -3049,7 +3049,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - Good. Let me have a torch; my son is coming.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Look out: The son arrives.
 
@@ -3349,18 +3349,18 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 [92]({{site.baseurl}}/chiens/p092.html){:.pagetitle}
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {: .pr} A chasm of sobs, a hurricane of raucousness, vociferations, a forest of errors, prohibitions, rites, clumsiness, lies, exasperation, no fruits, no fruits, harpies, harpies, bushes of dried souls.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - A desert of concrete, of camphor, of steel, of shavings, of disinfected swamp
 - {:.pr} a burdensome place, worn down with eyes of flame and mushroom, a perversion of steel
 - {:.pr} of rape, torture, spasm, collapse, slaughter, a mad greyhound,
 - {:.pr} a low thunder, a frenetic spit on the chemical sun, an ocean in the distresses of a narrow gully of catechism of sneezing.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Torrents disgorging innumerable corpses of mastiffs, nightmares, tormented lemurs.
 
@@ -3595,7 +3595,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 *(He collapses moaning.)*
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {: .pr} What a night! the snow! As if the night and the snow were caught in mortal combat: large masses of shadow collapse along with the whole panel of the sky, and the cavalry of flakes rushes down in the whipped flight of its one hundred thousand burnous.
 
@@ -3603,7 +3603,7 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 [98]({{site.baseurl}}/chiens/p098.html){:.pagetitle}
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {: .pr} The snow! it's snowing! first night of snow! the first snow hollows out the night with its precious fingers, hollows out death with its vengeful fingers, hollows out the bowl of nights with its holy milk.
 
@@ -3695,11 +3695,11 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 *(Toussaint begins to walk, to crawl, to run inside imaginary bushes, naked warriors leap, a djembe beats in the distance.)*
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {: .pr.i} Oh, the dance of the nameless stars ... the savannas come alive ... the rains smoke ... unknown trees fall reduced by lightning.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {: .pr.i} What is she saying? What is she saying?
 
@@ -3715,23 +3715,23 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 [101]({{site.baseurl}}/chiens/p101.html){:.pagetitle}
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.i2} Dead, he is dead!
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.i2} Dead on a brush of perfumed glorybower.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.i2} Dead in full bloom of sisal.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Dead in full calabash pulp.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.i2} Dead in full flight of torches, in full impregnation of vanilla ...
 
@@ -3739,15 +3739,15 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.i2} Saint-Domingue, Saint-Domingue.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr.i} Saint-Domingue, the secrets locked under a throat twist rise in the blood steeple. Possessed women lay their soapy hands in the four corners of the red-heart marsh; the new thirsts flow out, broken moons right on the water loaf, a stone on the forehead.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - {:.pr.i} Kohol without languor, the jaded, empty-doored atmosphere miraculously holds a sneer of precious annato. A compass dies of convulsion in the moorlands, a bowl of milk at the end of the world.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.i2} Killers stream down the forests, gushing with fountain laughter
 - unmarked rivers plotting the fleshy adventure of virulent travels
@@ -3833,11 +3833,10 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - my world with round shoulders
 - with wind, sun, moon, rain, full moon
 - a world of little spoons
-- velvet
-- gold lamé
-- of hilltops and valleys
-- of petals, of cries of a startled fawn
-- Some day
+- of velvet
+- of gold lamé
+- of hilltops, of valleys, of petals of cries of startled fawn
+- One day
 - once upon a time
 - sisters, equals, will take each others' hands in the torture chambers
 - and the world will gently lean down its horned head to die
@@ -3845,8 +3844,8 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - days tidy as an orphanage going to Mass
 - days with the swing of a well-mannered assassin
 - will be robbed of milk, of herbs and hours
-- with their demeanor of wild cherry
-- with their galley curtsies by the swans' route
+- with their expressions of wild cherry
+- with their galley manners on the swans' route
 - with the airs of a familiar castle
 
 ---
@@ -3858,15 +3857,15 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - stones and nightfall?
 - ancient truce of God without god
 - ports never known---unknown suns
-- hands in the holes
-- from living hands to murder
+- hands in the crenels
+- from living hands to assassins
 - the drawbridge lowers on the irremediable
 - and the leap of magic words that calm the forest
 - insurgent, insurgent
 - spider of precious days
 - I will not swallow my saliva.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - at the red hour of sharks
 - at the red hour of stirrup leather
@@ -3876,17 +3875,16 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - at the red hour of crowds
 - shoulders of boiling water, our scarred asses began to call for revenge;
 - at the red hour of miracles
-- gorgeous nocturnal liberty, hatched from the duckboard and manure of cut legs
+- freedom queen of the night hatched from the duckboard and manure of cut-off legs
 - caterpillars roared on the bridge
 - and our legs screamed victory
 - and the broken moats answered with revenge
 - with her barbs of stars
 - with her eyes of stars, her breasts of stars
-- and she made her star-born cherries rain down on us
-- wide open floodgate
+- her cherries of stars which she rained down on us at full valve
 - and death was not surly
 - but sweet
-- in the hands of rosewood breasts and a young nubile girl
+- in the hands of rosewood breasts and of young nubile girl
 
 ---
 
@@ -3895,25 +3893,25 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - in the hands of lint and fonio fields
 - sweet
 - we were there
-- and a virginity was bleeding that night
-- helmsman of the night with suns and rainbow
-- helmsman of the sea and death
-- freedom oh my great bustle, the sticky legs of the new blood
-- your surprised and fascinated bird call
-- and sheep-goat at the bottom of the sea
-- and sapwood and trial and the triumphant litchi
-- and sacrilege
-- ramp, ramp
-- my tall daughter peopled with hair and fowl
-- and of chance and knowledge
-- and inheritances and sources
+- and a virginity bled that night
+- helmsman of the night populated with suns and with rainbow
+- helmsman of the sea and of death
+- freedom oh my great bustle the sticky legs of the new blood
+- your scream of caught bird and of bundle of sticks
+- and of mixed-race woman at the bottom of the sea
+- and of sapwood and of trial and of the triumphant litchi
+- and of sacrilege
+- climb, climb
+- my tall daughter peopled with hair and with fowl
+- and with chance and with knowledge
+- and with inheritances and with sources
 - on the tip of your love, on the tip of your delays
 - on the tip of your hymns
 - of your lamps
 - on your tip of insects and roots
-- large spawning ramp drunk with mongrels and wild boars
-- lanceolate butrops and fires
-- the rout of scrofulous cases of poultice.
+- climb grand spawn drunk with mongrels with mornings with wild boars
+- with lanceolate butrops and fires
+- to defeat the scrofulous example of the poultices.
 
 ---
 
@@ -3935,9 +3933,9 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} Black General.
 
-- Good times.
+- It's good.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.i2} What is it ? What is it? Speak ... I'm no longer there.
 
@@ -3945,9 +3943,9 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - The Great Revolution of Saint-Domingue continues ...
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
-- Who is this man? A cloud of blood crowns his wild head with a halo.
+- Who is this man? A cloud of blood crowns his wild head.
 
 - {:.sp} Half Chorus *(joyous.)*
 
@@ -3963,23 +3961,29 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 [107]({{site.baseurl}}/chiens/p107.html){:.pagetitle}
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
-- Sink, watchtower.
+- Fall down, watchtower.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
-- Sink, watchtower, lower than words.
+- Fall down, watchtower, lower than words.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - {:.pr} Parasitic plants, venomous plants, spicy plants, cannibal plants, incendiary plants, true plants, fire-creepers, blood-creepers, twist your sudden curves into fat drops.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - Light decomposed into every miserly splendor
-- cargo of gold fish, inflamed fruits
+- cargo of golden fish, inflamed fruits
 - river on my scorched lips
+
+- {:.sp} The Reciter Man.
+
+Orgy! orgy! divine water! celestial bodies of luxurious flesh, dizziness
+islands fresh rings with ears of plunging mermaids
+islands coins fallen from the purse of stars
 
 - {:.sp} The Chorus.
 
@@ -3988,11 +3992,11 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 - silent lands
 - truncated islands.
 
-- {:.sp} The Man Reciter.
+- {:.sp} The Reciter Man.
 
 - I come to you.
 
-- {:.sp} The Woman Reciter.
+- {:.sp} The Reciter Woman.
 
 - I am one with you, islands.
 
