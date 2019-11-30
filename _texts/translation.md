@@ -3981,9 +3981,9 @@ Oh, steps; hooves of horses; crawling larvae grown fat in the valley of my ears.
 
 - {:.sp} The Reciter Man.
 
-Orgy! orgy! divine water! celestial bodies of luxurious flesh, dizziness
-islands fresh rings with ears of plunging mermaids
-islands coins fallen from the purse of stars
+- Orgy! orgy! divine water! celestial bodies of luxurious flesh, dizziness
+- islands fresh rings with ears of plunging mermaids
+- islands coins fallen from the purse of stars
 
 - {:.sp} The Chorus.
 
