@@ -769,7 +769,7 @@ Please note that the following text contains violence in many guises, including 
 
 - {:.sp} 3rd Girl.
 
-- {:.i2} Boo. boo.
+- {:.i2} Boo. Boo.
 
 - {:.sp} 4th Girl.
 
@@ -1325,7 +1325,7 @@ Be brave, girls ... Be brave ... It won't be easy ... Run ... run ... hide in th
 
 - {:.sp} The Man Reciter *(crying.)*
 
-- Cold heart of death, the lagoon has unsheathed its dagger laugh.
+- Cold heart of death, the lagoon has unsheathed its dagger laughter.
 
 ---
 
