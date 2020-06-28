@@ -42,7 +42,7 @@ collections:
     output: true
   chiens: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'item' # the layout for the pages to use
+    # layout: 'item' # the layout for the pages to use
     # metadata:
     #   source: 'chiens.csv' # path to the metadata file within `_data`
     # images:

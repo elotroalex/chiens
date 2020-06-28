@@ -1000,6 +1000,8 @@ item pages (iiif + metadata)
 
 .wax-gallery-container {
   .facet-buttons {
+    display: none;
+
     .facet {
       @extend .btn-outline-secondary !optional;
       margin-right: .5em;
