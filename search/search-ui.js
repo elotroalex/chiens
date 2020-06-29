@@ -31,7 +31,7 @@ function displayResult(item, fields, url) {
       meta.push(`${excerptedString(item[fieldLabel])}`);
     }
   }
-  return `<div class="result"><a href="/chiens${link}"><p><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
+  return `<div class="result"><p><a href="/chiens${link}"><span class="title">${item.label}</span></a><br><span class="meta">${meta.join(' | ')}</span></p></div>`;
 }
 
 // <span class="title">${item.label}</span><br>

@@ -22,8 +22,8 @@
 <script type='text/javascript' src="{{ site.baseurl}}{{ '/search/search-ui.js' }}"></script>
 <script type='text/javascript'>
   var fields    = {{ fields | jsonify }};
-  var indexFile = "{{ index }}";
-  var url       = "{{ '' | absolute_url }}";
+  var indexFile = "/chiens/search/index.json";
+  var url       = "{{ '' }}";
 
   $(document).ready(function() {
     startSearchUI(fields, indexFile, url);
