@@ -120,7 +120,7 @@ The following text is a diplomatic interpretation of the final authorial stage o
 
 - {:.speaker} Le choeur.
 
-- {:.prose .prose-indent} Toussaint a pris tout seul le sentier de la guerre. Tout s’est tu.<br>Fusils et canons se sont tus. Toussaint est nu... Le bouclier de paille<br>tressée est à sa main gauche... Il s’arrête ... Il rampe ... Il s’immo<br>bilise un genou en terre ... Le torse est renversé comme une muraille...<br>La sagaie est levée...
+- {:.prose .prose-indent} Toussaint a pris tout seul le sentier de la guerre. Tout s’est tu.<br>Fusils et canons se sont tus. Toussaint est nu... Le bouclier de paille<br>tressée est à sa main gauche... Il s’arrête ... Il rampe ... Il s’immo-<br>bilise un genou en terre ... Le torse est renversé comme une muraille...<br>La sagaie est levée...
 
 
 (A ce moment un cortège magnifique envahit la scène&nbsp;: pèlerins, che<br>vaux, chiens. Senteurs de musc et benjoin.)
