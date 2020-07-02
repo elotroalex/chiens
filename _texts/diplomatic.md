@@ -3964,12 +3964,12 @@ Entrent des prètres.
 - Les cannes à sucre nous balafraient le visage de ruisseaux de lames vertes
 - Nous rampâmes coutelas au poing
 - Et subitement des clameurs déchirèrent le silence.
-- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux<br>sabots de patience. Nous courions comme des forcenés. Les coups de feu écla<br>tèrent... Nous frappions... La sueur et le sang nous faisaient une frai<span class="add  accent">̂</span>cheur.
+- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux<br>sabots de patience. Nous courions comme des forcenés. Les coups de feu écla-<br>tèrent... Nous frappions... La sueur et le sang nous faisaient une frai<span class="add  accent">̂</span>cheur.
 - {:.prose} Nous frappions parmi les cris et les cris devinrent plus stridents et une<br>grande flamme s'éleva vers l'est: c'étaient les communs qui brulaient et la<br>flamme tremblota douce sur nos joues.
 - Alors ce fut l'assaut donné à la maison du maitre.
 - On tirait des fenètres.
 - Nous forçâmes les portes.
-- {:.prose} La chambre du maitre était grande ouverte. La chambre du maitre était bril<br>lamment éclairée, et le maitre était là très calme... et les nôtres s'arrétè<br>rent... C'était le maitre...J'entrai. C'est toi, Toussaint, me dit-il, très<br>calme... C'était moi, c'était bien moi, lui disais-je, le bon Toussaint, le<br>fidèle Toussaint, son esclave Toussaint, Toussaint Toussaint Louverture et<br>soudain ses yeux furent deux ravets apeurés les jours de pluie... je frappai,<br>le sang gicla; c'est de ce <span class="delete">soul</span><span class="add blue-ink above">seul</span> baptème que je me souviens aujourd'hui.
+- {:.prose} La chambre du maitre était grande ouverte. La chambre du maitre était bril-<br>lamment éclairée, et le maitre était là très calme... et les nôtres s'arrétè-<br>rent... C'était le maitre...J'entrai. C'est toi, Toussaint, me dit-il, très<br>calme... C'était moi, c'était bien moi, lui disais-je, le bon Toussaint, le<br>fidèle Toussaint, son esclave Toussaint, Toussaint Toussaint Louverture et<br>soudain ses yeux furent deux ravets apeurés les jours de pluie... je frappai,<br>le sang gicla; c'est de ce <span class="delete">soul</span><span class="add blue-ink above">seul</span> baptème que je me souviens aujourd'hui.
 
 <hr>
 
