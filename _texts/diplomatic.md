@@ -1791,7 +1791,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 - {:.speaker} Le grand Maitre de l'Université.
 
 - {:.prose} Gloire et reconnaissance à Toussaint Louverture éducateur du peuple&nbsp;!<br>Libre à un Villaret- Joyeuse de fermer les écoles dans la Martinique<br>voisine et de déclarer cyniquement&nbsp;:
-- {:.prose .prose-indent} "L'ignorance est un lien nécessaire pour des hommes enchainés par la<br>violence ou flétris par les préjugés. Ici, dans notre libre Haïti, ago<br>nise, gràce à l'impétueux génie de Toussaint Louverture, le système impie<br>qui voulait que l'ignorance fût une politique, une police, un dogme.
+- {:.prose .prose-indent} "L'ignorance est un lien nécessaire pour des hommes enchainés par la<br>violence ou flétris par les préjugés ". Ici, dans notre libre Haïti, ago<br>nise, gràce à l'impétueux génie de Toussaint Louverture, le système impie<br>qui voulait que l'ignorance fût une politique, une police, un dogme.
 
 
 - {:.speaker} La foule.
